@@ -1,28 +1,21 @@
-// scraper/scrape.js
-//
-// Scrapes the One-X tierlist pages with a REAL headless browser (Playwright),
-// so any client-side "load more" button or infinite-scroll content gets
-// captured — not just the ~50 rows that show up in a plain HTML fetch.
-//
-// Run locally:  cd scraper && npm install && node scrape.js
-// Run in CI:    see ../.github/workflows/scrape.yml
-//
-// Output: ../data/leaderboard.json  ->  { ok, fetchedAt, rows: [...] }
+// scraper/scrape.js — stealth mode to bypass Cloudflare
+const { chromium } = require('playwright-extra');
+const StealthPlugin = require('playwright-extra-plugin-stealth');
+chromium.use(StealthPlugin());
 
-const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
 const CLASSES = [
   { key: 'warrior', param: 0 },
-  { key: 'mage', param: 1 },
-  { key: 'archer', param: 2 },
-  { key: 'shaman', param: 3 },
+  { key: 'mage',    param: 1 },
+  { key: 'archer',  param: 2 },
+  { key: 'shaman',  param: 3 },
 ];
 
 const BASE = 'https://onex.shturmovi.cc/tierlists/';
+const STABLE_ROUNDS_NEEDED = 3;
 const MAX_SCROLL_ATTEMPTS = 60;
-const STABLE_ROUNDS_NEEDED = 3; // stop once row count hasn't grown for this many checks in a row
 
 function stripTags(s) {
   return s.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
@@ -31,11 +24,16 @@ function stripTags(s) {
 async function scrapeClass(page, cls) {
   const url = `${BASE}?c=${cls.param}`;
   console.log(`[${cls.key}] navigating to ${url}`);
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
-  // Give the SPA a moment to hydrate and render the initial table.
-  await page.waitForSelector('table tbody tr, table tr', { timeout: 15000 }).catch(() => {});
-  await page.waitForTimeout(1000);
+  // Wait for Cloudflare challenge to clear (up to 15s)
+  await page.waitForFunction(
+    () => !document.title.includes('Just a moment'),
+    { timeout: 15000 }
+  ).catch(() => console.log(`[${cls.key}] CF check may still be up, proceeding anyway`));
+
+  await page.waitForSelector('table tbody tr, table tr', { timeout: 20000 }).catch(() => {});
+  await page.waitForTimeout(2000);
 
   if (cls.key === 'warrior') {
     const html = await page.content();
@@ -47,29 +45,20 @@ async function scrapeClass(page, cls) {
   let lastCount = 0;
 
   for (let i = 0; i < MAX_SCROLL_ATTEMPTS; i++) {
-    // Strategy 1: click any visible "load more / show more / next" style control.
     const clicked = await page.evaluate(() => {
       const candidates = Array.from(document.querySelectorAll('button, a, div[role="button"]'));
-      const match = candidates.find((el) => {
+      const match = candidates.find(el => {
         const t = (el.textContent || '').trim().toLowerCase();
         return /load more|show more|next|more results|view more/.test(t) && el.offsetParent !== null;
       });
-      if (match) {
-        match.scrollIntoView();
-        match.click();
-        return true;
-      }
+      if (match) { match.scrollIntoView(); match.click(); return true; }
       return false;
     });
 
-    // Strategy 2: scroll the window and any internally-scrollable containers,
-    // in case rows load via infinite scroll instead of a button.
     await page.evaluate(() => {
       window.scrollTo(0, document.body.scrollHeight);
-      document.querySelectorAll('div, section').forEach((el) => {
-        if (el.scrollHeight > el.clientHeight + 50) {
-          el.scrollTop = el.scrollHeight;
-        }
+      document.querySelectorAll('div, section').forEach(el => {
+        if (el.scrollHeight > el.clientHeight + 50) el.scrollTop = el.scrollHeight;
       });
     });
 
@@ -79,11 +68,8 @@ async function scrapeClass(page, cls) {
       () => document.querySelectorAll('table tbody tr, table tr').length
     );
 
-    if (count <= lastCount) {
-      stableRounds++;
-    } else {
-      stableRounds = 0;
-    }
+    if (count <= lastCount) stableRounds++;
+    else stableRounds = 0;
     lastCount = count;
 
     if (stableRounds >= STABLE_ROUNDS_NEEDED) {
@@ -92,16 +78,13 @@ async function scrapeClass(page, cls) {
     }
   }
 
-  // Final extraction of whatever is in the DOM now.
   const rawRows = await page.evaluate(() => {
     const trs = Array.from(document.querySelectorAll('table tr'));
-    return trs
-      .map((tr) => {
-        const tds = Array.from(tr.querySelectorAll('td'));
-        if (tds.length < 9) return null; // skip header/short rows
-        return tds.map((td) => td.innerHTML);
-      })
-      .filter(Boolean);
+    return trs.map(tr => {
+      const tds = Array.from(tr.querySelectorAll('td'));
+      if (tds.length < 9) return null;
+      return tds.map(td => td.innerHTML);
+    }).filter(Boolean);
   });
 
   console.log(`[${cls.key}] extracted ${rawRows.length} raw rows`);
@@ -113,31 +96,27 @@ async function scrapeClass(page, cls) {
     const nameRaw = stripTags(cells[0]);
     const name = nameRaw.replace(/^\d+\s*/, '').trim();
     if (!name) continue;
-    const num = (s) => {
+    const num = s => {
       const n = parseFloat(stripTags(s).replace(/,/g, ''));
       return Number.isNaN(n) ? null : n;
     };
     parsed.push({
-      name,
-      cls: cls.key,
-      rank,
-      dps: num(cells[1]),
-      burst: num(cells[2]),
-      ehp: num(cells[3]),
+      name, cls: cls.key, rank,
+      dps: num(cells[1]), burst: num(cells[2]), ehp: num(cells[3]),
       score: num(cells[4]),
-      tank: stripTags(cells[5]),
-      hybrid: stripTags(cells[6]),
-      dpst: stripTags(cells[7]),
-      overall: stripTags(cells[8]),
+      tank: stripTags(cells[5]), hybrid: stripTags(cells[6]),
+      dpst: stripTags(cells[7]), overall: stripTags(cells[8]),
     });
   }
-
   return parsed;
 }
 
 (async () => {
-  const browser = await chromium.launch();
-  const context = await browser.newContext({ viewport: { width: 1280, height: 2000 } });
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({
+    viewport: { width: 1280, height: 2000 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  });
   const page = await context.newPage();
 
   const allRows = [];
@@ -152,12 +131,7 @@ async function scrapeClass(page, cls) {
 
   await browser.close();
 
-  const out = {
-    ok: true,
-    fetchedAt: new Date().toISOString(),
-    rows: allRows,
-  };
-
+  const out = { ok: true, fetchedAt: new Date().toISOString(), rows: allRows };
   const outDir = path.join(__dirname, '..', 'data');
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'leaderboard.json'), JSON.stringify(out, null, 2));
