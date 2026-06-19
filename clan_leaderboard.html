@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Clan Leaderboard · hordes.io</title>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d0f14;--surface:#141820;--s2:#1a2030;--border:#1e2535;
+  --accent:#e8a020;--text:#e8ecf4;--muted:#6b7280;--danger:#e55a2b;
+  --warrior:#e55a2b;--mage:#a78bfa;--archer:#22c55e;--shaman:#06b6d4;
+  --sss-c:#f0c7ff;--sss-bg:#2d1040;--ss-c:#bfdbfe;--ss-bg:#0f2040;
+  --s-c:#bbf7d0;--s-bg:#052816;--ap-c:#fed7aa;--ap-bg:#2d1700;
+  --a-c:#fde68a;--a-bg:#2d1f00;--am-c:#fca5a5;--am-bg:#2d0a0a;
+  --bp-c:#e2e8f0;--bp-bg:#1e2535;--b-c:#cbd5e1;--b-bg:#1a2030;
+}
+body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh}
+header{padding:24px 32px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header h1{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:26px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.subtitle{color:var(--muted);font-size:12px}
+.ts{margin-left:auto;font-size:11px;color:var(--muted)}
+.tabs{display:flex;gap:2px;padding:16px 32px 0;border-bottom:1px solid var(--border)}
+.tab{padding:8px 18px;border:1px solid transparent;border-bottom:none;border-radius:6px 6px 0 0;cursor:pointer;font-size:13px;font-weight:500;color:var(--muted);background:transparent;transition:all .15s;display:flex;align-items:center;gap:7px;position:relative;bottom:-1px}
+.tab img{width:16px;height:16px;object-fit:contain;opacity:.5}
+.tab.active{background:var(--surface);border-color:var(--border);border-bottom-color:var(--surface);color:var(--text)}
+.tab.active img{opacity:1}
+.tab.warrior.active{color:var(--warrior)}.tab.mage.active{color:var(--mage)}.tab.archer.active{color:var(--archer)}.tab.shaman.active{color:var(--shaman)}.tab.all.active{color:#a78bfa}
+.content{padding:24px 32px;background:var(--surface);min-height:380px}
+.pane{display:none}.pane.active{display:block}
+table{width:100%;border-collapse:collapse;font-size:13px}
+thead tr{border-bottom:1px solid var(--border)}
+th{text-align:left;font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);padding:8px 10px}
+th.r{text-align:right}
+tbody tr{border-bottom:1px solid var(--border);transition:background .1s}
+tbody tr:last-child{border-bottom:none}
+tbody tr:hover{background:var(--s2)}
+td{padding:10px 10px;vertical-align:middle}
+td.r{text-align:right;color:var(--muted);font-size:12px}
+.rank-n{font-size:12px;color:var(--muted);font-family:'Rajdhani',sans-serif;font-weight:600}
+.pname{font-weight:600}.pname a{color:inherit;text-decoration:none}.pname a:hover{color:var(--accent)}
+.global{font-size:11px;color:var(--muted);display:block}
+.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--accent)}
+.cls-tag{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted)}
+.cls-tag img{width:15px;height:15px;object-fit:contain}
+.empty{color:var(--muted);font-style:italic;padding:24px 0;text-align:center}
+.unranked td{opacity:.55}
+.tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:32px;text-align:center}
+.t-SSS{color:var(--sss-c);background:var(--sss-bg)}.t-SS{color:var(--ss-c);background:var(--ss-bg)}
+.t-S{color:var(--s-c);background:var(--s-bg)}.t-Ap{color:var(--ap-c);background:var(--ap-bg)}
+.t-A{color:var(--a-c);background:var(--a-bg)}.t-Am{color:var(--am-c);background:var(--am-bg)}
+.t-Bp{color:var(--bp-c);background:var(--bp-bg)}.t-B{color:var(--b-c);background:var(--b-bg)}
+.t-x{color:var(--muted);background:#111}
+.note{font-size:11px;color:var(--muted);margin-top:16px;padding:10px 14px;background:var(--s2);border-radius:6px;border-left:3px solid var(--border)}
+footer{padding:16px 32px;border-top:1px solid var(--border);font-size:11px;color:var(--muted)}
+footer a{color:#3b82f6;text-decoration:none}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Clan Leaderboard</h1>
+    <div class="subtitle">hordes.io · one-x tierlist</div>
+  </div>
+  <span class="ts" id="ts"></span>
+</header>
+
+<div class="tabs">
+  <div class="tab all active" onclick="switchTab('all')">⚔ All</div>
+  <div class="tab warrior" onclick="switchTab('warrior')">
+    <img src="https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/0.webp" alt=""/> Warrior
+  </div>
+  <div class="tab mage" onclick="switchTab('mage')">
+    <img src="https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/1.webp" alt=""/> Mage
+  </div>
+  <div class="tab archer" onclick="switchTab('archer')">
+    <img src="https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/2.webp" alt=""/> Archer
+  </div>
+  <div class="tab shaman" onclick="switchTab('shaman')">
+    <img src="https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/3.webp" alt=""/> Shaman
+  </div>
+</div>
+
+<div class="content">
+  <div id="pane-all"     class="pane active"></div>
+  <div id="pane-warrior" class="pane"></div>
+  <div id="pane-mage"    class="pane"></div>
+  <div id="pane-archer"  class="pane"></div>
+  <div id="pane-shaman"  class="pane"></div>
+</div>
+
+<footer>
+  Data scraped via headless browser from <a href="https://onex.shturmovi.cc/tierlists/" target="_blank">one-x tierlist</a> every 6 hours ·
+  <button id="refreshBtn" onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent);font-size:11px;padding:3px 9px;border-radius:4px;cursor:pointer;margin-left:6px">⟳ Refresh now</button>
+  · See scraper/ in the repo for the scraping job
+</footer>
+
+<script>
+// ─── CLAN ROSTER — the players we're tracking ─────────────────────────
+// Edit this list to add/remove clan members.
+const ROSTER = ['Smorgon', 'TheSunXIX', 'Whiteflavored', 'Humblehealer', 'Txy2'];
+
+// ─── DATA URL — points at the JSON file the GitHub Action keeps fresh ─
+// After creating the repo and running the scraper Action at least once,
+// replace this with your repo's raw JSON URL, e.g.:
+// https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/data/leaderboard.json
+const DATA_URL = 'PASTE_YOUR_RAW_GITHUB_JSON_URL_HERE';
+// ────────────────────────────────────────────────────────────────────
+
+const ICONS = {
+  warrior:'https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/0.webp',
+  mage:   'https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/1.webp',
+  archer: 'https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/2.webp',
+  shaman: 'https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/3.webp',
+};
+const TC = {SSS:'t-SSS',SS:'t-SS',S:'t-S','A+':'t-Ap',A:'t-A','A-':'t-Am','B+':'t-Bp',B:'t-B'};
+const badge = t => t ? `<span class="tier ${TC[t]||'t-x'}">${t}</span>` : `<span class="tier t-x">—</span>`;
+
+let MEMBERS = ROSTER.map(name => ({ name, cls:null, rank:null, score:null }));
+let lastError = null;
+
+async function loadAll() {
+  if (!DATA_URL || DATA_URL === 'PASTE_YOUR_RAW_GITHUB_JSON_URL_HERE') {
+    lastError = 'No data URL configured yet — create the GitHub repo from these files, run the "Scrape Clan Leaderboard" Action once, then paste the raw JSON URL into DATA_URL near the top of this file\'s script.';
+    setStatus('error');
+    render();
+    return;
+  }
+  setStatus('loading');
+  lastError = null;
+  try {
+    // cache-bust so you always get the latest commit, not a stale CDN copy
+    const res = await fetch(DATA_URL + (DATA_URL.includes('?') ? '&' : '?') + 't=' + Date.now());
+    const data = await res.json();
+    if (!data.ok) throw new Error(data.note || data.error || 'Scraper has not produced data yet — run the Action.');
+
+    MEMBERS = ROSTER.map(name => {
+      const hit = data.rows.find(r => r.name.toLowerCase() === name.toLowerCase());
+      return hit ? { ...hit, name } : { name, cls:null, rank:null, score:null };
+    });
+    setStatus('done', data.fetchedAt);
+  } catch (err) {
+    lastError = err.message || String(err);
+    setStatus('error');
+  }
+  render();
+}
+
+function setStatus(state, fetchedAt) {
+  const ts = document.getElementById('ts');
+  if (state === 'loading') ts.textContent = 'Fetching latest scrape…';
+  else if (state === 'error') ts.textContent = `Fetch failed — showing last known state`;
+  else ts.textContent = 'Updated ' + (fetchedAt ? new Date(fetchedAt).toLocaleString() : new Date().toLocaleString()) + ' (auto-refreshes every 6h via GitHub Action)';
+}
+
+function makeTable(rows, showClass) {
+  if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
+  const sorted = [...rows].sort((a,b) => (b.score||0)-(a.score||0));
+  let h = `<table><thead><tr>
+    <th style="width:28px">#</th><th>Player</th>
+    ${showClass?'<th>Class</th>':''}
+    <th class="r">Score</th><th class="r">DPS</th><th class="r">eHP</th>
+    <th>Overall</th><th>Tank</th><th>Hybrid</th><th>DPS Tier</th><th class="r">Global</th>
+  </tr></thead><tbody>`;
+  let ranked = 0;
+  sorted.forEach(p => {
+    const hasData = p.score !== null && !Number.isNaN(p.score);
+    if(hasData) ranked++;
+    const cls = p.cls || 'warrior';
+    h += `<tr class="${hasData?'':'unranked'}">
+      <td class="rank-n">${hasData ? ranked : '—'}</td>
+      <td>
+        <div class="pname"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank">${p.name}</a></div>
+        <span class="global">${hasData ? `Global #${p.rank}` : 'Not found in scrape'}</span>
+      </td>
+      ${showClass ? `<td><span class="cls-tag">${p.cls?`<img src="${ICONS[cls]}" alt=""/>${cls}`:'unknown'}</span></td>` : ''}
+      <td class="r">${hasData ? `<span class="score-val">${p.score.toFixed(2)}</span>` : '—'}</td>
+      <td class="r">${(p.dps && !Number.isNaN(p.dps)) ? p.dps : '—'}</td>
+      <td class="r">${p.ehp && !Number.isNaN(p.ehp) ? p.ehp.toLocaleString() : '—'}</td>
+      <td>${badge(p.overall)}</td><td>${badge(p.tank)}</td>
+      <td>${badge(p.hybrid)}</td><td>${badge(p.dpst)}</td>
+      <td class="r" style="font-size:11px">${p.rank ? '#'+p.rank : '—'}</td>
+    </tr>`;
+  });
+  h += '</tbody></table>';
+  return h;
+}
+
+function render() {
+  const unknown = MEMBERS.filter(m => !m.cls);
+  let unknownNote = '';
+  if (lastError) {
+    unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent);font-size:11px;padding:2px 8px;border-radius:4px;cursor:pointer">Try again</button></p>`;
+  } else if (unknown.length) {
+    unknownNote = `<p class="note">⚠ ${unknown.map(m=>m.name).join(', ')} — not found in the most recent full scrape (all classes, full list). They may not have an uploaded build, or the name doesn't match exactly.</p>`;
+  }
+
+  ['warrior','mage','archer','shaman'].forEach(cls => {
+    const rows = MEMBERS.filter(m => m.cls === cls);
+    document.getElementById(`pane-${cls}`).innerHTML = makeTable(rows, false) + (cls==='warrior' ? unknownNote : '');
+  });
+  document.getElementById('pane-all').innerHTML = makeTable(MEMBERS, true) + unknownNote;
+}
+
+function switchTab(tab) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.pane').forEach(p => p.classList.remove('active'));
+  document.querySelector(`.tab.${tab}`).classList.add('active');
+  document.getElementById(`pane-${tab}`).classList.add('active');
+}
+
+render();
+loadAll();
+</script>
+</body>
+</html>
