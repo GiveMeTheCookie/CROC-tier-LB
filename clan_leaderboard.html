@@ -174,7 +174,9 @@ function toggleRow(el) {
 
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
-  const withScore = rows.filter(r => r.score !== null && !Number.isNaN(r.score)).sort((a,b)=>(a.rank-b.rank) || (b.score-a.score));
+  const TIER_ORDER = ['SSS','SS','S','A+','A','A-','B+','B'];
+  const tierRank = t => { const i = TIER_ORDER.indexOf(t); return i === -1 ? TIER_ORDER.length : i; };
+  const withScore = rows.filter(r => r.score !== null && !Number.isNaN(r.score)).sort((a,b)=>(tierRank(a.overall)-tierRank(b.overall)) || (b.score-a.score));
   const noScore = rows.filter(r => !(r.score !== null && !Number.isNaN(r.score))).sort((a,b)=>a.name.localeCompare(b.name));
   const sorted = [...withScore, ...noScore];
   const colCount = showClass ? 4 : 3;
