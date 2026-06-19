@@ -1,8 +1,5 @@
-// scraper/scrape.js — stealth mode to bypass Cloudflare
-const { chromium } = require('playwright-extra');
-const StealthPlugin = require('playwright-extra-plugin-stealth');
-chromium.use(StealthPlugin());
-
+// scraper/scrape.js — plain Playwright with stealth headers
+const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
@@ -26,14 +23,24 @@ async function scrapeClass(page, cls) {
   console.log(`[${cls.key}] navigating to ${url}`);
   await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
-  // Wait for Cloudflare challenge to clear (up to 15s)
-  await page.waitForFunction(
-    () => !document.title.includes('Just a moment'),
-    { timeout: 15000 }
-  ).catch(() => console.log(`[${cls.key}] CF check may still be up, proceeding anyway`));
+  // Wait for Cloudflare challenge to clear
+  try {
+    await page.waitForFunction(
+      () => !document.title.includes('Just a moment'),
+      { timeout: 20000 }
+    );
+  } catch {
+    console.log(`[${cls.key}] CF check timeout, proceeding anyway`);
+  }
 
   await page.waitForSelector('table tbody tr, table tr', { timeout: 20000 }).catch(() => {});
   await page.waitForTimeout(2000);
+
+  if (cls.key === 'warrior') {
+    const html = await page.content();
+    fs.writeFileSync(path.join(__dirname, '..', 'data', 'debug.html'), html);
+    console.log(`[debug] dumped rendered HTML, length ${html.length}`);
+  }
 
   let stableRounds = 0;
   let lastCount = 0;
@@ -106,11 +113,29 @@ async function scrapeClass(page, cls) {
 }
 
 (async () => {
-  const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext({
-    viewport: { width: 1280, height: 2000 },
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  const browser = await chromium.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled',
+    ]
   });
+  const context = await browser.newContext({
+    viewport: { width: 1280, height: 900 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    locale: 'en-US',
+    timezoneId: 'America/New_York',
+    extraHTTPHeaders: {
+      'Accept-Language': 'en-US,en;q=0.9',
+    },
+  });
+
+  // Hide webdriver flag
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+  });
+
   const page = await context.newPage();
 
   const allRows = [];
