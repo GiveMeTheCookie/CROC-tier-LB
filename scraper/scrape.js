@@ -21,20 +21,20 @@ function stripTags(s) {
 async function scrapeClass(page, cls) {
   const url = `${BASE}?c=${cls.param}`;
   console.log(`[${cls.key}] navigating to ${url}`);
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
 
   // Wait for Cloudflare challenge to clear
   try {
     await page.waitForFunction(
       () => !document.title.includes('Just a moment'),
-      { timeout: 20000 }
+      { timeout: 30000 }
     );
   } catch {
     console.log(`[${cls.key}] CF check timeout, proceeding anyway`);
   }
 
-  await page.waitForSelector('table tbody tr, table tr', { timeout: 20000 }).catch(() => {});
-  await page.waitForTimeout(2000);
+  await page.waitForSelector('table tbody tr, table tr', { timeout: 30000 }).catch(() => {});
+  await page.waitForTimeout(3000);
 
   if (cls.key === 'warrior') {
     const html = await page.content();
@@ -126,12 +126,9 @@ async function scrapeClass(page, cls) {
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     locale: 'en-US',
     timezoneId: 'America/New_York',
-    extraHTTPHeaders: {
-      'Accept-Language': 'en-US,en;q=0.9',
-    },
+    extraHTTPHeaders: { 'Accept-Language': 'en-US,en;q=0.9' },
   });
 
-  // Hide webdriver flag
   await context.addInitScript(() => {
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
   });
