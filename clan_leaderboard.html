@@ -51,9 +51,17 @@ table{width:100%;border-collapse:collapse;font-size:13px}
 thead tr{border-bottom:1px solid var(--border)}
 th{text-align:left;font-size:10.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);padding:14px 12px 10px}
 th.r{text-align:right}
-tbody tr{border-bottom:1px solid var(--border);transition:background .15s}
-tbody tr:last-child{border-bottom:none}
-tbody tr:hover{background:rgba(124,252,74,.05)}
+tbody tr.main-row{border-bottom:1px solid var(--border);transition:background .15s;cursor:pointer}
+tbody tr.main-row:hover{background:rgba(124,252,74,.06)}
+tbody tr.detail-row{border-bottom:1px solid var(--border);display:none;background:rgba(0,0,0,.18)}
+tbody tr.detail-row.open{display:table-row}
+tbody tr.detail-row td{padding:14px 20px 18px}
+.detail-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}
+.detail-item{display:flex;flex-direction:column;gap:4px}
+.detail-label{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.detail-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--text)}
+.chevron{display:inline-block;margin-left:6px;font-size:10px;color:var(--muted);transition:transform .15s}
+tr.main-row.expanded .chevron{transform:rotate(90deg);color:var(--accent2)}
 td{padding:13px 12px;vertical-align:middle}
 td.r{text-align:right;color:var(--muted);font-size:12px}
 .rank-badge{
@@ -71,6 +79,7 @@ td.r{text-align:right;color:var(--muted);font-size:12px}
 .cls-tag img{width:15px;height:15px;object-fit:contain}
 .empty{color:var(--muted);font-style:italic;padding:30px 0;text-align:center}
 .unranked td{opacity:.5}
+.unranked{cursor:default !important}
 .tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:32px;text-align:center}
 .t-SSS{color:var(--sss-c);background:var(--sss-bg)}.t-SS{color:var(--ss-c);background:var(--ss-bg)}
 .t-S{color:var(--s-c);background:var(--s-bg)}.t-Ap{color:var(--ap-c);background:var(--ap-bg)}
@@ -177,33 +186,46 @@ function rankBadge(n) {
   return `<span class="rank-badge ${cls}">${n}</span>`;
 }
 
+function toggleRow(el) {
+  el.classList.toggle('expanded');
+  el.nextElementSibling.classList.toggle('open');
+}
+
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
   const sorted = [...rows].sort((a,b) => (b.score||0)-(a.score||0));
+  const colCount = showClass ? 5 : 4;
   let h = `<table><thead><tr>
     <th style="width:44px">#</th><th>Player</th>
     ${showClass?'<th>Class</th>':''}
-    <th class="r">Score</th><th class="r">DPS</th><th class="r">eHP</th>
-    <th>Overall</th><th>Tank</th><th>Hybrid</th><th>DPS Tier</th><th class="r">Global</th>
+    <th>Overall</th><th class="r">Score</th>
   </tr></thead><tbody>`;
   let ranked = 0;
   sorted.forEach(p => {
     const hasData = p.score !== null && !Number.isNaN(p.score);
     if(hasData) ranked++;
     const cls = p.cls || 'warrior';
-    h += `<tr class="${hasData?'':'unranked'}">
+    h += `<tr class="main-row ${hasData?'':'unranked'}" ${hasData ? `onclick="toggleRow(this)"` : ''}>
       <td>${hasData ? rankBadge(ranked) : rankBadge('—')}</td>
       <td>
-        <div class="pname"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank">${p.name}</a></div>
+        <div class="pname">${p.name}${hasData ? '<span class="chevron">▶</span>' : ''}</div>
         <span class="global">${hasData ? `Global #${p.rank}` : 'Not found in scrape'}</span>
       </td>
       ${showClass ? `<td><span class="cls-tag">${p.cls?`<img src="${ICONS[cls]}" alt=""/>${cls}`:'unknown'}</span></td>` : ''}
+      <td>${badge(p.overall)}</td>
       <td class="r">${hasData ? `<span class="score-val">${p.score.toFixed(2)}</span>` : '—'}</td>
-      <td class="r">${(p.dps && !Number.isNaN(p.dps)) ? p.dps : '—'}</td>
-      <td class="r">${p.ehp && !Number.isNaN(p.ehp) ? p.ehp.toLocaleString() : '—'}</td>
-      <td>${badge(p.overall)}</td><td>${badge(p.tank)}</td>
-      <td>${badge(p.hybrid)}</td><td>${badge(p.dpst)}</td>
-      <td class="r" style="font-size:11px">${p.rank ? '#'+p.rank : '—'}</td>
+    </tr>
+    <tr class="detail-row">
+      <td colspan="${colCount}">
+        <div class="detail-grid">
+          <div class="detail-item"><span class="detail-label">DPS</span><span class="detail-val">${(p.dps && !Number.isNaN(p.dps)) ? p.dps : '—'}</span></div>
+          <div class="detail-item"><span class="detail-label">eHP</span><span class="detail-val">${p.ehp && !Number.isNaN(p.ehp) ? p.ehp.toLocaleString() : '—'}</span></div>
+          <div class="detail-item"><span class="detail-label">Tank</span><span class="detail-val">${badge(p.tank)}</span></div>
+          <div class="detail-item"><span class="detail-label">Hybrid</span><span class="detail-val">${badge(p.hybrid)}</span></div>
+          <div class="detail-item"><span class="detail-label">DPS Tier</span><span class="detail-val">${badge(p.dpst)}</span></div>
+          <div class="detail-item"><span class="detail-label">Build</span><span class="detail-val" style="font-size:12px"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank" style="color:var(--accent2);text-decoration:none">View build →</a></span></div>
+        </div>
+      </td>
     </tr>`;
   });
   h += '</tbody></table>';
