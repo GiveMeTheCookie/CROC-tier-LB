@@ -1,8 +1,8 @@
 name: Scrape Clan Leaderboard
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
@@ -28,7 +28,6 @@ jobs:
         run: |
           git config user.name "leaderboard-bot"
           git config user.email "actions@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/leaderboard.json data/debug.html
           git diff --staged --quiet || git commit -m "Update leaderboard data"
           git push
