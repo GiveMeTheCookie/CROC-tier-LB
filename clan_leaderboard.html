@@ -8,67 +8,92 @@
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --bg:#0d0f14;--surface:#141820;--s2:#1a2030;--border:#1e2535;
-  --accent:#e8a020;--text:#e8ecf4;--muted:#6b7280;--danger:#e55a2b;
-  --warrior:#e55a2b;--mage:#a78bfa;--archer:#22c55e;--shaman:#06b6d4;
+  --bg-top:#0a1a0d;--bg-bot:#020503;--surface:#0e1f12;--s2:#13291a;--border:#1d3a23;
+  --accent:#7CFC4A;--accent2:#9aff5c;--text:#f0fff2;--muted:#7a9582;
+  --warrior:#ff8a4a;--mage:#c89bff;--archer:#7CFC4A;--shaman:#4ad8ff;
   --sss-c:#f0c7ff;--sss-bg:#2d1040;--ss-c:#bfdbfe;--ss-bg:#0f2040;
   --s-c:#bbf7d0;--s-bg:#052816;--ap-c:#fed7aa;--ap-bg:#2d1700;
   --a-c:#fde68a;--a-bg:#2d1f00;--am-c:#fca5a5;--am-bg:#2d0a0a;
   --bp-c:#e2e8f0;--bp-bg:#1e2535;--b-c:#cbd5e1;--b-bg:#1a2030;
+  --gold:#ffd700;--silver:#d8dee8;--bronze:#cd7f32;
 }
-body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh}
-header{padding:24px 32px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-header h1{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:26px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
-.subtitle{color:var(--muted);font-size:12px}
-.ts{margin-left:auto;font-size:11px;color:var(--muted)}
-.tabs{display:flex;gap:2px;padding:16px 32px 0;border-bottom:1px solid var(--border)}
-.tab{padding:8px 18px;border:1px solid transparent;border-bottom:none;border-radius:6px 6px 0 0;cursor:pointer;font-size:13px;font-weight:500;color:var(--muted);background:transparent;transition:all .15s;display:flex;align-items:center;gap:7px;position:relative;bottom:-1px}
+body{
+  background: radial-gradient(circle at 50% -10%, #143a1c 0%, var(--bg-top) 35%, var(--bg-bot) 100%);
+  color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh;
+}
+.wrap{max-width:1100px;margin:0 auto;padding:36px 24px 60px}
+header{text-align:center;padding:10px 0 24px}
+header h1{
+  font-family:'Rajdhani',sans-serif;font-weight:700;font-size:38px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--text);
+  text-shadow:0 0 18px rgba(124,252,74,.45), 0 0 2px rgba(124,252,74,.8);
+}
+header h1::before{content:'⚔ ';color:var(--accent)}
+.subtitle{color:var(--muted);font-size:12.5px;margin-top:6px;letter-spacing:.03em}
+.ts{display:block;margin-top:10px;font-size:11px;color:var(--muted)}
+.tabs{display:flex;gap:8px;justify-content:center;padding:24px 0 0;flex-wrap:wrap}
+.tab{
+  padding:9px 20px;border:1px solid var(--border);border-radius:999px;cursor:pointer;
+  font-size:13px;font-weight:600;color:var(--muted);background:rgba(255,255,255,.02);
+  transition:all .15s;display:flex;align-items:center;gap:7px;
+}
 .tab img{width:16px;height:16px;object-fit:contain;opacity:.5}
-.tab.active{background:var(--surface);border-color:var(--border);border-bottom-color:var(--surface);color:var(--text)}
+.tab.active{background:linear-gradient(135deg,rgba(124,252,74,.18),rgba(124,252,74,.04));border-color:var(--accent);color:var(--accent2);box-shadow:0 0 14px rgba(124,252,74,.18)}
 .tab.active img{opacity:1}
-.tab.warrior.active{color:var(--warrior)}.tab.mage.active{color:var(--mage)}.tab.archer.active{color:var(--archer)}.tab.shaman.active{color:var(--shaman)}.tab.all.active{color:#a78bfa}
-.content{padding:24px 32px;background:var(--surface);min-height:380px}
+.content{
+  margin-top:22px;padding:8px 8px 24px;
+  background:linear-gradient(180deg, rgba(124,252,74,.06), transparent 40%), var(--surface);
+  border:1px solid var(--border);border-radius:18px;min-height:380px;
+  box-shadow:0 20px 60px -20px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.03);
+}
 .pane{display:none}.pane.active{display:block}
 table{width:100%;border-collapse:collapse;font-size:13px}
 thead tr{border-bottom:1px solid var(--border)}
-th{text-align:left;font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);padding:8px 10px}
+th{text-align:left;font-size:10.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);padding:14px 12px 10px}
 th.r{text-align:right}
-tbody tr{border-bottom:1px solid var(--border);transition:background .1s}
+tbody tr{border-bottom:1px solid var(--border);transition:background .15s}
 tbody tr:last-child{border-bottom:none}
-tbody tr:hover{background:var(--s2)}
-td{padding:10px 10px;vertical-align:middle}
+tbody tr:hover{background:rgba(124,252,74,.05)}
+td{padding:13px 12px;vertical-align:middle}
 td.r{text-align:right;color:var(--muted);font-size:12px}
-.rank-n{font-size:12px;color:var(--muted);font-family:'Rajdhani',sans-serif;font-weight:600}
-.pname{font-weight:600}.pname a{color:inherit;text-decoration:none}.pname a:hover{color:var(--accent)}
-.global{font-size:11px;color:var(--muted);display:block}
-.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--accent)}
+.rank-badge{
+  width:30px;height:30px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;
+  font-weight:700;font-family:'Rajdhani',sans-serif;font-size:14px;color:var(--muted);
+}
+.rank-badge.rank-1{background:linear-gradient(135deg,var(--gold),#a87900);color:#1d1400;box-shadow:0 0 14px rgba(255,215,0,.55)}
+.rank-badge.rank-2{background:linear-gradient(135deg,var(--silver),#8b95a3);color:#10131a;box-shadow:0 0 10px rgba(216,222,232,.35)}
+.rank-badge.rank-3{background:linear-gradient(135deg,var(--bronze),#7a4a1f);color:#1a0f00;box-shadow:0 0 10px rgba(205,127,50,.4)}
+.rank-badge.rank-n{background:rgba(124,252,74,.08);border:1px solid rgba(124,252,74,.3);color:var(--accent2)}
+.pname{font-weight:700;color:var(--text)}.pname a{color:inherit;text-decoration:none}.pname a:hover{color:var(--accent2)}
+.global{font-size:11px;color:var(--muted);display:block;margin-top:1px}
+.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:16px;color:var(--accent2);text-shadow:0 0 10px rgba(124,252,74,.35)}
 .cls-tag{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted)}
 .cls-tag img{width:15px;height:15px;object-fit:contain}
-.empty{color:var(--muted);font-style:italic;padding:24px 0;text-align:center}
-.unranked td{opacity:.55}
+.empty{color:var(--muted);font-style:italic;padding:30px 0;text-align:center}
+.unranked td{opacity:.5}
 .tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:32px;text-align:center}
 .t-SSS{color:var(--sss-c);background:var(--sss-bg)}.t-SS{color:var(--ss-c);background:var(--ss-bg)}
 .t-S{color:var(--s-c);background:var(--s-bg)}.t-Ap{color:var(--ap-c);background:var(--ap-bg)}
 .t-A{color:var(--a-c);background:var(--a-bg)}.t-Am{color:var(--am-c);background:var(--am-bg)}
 .t-Bp{color:var(--bp-c);background:var(--bp-bg)}.t-B{color:var(--b-c);background:var(--b-bg)}
-.t-x{color:var(--muted);background:#111}
-.note{font-size:11px;color:var(--muted);margin-top:16px;padding:10px 14px;background:var(--s2);border-radius:6px;border-left:3px solid var(--border)}
-footer{padding:16px 32px;border-top:1px solid var(--border);font-size:11px;color:var(--muted)}
-footer a{color:#3b82f6;text-decoration:none}
+.t-x{color:var(--muted);background:#0d1610}
+.note{font-size:11px;color:var(--muted);margin:16px 14px 4px;padding:10px 14px;background:var(--s2);border-radius:10px;border-left:3px solid var(--accent)}
+footer{padding:20px 10px 0;font-size:11px;color:var(--muted);text-align:center}
+footer a{color:var(--accent2);text-decoration:none}
+#refreshBtn{background:rgba(124,252,74,.08);border:1px solid var(--border);color:var(--accent2);font-size:11px;padding:4px 11px;border-radius:999px;cursor:pointer;margin-left:6px}
 </style>
 </head>
 <body>
 
+<div class="wrap">
 <header>
-  <div>
-    <h1>Clan Leaderboard</h1>
-    <div class="subtitle">hordes.io · one-x tierlist</div>
-  </div>
+  <h1>Clan Leaderboard</h1>
+  <div class="subtitle">hordes.io · one-x tierlist</div>
   <span class="ts" id="ts"></span>
 </header>
 
 <div class="tabs">
-  <div class="tab all active" onclick="switchTab('all')">⚔ All</div>
+  <div class="tab all active" onclick="switchTab('all')">All</div>
   <div class="tab warrior" onclick="switchTab('warrior')">
     <img src="https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/0.webp" alt=""/> Warrior
   </div>
@@ -93,21 +118,14 @@ footer a{color:#3b82f6;text-decoration:none}
 
 <footer>
   Data scraped via headless browser from <a href="https://onex.shturmovi.cc/tierlists/" target="_blank">one-x tierlist</a> every 6 hours ·
-  <button id="refreshBtn" onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent);font-size:11px;padding:3px 9px;border-radius:4px;cursor:pointer;margin-left:6px">⟳ Refresh now</button>
+  <button id="refreshBtn" onclick="loadAll()">⟳ Refresh now</button>
   · See scraper/ in the repo for the scraping job
 </footer>
+</div>
 
 <script>
-// ─── CLAN ROSTER — the players we're tracking ─────────────────────────
-// Edit this list to add/remove clan members.
 const ROSTER = ['Smorgon', 'TheSunXIX', 'Whiteflavored', 'Humblehealer', 'Txy2'];
-
-// ─── DATA URL — points at the JSON file the GitHub Action keeps fresh ─
-// After creating the repo and running the scraper Action at least once,
-// replace this with your repo's raw JSON URL, e.g.:
-// https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/data/leaderboard.json
-const DATA_URL = 'PASTE_YOUR_RAW_GITHUB_JSON_URL_HERE';
-// ────────────────────────────────────────────────────────────────────
+const DATA_URL = 'https://raw.githubusercontent.com/GiveMeTheCookie/CROC-tier-LB/refs/heads/main/data/leaderboard.json';
 
 const ICONS = {
   warrior:'https://cdn.jsdelivr.net/gh/2f147f0487a9fe5b/8a086bf1a8e31f1b/data/ui/classes/0.webp',
@@ -122,7 +140,7 @@ let MEMBERS = ROSTER.map(name => ({ name, cls:null, rank:null, score:null }));
 let lastError = null;
 
 async function loadAll() {
-  if (!DATA_URL || DATA_URL === 'PASTE_YOUR_RAW_GITHUB_JSON_URL_HERE') {
+  if (!DATA_URL) {
     lastError = 'No data URL configured yet — create the GitHub repo from these files, run the "Scrape Clan Leaderboard" Action once, then paste the raw JSON URL into DATA_URL near the top of this file\'s script.';
     setStatus('error');
     render();
@@ -131,7 +149,6 @@ async function loadAll() {
   setStatus('loading');
   lastError = null;
   try {
-    // cache-bust so you always get the latest commit, not a stale CDN copy
     const res = await fetch(DATA_URL + (DATA_URL.includes('?') ? '&' : '?') + 't=' + Date.now());
     const data = await res.json();
     if (!data.ok) throw new Error(data.note || data.error || 'Scraper has not produced data yet — run the Action.');
@@ -155,11 +172,16 @@ function setStatus(state, fetchedAt) {
   else ts.textContent = 'Updated ' + (fetchedAt ? new Date(fetchedAt).toLocaleString() : new Date().toLocaleString()) + ' (auto-refreshes every 6h via GitHub Action)';
 }
 
+function rankBadge(n) {
+  const cls = n === 1 ? 'rank-1' : n === 2 ? 'rank-2' : n === 3 ? 'rank-3' : 'rank-n';
+  return `<span class="rank-badge ${cls}">${n}</span>`;
+}
+
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
   const sorted = [...rows].sort((a,b) => (b.score||0)-(a.score||0));
   let h = `<table><thead><tr>
-    <th style="width:28px">#</th><th>Player</th>
+    <th style="width:44px">#</th><th>Player</th>
     ${showClass?'<th>Class</th>':''}
     <th class="r">Score</th><th class="r">DPS</th><th class="r">eHP</th>
     <th>Overall</th><th>Tank</th><th>Hybrid</th><th>DPS Tier</th><th class="r">Global</th>
@@ -170,7 +192,7 @@ function makeTable(rows, showClass) {
     if(hasData) ranked++;
     const cls = p.cls || 'warrior';
     h += `<tr class="${hasData?'':'unranked'}">
-      <td class="rank-n">${hasData ? ranked : '—'}</td>
+      <td>${hasData ? rankBadge(ranked) : rankBadge('—')}</td>
       <td>
         <div class="pname"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank">${p.name}</a></div>
         <span class="global">${hasData ? `Global #${p.rank}` : 'Not found in scrape'}</span>
@@ -192,7 +214,7 @@ function render() {
   const unknown = MEMBERS.filter(m => !m.cls);
   let unknownNote = '';
   if (lastError) {
-    unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent);font-size:11px;padding:2px 8px;border-radius:4px;cursor:pointer">Try again</button></p>`;
+    unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent2);font-size:11px;padding:2px 8px;border-radius:999px;cursor:pointer">Try again</button></p>`;
   } else if (unknown.length) {
     unknownNote = `<p class="note">⚠ ${unknown.map(m=>m.name).join(', ')} — not found in the most recent full scrape (all classes, full list). They may not have an uploaded build, or the name doesn't match exactly.</p>`;
   }
