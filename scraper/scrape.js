@@ -37,6 +37,12 @@ async function scrapeClass(page, cls) {
   await page.waitForSelector('table tbody tr, table tr', { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(1000);
 
+  if (cls.key === 'warrior') {
+    const html = await page.content();
+    fs.writeFileSync(path.join(__dirname, '..', 'data', 'debug.html'), html);
+    console.log(`[debug] dumped rendered HTML, length ${html.length}`);
+  }
+
   let stableRounds = 0;
   let lastCount = 0;
 
