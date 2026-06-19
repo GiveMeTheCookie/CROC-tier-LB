@@ -174,7 +174,7 @@ function toggleRow(el) {
 
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
-  const withScore = rows.filter(r => r.score !== null && !Number.isNaN(r.score)).sort((a,b)=>b.score-a.score);
+  const withScore = rows.filter(r => r.score !== null && !Number.isNaN(r.score)).sort((a,b)=>(a.rank-b.rank) || (b.score-a.score));
   const noScore = rows.filter(r => !(r.score !== null && !Number.isNaN(r.score))).sort((a,b)=>a.name.localeCompare(b.name));
   const sorted = [...withScore, ...noScore];
   const colCount = showClass ? 4 : 3;
