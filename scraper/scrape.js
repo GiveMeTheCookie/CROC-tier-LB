@@ -31,7 +31,7 @@ function stripTags(s) {
 async function scrapeClass(page, cls) {
   const url = `${BASE}?c=${cls.param}`;
   console.log(`[${cls.key}] navigating to ${url}`);
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
   // Give the SPA a moment to hydrate and render the initial table.
   await page.waitForSelector('table tbody tr, table tr', { timeout: 15000 }).catch(() => {});
