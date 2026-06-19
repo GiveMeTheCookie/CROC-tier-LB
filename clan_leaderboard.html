@@ -10,7 +10,6 @@
 :root{
   --bg-top:#0a1a0d;--bg-bot:#020503;--surface:#0e1f12;--s2:#13291a;--border:#1d3a23;
   --accent:#7CFC4A;--accent2:#9aff5c;--text:#f0fff2;--muted:#7a9582;
-  --warrior:#ff8a4a;--mage:#c89bff;--archer:#7CFC4A;--shaman:#4ad8ff;
   --sss-c:#f0c7ff;--sss-bg:#2d1040;--ss-c:#bfdbfe;--ss-bg:#0f2040;
   --s-c:#bbf7d0;--s-bg:#052816;--ap-c:#fed7aa;--ap-bg:#2d1700;
   --a-c:#fde68a;--a-bg:#2d1f00;--am-c:#fca5a5;--am-bg:#2d0a0a;
@@ -21,75 +20,81 @@ body{
   background: radial-gradient(circle at 50% -10%, #143a1c 0%, var(--bg-top) 35%, var(--bg-bot) 100%);
   color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh;
 }
-.wrap{max-width:1100px;margin:0 auto;padding:36px 24px 60px}
-header{text-align:center;padding:10px 0 24px}
+.wrap{max-width:660px;margin:0 auto;padding:40px 20px 50px}
+header{display:flex;align-items:baseline;justify-content:center;gap:10px;padding:0 0 20px;position:relative}
 header h1{
-  font-family:'Rajdhani',sans-serif;font-weight:700;font-size:38px;letter-spacing:.12em;
+  font-family:'Rajdhani',sans-serif;font-weight:700;font-size:30px;letter-spacing:.1em;
   text-transform:uppercase;color:var(--text);
   text-shadow:0 0 18px rgba(124,252,74,.45), 0 0 2px rgba(124,252,74,.8);
 }
 header h1::before{content:'⚔ ';color:var(--accent)}
-.subtitle{color:var(--muted);font-size:12.5px;margin-top:6px;letter-spacing:.03em}
-.ts{display:block;margin-top:10px;font-size:11px;color:var(--muted)}
-.tabs{display:flex;gap:8px;justify-content:center;padding:24px 0 0;flex-wrap:wrap}
-.tab{
-  padding:9px 20px;border:1px solid var(--border);border-radius:999px;cursor:pointer;
-  font-size:13px;font-weight:600;color:var(--muted);background:rgba(255,255,255,.02);
-  transition:all .15s;display:flex;align-items:center;gap:7px;
+#refreshBtn{
+  position:absolute;right:0;top:2px;
+  background:rgba(124,252,74,.08);border:1px solid var(--border);color:var(--accent2);
+  font-size:11px;width:28px;height:28px;border-radius:50%;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
 }
-.tab img{width:16px;height:16px;object-fit:contain;opacity:.5}
+#refreshBtn:hover{background:rgba(124,252,74,.18)}
+.tabs{display:flex;gap:6px;justify-content:center;padding:0 0 18px;flex-wrap:wrap}
+.tab{
+  padding:7px 16px;border:1px solid var(--border);border-radius:999px;cursor:pointer;
+  font-size:12.5px;font-weight:600;color:var(--muted);background:rgba(255,255,255,.02);
+  transition:all .15s;display:flex;align-items:center;gap:6px;
+}
+.tab img{width:14px;height:14px;object-fit:contain;opacity:.5}
 .tab.active{background:linear-gradient(135deg,rgba(124,252,74,.18),rgba(124,252,74,.04));border-color:var(--accent);color:var(--accent2);box-shadow:0 0 14px rgba(124,252,74,.18)}
 .tab.active img{opacity:1}
 .content{
-  margin-top:22px;padding:8px 8px 24px;
+  padding:4px;
   background:linear-gradient(180deg, rgba(124,252,74,.06), transparent 40%), var(--surface);
-  border:1px solid var(--border);border-radius:18px;min-height:380px;
+  border:1px solid var(--border);border-radius:14px;
   box-shadow:0 20px 60px -20px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.03);
+  overflow:hidden;
 }
 .pane{display:none}.pane.active{display:block}
-table{width:100%;border-collapse:collapse;font-size:13px}
+table{width:100%;border-collapse:collapse;font-size:13px;table-layout:fixed}
 thead tr{border-bottom:1px solid var(--border)}
-th{text-align:left;font-size:10.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);padding:14px 12px 10px}
+th{text-align:left;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:11px 14px 9px}
 th.r{text-align:right}
+col.col-rank{width:50px}col.col-cls{width:90px}col.col-overall{width:90px}col.col-score{width:90px}
 tbody tr.main-row{border-bottom:1px solid var(--border);transition:background .15s;cursor:pointer}
-tbody tr.main-row:hover{background:rgba(124,252,74,.06)}
-tbody tr.detail-row{border-bottom:1px solid var(--border);display:none;background:rgba(0,0,0,.18)}
+tbody tr.main-row:nth-child(4n+1){background:rgba(255,255,255,.012)}
+tbody tr.main-row:hover{background:rgba(124,252,74,.07)}
+tbody tr.detail-row{border-bottom:1px solid var(--border);display:none;background:rgba(0,0,0,.2)}
 tbody tr.detail-row.open{display:table-row}
-tbody tr.detail-row td{padding:14px 20px 18px}
-.detail-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}
-.detail-item{display:flex;flex-direction:column;gap:4px}
-.detail-label{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-.detail-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--text)}
-.chevron{display:inline-block;margin-left:6px;font-size:10px;color:var(--muted);transition:transform .15s}
+tbody tr.detail-row td{padding:12px 18px 16px}
+.detail-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px 14px}
+.detail-item{display:flex;flex-direction:column;gap:3px}
+.detail-label{font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.detail-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:14px;color:var(--text)}
+.chevron{display:inline-block;margin-left:5px;font-size:9px;color:var(--muted);transition:transform .15s}
 tr.main-row.expanded .chevron{transform:rotate(90deg);color:var(--accent2)}
-td{padding:13px 12px;vertical-align:middle}
-td.r{text-align:right;color:var(--muted);font-size:12px}
+td{padding:11px 14px;vertical-align:middle}
+td.r{text-align:right}
 .rank-badge{
-  width:30px;height:30px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;
-  font-weight:700;font-family:'Rajdhani',sans-serif;font-size:14px;color:var(--muted);
+  width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;
+  font-weight:700;font-family:'Rajdhani',sans-serif;font-size:13px;color:var(--muted);
 }
 .rank-badge.rank-1{background:linear-gradient(135deg,var(--gold),#a87900);color:#1d1400;box-shadow:0 0 14px rgba(255,215,0,.55)}
 .rank-badge.rank-2{background:linear-gradient(135deg,var(--silver),#8b95a3);color:#10131a;box-shadow:0 0 10px rgba(216,222,232,.35)}
 .rank-badge.rank-3{background:linear-gradient(135deg,var(--bronze),#7a4a1f);color:#1a0f00;box-shadow:0 0 10px rgba(205,127,50,.4)}
 .rank-badge.rank-n{background:rgba(124,252,74,.08);border:1px solid rgba(124,252,74,.3);color:var(--accent2)}
-.pname{font-weight:700;color:var(--text)}.pname a{color:inherit;text-decoration:none}.pname a:hover{color:var(--accent2)}
-.global{font-size:11px;color:var(--muted);display:block;margin-top:1px}
-.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:16px;color:var(--accent2);text-shadow:0 0 10px rgba(124,252,74,.35)}
+.pname{font-weight:700;color:var(--text);font-size:13.5px}
+.global{font-size:10.5px;color:var(--muted);display:block;margin-top:1px}
+.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--accent2);text-shadow:0 0 10px rgba(124,252,74,.35)}
 .cls-tag{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted)}
-.cls-tag img{width:15px;height:15px;object-fit:contain}
-.empty{color:var(--muted);font-style:italic;padding:30px 0;text-align:center}
+.cls-tag img{width:14px;height:14px;object-fit:contain}
+.empty{color:var(--muted);font-style:italic;padding:30px 0;text-align:center;font-size:13px}
 .unranked td{opacity:.5}
 .unranked{cursor:default !important}
-.tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:32px;text-align:center}
+.tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:11.5px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:30px;text-align:center}
 .t-SSS{color:var(--sss-c);background:var(--sss-bg)}.t-SS{color:var(--ss-c);background:var(--ss-bg)}
 .t-S{color:var(--s-c);background:var(--s-bg)}.t-Ap{color:var(--ap-c);background:var(--ap-bg)}
 .t-A{color:var(--a-c);background:var(--a-bg)}.t-Am{color:var(--am-c);background:var(--am-bg)}
 .t-Bp{color:var(--bp-c);background:var(--bp-bg)}.t-B{color:var(--b-c);background:var(--b-bg)}
 .t-x{color:var(--muted);background:#0d1610}
-.note{font-size:11px;color:var(--muted);margin:16px 14px 4px;padding:10px 14px;background:var(--s2);border-radius:10px;border-left:3px solid var(--accent)}
-footer{padding:20px 10px 0;font-size:11px;color:var(--muted);text-align:center}
-footer a{color:var(--accent2);text-decoration:none}
-#refreshBtn{background:rgba(124,252,74,.08);border:1px solid var(--border);color:var(--accent2);font-size:11px;padding:4px 11px;border-radius:999px;cursor:pointer;margin-left:6px}
+.note{font-size:11px;color:var(--muted);margin:0;padding:10px 14px;background:var(--s2);border-top:1px solid var(--border)}
+.note button{background:none;border:1px solid var(--border);color:var(--accent2);font-size:10.5px;padding:2px 8px;border-radius:999px;cursor:pointer;margin-left:4px}
 </style>
 </head>
 <body>
@@ -97,8 +102,7 @@ footer a{color:var(--accent2);text-decoration:none}
 <div class="wrap">
 <header>
   <h1>Clan Leaderboard</h1>
-  <div class="subtitle">hordes.io · one-x tierlist</div>
-  <span class="ts" id="ts"></span>
+  <button id="refreshBtn" onclick="loadAll()" title="Refresh">⟳</button>
 </header>
 
 <div class="tabs">
@@ -124,12 +128,6 @@ footer a{color:var(--accent2);text-decoration:none}
   <div id="pane-archer"  class="pane"></div>
   <div id="pane-shaman"  class="pane"></div>
 </div>
-
-<footer>
-  Data scraped via headless browser from <a href="https://onex.shturmovi.cc/tierlists/" target="_blank">one-x tierlist</a> every 6 hours ·
-  <button id="refreshBtn" onclick="loadAll()">⟳ Refresh now</button>
-  · See scraper/ in the repo for the scraping job
-</footer>
 </div>
 
 <script>
@@ -150,35 +148,24 @@ let lastError = null;
 
 async function loadAll() {
   if (!DATA_URL) {
-    lastError = 'No data URL configured yet — create the GitHub repo from these files, run the "Scrape Clan Leaderboard" Action once, then paste the raw JSON URL into DATA_URL near the top of this file\'s script.';
-    setStatus('error');
+    lastError = 'No data URL configured.';
     render();
     return;
   }
-  setStatus('loading');
   lastError = null;
   try {
     const res = await fetch(DATA_URL + (DATA_URL.includes('?') ? '&' : '?') + 't=' + Date.now());
     const data = await res.json();
-    if (!data.ok) throw new Error(data.note || data.error || 'Scraper has not produced data yet — run the Action.');
+    if (!data.ok) throw new Error(data.note || data.error || 'Scraper has not produced data yet.');
 
     MEMBERS = ROSTER.map(name => {
       const hit = data.rows.find(r => r.name.toLowerCase() === name.toLowerCase());
       return hit ? { ...hit, name } : { name, cls:null, rank:null, score:null };
     });
-    setStatus('done', data.fetchedAt);
   } catch (err) {
     lastError = err.message || String(err);
-    setStatus('error');
   }
   render();
-}
-
-function setStatus(state, fetchedAt) {
-  const ts = document.getElementById('ts');
-  if (state === 'loading') ts.textContent = 'Fetching latest scrape…';
-  else if (state === 'error') ts.textContent = `Fetch failed — showing last known state`;
-  else ts.textContent = 'Updated ' + (fetchedAt ? new Date(fetchedAt).toLocaleString() : new Date().toLocaleString()) + ' (auto-refreshes every 6h via GitHub Action)';
 }
 
 function rankBadge(n) {
@@ -194,9 +181,11 @@ function toggleRow(el) {
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
   const sorted = [...rows].sort((a,b) => (b.score||0)-(a.score||0));
-  const colCount = showClass ? 5 : 4;
-  let h = `<table><thead><tr>
-    <th style="width:44px">#</th><th>Player</th>
+  const colCount = showClass ? 4 : 3;
+  let h = `<table>
+    <colgroup><col class="col-rank">${showClass?'<col>':''}${showClass?'<col class="col-cls">':'<col>'}<col class="col-overall"><col class="col-score"></colgroup>
+    <thead><tr>
+    <th>#</th><th>Player</th>
     ${showClass?'<th>Class</th>':''}
     <th>Overall</th><th class="r">Score</th>
   </tr></thead><tbody>`;
@@ -209,7 +198,7 @@ function makeTable(rows, showClass) {
       <td>${hasData ? rankBadge(ranked) : rankBadge('—')}</td>
       <td>
         <div class="pname">${p.name}${hasData ? '<span class="chevron">▶</span>' : ''}</div>
-        <span class="global">${hasData ? `Global #${p.rank}` : 'Not found in scrape'}</span>
+        <span class="global">${hasData ? `#${p.rank}` : 'Not in scrape'}</span>
       </td>
       ${showClass ? `<td><span class="cls-tag">${p.cls?`<img src="${ICONS[cls]}" alt=""/>${cls}`:'unknown'}</span></td>` : ''}
       <td>${badge(p.overall)}</td>
@@ -223,7 +212,7 @@ function makeTable(rows, showClass) {
           <div class="detail-item"><span class="detail-label">Tank</span><span class="detail-val">${badge(p.tank)}</span></div>
           <div class="detail-item"><span class="detail-label">Hybrid</span><span class="detail-val">${badge(p.hybrid)}</span></div>
           <div class="detail-item"><span class="detail-label">DPS Tier</span><span class="detail-val">${badge(p.dpst)}</span></div>
-          <div class="detail-item"><span class="detail-label">Build</span><span class="detail-val" style="font-size:12px"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank" style="color:var(--accent2);text-decoration:none">View build →</a></span></div>
+          <div class="detail-item"><span class="detail-label">Build</span><span class="detail-val" style="font-size:11px"><a href="https://onex.shturmovi.cc/playground?b=${encodeURIComponent(p.name)}" target="_blank" style="color:var(--accent2);text-decoration:none">View →</a></span></div>
         </div>
       </td>
     </tr>`;
@@ -236,9 +225,9 @@ function render() {
   const unknown = MEMBERS.filter(m => !m.cls);
   let unknownNote = '';
   if (lastError) {
-    unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()" style="background:none;border:1px solid var(--border);color:var(--accent2);font-size:11px;padding:2px 8px;border-radius:999px;cursor:pointer">Try again</button></p>`;
+    unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()">Retry</button></p>`;
   } else if (unknown.length) {
-    unknownNote = `<p class="note">⚠ ${unknown.map(m=>m.name).join(', ')} — not found in the most recent full scrape (all classes, full list). They may not have an uploaded build, or the name doesn't match exactly.</p>`;
+    unknownNote = `<p class="note">⚠ ${unknown.map(m=>m.name).join(', ')} not found in latest scrape.</p>`;
   }
 
   ['warrior','mage','archer','shaman'].forEach(cls => {
