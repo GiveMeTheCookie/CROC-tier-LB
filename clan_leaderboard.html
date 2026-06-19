@@ -16,39 +16,36 @@
   --bp-c:#e2e8f0;--bp-bg:#1e2535;--b-c:#cbd5e1;--b-bg:#1a2030;
   --gold:#ffd700;--silver:#d8dee8;--bronze:#cd7f32;
 }
-body{
-  background: radial-gradient(circle at 50% -10%, #143a1c 0%, var(--bg-top) 35%, var(--bg-bot) 100%);
-  color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh;
+#bgVideo{position:fixed;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+body::before{
+  content:'';position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;
+  background:radial-gradient(circle at 50% -10%, rgba(10,40,15,.55) 0%, rgba(2,10,5,.75) 60%, rgba(2,5,3,.9) 100%);
 }
+body{color:var(--text);font-family:'Inter',sans-serif;font-size:14px;min-height:100vh}
 .wrap{max-width:660px;margin:0 auto;padding:40px 20px 50px}
-header{display:flex;align-items:baseline;justify-content:center;gap:10px;padding:0 0 20px;position:relative}
+header{display:flex;align-items:baseline;justify-content:center;gap:10px;padding:0 0 20px}
 header h1{
   font-family:'Rajdhani',sans-serif;font-weight:700;font-size:30px;letter-spacing:.1em;
   text-transform:uppercase;color:var(--text);
   text-shadow:0 0 18px rgba(124,252,74,.45), 0 0 2px rgba(124,252,74,.8);
 }
 header h1::before{content:'⚔ ';color:var(--accent)}
-#refreshBtn{
-  position:absolute;right:0;top:2px;
-  background:rgba(124,252,74,.08);border:1px solid var(--border);color:var(--accent2);
-  font-size:11px;width:28px;height:28px;border-radius:50%;cursor:pointer;
-  display:flex;align-items:center;justify-content:center;
-}
-#refreshBtn:hover{background:rgba(124,252,74,.18)}
 .tabs{display:flex;gap:6px;justify-content:center;padding:0 0 18px;flex-wrap:wrap}
 .tab{
   padding:7px 16px;border:1px solid var(--border);border-radius:999px;cursor:pointer;
-  font-size:12.5px;font-weight:600;color:var(--muted);background:rgba(255,255,255,.02);
+  font-size:12.5px;font-weight:600;color:var(--muted);
+  background:rgba(20,60,30,.25);backdrop-filter:blur(10px);
   transition:all .15s;display:flex;align-items:center;gap:6px;
 }
 .tab img{width:14px;height:14px;object-fit:contain;opacity:.5}
-.tab.active{background:linear-gradient(135deg,rgba(124,252,74,.18),rgba(124,252,74,.04));border-color:var(--accent);color:var(--accent2);box-shadow:0 0 14px rgba(124,252,74,.18)}
+.tab.active{background:linear-gradient(135deg,rgba(124,252,74,.30),rgba(124,252,74,.10));border-color:var(--accent);color:var(--accent2);box-shadow:0 0 14px rgba(124,252,74,.25)}
 .tab.active img{opacity:1}
 .content{
   padding:4px;
-  background:linear-gradient(180deg, rgba(124,252,74,.06), transparent 40%), var(--surface);
+  background:linear-gradient(180deg, rgba(124,252,74,.10), rgba(10,40,18,.35) 100%);
+  backdrop-filter:blur(16px);
   border:1px solid var(--border);border-radius:14px;
-  box-shadow:0 20px 60px -20px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.03);
+  box-shadow:0 20px 60px -20px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.05);
   overflow:hidden;
 }
 .pane{display:none}.pane.active{display:block}
@@ -58,9 +55,9 @@ th{text-align:left;font-size:10px;font-weight:700;letter-spacing:.08em;text-tran
 th.r{text-align:right}
 col.col-rank{width:50px}col.col-cls{width:90px}col.col-overall{width:90px}col.col-score{width:90px}
 tbody tr.main-row{border-bottom:1px solid var(--border);transition:background .15s;cursor:pointer}
-tbody tr.main-row:nth-child(4n+1){background:rgba(255,255,255,.012)}
-tbody tr.main-row:hover{background:rgba(124,252,74,.07)}
-tbody tr.detail-row{border-bottom:1px solid var(--border);display:none;background:rgba(0,0,0,.2)}
+tbody tr.main-row:nth-child(4n+1){background:rgba(255,255,255,.02)}
+tbody tr.main-row:hover{background:rgba(124,252,74,.12)}
+tbody tr.detail-row{border-bottom:1px solid var(--border);display:none;background:rgba(0,0,0,.25)}
 tbody tr.detail-row.open{display:table-row}
 tbody tr.detail-row td{padding:12px 18px 16px}
 .detail-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px 14px}
@@ -78,31 +75,35 @@ td.r{text-align:right}
 .rank-badge.rank-1{background:linear-gradient(135deg,var(--gold),#a87900);color:#1d1400;box-shadow:0 0 14px rgba(255,215,0,.55)}
 .rank-badge.rank-2{background:linear-gradient(135deg,var(--silver),#8b95a3);color:#10131a;box-shadow:0 0 10px rgba(216,222,232,.35)}
 .rank-badge.rank-3{background:linear-gradient(135deg,var(--bronze),#7a4a1f);color:#1a0f00;box-shadow:0 0 10px rgba(205,127,50,.4)}
-.rank-badge.rank-n{background:rgba(124,252,74,.08);border:1px solid rgba(124,252,74,.3);color:var(--accent2)}
+.rank-badge.rank-n{background:rgba(124,252,74,.12);border:1px solid rgba(124,252,74,.35);color:var(--accent2)}
+.rank-badge.rank-f{background:rgba(229,90,43,.15);border:1px solid rgba(229,90,43,.4);color:#ff9d70}
 .pname{font-weight:700;color:var(--text);font-size:13.5px}
 .global{font-size:10.5px;color:var(--muted);display:block;margin-top:1px}
-.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--accent2);text-shadow:0 0 10px rgba(124,252,74,.35)}
+.score-val{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:15px;color:var(--accent2);text-shadow:0 0 10px rgba(124,252,74,.45)}
 .cls-tag{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted)}
 .cls-tag img{width:14px;height:14px;object-fit:contain}
 .empty{color:var(--muted);font-style:italic;padding:30px 0;text-align:center;font-size:13px}
-.unranked td{opacity:.5}
+.unranked td{opacity:.6}
 .unranked{cursor:default !important}
 .tier{display:inline-block;font-family:'Rajdhani',sans-serif;font-weight:700;font-size:11.5px;letter-spacing:.04em;padding:2px 7px;border-radius:4px;min-width:30px;text-align:center}
 .t-SSS{color:var(--sss-c);background:var(--sss-bg)}.t-SS{color:var(--ss-c);background:var(--ss-bg)}
 .t-S{color:var(--s-c);background:var(--s-bg)}.t-Ap{color:var(--ap-c);background:var(--ap-bg)}
 .t-A{color:var(--a-c);background:var(--a-bg)}.t-Am{color:var(--am-c);background:var(--am-bg)}
 .t-Bp{color:var(--bp-c);background:var(--bp-bg)}.t-B{color:var(--b-c);background:var(--b-bg)}
-.t-x{color:var(--muted);background:#0d1610}
-.note{font-size:11px;color:var(--muted);margin:0;padding:10px 14px;background:var(--s2);border-top:1px solid var(--border)}
+.t-x{color:var(--muted);background:rgba(13,22,16,.6)}
+.note{font-size:11px;color:var(--muted);margin:0;padding:10px 14px;background:rgba(13,41,26,.5);border-top:1px solid var(--border)}
 .note button{background:none;border:1px solid var(--border);color:var(--accent2);font-size:10.5px;padding:2px 8px;border-radius:999px;cursor:pointer;margin-left:4px}
 </style>
 </head>
 <body>
 
+<video autoplay muted loop playsinline id="bgVideo">
+  <source src="assets-bg.mp4" type="video/mp4">
+</video>
+
 <div class="wrap">
 <header>
   <h1>Clan Leaderboard</h1>
-  <button id="refreshBtn" onclick="loadAll()" title="Refresh">⟳</button>
 </header>
 
 <div class="tabs">
@@ -131,7 +132,7 @@ td.r{text-align:right}
 </div>
 
 <script>
-const ROSTER = ['Smorgon', 'TheSunXIX', 'Whiteflavored', 'Humblehealer', 'Txy2'];
+const ROSTER = ['woogs','octo88','Vaylor','Aceinator','Smorgon','TheSunXIX','whiteflavored','humblehealer','KaisieKanade','Temperment','Matikanefukitaru','RuiDeng','Plagaa','littleshoes3','Txy2','Aryeyaepiol','Spokiy','Connection','Nelst','Trissghost','VlolV','XDSniperDX','LadySix','DrCrispy','Shihai','MissAlva','robinakuriwator','xN0TxJ03Lx','taco12blmagician','CrzyMnky','Arcynox','knightwriter','Skullpine5','LucieLongshot','traitorofvg','Dukaan','LOlilOLlo','jaki2','catskratch','Scarearch','Heisrunsham','Kiemy','crossed','TrollDemon','Tayeo','7NationArmy','Aurae','Rayama','troll35','starguy23','flameleador','Zortover','potassgg7','GrubMother','flaro','TankGr5','neunmalklug','Tarkuk','RyuuLion','ParadoxPVP','tanksword','Stonebender','Yaphytwo','inkyboy','JorteX','sixseeeveeeeenn','KroVynArc'];
 const DATA_URL = 'https://raw.githubusercontent.com/GiveMeTheCookie/CROC-tier-LB/refs/heads/main/data/leaderboard.json';
 
 const ICONS = {
@@ -147,17 +148,11 @@ let MEMBERS = ROSTER.map(name => ({ name, cls:null, rank:null, score:null }));
 let lastError = null;
 
 async function loadAll() {
-  if (!DATA_URL) {
-    lastError = 'No data URL configured.';
-    render();
-    return;
-  }
   lastError = null;
   try {
     const res = await fetch(DATA_URL + (DATA_URL.includes('?') ? '&' : '?') + 't=' + Date.now());
     const data = await res.json();
     if (!data.ok) throw new Error(data.note || data.error || 'Scraper has not produced data yet.');
-
     MEMBERS = ROSTER.map(name => {
       const hit = data.rows.find(r => r.name.toLowerCase() === name.toLowerCase());
       return hit ? { ...hit, name } : { name, cls:null, rank:null, score:null };
@@ -169,6 +164,7 @@ async function loadAll() {
 }
 
 function rankBadge(n) {
+  if (n === 'F') return `<span class="rank-badge rank-f">F</span>`;
   const cls = n === 1 ? 'rank-1' : n === 2 ? 'rank-2' : n === 3 ? 'rank-3' : 'rank-n';
   return `<span class="rank-badge ${cls}">${n}</span>`;
 }
@@ -180,10 +176,12 @@ function toggleRow(el) {
 
 function makeTable(rows, showClass) {
   if (!rows.length) return `<div class="empty">No members in this class yet.</div>`;
-  const sorted = [...rows].sort((a,b) => (b.score||0)-(a.score||0));
+  const withScore = rows.filter(r => r.score !== null && !Number.isNaN(r.score)).sort((a,b)=>b.score-a.score);
+  const noScore = rows.filter(r => !(r.score !== null && !Number.isNaN(r.score))).sort((a,b)=>a.name.localeCompare(b.name));
+  const sorted = [...withScore, ...noScore];
   const colCount = showClass ? 4 : 3;
   let h = `<table>
-    <colgroup><col class="col-rank">${showClass?'<col>':''}${showClass?'<col class="col-cls">':'<col>'}<col class="col-overall"><col class="col-score"></colgroup>
+    <colgroup><col class="col-rank">${showClass?'<col>':''}<col class="col-overall"><col class="col-score"></colgroup>
     <thead><tr>
     <th>#</th><th>Player</th>
     ${showClass?'<th>Class</th>':''}
@@ -195,7 +193,7 @@ function makeTable(rows, showClass) {
     if(hasData) ranked++;
     const cls = p.cls || 'warrior';
     h += `<tr class="main-row ${hasData?'':'unranked'}" ${hasData ? `onclick="toggleRow(this)"` : ''}>
-      <td>${hasData ? rankBadge(ranked) : rankBadge('—')}</td>
+      <td>${hasData ? rankBadge(ranked) : rankBadge('F')}</td>
       <td>
         <div class="pname">${p.name}${hasData ? '<span class="chevron">▶</span>' : ''}</div>
         <span class="global">${hasData ? `#${p.rank}` : 'Not in scrape'}</span>
@@ -227,9 +225,8 @@ function render() {
   if (lastError) {
     unknownNote = `<p class="note">⚠ ${lastError} <button onclick="loadAll()">Retry</button></p>`;
   } else if (unknown.length) {
-    unknownNote = `<p class="note">⚠ ${unknown.map(m=>m.name).join(', ')} not found in latest scrape.</p>`;
+    unknownNote = `<p class="note">⚠ ${unknown.length} member(s) not found in latest scrape — shown with rank F.</p>`;
   }
-
   ['warrior','mage','archer','shaman'].forEach(cls => {
     const rows = MEMBERS.filter(m => m.cls === cls);
     document.getElementById(`pane-${cls}`).innerHTML = makeTable(rows, false) + (cls==='warrior' ? unknownNote : '');
