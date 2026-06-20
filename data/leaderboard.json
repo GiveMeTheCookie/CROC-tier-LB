@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-20T03:26:14.166Z",
+  "fetchedAt": "2026-06-20T03:31:00.479Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -15720,9 +15720,22 @@
       "overall": "D"
     },
     {
-      "name": "Heisrunsham",
+      "name": "sixseeeveeeeenn",
       "cls": "shaman",
       "rank": 253,
+      "dps": 524,
+      "burst": 356,
+      "ehp": 4887,
+      "score": 971.77,
+      "tank": "D",
+      "hybrid": "C-",
+      "dpst": "B-",
+      "overall": "D"
+    },
+    {
+      "name": "Heisrunsham",
+      "cls": "shaman",
+      "rank": 254,
       "dps": 534,
       "burst": 382,
       "ehp": 4740,
@@ -15735,7 +15748,7 @@
     {
       "name": "MedicG",
       "cls": "shaman",
-      "rank": 254,
+      "rank": 255,
       "dps": 473,
       "burst": 394,
       "ehp": 6330,
@@ -15748,7 +15761,7 @@
     {
       "name": "Lesn",
       "cls": "shaman",
-      "rank": 255,
+      "rank": 256,
       "dps": 513,
       "burst": 363,
       "ehp": 5003,
@@ -15761,7 +15774,7 @@
     {
       "name": "Hexillen",
       "cls": "shaman",
-      "rank": 256,
+      "rank": 257,
       "dps": 422,
       "burst": 304,
       "ehp": 7035,
@@ -15774,7 +15787,7 @@
     {
       "name": "xHearu",
       "cls": "shaman",
-      "rank": 257,
+      "rank": 258,
       "dps": 462,
       "burst": 343,
       "ehp": 6087,
@@ -15787,7 +15800,7 @@
     {
       "name": "flameleador",
       "cls": "shaman",
-      "rank": 258,
+      "rank": 259,
       "dps": 397,
       "burst": 309,
       "ehp": 8062,
@@ -15800,7 +15813,7 @@
     {
       "name": "incorrectnavn",
       "cls": "shaman",
-      "rank": 259,
+      "rank": 260,
       "dps": 430,
       "burst": 324,
       "ehp": 6830,
@@ -15813,7 +15826,7 @@
     {
       "name": "RaresShaman",
       "cls": "shaman",
-      "rank": 260,
+      "rank": 261,
       "dps": 559,
       "burst": 389,
       "ehp": 4141,
@@ -15826,7 +15839,7 @@
     {
       "name": "Erdyrath",
       "cls": "shaman",
-      "rank": 261,
+      "rank": 262,
       "dps": 478,
       "burst": 340,
       "ehp": 5588,
@@ -15839,7 +15852,7 @@
     {
       "name": "Animalbasket56",
       "cls": "shaman",
-      "rank": 262,
+      "rank": 263,
       "dps": 489,
       "burst": 340,
       "ehp": 5234,
@@ -15852,7 +15865,7 @@
     {
       "name": "Linxerrion",
       "cls": "shaman",
-      "rank": 263,
+      "rank": 264,
       "dps": 447,
       "burst": 330,
       "ehp": 6168,
@@ -15865,7 +15878,7 @@
     {
       "name": "NyanLii",
       "cls": "shaman",
-      "rank": 264,
+      "rank": 265,
       "dps": 502,
       "burst": 354,
       "ehp": 4972,
@@ -15878,7 +15891,7 @@
     {
       "name": "Banewirya",
       "cls": "shaman",
-      "rank": 265,
+      "rank": 266,
       "dps": 432,
       "burst": 356,
       "ehp": 6709,
@@ -15891,7 +15904,7 @@
     {
       "name": "MageeDemon",
       "cls": "shaman",
-      "rank": 266,
+      "rank": 267,
       "dps": 482,
       "burst": 360,
       "ehp": 5273,
@@ -15904,7 +15917,7 @@
     {
       "name": "Imsme",
       "cls": "shaman",
-      "rank": 267,
+      "rank": 268,
       "dps": 509,
       "burst": 355,
       "ehp": 4737,
@@ -15917,7 +15930,7 @@
     {
       "name": "TheMasterPiece",
       "cls": "shaman",
-      "rank": 268,
+      "rank": 269,
       "dps": 355,
       "burst": 275,
       "ehp": 8794,
@@ -15930,7 +15943,7 @@
     {
       "name": "KurooHazama",
       "cls": "shaman",
-      "rank": 269,
+      "rank": 270,
       "dps": 491,
       "burst": 350,
       "ehp": 4909,
@@ -15943,7 +15956,7 @@
     {
       "name": "SwagMag",
       "cls": "shaman",
-      "rank": 270,
+      "rank": 271,
       "dps": 497,
       "burst": 363,
       "ehp": 4740,
@@ -15956,7 +15969,7 @@
     {
       "name": "Veliona",
       "cls": "shaman",
-      "rank": 271,
+      "rank": 272,
       "dps": 496,
       "burst": 355,
       "ehp": 4799,
@@ -15969,7 +15982,7 @@
     {
       "name": "THEGODz",
       "cls": "shaman",
-      "rank": 272,
+      "rank": 273,
       "dps": 464,
       "burst": 325,
       "ehp": 5411,
@@ -15982,7 +15995,7 @@
     {
       "name": "ELx604",
       "cls": "shaman",
-      "rank": 273,
+      "rank": 274,
       "dps": 485,
       "burst": 334,
       "ehp": 4911,
@@ -15995,7 +16008,7 @@
     {
       "name": "T13ET",
       "cls": "shaman",
-      "rank": 274,
+      "rank": 275,
       "dps": 476,
       "burst": 343,
       "ehp": 5030,
@@ -16008,7 +16021,7 @@
     {
       "name": "ShamanMad",
       "cls": "shaman",
-      "rank": 275,
+      "rank": 276,
       "dps": 519,
       "burst": 367,
       "ehp": 4232,
@@ -16021,7 +16034,7 @@
     {
       "name": "asdfTacoMaster4",
       "cls": "shaman",
-      "rank": 276,
+      "rank": 277,
       "dps": 485,
       "burst": 347,
       "ehp": 4774,
@@ -16034,7 +16047,7 @@
     {
       "name": "Choonni",
       "cls": "shaman",
-      "rank": 277,
+      "rank": 278,
       "dps": 457,
       "burst": 358,
       "ehp": 5286,
@@ -16047,7 +16060,7 @@
     {
       "name": "IvyCloud",
       "cls": "shaman",
-      "rank": 278,
+      "rank": 279,
       "dps": 404,
       "burst": 312,
       "ehp": 6664,
@@ -16060,7 +16073,7 @@
     {
       "name": "OssoPodree",
       "cls": "shaman",
-      "rank": 279,
+      "rank": 280,
       "dps": 470,
       "burst": 375,
       "ehp": 5035,
@@ -16073,7 +16086,7 @@
     {
       "name": "5S5",
       "cls": "shaman",
-      "rank": 280,
+      "rank": 281,
       "dps": 385,
       "burst": 310,
       "ehp": 7256,
@@ -16086,7 +16099,7 @@
     {
       "name": "Bloodvesla",
       "cls": "shaman",
-      "rank": 281,
+      "rank": 282,
       "dps": 501,
       "burst": 355,
       "ehp": 4181,
@@ -16099,7 +16112,7 @@
     {
       "name": "Fixing2",
       "cls": "shaman",
-      "rank": 282,
+      "rank": 283,
       "dps": 480,
       "burst": 332,
       "ehp": 4447,
@@ -16112,7 +16125,7 @@
     {
       "name": "NrgAtlas",
       "cls": "shaman",
-      "rank": 283,
+      "rank": 284,
       "dps": 403,
       "burst": 301,
       "ehp": 6179,
@@ -16125,7 +16138,7 @@
     {
       "name": "Biingo",
       "cls": "shaman",
-      "rank": 284,
+      "rank": 285,
       "dps": 424,
       "burst": 314,
       "ehp": 5595,
@@ -16138,7 +16151,7 @@
     {
       "name": "Fixing1",
       "cls": "shaman",
-      "rank": 285,
+      "rank": 286,
       "dps": 480,
       "burst": 332,
       "ehp": 4297,
