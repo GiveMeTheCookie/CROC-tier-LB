@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-21T00:57:10.423Z",
+  "fetchedAt": "2026-06-21T05:02:29.437Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -2590,9 +2590,22 @@
       "overall": "B-"
     },
     {
-      "name": "Declined",
+      "name": "killthevg02",
       "cls": "warrior",
       "rank": 200,
+      "dps": 380,
+      "burst": 302,
+      "ehp": 10777,
+      "score": 982.79,
+      "tank": "C+",
+      "hybrid": "C+",
+      "dpst": "B-",
+      "overall": "C+"
+    },
+    {
+      "name": "Declined",
+      "cls": "warrior",
+      "rank": 201,
       "dps": 358,
       "burst": 291,
       "ehp": 12219,
@@ -2605,7 +2618,7 @@
     {
       "name": "RexPaladin",
       "cls": "warrior",
-      "rank": 201,
+      "rank": 202,
       "dps": 367,
       "burst": 309,
       "ehp": 11274,
@@ -2618,7 +2631,7 @@
     {
       "name": "ErrorCode",
       "cls": "warrior",
-      "rank": 202,
+      "rank": 203,
       "dps": 435,
       "burst": 339,
       "ehp": 8368,
@@ -2631,7 +2644,7 @@
     {
       "name": "pizzacake",
       "cls": "warrior",
-      "rank": 203,
+      "rank": 204,
       "dps": 281,
       "burst": 222,
       "ehp": 20469,
@@ -2644,7 +2657,7 @@
     {
       "name": "jpsushi",
       "cls": "warrior",
-      "rank": 204,
+      "rank": 205,
       "dps": 365,
       "burst": 293,
       "ehp": 11469,
@@ -2657,7 +2670,7 @@
     {
       "name": "ouateonetoo",
       "cls": "warrior",
-      "rank": 205,
+      "rank": 206,
       "dps": 418,
       "burst": 323,
       "ehp": 8728,
@@ -2670,7 +2683,7 @@
     {
       "name": "DamageDenied",
       "cls": "warrior",
-      "rank": 206,
+      "rank": 207,
       "dps": 358,
       "burst": 305,
       "ehp": 11725,
@@ -2683,7 +2696,7 @@
     {
       "name": "B0K",
       "cls": "warrior",
-      "rank": 207,
+      "rank": 208,
       "dps": 393,
       "burst": 303,
       "ehp": 10117,
@@ -2696,7 +2709,7 @@
     {
       "name": "Zeropain",
       "cls": "warrior",
-      "rank": 208,
+      "rank": 209,
       "dps": 386,
       "burst": 323,
       "ehp": 9978,
@@ -2709,7 +2722,7 @@
     {
       "name": "Polish",
       "cls": "warrior",
-      "rank": 209,
+      "rank": 210,
       "dps": 383,
       "burst": 304,
       "ehp": 10198,
@@ -2722,7 +2735,7 @@
     {
       "name": "Straxtic",
       "cls": "warrior",
-      "rank": 210,
+      "rank": 211,
       "dps": 389,
       "burst": 312,
       "ehp": 10037,
@@ -2735,7 +2748,7 @@
     {
       "name": "heorong234",
       "cls": "warrior",
-      "rank": 211,
+      "rank": 212,
       "dps": 385,
       "burst": 305,
       "ehp": 10135,
@@ -2748,7 +2761,7 @@
     {
       "name": "HydrogenBob",
       "cls": "warrior",
-      "rank": 212,
+      "rank": 213,
       "dps": 335,
       "burst": 292,
       "ehp": 13522,
@@ -2761,24 +2774,11 @@
     {
       "name": "jenaga",
       "cls": "warrior",
-      "rank": 213,
+      "rank": 214,
       "dps": 379,
       "burst": 301,
       "ehp": 10556,
       "score": 980.95,
-      "tank": "C+",
-      "hybrid": "C+",
-      "dpst": "B-",
-      "overall": "C+"
-    },
-    {
-      "name": "killthevg02",
-      "cls": "warrior",
-      "rank": 214,
-      "dps": 368,
-      "burst": 293,
-      "ehp": 11060,
-      "score": 980.88,
       "tank": "C+",
       "hybrid": "C+",
       "dpst": "B-",
