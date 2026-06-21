@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-21T14:26:26.501Z",
+  "fetchedAt": "2026-06-21T19:54:35.530Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -102,9 +102,9 @@
       "ehp": 13383,
       "score": 1013.47,
       "tank": "A-",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "windstyle",
@@ -117,7 +117,7 @@
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "Sworduozi",
@@ -130,7 +130,7 @@
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "MaricioZ",
@@ -143,7 +143,7 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "SSS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "Dunster",
@@ -297,7 +297,7 @@
       "ehp": 12894,
       "score": 1010.95,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -323,7 +323,7 @@
       "ehp": 11860,
       "score": 1010.65,
       "tank": "B",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -362,7 +362,7 @@
       "ehp": 14106,
       "score": 1010.27,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -390,7 +390,7 @@
       "tank": "B",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "GoodTankyBoi",
@@ -403,7 +403,7 @@
       "tank": "B-",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "Bennni",
@@ -416,7 +416,7 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "SpaceCreated",
@@ -427,9 +427,9 @@
       "ehp": 13412,
       "score": 1009.03,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "ElCapitanAmerica",
@@ -440,7 +440,7 @@
       "ehp": 14697,
       "score": 1008.67,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "A+",
       "overall": "S"
     },
@@ -466,7 +466,7 @@
       "ehp": 11207,
       "score": 1008.51,
       "tank": "B",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
     },
@@ -518,7 +518,7 @@
       "ehp": 12642,
       "score": 1008.09,
       "tank": "B+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -557,7 +557,7 @@
       "ehp": 11550,
       "score": 1007.98,
       "tank": "B-",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
     },
@@ -622,7 +622,7 @@
       "ehp": 12190,
       "score": 1006.55,
       "tank": "B",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -663,7 +663,7 @@
       "tank": "B-",
       "hybrid": "A+",
       "dpst": "S",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "DatsMyName",
@@ -676,7 +676,7 @@
       "tank": "A-",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "QADREX1",
@@ -689,7 +689,7 @@
       "tank": "C",
       "hybrid": "A",
       "dpst": "SS",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "HeroWars",
@@ -713,7 +713,7 @@
       "ehp": 12147,
       "score": 1004.88,
       "tank": "C+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "A+"
     },
@@ -791,7 +791,7 @@
       "ehp": 11573,
       "score": 1004.13,
       "tank": "B",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
     },
@@ -830,7 +830,7 @@
       "ehp": 11068,
       "score": 1003.93,
       "tank": "B-",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
     },
@@ -843,7 +843,7 @@
       "ehp": 12584,
       "score": 1003.63,
       "tank": "C+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "A+"
     },
@@ -856,7 +856,7 @@
       "ehp": 13522,
       "score": 1003.5,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "A-",
       "overall": "A+"
     },
@@ -895,7 +895,7 @@
       "ehp": 9228,
       "score": 1002.8,
       "tank": "C+",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "S",
       "overall": "A+"
     },
@@ -908,7 +908,7 @@
       "ehp": 11276,
       "score": 1002.58,
       "tank": "B-",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -921,7 +921,7 @@
       "ehp": 11973,
       "score": 1002.51,
       "tank": "B+",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "A",
       "overall": "A+"
     },
@@ -934,7 +934,7 @@
       "ehp": 13938,
       "score": 1002.44,
       "tank": "B+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "A",
       "overall": "A+"
     },
@@ -949,7 +949,7 @@
       "tank": "B-",
       "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "gen5",
@@ -962,7 +962,7 @@
       "tank": "B-",
       "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "RisenBeast",
@@ -975,7 +975,7 @@
       "tank": "B-",
       "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "VaIkyrie",
@@ -988,7 +988,7 @@
       "tank": "B",
       "hybrid": "A+",
       "dpst": "A",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "Yelp",
@@ -1001,7 +1001,7 @@
       "tank": "B",
       "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "DungeonMaster192",
@@ -1064,7 +1064,7 @@
       "ehp": 10863,
       "score": 1000.75,
       "tank": "B-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -1103,7 +1103,7 @@
       "ehp": 10912,
       "score": 1000.19,
       "tank": "B-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -1116,7 +1116,7 @@
       "ehp": 10387,
       "score": 1000.02,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
       "overall": "A"
     },
@@ -1287,7 +1287,7 @@
       "tank": "A-",
       "hybrid": "A",
       "dpst": "A-",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "RuiDeng",
@@ -1300,7 +1300,7 @@
       "tank": "C+",
       "hybrid": "A-",
       "dpst": "A+",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "0pgn",
@@ -1311,9 +1311,9 @@
       "ehp": 8557,
       "score": 998.03,
       "tank": "C-",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "S",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "LunarApple",
@@ -1324,9 +1324,9 @@
       "ehp": 11313,
       "score": 998.02,
       "tank": "B-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "TankOrWhatever",
@@ -1339,7 +1339,7 @@
       "tank": "B-",
       "hybrid": "A",
       "dpst": "A",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "Mirizaph",
@@ -1350,9 +1350,9 @@
       "ehp": 11967,
       "score": 997.9,
       "tank": "B-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
-      "overall": "A"
+      "overall": "A-"
     },
     {
       "name": "Kingfighter",
@@ -1480,7 +1480,7 @@
       "ehp": 13670,
       "score": 996.25,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -1493,7 +1493,7 @@
       "ehp": 11676,
       "score": 996.03,
       "tank": "B",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -1532,7 +1532,7 @@
       "ehp": 14052,
       "score": 995.41,
       "tank": "A-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "B+",
       "overall": "A-"
     },
@@ -1545,7 +1545,7 @@
       "ehp": 11148,
       "score": 995.28,
       "tank": "C+",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "A",
       "overall": "A-"
     },
@@ -1573,7 +1573,7 @@
       "tank": "A",
       "hybrid": "A-",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "AlirezaISback",
@@ -1586,7 +1586,7 @@
       "tank": "B+",
       "hybrid": "A-",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "house0707",
@@ -1599,7 +1599,7 @@
       "tank": "A-",
       "hybrid": "A-",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "Sem",
@@ -1612,7 +1612,7 @@
       "tank": "C",
       "hybrid": "B+",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "1Skypirate1",
@@ -1625,7 +1625,7 @@
       "tank": "B",
       "hybrid": "A-",
       "dpst": "A-",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "HPRegenBestStat",
@@ -1636,9 +1636,9 @@
       "ehp": 12730,
       "score": 994.03,
       "tank": "A-",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "BlackZero213",
@@ -1649,7 +1649,7 @@
       "ehp": 9683,
       "score": 993.95,
       "tank": "C",
-      "hybrid": "B",
+      "hybrid": "B+",
       "dpst": "A",
       "overall": "B+"
     },
@@ -1805,7 +1805,7 @@
       "ehp": 13063,
       "score": 992.73,
       "tank": "B",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "B+",
       "overall": "B+"
     },
@@ -1885,7 +1885,7 @@
       "tank": "C-",
       "hybrid": "B+",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Grundun",
@@ -1898,7 +1898,7 @@
       "tank": "A-",
       "hybrid": "B+",
       "dpst": "B",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "90212",
@@ -1911,7 +1911,7 @@
       "tank": "C",
       "hybrid": "B",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "RevarC",
@@ -1924,7 +1924,7 @@
       "tank": "C+",
       "hybrid": "B",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "SquireOfFaith",
@@ -1937,7 +1937,7 @@
       "tank": "C",
       "hybrid": "B",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "WARV3D",
@@ -1948,9 +1948,9 @@
       "ehp": 11460,
       "score": 990.75,
       "tank": "B-",
-      "hybrid": "B",
+      "hybrid": "B+",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Kepaxx",
@@ -1963,7 +1963,7 @@
       "tank": "C+",
       "hybrid": "B",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Kurotora",
@@ -1976,7 +1976,7 @@
       "tank": "B-",
       "hybrid": "B",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "AnboIV",
@@ -1989,7 +1989,7 @@
       "tank": "B-",
       "hybrid": "B+",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Aizer",
@@ -2143,7 +2143,7 @@
       "ehp": 12729,
       "score": 988.4,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "B+",
       "dpst": "B",
       "overall": "B"
     },
@@ -2169,7 +2169,7 @@
       "ehp": 17628,
       "score": 988.24,
       "tank": "B-",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "B-",
       "overall": "B"
     },
@@ -2249,7 +2249,7 @@
       "tank": "C-",
       "hybrid": "B",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "ClubFoot",
@@ -2260,9 +2260,9 @@
       "ehp": 12823,
       "score": 987.48,
       "tank": "C-",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "misery12",
@@ -2275,7 +2275,7 @@
       "tank": "C+",
       "hybrid": "B-",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "Warned",
@@ -2288,7 +2288,7 @@
       "tank": "B+",
       "hybrid": "B",
       "dpst": "B-",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "wer2",
@@ -2299,9 +2299,9 @@
       "ehp": 10468,
       "score": 986.59,
       "tank": "C",
-      "hybrid": "B-",
+      "hybrid": "B",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "OriginalSensible",
@@ -2314,7 +2314,7 @@
       "tank": "C+",
       "hybrid": "B",
       "dpst": "B",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "OnePerson",
@@ -2483,7 +2483,7 @@
       "tank": "B",
       "hybrid": "B-",
       "dpst": "B-",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "WakandaWarr",
@@ -2494,9 +2494,9 @@
       "ehp": 10322,
       "score": 983.68,
       "tank": "C",
-      "hybrid": "C+",
+      "hybrid": "B-",
       "dpst": "B",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "AverageOhioMan",
@@ -2509,7 +2509,7 @@
       "tank": "C+",
       "hybrid": "B+",
       "dpst": "B-",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "Privilege",
@@ -2522,7 +2522,7 @@
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "reservoirdog",
@@ -2535,7 +2535,7 @@
       "tank": "C-",
       "hybrid": "C+",
       "dpst": "B+",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "Musin",
@@ -2548,7 +2548,7 @@
       "tank": "A-",
       "hybrid": "B",
       "dpst": "C+",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "1265",
@@ -2561,7 +2561,7 @@
       "tank": "A-",
       "hybrid": "B",
       "dpst": "C+",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "DarkMad",
@@ -2574,7 +2574,7 @@
       "tank": "C+",
       "hybrid": "C+",
       "dpst": "B",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "GlitchVolx",
@@ -2587,7 +2587,7 @@
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "B-",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "killthevg02",
@@ -2741,7 +2741,7 @@
       "ehp": 10037,
       "score": 981.3,
       "tank": "C",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
     },
@@ -2834,7 +2834,7 @@
       "tank": "B",
       "hybrid": "B",
       "dpst": "C",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "INVINCIBLEmcg00t",
@@ -2845,9 +2845,9 @@
       "ehp": 12180,
       "score": 980.26,
       "tank": "C",
-      "hybrid": "C+",
+      "hybrid": "B-",
       "dpst": "B-",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "Arcturion",
@@ -2860,7 +2860,7 @@
       "tank": "C-",
       "hybrid": "C-",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "Dua",
@@ -2873,7 +2873,7 @@
       "tank": "C",
       "hybrid": "C-",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "Kashuki",
@@ -2886,7 +2886,7 @@
       "tank": "D+",
       "hybrid": "B-",
       "dpst": "B-",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "LordTankZ",
@@ -2899,7 +2899,7 @@
       "tank": "D+",
       "hybrid": "C+",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "K467",
@@ -2910,7 +2910,7 @@
       "ehp": 12893,
       "score": 979.08,
       "tank": "B",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "C+",
       "overall": "C"
     },
@@ -2949,7 +2949,7 @@
       "ehp": 12024,
       "score": 978.8,
       "tank": "B-",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "C+",
       "overall": "C"
     },
@@ -3105,7 +3105,7 @@
       "ehp": 9195,
       "score": 977.41,
       "tank": "D+",
-      "hybrid": "C-",
+      "hybrid": "C",
       "dpst": "B-",
       "overall": "C"
     },
@@ -3118,7 +3118,7 @@
       "ehp": 11162,
       "score": 977.14,
       "tank": "D+",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "B-",
       "overall": "C"
     },
@@ -3144,7 +3144,7 @@
       "ehp": 9607,
       "score": 976.73,
       "tank": "C-",
-      "hybrid": "C-",
+      "hybrid": "C",
       "dpst": "B-",
       "overall": "C"
     },
@@ -3172,7 +3172,7 @@
       "tank": "D+",
       "hybrid": "C-",
       "dpst": "B-",
-      "overall": "C"
+      "overall": "C-"
     },
     {
       "name": "karashi",
@@ -3185,7 +3185,7 @@
       "tank": "B-",
       "hybrid": "C",
       "dpst": "C",
-      "overall": "C"
+      "overall": "C-"
     },
     {
       "name": "dada3",
@@ -3198,7 +3198,7 @@
       "tank": "D+",
       "hybrid": "C-",
       "dpst": "B-",
-      "overall": "C"
+      "overall": "C-"
     },
     {
       "name": "Nightyrni",
@@ -3211,7 +3211,7 @@
       "tank": "C+",
       "hybrid": "C-",
       "dpst": "C+",
-      "overall": "C"
+      "overall": "C-"
     },
     {
       "name": "BIacked",
@@ -3224,7 +3224,7 @@
       "tank": "B-",
       "hybrid": "C-",
       "dpst": "C",
-      "overall": "C"
+      "overall": "C-"
     },
     {
       "name": "Ghostafar",
@@ -3261,7 +3261,7 @@
       "ehp": 11820,
       "score": 974.79,
       "tank": "C+",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "C",
       "overall": "C-"
     },
@@ -3313,7 +3313,7 @@
       "ehp": 11206,
       "score": 973.91,
       "tank": "C-",
-      "hybrid": "C-",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C-"
     },
@@ -3393,7 +3393,7 @@
       "tank": "C",
       "hybrid": "C-",
       "dpst": "C",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "TempIar",
@@ -3404,9 +3404,9 @@
       "ehp": 9373,
       "score": 972.33,
       "tank": "D",
-      "hybrid": "D+",
+      "hybrid": "C-",
       "dpst": "C+",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "Utensil",
@@ -3417,9 +3417,9 @@
       "ehp": 10372,
       "score": 972.23,
       "tank": "C+",
-      "hybrid": "D+",
+      "hybrid": "C-",
       "dpst": "C",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "dulc2",
@@ -3430,9 +3430,9 @@
       "ehp": 11356,
       "score": 971.78,
       "tank": "B-",
-      "hybrid": "D+",
+      "hybrid": "C-",
       "dpst": "C-",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "babywarrior",
@@ -3549,7 +3549,7 @@
       "tank": "C",
       "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "AUseLessTank",
@@ -3562,7 +3562,7 @@
       "tank": "B-",
       "hybrid": "C-",
       "dpst": "D+",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Ravenshade",
@@ -3575,7 +3575,7 @@
       "tank": "A-",
       "hybrid": "C-",
       "dpst": "D",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "DeathGhoul",
@@ -3588,7 +3588,7 @@
       "tank": "B-",
       "hybrid": "D+",
       "dpst": "D+",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "KyloBen",
@@ -3601,7 +3601,7 @@
       "tank": "C-",
       "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "aguistuc",
@@ -3614,7 +3614,7 @@
       "tank": "D+",
       "hybrid": "D+",
       "dpst": "C",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Distraction",
@@ -3627,7 +3627,7 @@
       "tank": "B+",
       "hybrid": "D+",
       "dpst": "D",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Hastey",
@@ -3640,7 +3640,7 @@
       "tank": "D+",
       "hybrid": "D+",
       "dpst": "C",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "TheBOA",
@@ -3708,9 +3708,22 @@
       "overall": "D"
     },
     {
-      "name": "CaseohJr",
+      "name": "KroVynArc",
       "cls": "warrior",
       "rank": 286,
+      "dps": 327,
+      "burst": 282,
+      "ehp": 10054,
+      "score": 966.9,
+      "tank": "D+",
+      "hybrid": "D",
+      "dpst": "C-",
+      "overall": "D"
+    },
+    {
+      "name": "CaseohJr",
+      "cls": "warrior",
+      "rank": 287,
       "dps": 266,
       "burst": 224,
       "ehp": 15525,
@@ -3723,7 +3736,7 @@
     {
       "name": "snuggIe",
       "cls": "warrior",
-      "rank": 287,
+      "rank": 288,
       "dps": 331,
       "burst": 275,
       "ehp": 9577,
@@ -3736,7 +3749,7 @@
     {
       "name": "PRlME",
       "cls": "warrior",
-      "rank": 288,
+      "rank": 289,
       "dps": 354,
       "burst": 287,
       "ehp": 8503,
@@ -3749,20 +3762,20 @@
     {
       "name": "karauzta",
       "cls": "warrior",
-      "rank": 289,
+      "rank": 290,
       "dps": 343,
       "burst": 293,
       "ehp": 8848,
       "score": 965.74,
       "tank": "D",
-      "hybrid": "D-",
+      "hybrid": "D",
       "dpst": "C",
       "overall": "D"
     },
     {
       "name": "AbramsM1A2",
       "cls": "warrior",
-      "rank": 290,
+      "rank": 291,
       "dps": 341,
       "burst": 290,
       "ehp": 9000,
@@ -3775,7 +3788,7 @@
     {
       "name": "Aborted123",
       "cls": "warrior",
-      "rank": 291,
+      "rank": 292,
       "dps": 356,
       "burst": 275,
       "ehp": 8545,
@@ -3783,12 +3796,12 @@
       "tank": "D+",
       "hybrid": "D-",
       "dpst": "C-",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "Itto",
       "cls": "warrior",
-      "rank": 292,
+      "rank": 293,
       "dps": 276,
       "burst": 259,
       "ehp": 13250,
@@ -3796,12 +3809,12 @@
       "tank": "C-",
       "hybrid": "C-",
       "dpst": "D+",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "BigStitches",
       "cls": "warrior",
-      "rank": 293,
+      "rank": 294,
       "dps": 329,
       "burst": 262,
       "ehp": 9442,
@@ -3809,12 +3822,12 @@
       "tank": "C",
       "hybrid": "D-",
       "dpst": "D+",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "AAddWarrior",
       "cls": "warrior",
-      "rank": 294,
+      "rank": 295,
       "dps": 287,
       "burst": 259,
       "ehp": 12379,
@@ -3822,12 +3835,12 @@
       "tank": "C-",
       "hybrid": "D+",
       "dpst": "D+",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "humbIe",
       "cls": "warrior",
-      "rank": 295,
+      "rank": 296,
       "dps": 215,
       "burst": 184,
       "ehp": 22718,
@@ -3835,12 +3848,12 @@
       "tank": "SS",
       "hybrid": "C-",
       "dpst": "F",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "WOIfgang",
       "cls": "warrior",
-      "rank": 296,
+      "rank": 297,
       "dps": 344,
       "burst": 286,
       "ehp": 8745,
@@ -3853,7 +3866,7 @@
     {
       "name": "Sent2Survive",
       "cls": "warrior",
-      "rank": 297,
+      "rank": 298,
       "dps": 316,
       "burst": 287,
       "ehp": 9978,
@@ -3866,7 +3879,7 @@
     {
       "name": "Superfluous",
       "cls": "warrior",
-      "rank": 298,
+      "rank": 299,
       "dps": 334,
       "burst": 278,
       "ehp": 9043,
@@ -3879,7 +3892,7 @@
     {
       "name": "KORdd1234",
       "cls": "warrior",
-      "rank": 299,
+      "rank": 300,
       "dps": 286,
       "burst": 253,
       "ehp": 11969,
@@ -3892,7 +3905,7 @@
     {
       "name": "HrVD",
       "cls": "warrior",
-      "rank": 300,
+      "rank": 301,
       "dps": 268,
       "burst": 251,
       "ehp": 13463,
@@ -3905,7 +3918,7 @@
     {
       "name": "Solnedex",
       "cls": "warrior",
-      "rank": 301,
+      "rank": 302,
       "dps": 311,
       "burst": 241,
       "ehp": 10576,
@@ -3913,12 +3926,12 @@
       "tank": "C+",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "Xain",
       "cls": "warrior",
-      "rank": 302,
+      "rank": 303,
       "dps": 299,
       "burst": 236,
       "ehp": 11155,
@@ -3926,12 +3939,12 @@
       "tank": "B-",
       "hybrid": "D-",
       "dpst": "D",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "Pepequila2759",
       "cls": "warrior",
-      "rank": 303,
+      "rank": 304,
       "dps": 292,
       "burst": 283,
       "ehp": 11367,
@@ -3939,12 +3952,12 @@
       "tank": "F",
       "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "TruePain",
       "cls": "warrior",
-      "rank": 304,
+      "rank": 305,
       "dps": 309,
       "burst": 251,
       "ehp": 9685,
@@ -3952,12 +3965,12 @@
       "tank": "C",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "iAngry",
       "cls": "warrior",
-      "rank": 305,
+      "rank": 306,
       "dps": 278,
       "burst": 220,
       "ehp": 12546,
@@ -3965,12 +3978,12 @@
       "tank": "B",
       "hybrid": "D-",
       "dpst": "D-",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "TheBerserkerTL",
       "cls": "warrior",
-      "rank": 306,
+      "rank": 307,
       "dps": 240,
       "burst": 232,
       "ehp": 16685,
@@ -3983,7 +3996,7 @@
     {
       "name": "Rottweiler",
       "cls": "warrior",
-      "rank": 307,
+      "rank": 308,
       "dps": 291,
       "burst": 253,
       "ehp": 11138,
@@ -3996,7 +4009,7 @@
     {
       "name": "twirl",
       "cls": "warrior",
-      "rank": 308,
+      "rank": 309,
       "dps": 252,
       "burst": 212,
       "ehp": 14028,
@@ -4009,7 +4022,7 @@
     {
       "name": "r2019",
       "cls": "warrior",
-      "rank": 309,
+      "rank": 310,
       "dps": 378,
       "burst": 284,
       "ehp": 6647,
@@ -4022,7 +4035,7 @@
     {
       "name": "Bamti2",
       "cls": "warrior",
-      "rank": 310,
+      "rank": 311,
       "dps": 294,
       "burst": 276,
       "ehp": 10843,
@@ -4035,7 +4048,7 @@
     {
       "name": "dakkbore2",
       "cls": "warrior",
-      "rank": 311,
+      "rank": 312,
       "dps": 302,
       "burst": 245,
       "ehp": 10038,
@@ -4048,7 +4061,7 @@
     {
       "name": "Shamano9999",
       "cls": "warrior",
-      "rank": 312,
+      "rank": 313,
       "dps": 257,
       "burst": 248,
       "ehp": 14609,
@@ -4061,7 +4074,7 @@
     {
       "name": "TogoBeaaar",
       "cls": "warrior",
-      "rank": 313,
+      "rank": 314,
       "dps": 295,
       "burst": 259,
       "ehp": 10399,
@@ -4074,7 +4087,7 @@
     {
       "name": "NPzWVG",
       "cls": "warrior",
-      "rank": 314,
+      "rank": 315,
       "dps": 291,
       "burst": 257,
       "ehp": 10616,
@@ -4087,7 +4100,7 @@
     {
       "name": "Bomfire25S",
       "cls": "warrior",
-      "rank": 315,
+      "rank": 316,
       "dps": 284,
       "burst": 267,
       "ehp": 11499,
@@ -4100,7 +4113,7 @@
     {
       "name": "OGdaniel",
       "cls": "warrior",
-      "rank": 316,
+      "rank": 317,
       "dps": 279,
       "burst": 207,
       "ehp": 11759,
@@ -4113,7 +4126,7 @@
     {
       "name": "hordes321321",
       "cls": "warrior",
-      "rank": 317,
+      "rank": 318,
       "dps": 283,
       "burst": 224,
       "ehp": 11501,
@@ -4126,7 +4139,7 @@
     {
       "name": "BeerPongChampion",
       "cls": "warrior",
-      "rank": 318,
+      "rank": 319,
       "dps": 251,
       "burst": 230,
       "ehp": 13576,
@@ -4134,12 +4147,12 @@
       "tank": "C+",
       "hybrid": "D",
       "dpst": "E",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "ShmuelWarior",
       "cls": "warrior",
-      "rank": 319,
+      "rank": 320,
       "dps": 286,
       "burst": 247,
       "ehp": 10666,
@@ -4147,12 +4160,12 @@
       "tank": "C-",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "Palastice",
       "cls": "warrior",
-      "rank": 320,
+      "rank": 321,
       "dps": 288,
       "burst": 249,
       "ehp": 10339,
@@ -4160,12 +4173,12 @@
       "tank": "C-",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "Azmua",
       "cls": "warrior",
-      "rank": 321,
+      "rank": 322,
       "dps": 289,
       "burst": 248,
       "ehp": 10435,
@@ -4173,12 +4186,12 @@
       "tank": "C-",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "LordPepy",
       "cls": "warrior",
-      "rank": 322,
+      "rank": 323,
       "dps": 285,
       "burst": 250,
       "ehp": 10517,
@@ -4186,12 +4199,12 @@
       "tank": "C-",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "IdistanceIY",
       "cls": "warrior",
-      "rank": 323,
+      "rank": 324,
       "dps": 265,
       "burst": 236,
       "ehp": 12212,
@@ -4199,12 +4212,12 @@
       "tank": "C",
       "hybrid": "D-",
       "dpst": "D-",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "thekillerfake",
       "cls": "warrior",
-      "rank": 324,
+      "rank": 325,
       "dps": 282,
       "burst": 266,
       "ehp": 10892,
@@ -4212,12 +4225,12 @@
       "tank": "D-",
       "hybrid": "D-",
       "dpst": "D",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "McConfing",
       "cls": "warrior",
-      "rank": 325,
+      "rank": 326,
       "dps": 274,
       "burst": 237,
       "ehp": 11034,
@@ -4230,7 +4243,7 @@
     {
       "name": "evilwarrior1",
       "cls": "warrior",
-      "rank": 326,
+      "rank": 327,
       "dps": 268,
       "burst": 245,
       "ehp": 11522,
@@ -4243,7 +4256,7 @@
     {
       "name": "AnyPercentNMG",
       "cls": "warrior",
-      "rank": 327,
+      "rank": 328,
       "dps": 301,
       "burst": 276,
       "ehp": 9102,
@@ -4256,7 +4269,7 @@
     {
       "name": "BlooBerry",
       "cls": "warrior",
-      "rank": 328,
+      "rank": 329,
       "dps": 254,
       "burst": 222,
       "ehp": 12415,
@@ -4269,7 +4282,7 @@
     {
       "name": "tudalllunab13",
       "cls": "warrior",
-      "rank": 329,
+      "rank": 330,
       "dps": 279,
       "burst": 243,
       "ehp": 10242,
@@ -4277,19 +4290,6 @@
       "tank": "C-",
       "hybrid": "F",
       "dpst": "D-",
-      "overall": "F"
-    },
-    {
-      "name": "Nelst",
-      "cls": "warrior",
-      "rank": 330,
-      "dps": 273,
-      "burst": 227,
-      "ehp": 10338,
-      "score": 953.05,
-      "tank": "C",
-      "hybrid": "F",
-      "dpst": "E",
       "overall": "F"
     },
     {
@@ -11547,9 +11547,22 @@
       "overall": "C"
     },
     {
-      "name": "VoxEminor",
+      "name": "neunmalklug",
       "cls": "archer",
       "rank": 272,
+      "dps": 436,
+      "burst": 368,
+      "ehp": 5581,
+      "score": 958.28,
+      "tank": "C+",
+      "hybrid": "C-",
+      "dpst": "C",
+      "overall": "C-"
+    },
+    {
+      "name": "VoxEminor",
+      "cls": "archer",
+      "rank": 273,
       "dps": 475,
       "burst": 396,
       "ehp": 4608,
@@ -11562,7 +11575,7 @@
     {
       "name": "Webuo",
       "cls": "archer",
-      "rank": 273,
+      "rank": 274,
       "dps": 453,
       "burst": 415,
       "ehp": 4566,
@@ -11575,7 +11588,7 @@
     {
       "name": "Branlo1777",
       "cls": "archer",
-      "rank": 274,
+      "rank": 275,
       "dps": 462,
       "burst": 399,
       "ehp": 4650,
@@ -11588,7 +11601,7 @@
     {
       "name": "OutSkirt",
       "cls": "archer",
-      "rank": 275,
+      "rank": 276,
       "dps": 384,
       "burst": 342,
       "ehp": 6761,
@@ -11601,7 +11614,7 @@
     {
       "name": "vrrs",
       "cls": "archer",
-      "rank": 276,
+      "rank": 277,
       "dps": 532,
       "burst": 413,
       "ehp": 3749,
@@ -11614,7 +11627,7 @@
     {
       "name": "minuscule",
       "cls": "archer",
-      "rank": 277,
+      "rank": 278,
       "dps": 444,
       "burst": 369,
       "ehp": 5187,
@@ -11622,19 +11635,6 @@
       "tank": "C",
       "hybrid": "C-",
       "dpst": "C+",
-      "overall": "C-"
-    },
-    {
-      "name": "neunmalklug",
-      "cls": "archer",
-      "rank": 278,
-      "dps": 543,
-      "burst": 400,
-      "ehp": 3665,
-      "score": 955.33,
-      "tank": "D+",
-      "hybrid": "C-",
-      "dpst": "B+",
       "overall": "C-"
     },
     {
