@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-21T10:00:30.032Z",
+  "fetchedAt": "2026-06-21T14:26:26.501Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -9766,26 +9766,26 @@
       "overall": "A"
     },
     {
-      "name": "FallenSaint",
+      "name": "nMaster4",
       "cls": "archer",
       "rank": 135,
-      "dps": 576,
-      "burst": 447,
-      "ehp": 7396,
-      "score": 993.75,
+      "dps": 558,
+      "burst": 468,
+      "ehp": 7323,
+      "score": 993.98,
       "tank": "A",
       "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
     {
-      "name": "nMaster4",
+      "name": "FallenSaint",
       "cls": "archer",
       "rank": 136,
-      "dps": 556,
-      "burst": 464,
-      "ehp": 7374,
-      "score": 993.61,
+      "dps": 576,
+      "burst": 447,
+      "ehp": 7396,
+      "score": 993.75,
       "tank": "A",
       "hybrid": "A",
       "dpst": "A+",
@@ -14056,9 +14056,22 @@
       "overall": "A-"
     },
     {
-      "name": "Rejuvenate",
+      "name": "Routine",
       "cls": "shaman",
       "rank": 121,
+      "dps": 471,
+      "burst": 361,
+      "ehp": 10390,
+      "score": 996.4,
+      "tank": "A+",
+      "hybrid": "B",
+      "dpst": "B+",
+      "overall": "A-"
+    },
+    {
+      "name": "Rejuvenate",
+      "cls": "shaman",
+      "rank": 122,
       "dps": 562,
       "burst": 418,
       "ehp": 7501,
@@ -14071,7 +14084,7 @@
     {
       "name": "yeeeeelok",
       "cls": "shaman",
-      "rank": 122,
+      "rank": 123,
       "dps": 460,
       "burst": 352,
       "ehp": 10737,
@@ -14084,7 +14097,7 @@
     {
       "name": "TheWhitheOPZ",
       "cls": "shaman",
-      "rank": 123,
+      "rank": 124,
       "dps": 523,
       "burst": 372,
       "ehp": 8541,
@@ -14097,7 +14110,7 @@
     {
       "name": "OggyDaBoggy",
       "cls": "shaman",
-      "rank": 124,
+      "rank": 125,
       "dps": 524,
       "burst": 389,
       "ehp": 8481,
@@ -14110,7 +14123,7 @@
     {
       "name": "CrystalRl",
       "cls": "shaman",
-      "rank": 125,
+      "rank": 126,
       "dps": 552,
       "burst": 382,
       "ehp": 7552,
@@ -14123,7 +14136,7 @@
     {
       "name": "Supportar",
       "cls": "shaman",
-      "rank": 126,
+      "rank": 127,
       "dps": 553,
       "burst": 391,
       "ehp": 7654,
@@ -14136,7 +14149,7 @@
     {
       "name": "3Iixir",
       "cls": "shaman",
-      "rank": 127,
+      "rank": 128,
       "dps": 526,
       "burst": 381,
       "ehp": 8314,
@@ -14149,7 +14162,7 @@
     {
       "name": "Zyprox",
       "cls": "shaman",
-      "rank": 128,
+      "rank": 129,
       "dps": 509,
       "burst": 369,
       "ehp": 8763,
@@ -14162,7 +14175,7 @@
     {
       "name": "Rolzonsia",
       "cls": "shaman",
-      "rank": 129,
+      "rank": 130,
       "dps": 470,
       "burst": 325,
       "ehp": 9901,
@@ -14175,7 +14188,7 @@
     {
       "name": "dabMDR2",
       "cls": "shaman",
-      "rank": 130,
+      "rank": 131,
       "dps": 500,
       "burst": 374,
       "ehp": 8977,
@@ -14188,7 +14201,7 @@
     {
       "name": "HealsForWarrior",
       "cls": "shaman",
-      "rank": 131,
+      "rank": 132,
       "dps": 559,
       "burst": 403,
       "ehp": 7271,
@@ -14201,7 +14214,7 @@
     {
       "name": "Sarashina",
       "cls": "shaman",
-      "rank": 132,
+      "rank": 133,
       "dps": 523,
       "burst": 362,
       "ehp": 7999,
@@ -14214,7 +14227,7 @@
     {
       "name": "Warlithkhon",
       "cls": "shaman",
-      "rank": 133,
+      "rank": 134,
       "dps": 540,
       "burst": 373,
       "ehp": 7548,
@@ -14227,7 +14240,7 @@
     {
       "name": "NSPz",
       "cls": "shaman",
-      "rank": 134,
+      "rank": 135,
       "dps": 518,
       "burst": 363,
       "ehp": 8009,
@@ -14240,7 +14253,7 @@
     {
       "name": "winterwashere",
       "cls": "shaman",
-      "rank": 135,
+      "rank": 136,
       "dps": 481,
       "burst": 360,
       "ehp": 9371,
@@ -14253,7 +14266,7 @@
     {
       "name": "MehImmaHeal",
       "cls": "shaman",
-      "rank": 136,
+      "rank": 137,
       "dps": 515,
       "burst": 384,
       "ehp": 8258,
@@ -14266,7 +14279,7 @@
     {
       "name": "IXIXI",
       "cls": "shaman",
-      "rank": 137,
+      "rank": 138,
       "dps": 524,
       "burst": 394,
       "ehp": 7998,
@@ -14279,7 +14292,7 @@
     {
       "name": "KaLiBriQR",
       "cls": "shaman",
-      "rank": 138,
+      "rank": 139,
       "dps": 509,
       "burst": 371,
       "ehp": 8333,
@@ -14292,7 +14305,7 @@
     {
       "name": "Azricarp",
       "cls": "shaman",
-      "rank": 139,
+      "rank": 140,
       "dps": 544,
       "burst": 373,
       "ehp": 7380,
@@ -14305,7 +14318,7 @@
     {
       "name": "Nicotonoirsha",
       "cls": "shaman",
-      "rank": 140,
+      "rank": 141,
       "dps": 537,
       "burst": 378,
       "ehp": 7619,
@@ -14318,7 +14331,7 @@
     {
       "name": "Sunharu",
       "cls": "shaman",
-      "rank": 141,
+      "rank": 142,
       "dps": 525,
       "burst": 393,
       "ehp": 7761,
@@ -14331,7 +14344,7 @@
     {
       "name": "MiniShammy",
       "cls": "shaman",
-      "rank": 142,
+      "rank": 143,
       "dps": 588,
       "burst": 413,
       "ehp": 6357,
@@ -14344,7 +14357,7 @@
     {
       "name": "NukeLife",
       "cls": "shaman",
-      "rank": 143,
+      "rank": 144,
       "dps": 496,
       "burst": 344,
       "ehp": 8474,
@@ -14357,7 +14370,7 @@
     {
       "name": "KarlHeinrichMarx",
       "cls": "shaman",
-      "rank": 144,
+      "rank": 145,
       "dps": 522,
       "burst": 366,
       "ehp": 7610,
@@ -14370,7 +14383,7 @@
     {
       "name": "GanjaLand",
       "cls": "shaman",
-      "rank": 145,
+      "rank": 146,
       "dps": 492,
       "burst": 366,
       "ehp": 8676,
@@ -14383,7 +14396,7 @@
     {
       "name": "rndms",
       "cls": "shaman",
-      "rank": 146,
+      "rank": 147,
       "dps": 678,
       "burst": 456,
       "ehp": 4692,
@@ -14396,7 +14409,7 @@
     {
       "name": "ILordzl",
       "cls": "shaman",
-      "rank": 147,
+      "rank": 148,
       "dps": 517,
       "burst": 367,
       "ehp": 7830,
@@ -14409,7 +14422,7 @@
     {
       "name": "AzukaTems",
       "cls": "shaman",
-      "rank": 148,
+      "rank": 149,
       "dps": 540,
       "burst": 372,
       "ehp": 7179,
@@ -14422,7 +14435,7 @@
     {
       "name": "Satsura",
       "cls": "shaman",
-      "rank": 149,
+      "rank": 150,
       "dps": 510,
       "burst": 358,
       "ehp": 7978,
@@ -14435,7 +14448,7 @@
     {
       "name": "frazmin3",
       "cls": "shaman",
-      "rank": 150,
+      "rank": 151,
       "dps": 528,
       "burst": 367,
       "ehp": 7229,
@@ -14448,7 +14461,7 @@
     {
       "name": "wipestyle",
       "cls": "shaman",
-      "rank": 151,
+      "rank": 152,
       "dps": 486,
       "burst": 345,
       "ehp": 8518,
@@ -14461,7 +14474,7 @@
     {
       "name": "LunaMercy",
       "cls": "shaman",
-      "rank": 152,
+      "rank": 153,
       "dps": 516,
       "burst": 360,
       "ehp": 7530,
@@ -14474,7 +14487,7 @@
     {
       "name": "LoneBoy",
       "cls": "shaman",
-      "rank": 153,
+      "rank": 154,
       "dps": 475,
       "burst": 328,
       "ehp": 8887,
@@ -14487,7 +14500,7 @@
     {
       "name": "NaturePower",
       "cls": "shaman",
-      "rank": 154,
+      "rank": 155,
       "dps": 549,
       "burst": 398,
       "ehp": 6833,
@@ -14500,7 +14513,7 @@
     {
       "name": "SkilledatHealing",
       "cls": "shaman",
-      "rank": 155,
+      "rank": 156,
       "dps": 524,
       "burst": 370,
       "ehp": 7477,
@@ -14513,7 +14526,7 @@
     {
       "name": "ElghtySix",
       "cls": "shaman",
-      "rank": 156,
+      "rank": 157,
       "dps": 678,
       "burst": 472,
       "ehp": 4578,
@@ -14521,19 +14534,6 @@
       "tank": "D+",
       "hybrid": "B+",
       "dpst": "SSS",
-      "overall": "B"
-    },
-    {
-      "name": "Routine",
-      "cls": "shaman",
-      "rank": 157,
-      "dps": 612,
-      "burst": 416,
-      "ehp": 5535,
-      "score": 989.8,
-      "tank": "C",
-      "hybrid": "B+",
-      "dpst": "S",
       "overall": "B"
     },
     {
