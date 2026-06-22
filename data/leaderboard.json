@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-22T05:10:50.276Z",
+  "fetchedAt": "2026-06-22T09:16:09.353Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6737,9 +6737,22 @@
       "overall": "C+"
     },
     {
-      "name": "GaIaxy",
+      "name": "octo88",
       "cls": "mage",
       "rank": 188,
+      "dps": 611,
+      "burst": 482,
+      "ehp": 4833,
+      "score": 977.94,
+      "tank": "C",
+      "hybrid": "C+",
+      "dpst": "A",
+      "overall": "C+"
+    },
+    {
+      "name": "GaIaxy",
+      "cls": "mage",
+      "rank": 189,
       "dps": 598,
       "burst": 472,
       "ehp": 5049,
@@ -6752,7 +6765,7 @@
     {
       "name": "Zumwalt",
       "cls": "mage",
-      "rank": 189,
+      "rank": 190,
       "dps": 541,
       "burst": 446,
       "ehp": 6033,
@@ -6765,7 +6778,7 @@
     {
       "name": "Sylvir",
       "cls": "mage",
-      "rank": 190,
+      "rank": 191,
       "dps": 516,
       "burst": 429,
       "ehp": 6633,
@@ -6773,19 +6786,6 @@
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "C+",
-      "overall": "C+"
-    },
-    {
-      "name": "octo88",
-      "cls": "mage",
-      "rank": 191,
-      "dps": 604,
-      "burst": 478,
-      "ehp": 4833,
-      "score": 976.87,
-      "tank": "C",
-      "hybrid": "C+",
-      "dpst": "A-",
       "overall": "C+"
     },
     {
