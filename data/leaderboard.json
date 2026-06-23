@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-23T15:16:52.948Z",
+  "fetchedAt": "2026-06-23T20:15:59.397Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -3305,9 +3305,22 @@
       "overall": "C-"
     },
     {
-      "name": "EchoShade",
+      "name": "KroVynArc",
       "cls": "warrior",
       "rank": 255,
+      "dps": 354,
+      "burst": 291,
+      "ehp": 10423,
+      "score": 974.53,
+      "tank": "C",
+      "hybrid": "C-",
+      "dpst": "C+",
+      "overall": "C-"
+    },
+    {
+      "name": "EchoShade",
+      "cls": "warrior",
+      "rank": 256,
       "dps": 348,
       "burst": 306,
       "ehp": 10568,
@@ -3320,7 +3333,7 @@
     {
       "name": "jkdf",
       "cls": "warrior",
-      "rank": 256,
+      "rank": 257,
       "dps": 336,
       "burst": 295,
       "ehp": 11206,
@@ -3333,7 +3346,7 @@
     {
       "name": "HolyCaelumAuris",
       "cls": "warrior",
-      "rank": 257,
+      "rank": 258,
       "dps": 373,
       "burst": 297,
       "ehp": 9078,
@@ -3346,7 +3359,7 @@
     {
       "name": "Mireyeknod",
       "cls": "warrior",
-      "rank": 258,
+      "rank": 259,
       "dps": 284,
       "burst": 266,
       "ehp": 15654,
@@ -3359,7 +3372,7 @@
     {
       "name": "Valxi",
       "cls": "warrior",
-      "rank": 259,
+      "rank": 260,
       "dps": 377,
       "burst": 307,
       "ehp": 8844,
@@ -3372,7 +3385,7 @@
     {
       "name": "VarianRinn",
       "cls": "warrior",
-      "rank": 260,
+      "rank": 261,
       "dps": 367,
       "burst": 283,
       "ehp": 9948,
@@ -3385,7 +3398,7 @@
     {
       "name": "TheRealDanny",
       "cls": "warrior",
-      "rank": 261,
+      "rank": 262,
       "dps": 326,
       "burst": 269,
       "ehp": 11684,
@@ -3398,7 +3411,7 @@
     {
       "name": "Thommm",
       "cls": "warrior",
-      "rank": 262,
+      "rank": 263,
       "dps": 329,
       "burst": 279,
       "ehp": 11075,
@@ -3411,7 +3424,7 @@
     {
       "name": "TempIar",
       "cls": "warrior",
-      "rank": 263,
+      "rank": 264,
       "dps": 357,
       "burst": 307,
       "ehp": 9373,
@@ -3424,7 +3437,7 @@
     {
       "name": "Utensil",
       "cls": "warrior",
-      "rank": 264,
+      "rank": 265,
       "dps": 344,
       "burst": 269,
       "ehp": 10372,
@@ -3437,7 +3450,7 @@
     {
       "name": "dulc2",
       "cls": "warrior",
-      "rank": 265,
+      "rank": 266,
       "dps": 330,
       "burst": 259,
       "ehp": 11356,
@@ -3450,7 +3463,7 @@
     {
       "name": "babywarrior",
       "cls": "warrior",
-      "rank": 266,
+      "rank": 267,
       "dps": 303,
       "burst": 248,
       "ehp": 13389,
@@ -3458,19 +3471,6 @@
       "tank": "B",
       "hybrid": "C-",
       "dpst": "D+",
-      "overall": "D+"
-    },
-    {
-      "name": "KroVynArc",
-      "cls": "warrior",
-      "rank": 267,
-      "dps": 337,
-      "burst": 291,
-      "ehp": 10516,
-      "score": 971.5,
-      "tank": "C-",
-      "hybrid": "C-",
-      "dpst": "C",
       "overall": "D+"
     },
     {
@@ -5359,9 +5359,22 @@
       "overall": "A+"
     },
     {
-      "name": "pd69",
+      "name": "ParadoxPVP",
       "cls": "mage",
       "rank": 82,
+      "dps": 616,
+      "burst": 489,
+      "ehp": 7705,
+      "score": 999.03,
+      "tank": "A",
+      "hybrid": "A",
+      "dpst": "A",
+      "overall": "A+"
+    },
+    {
+      "name": "pd69",
+      "cls": "mage",
+      "rank": 83,
       "dps": 575,
       "burst": 463,
       "ehp": 8885,
@@ -5374,7 +5387,7 @@
     {
       "name": "prowerxd2",
       "cls": "mage",
-      "rank": 83,
+      "rank": 84,
       "dps": 602,
       "burst": 474,
       "ehp": 8192,
@@ -5387,7 +5400,7 @@
     {
       "name": "terry2",
       "cls": "mage",
-      "rank": 84,
+      "rank": 85,
       "dps": 573,
       "burst": 467,
       "ehp": 8747,
@@ -5400,7 +5413,7 @@
     {
       "name": "DRAKktarm",
       "cls": "mage",
-      "rank": 85,
+      "rank": 86,
       "dps": 584,
       "burst": 466,
       "ehp": 8525,
@@ -5413,7 +5426,7 @@
     {
       "name": "Discipline",
       "cls": "mage",
-      "rank": 86,
+      "rank": 87,
       "dps": 604,
       "burst": 477,
       "ehp": 7965,
@@ -5426,7 +5439,7 @@
     {
       "name": "Shichimi",
       "cls": "mage",
-      "rank": 87,
+      "rank": 88,
       "dps": 627,
       "burst": 518,
       "ehp": 6937,
@@ -5439,7 +5452,7 @@
     {
       "name": "goldd",
       "cls": "mage",
-      "rank": 88,
+      "rank": 89,
       "dps": 573,
       "burst": 501,
       "ehp": 7971,
@@ -5452,7 +5465,7 @@
     {
       "name": "2forU",
       "cls": "mage",
-      "rank": 89,
+      "rank": 90,
       "dps": 572,
       "burst": 486,
       "ehp": 8213,
@@ -5465,7 +5478,7 @@
     {
       "name": "Sinic",
       "cls": "mage",
-      "rank": 90,
+      "rank": 91,
       "dps": 647,
       "burst": 504,
       "ehp": 6792,
@@ -5478,7 +5491,7 @@
     {
       "name": "FarmingIsFun",
       "cls": "mage",
-      "rank": 91,
+      "rank": 92,
       "dps": 611,
       "burst": 514,
       "ehp": 7110,
@@ -5491,7 +5504,7 @@
     {
       "name": "iF1NdYoU",
       "cls": "mage",
-      "rank": 92,
+      "rank": 93,
       "dps": 584,
       "burst": 489,
       "ehp": 7811,
@@ -5504,7 +5517,7 @@
     {
       "name": "Phatmatic",
       "cls": "mage",
-      "rank": 93,
+      "rank": 94,
       "dps": 732,
       "burst": 563,
       "ehp": 5091,
@@ -5517,7 +5530,7 @@
     {
       "name": "iiikkkaaa2",
       "cls": "mage",
-      "rank": 94,
+      "rank": 95,
       "dps": 554,
       "burst": 483,
       "ehp": 8346,
@@ -5530,7 +5543,7 @@
     {
       "name": "2026",
       "cls": "mage",
-      "rank": 95,
+      "rank": 96,
       "dps": 585,
       "burst": 456,
       "ehp": 8243,
@@ -5543,7 +5556,7 @@
     {
       "name": "misoedjak",
       "cls": "mage",
-      "rank": 96,
+      "rank": 97,
       "dps": 569,
       "burst": 464,
       "ehp": 8323,
@@ -5556,7 +5569,7 @@
     {
       "name": "q23",
       "cls": "mage",
-      "rank": 97,
+      "rank": 98,
       "dps": 647,
       "burst": 530,
       "ehp": 6178,
@@ -5569,7 +5582,7 @@
     {
       "name": "Cillmyrgrim",
       "cls": "mage",
-      "rank": 98,
+      "rank": 99,
       "dps": 618,
       "burst": 490,
       "ehp": 7079,
@@ -5582,7 +5595,7 @@
     {
       "name": "CoconutSmells",
       "cls": "mage",
-      "rank": 99,
+      "rank": 100,
       "dps": 653,
       "burst": 510,
       "ehp": 6343,
@@ -5595,7 +5608,7 @@
     {
       "name": "MagusTheManiacal",
       "cls": "mage",
-      "rank": 100,
+      "rank": 101,
       "dps": 606,
       "burst": 478,
       "ehp": 7406,
@@ -5608,7 +5621,7 @@
     {
       "name": "Ln9",
       "cls": "mage",
-      "rank": 101,
+      "rank": 102,
       "dps": 597,
       "burst": 482,
       "ehp": 7470,
@@ -5621,7 +5634,7 @@
     {
       "name": "bIush",
       "cls": "mage",
-      "rank": 102,
+      "rank": 103,
       "dps": 574,
       "burst": 462,
       "ehp": 8170,
@@ -5634,7 +5647,7 @@
     {
       "name": "Dariadeer",
       "cls": "mage",
-      "rank": 103,
+      "rank": 104,
       "dps": 541,
       "burst": 475,
       "ehp": 8441,
@@ -5647,7 +5660,7 @@
     {
       "name": "MexicanLove",
       "cls": "mage",
-      "rank": 104,
+      "rank": 105,
       "dps": 572,
       "burst": 474,
       "ehp": 7881,
@@ -5660,7 +5673,7 @@
     {
       "name": "Sevenrings",
       "cls": "mage",
-      "rank": 105,
+      "rank": 106,
       "dps": 559,
       "burst": 459,
       "ehp": 8400,
@@ -5673,7 +5686,7 @@
     {
       "name": "Oras",
       "cls": "mage",
-      "rank": 106,
+      "rank": 107,
       "dps": 554,
       "burst": 468,
       "ehp": 8235,
@@ -5686,7 +5699,7 @@
     {
       "name": "MatlockTown",
       "cls": "mage",
-      "rank": 107,
+      "rank": 108,
       "dps": 513,
       "burst": 440,
       "ehp": 9632,
@@ -5699,7 +5712,7 @@
     {
       "name": "KONGG",
       "cls": "mage",
-      "rank": 108,
+      "rank": 109,
       "dps": 649,
       "burst": 507,
       "ehp": 6221,
@@ -5712,7 +5725,7 @@
     {
       "name": "LyraChad",
       "cls": "mage",
-      "rank": 109,
+      "rank": 110,
       "dps": 758,
       "burst": 564,
       "ehp": 4566,
@@ -5725,7 +5738,7 @@
     {
       "name": "Goldennn",
       "cls": "mage",
-      "rank": 110,
+      "rank": 111,
       "dps": 565,
       "burst": 483,
       "ehp": 7626,
@@ -5738,7 +5751,7 @@
     {
       "name": "KaisieKanade",
       "cls": "mage",
-      "rank": 111,
+      "rank": 112,
       "dps": 553,
       "burst": 483,
       "ehp": 7765,
@@ -5751,7 +5764,7 @@
     {
       "name": "Untalented",
       "cls": "mage",
-      "rank": 112,
+      "rank": 113,
       "dps": 572,
       "burst": 460,
       "ehp": 7862,
@@ -5764,7 +5777,7 @@
     {
       "name": "Sans6483",
       "cls": "mage",
-      "rank": 113,
+      "rank": 114,
       "dps": 630,
       "burst": 491,
       "ehp": 6455,
@@ -5777,7 +5790,7 @@
     {
       "name": "FleurDeLune",
       "cls": "mage",
-      "rank": 114,
+      "rank": 115,
       "dps": 542,
       "burst": 455,
       "ehp": 8406,
@@ -5790,7 +5803,7 @@
     {
       "name": "BattleHardened",
       "cls": "mage",
-      "rank": 115,
+      "rank": 116,
       "dps": 552,
       "burst": 458,
       "ehp": 8084,
@@ -5803,7 +5816,7 @@
     {
       "name": "I8iD",
       "cls": "mage",
-      "rank": 116,
+      "rank": 117,
       "dps": 594,
       "burst": 495,
       "ehp": 6682,
@@ -5816,7 +5829,7 @@
     {
       "name": "PeterHUN05",
       "cls": "mage",
-      "rank": 117,
+      "rank": 118,
       "dps": 539,
       "burst": 475,
       "ehp": 7840,
@@ -5829,7 +5842,7 @@
     {
       "name": "SaintNSinner",
       "cls": "mage",
-      "rank": 118,
+      "rank": 119,
       "dps": 608,
       "burst": 505,
       "ehp": 6332,
@@ -5842,7 +5855,7 @@
     {
       "name": "troll35",
       "cls": "mage",
-      "rank": 119,
+      "rank": 120,
       "dps": 565,
       "burst": 452,
       "ehp": 7750,
@@ -5855,7 +5868,7 @@
     {
       "name": "AngeIine",
       "cls": "mage",
-      "rank": 120,
+      "rank": 121,
       "dps": 599,
       "burst": 476,
       "ehp": 6819,
@@ -5864,19 +5877,6 @@
       "hybrid": "B+",
       "dpst": "A-",
       "overall": "A-"
-    },
-    {
-      "name": "ParadoxPVP",
-      "cls": "mage",
-      "rank": 121,
-      "dps": 584,
-      "burst": 472,
-      "ehp": 7079,
-      "score": 990.99,
-      "tank": "A-",
-      "hybrid": "B+",
-      "dpst": "A-",
-      "overall": "B+"
     },
     {
       "name": "UI3VE",
