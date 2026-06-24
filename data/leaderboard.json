@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-24T09:43:52.206Z",
+  "fetchedAt": "2026-06-24T14:47:32.888Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -4328,7 +4328,7 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "S",
       "overall": "SSS"
     },
     {
@@ -4432,7 +4432,7 @@
       "score": 1008.86,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A",
+      "dpst": "A+",
       "overall": "SS"
     },
     {
@@ -4783,7 +4783,7 @@
       "score": 1005.74,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -4861,7 +4861,7 @@
       "score": 1004.76,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -5004,7 +5004,7 @@
       "score": 1003.11,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -5082,7 +5082,7 @@
       "score": 1002.02,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A-",
+      "dpst": "A",
       "overall": "A+"
     },
     {
@@ -5433,7 +5433,7 @@
       "score": 998.24,
       "tank": "A",
       "hybrid": "A",
-      "dpst": "A-",
+      "dpst": "A",
       "overall": "A"
     },
     {
@@ -5485,7 +5485,7 @@
       "score": 997.59,
       "tank": "A-",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "S",
       "overall": "A"
     },
     {
@@ -5654,7 +5654,7 @@
       "score": 994.82,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B",
+      "dpst": "B+",
       "overall": "A"
     },
     {
@@ -5745,7 +5745,7 @@
       "score": 993.48,
       "tank": "A-",
       "hybrid": "A-",
-      "dpst": "B+",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -5862,7 +5862,7 @@
       "score": 991.19,
       "tank": "A-",
       "hybrid": "B+",
-      "dpst": "B",
+      "dpst": "B+",
       "overall": "A-"
     },
     {
@@ -6096,7 +6096,7 @@
       "score": 987.24,
       "tank": "A-",
       "hybrid": "B",
-      "dpst": "B-",
+      "dpst": "B",
       "overall": "B+"
     },
     {
@@ -6525,7 +6525,7 @@
       "score": 981.56,
       "tank": "C-",
       "hybrid": "B-",
-      "dpst": "S",
+      "dpst": "SS",
       "overall": "B-"
     },
     {
@@ -6915,7 +6915,7 @@
       "score": 974.65,
       "tank": "D+",
       "hybrid": "C",
-      "dpst": "A",
+      "dpst": "A+",
       "overall": "C"
     },
     {
@@ -6928,7 +6928,7 @@
       "score": 974.65,
       "tank": "B-",
       "hybrid": "C",
-      "dpst": "C-",
+      "dpst": "C",
       "overall": "C"
     },
     {
@@ -7045,7 +7045,7 @@
       "score": 973.53,
       "tank": "C+",
       "hybrid": "C",
-      "dpst": "C+",
+      "dpst": "B-",
       "overall": "C"
     },
     {
@@ -7136,7 +7136,7 @@
       "score": 972.25,
       "tank": "D+",
       "hybrid": "C-",
-      "dpst": "A-",
+      "dpst": "A",
       "overall": "C"
     },
     {
@@ -7149,7 +7149,7 @@
       "score": 971.96,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -7448,7 +7448,7 @@
       "score": 964.32,
       "tank": "D",
       "hybrid": "D",
-      "dpst": "B",
+      "dpst": "B+",
       "overall": "D"
     },
     {
@@ -7591,7 +7591,7 @@
       "score": 961.06,
       "tank": "E",
       "hybrid": "D-",
-      "dpst": "B+",
+      "dpst": "A-",
       "overall": "D"
     },
     {
@@ -7777,9 +7777,22 @@
       "overall": "D-"
     },
     {
-      "name": "FleroloneVG",
+      "name": "Arcynox",
       "cls": "mage",
       "rank": 268,
+      "dps": 417,
+      "burst": 387,
+      "ehp": 5880,
+      "score": 956.6,
+      "tank": "D+",
+      "hybrid": "D-",
+      "dpst": "D-",
+      "overall": "E"
+    },
+    {
+      "name": "FleroloneVG",
+      "cls": "mage",
+      "rank": 269,
       "dps": 485,
       "burst": 416,
       "ehp": 4489,
@@ -7792,7 +7805,7 @@
     {
       "name": "Aryeyaepiol",
       "cls": "mage",
-      "rank": 269,
+      "rank": 270,
       "dps": 547,
       "burst": 435,
       "ehp": 3673,
@@ -7805,7 +7818,7 @@
     {
       "name": "DontBeBonkers",
       "cls": "mage",
-      "rank": 270,
+      "rank": 271,
       "dps": 447,
       "burst": 389,
       "ehp": 5232,
@@ -7818,7 +7831,7 @@
     {
       "name": "HongbIood",
       "cls": "mage",
-      "rank": 271,
+      "rank": 272,
       "dps": 532,
       "burst": 426,
       "ehp": 3802,
@@ -7831,7 +7844,7 @@
     {
       "name": "NeptuneTheGreat",
       "cls": "mage",
-      "rank": 272,
+      "rank": 273,
       "dps": 506,
       "burst": 417,
       "ehp": 4114,
@@ -7844,7 +7857,7 @@
     {
       "name": "TrOOLer",
       "cls": "mage",
-      "rank": 273,
+      "rank": 274,
       "dps": 502,
       "burst": 419,
       "ehp": 4100,
@@ -7857,7 +7870,7 @@
     {
       "name": "PizzaOven",
       "cls": "mage",
-      "rank": 274,
+      "rank": 275,
       "dps": 480,
       "burst": 421,
       "ehp": 4283,
@@ -7870,7 +7883,7 @@
     {
       "name": "Temmieio",
       "cls": "mage",
-      "rank": 275,
+      "rank": 276,
       "dps": 454,
       "burst": 385,
       "ehp": 4924,
@@ -7883,7 +7896,7 @@
     {
       "name": "HisHighness",
       "cls": "mage",
-      "rank": 276,
+      "rank": 277,
       "dps": 502,
       "burst": 400,
       "ehp": 4184,
@@ -7896,7 +7909,7 @@
     {
       "name": "magiclegand123",
       "cls": "mage",
-      "rank": 277,
+      "rank": 278,
       "dps": 461,
       "burst": 420,
       "ehp": 4350,
@@ -7909,7 +7922,7 @@
     {
       "name": "Overheat",
       "cls": "mage",
-      "rank": 278,
+      "rank": 279,
       "dps": 461,
       "burst": 400,
       "ehp": 4561,
@@ -7917,19 +7930,6 @@
       "tank": "D-",
       "hybrid": "F",
       "dpst": "D+",
-      "overall": "F"
-    },
-    {
-      "name": "Arcynox",
-      "cls": "mage",
-      "rank": 279,
-      "dps": 415,
-      "burst": 380,
-      "ehp": 5395,
-      "score": 951.83,
-      "tank": "D",
-      "hybrid": "F",
-      "dpst": "D-",
       "overall": "F"
     },
     {
