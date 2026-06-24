@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-23T20:15:59.397Z",
+  "fetchedAt": "2026-06-24T04:11:42.340Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -4527,9 +4527,22 @@
       "overall": "SS"
     },
     {
-      "name": "24siiuuuu",
+      "name": "killthevg",
       "cls": "mage",
       "rank": 18,
+      "dps": 631,
+      "burst": 509,
+      "ehp": 8841,
+      "score": 1007.95,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "A+",
+      "overall": "SS"
+    },
+    {
+      "name": "24siiuuuu",
+      "cls": "mage",
+      "rank": 19,
       "dps": 618,
       "burst": 508,
       "ehp": 9073,
@@ -4542,7 +4555,7 @@
     {
       "name": "dulc",
       "cls": "mage",
-      "rank": 19,
+      "rank": 20,
       "dps": 624,
       "burst": 510,
       "ehp": 8923,
@@ -4555,7 +4568,7 @@
     {
       "name": "BadpIayersBL",
       "cls": "mage",
-      "rank": 20,
+      "rank": 21,
       "dps": 623,
       "burst": 488,
       "ehp": 9379,
@@ -4563,19 +4576,6 @@
       "tank": "SS",
       "hybrid": "SS",
       "dpst": "A",
-      "overall": "SS"
-    },
-    {
-      "name": "killthevg",
-      "cls": "mage",
-      "rank": 21,
-      "dps": 622,
-      "burst": 513,
-      "ehp": 8893,
-      "score": 1007.82,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "A+",
       "overall": "SS"
     },
     {
