@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-25T14:46:59.669Z",
+  "fetchedAt": "2026-06-25T20:12:32.711Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -4368,7 +4368,7 @@
       "tank": "SS",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "shutiao",
@@ -4732,7 +4732,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "LordHuTao",
@@ -4745,7 +4745,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "A",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "Huavg",
@@ -5433,7 +5433,7 @@
       "score": 998.24,
       "tank": "A",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A"
     },
     {
@@ -5654,8 +5654,8 @@
       "score": 994.82,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B+",
-      "overall": "A"
+      "dpst": "B",
+      "overall": "A-"
     },
     {
       "name": "MexicanLove",
@@ -5745,7 +5745,7 @@
       "score": 993.48,
       "tank": "A-",
       "hybrid": "A-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "A-"
     },
     {
@@ -5876,7 +5876,7 @@
       "tank": "B+",
       "hybrid": "B+",
       "dpst": "A-",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "UI3VE",
@@ -6097,7 +6097,7 @@
       "tank": "A-",
       "hybrid": "B",
       "dpst": "B",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Nyriirag7218",
@@ -6110,7 +6110,7 @@
       "tank": "B+",
       "hybrid": "B",
       "dpst": "B",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "ViIa",
@@ -6123,7 +6123,7 @@
       "tank": "B",
       "hybrid": "B",
       "dpst": "A-",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Xjoyu",
@@ -6525,7 +6525,7 @@
       "score": 981.56,
       "tank": "C-",
       "hybrid": "B-",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "B-"
     },
     {
@@ -6838,7 +6838,7 @@
       "tank": "B",
       "hybrid": "C+",
       "dpst": "D+",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "Iceshine",
@@ -7045,7 +7045,7 @@
       "score": 973.53,
       "tank": "C+",
       "hybrid": "C",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -7136,7 +7136,7 @@
       "score": 972.25,
       "tank": "D+",
       "hybrid": "C-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "C"
     },
     {
@@ -7149,7 +7149,7 @@
       "score": 971.96,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "C-"
     },
     {
@@ -8024,9 +8024,22 @@
       "overall": "F"
     },
     {
-      "name": "Starfyr",
+      "name": "Witchling",
       "cls": "mage",
       "rank": 287,
+      "dps": 432,
+      "burst": 368,
+      "ehp": 5050,
+      "score": 949.56,
+      "tank": "D-",
+      "hybrid": "F",
+      "dpst": "D-",
+      "overall": "F"
+    },
+    {
+      "name": "Starfyr",
+      "cls": "mage",
+      "rank": 288,
       "dps": 457,
       "burst": 406,
       "ehp": 4219,
@@ -8039,7 +8052,7 @@
     {
       "name": "GCnub",
       "cls": "mage",
-      "rank": 288,
+      "rank": 289,
       "dps": 435,
       "burst": 393,
       "ehp": 4619,
@@ -11183,9 +11196,22 @@
       "overall": "C+"
     },
     {
-      "name": "3184318431843184",
+      "name": "killthevg03",
       "cls": "archer",
       "rank": 242,
+      "dps": 438,
+      "burst": 396,
+      "ehp": 6421,
+      "score": 968.25,
+      "tank": "B",
+      "hybrid": "C+",
+      "dpst": "B-",
+      "overall": "C+"
+    },
+    {
+      "name": "3184318431843184",
+      "cls": "archer",
+      "rank": 243,
       "dps": 468,
       "burst": 412,
       "ehp": 5668,
@@ -11198,7 +11224,7 @@
     {
       "name": "RXmixw1234",
       "cls": "archer",
-      "rank": 243,
+      "rank": 244,
       "dps": 469,
       "burst": 412,
       "ehp": 5611,
@@ -11211,7 +11237,7 @@
     {
       "name": "WarDogKiller",
       "cls": "archer",
-      "rank": 244,
+      "rank": 245,
       "dps": 524,
       "burst": 400,
       "ehp": 5097,
@@ -11224,7 +11250,7 @@
     {
       "name": "HeadIess",
       "cls": "archer",
-      "rank": 245,
+      "rank": 246,
       "dps": 474,
       "burst": 415,
       "ehp": 5470,
@@ -11237,7 +11263,7 @@
     {
       "name": "Yassou",
       "cls": "archer",
-      "rank": 246,
+      "rank": 247,
       "dps": 501,
       "burst": 437,
       "ehp": 4841,
@@ -11250,7 +11276,7 @@
     {
       "name": "molykote",
       "cls": "archer",
-      "rank": 247,
+      "rank": 248,
       "dps": 418,
       "burst": 360,
       "ehp": 7363,
@@ -11263,7 +11289,7 @@
     {
       "name": "Arkgecko",
       "cls": "archer",
-      "rank": 248,
+      "rank": 249,
       "dps": 465,
       "burst": 376,
       "ehp": 6173,
@@ -11276,7 +11302,7 @@
     {
       "name": "Sylis",
       "cls": "archer",
-      "rank": 249,
+      "rank": 250,
       "dps": 455,
       "burst": 391,
       "ehp": 6039,
@@ -11289,7 +11315,7 @@
     {
       "name": "archer1254",
       "cls": "archer",
-      "rank": 250,
+      "rank": 251,
       "dps": 474,
       "burst": 419,
       "ehp": 5298,
@@ -11302,7 +11328,7 @@
     {
       "name": "Spiritarch",
       "cls": "archer",
-      "rank": 251,
+      "rank": 252,
       "dps": 544,
       "burst": 421,
       "ehp": 4352,
@@ -11315,24 +11341,11 @@
     {
       "name": "LittleXDM",
       "cls": "archer",
-      "rank": 252,
+      "rank": 253,
       "dps": 442,
       "burst": 415,
       "ehp": 5632,
       "score": 965.19,
-      "tank": "B-",
-      "hybrid": "C+",
-      "dpst": "B-",
-      "overall": "C+"
-    },
-    {
-      "name": "killthevg03",
-      "cls": "archer",
-      "rank": 253,
-      "dps": 442,
-      "burst": 401,
-      "ehp": 5806,
-      "score": 964.89,
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "B-",
