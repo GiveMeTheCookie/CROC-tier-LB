@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-25T04:11:50.694Z",
+  "fetchedAt": "2026-06-25T09:36:06.073Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8817,9 +8817,22 @@
       "overall": "S"
     },
     {
-      "name": "blackajacka",
+      "name": "whiteflavored",
       "cls": "archer",
       "rank": 60,
+      "dps": 567,
+      "burst": 491,
+      "ehp": 8993,
+      "score": 1005.93,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S"
+    },
+    {
+      "name": "blackajacka",
+      "cls": "archer",
+      "rank": 61,
       "dps": 571,
       "burst": 461,
       "ehp": 9519,
@@ -8832,7 +8845,7 @@
     {
       "name": "DontCCMeBro",
       "cls": "archer",
-      "rank": 61,
+      "rank": 62,
       "dps": 608,
       "burst": 507,
       "ehp": 7938,
@@ -8845,7 +8858,7 @@
     {
       "name": "Rineggan",
       "cls": "archer",
-      "rank": 62,
+      "rank": 63,
       "dps": 597,
       "burst": 481,
       "ehp": 8553,
@@ -8858,7 +8871,7 @@
     {
       "name": "MythicPro",
       "cls": "archer",
-      "rank": 63,
+      "rank": 64,
       "dps": 594,
       "burst": 465,
       "ehp": 8936,
@@ -8871,7 +8884,7 @@
     {
       "name": "FindMe",
       "cls": "archer",
-      "rank": 64,
+      "rank": 65,
       "dps": 559,
       "burst": 486,
       "ehp": 9094,
@@ -8884,7 +8897,7 @@
     {
       "name": "qsdw",
       "cls": "archer",
-      "rank": 65,
+      "rank": 66,
       "dps": 594,
       "burst": 480,
       "ehp": 8587,
@@ -8897,7 +8910,7 @@
     {
       "name": "EternalGlory",
       "cls": "archer",
-      "rank": 66,
+      "rank": 67,
       "dps": 654,
       "burst": 504,
       "ehp": 7218,
@@ -8910,7 +8923,7 @@
     {
       "name": "Carson107",
       "cls": "archer",
-      "rank": 67,
+      "rank": 68,
       "dps": 548,
       "burst": 474,
       "ehp": 9477,
@@ -8923,7 +8936,7 @@
     {
       "name": "xRishi",
       "cls": "archer",
-      "rank": 68,
+      "rank": 69,
       "dps": 575,
       "burst": 535,
       "ehp": 7814,
@@ -8936,7 +8949,7 @@
     {
       "name": "Maframz",
       "cls": "archer",
-      "rank": 69,
+      "rank": 70,
       "dps": 620,
       "burst": 480,
       "ehp": 8056,
@@ -8949,23 +8962,10 @@
     {
       "name": "Yix",
       "cls": "archer",
-      "rank": 70,
+      "rank": 71,
       "dps": 585,
       "burst": 470,
       "ehp": 8799,
-      "score": 1004.4,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "S",
-      "overall": "S"
-    },
-    {
-      "name": "whiteflavored",
-      "cls": "archer",
-      "rank": 71,
-      "dps": 584,
-      "burst": 506,
-      "ehp": 8124,
       "score": 1004.4,
       "tank": "S",
       "hybrid": "S",
