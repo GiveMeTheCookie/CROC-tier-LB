@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-26T09:41:33.922Z",
+  "fetchedAt": "2026-06-26T14:39:12.722Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -2967,9 +2967,22 @@
       "overall": "C"
     },
     {
-      "name": "Juanpro29",
+      "name": "KroVynArc",
       "cls": "warrior",
       "rank": 229,
+      "dps": 370,
+      "burst": 318,
+      "ehp": 10359,
+      "score": 978.71,
+      "tank": "D+",
+      "hybrid": "C",
+      "dpst": "B-",
+      "overall": "C"
+    },
+    {
+      "name": "Juanpro29",
+      "cls": "warrior",
+      "rank": 230,
       "dps": 356,
       "burst": 345,
       "ehp": 11425,
@@ -2982,7 +2995,7 @@
     {
       "name": "Skullpine5",
       "cls": "warrior",
-      "rank": 230,
+      "rank": 231,
       "dps": 294,
       "burst": 254,
       "ehp": 15777,
@@ -2995,7 +3008,7 @@
     {
       "name": "Kawgr",
       "cls": "warrior",
-      "rank": 231,
+      "rank": 232,
       "dps": 336,
       "burst": 295,
       "ehp": 11991,
@@ -3008,7 +3021,7 @@
     {
       "name": "SIain",
       "cls": "warrior",
-      "rank": 232,
+      "rank": 233,
       "dps": 393,
       "burst": 313,
       "ehp": 9162,
@@ -3021,7 +3034,7 @@
     {
       "name": "Cel3",
       "cls": "warrior",
-      "rank": 233,
+      "rank": 234,
       "dps": 338,
       "burst": 256,
       "ehp": 12372,
@@ -3034,7 +3047,7 @@
     {
       "name": "xNamix",
       "cls": "warrior",
-      "rank": 234,
+      "rank": 235,
       "dps": 365,
       "burst": 295,
       "ehp": 10187,
@@ -3047,7 +3060,7 @@
     {
       "name": "pelacara",
       "cls": "warrior",
-      "rank": 235,
+      "rank": 236,
       "dps": 336,
       "burst": 286,
       "ehp": 11825,
@@ -3060,7 +3073,7 @@
     {
       "name": "CharmedZ",
       "cls": "warrior",
-      "rank": 236,
+      "rank": 237,
       "dps": 361,
       "burst": 319,
       "ehp": 10622,
@@ -3073,7 +3086,7 @@
     {
       "name": "Gleyshur",
       "cls": "warrior",
-      "rank": 237,
+      "rank": 238,
       "dps": 363,
       "burst": 280,
       "ehp": 10322,
@@ -3086,7 +3099,7 @@
     {
       "name": "LeatherManVan",
       "cls": "warrior",
-      "rank": 238,
+      "rank": 239,
       "dps": 379,
       "burst": 307,
       "ehp": 9664,
@@ -3099,7 +3112,7 @@
     {
       "name": "VendoMonza96",
       "cls": "warrior",
-      "rank": 239,
+      "rank": 240,
       "dps": 384,
       "burst": 317,
       "ehp": 9195,
@@ -3112,7 +3125,7 @@
     {
       "name": "WarriorMad",
       "cls": "warrior",
-      "rank": 240,
+      "rank": 241,
       "dps": 347,
       "burst": 309,
       "ehp": 11162,
@@ -3125,7 +3138,7 @@
     {
       "name": "Boundzal",
       "cls": "warrior",
-      "rank": 241,
+      "rank": 242,
       "dps": 351,
       "burst": 290,
       "ehp": 11426,
@@ -3138,7 +3151,7 @@
     {
       "name": "Caiio",
       "cls": "warrior",
-      "rank": 242,
+      "rank": 243,
       "dps": 373,
       "burst": 303,
       "ehp": 9607,
@@ -3151,7 +3164,7 @@
     {
       "name": "Zukaiku",
       "cls": "warrior",
-      "rank": 243,
+      "rank": 244,
       "dps": 307,
       "burst": 279,
       "ehp": 14414,
@@ -3164,7 +3177,7 @@
     {
       "name": "Skorpius",
       "cls": "warrior",
-      "rank": 244,
+      "rank": 245,
       "dps": 399,
       "burst": 310,
       "ehp": 8621,
@@ -3177,7 +3190,7 @@
     {
       "name": "karashi",
       "cls": "warrior",
-      "rank": 245,
+      "rank": 246,
       "dps": 333,
       "burst": 267,
       "ehp": 12183,
@@ -3190,7 +3203,7 @@
     {
       "name": "dada3",
       "cls": "warrior",
-      "rank": 246,
+      "rank": 247,
       "dps": 391,
       "burst": 318,
       "ehp": 8526,
@@ -3203,25 +3216,12 @@
     {
       "name": "Nightyrni",
       "cls": "warrior",
-      "rank": 247,
+      "rank": 248,
       "dps": 358,
       "burst": 281,
       "ehp": 10664,
       "score": 975.75,
       "tank": "C+",
-      "hybrid": "C-",
-      "dpst": "C+",
-      "overall": "C-"
-    },
-    {
-      "name": "KroVynArc",
-      "cls": "warrior",
-      "rank": 248,
-      "dps": 362,
-      "burst": 296,
-      "ehp": 10109,
-      "score": 975.45,
-      "tank": "C-",
       "hybrid": "C-",
       "dpst": "C+",
       "overall": "C-"
@@ -6802,9 +6802,22 @@
       "overall": "C+"
     },
     {
-      "name": "SirDmgALot",
+      "name": "LadyVelin",
       "cls": "mage",
       "rank": 193,
+      "dps": 454,
+      "burst": 404,
+      "ehp": 8017,
+      "score": 976.13,
+      "tank": "B",
+      "hybrid": "C+",
+      "dpst": "D+",
+      "overall": "C+"
+    },
+    {
+      "name": "SirDmgALot",
+      "cls": "mage",
+      "rank": 194,
       "dps": 604,
       "burst": 490,
       "ehp": 4597,
@@ -6817,7 +6830,7 @@
     {
       "name": "Xuguclaw",
       "cls": "mage",
-      "rank": 194,
+      "rank": 195,
       "dps": 577,
       "burst": 466,
       "ehp": 5141,
@@ -6826,19 +6839,6 @@
       "hybrid": "C",
       "dpst": "B+",
       "overall": "C+"
-    },
-    {
-      "name": "LadyVelin",
-      "cls": "mage",
-      "rank": 195,
-      "dps": 449,
-      "burst": 408,
-      "ehp": 7980,
-      "score": 975.81,
-      "tank": "B",
-      "hybrid": "C+",
-      "dpst": "D+",
-      "overall": "C"
     },
     {
       "name": "Iceshine",
