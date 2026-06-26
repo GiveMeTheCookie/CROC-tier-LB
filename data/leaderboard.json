@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-26T14:39:12.722Z",
+  "fetchedAt": "2026-06-26T20:00:58.156Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6659,9 +6659,22 @@
       "overall": "C+"
     },
     {
-      "name": "GankerKiller",
+      "name": "octo88",
       "cls": "mage",
       "rank": 182,
+      "dps": 615,
+      "burst": 488,
+      "ehp": 4876,
+      "score": 979.19,
+      "tank": "C",
+      "hybrid": "C+",
+      "dpst": "A",
+      "overall": "C+"
+    },
+    {
+      "name": "GankerKiller",
+      "cls": "mage",
+      "rank": 183,
       "dps": 535,
       "burst": 453,
       "ehp": 6217,
@@ -6674,7 +6687,7 @@
     {
       "name": "Th3yDisappointM3",
       "cls": "mage",
-      "rank": 183,
+      "rank": 184,
       "dps": 537,
       "burst": 451,
       "ehp": 6215,
@@ -6687,7 +6700,7 @@
     {
       "name": "konkonkonkon",
       "cls": "mage",
-      "rank": 184,
+      "rank": 185,
       "dps": 599,
       "burst": 487,
       "ehp": 4983,
@@ -6700,7 +6713,7 @@
     {
       "name": "BAITING",
       "cls": "mage",
-      "rank": 185,
+      "rank": 186,
       "dps": 534,
       "burst": 450,
       "ehp": 6183,
@@ -6713,7 +6726,7 @@
     {
       "name": "Walzoth",
       "cls": "mage",
-      "rank": 186,
+      "rank": 187,
       "dps": 611,
       "burst": 483,
       "ehp": 4863,
@@ -6726,7 +6739,7 @@
     {
       "name": "XxMellseaskullxX",
       "cls": "mage",
-      "rank": 187,
+      "rank": 188,
       "dps": 522,
       "burst": 440,
       "ehp": 6461,
@@ -6734,19 +6747,6 @@
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "B-",
-      "overall": "C+"
-    },
-    {
-      "name": "octo88",
-      "cls": "mage",
-      "rank": 188,
-      "dps": 611,
-      "burst": 482,
-      "ehp": 4833,
-      "score": 977.94,
-      "tank": "C",
-      "hybrid": "C+",
-      "dpst": "A",
       "overall": "C+"
     },
     {
@@ -9116,9 +9116,22 @@
       "overall": "S"
     },
     {
-      "name": "BowWizard",
+      "name": "chimeara",
       "cls": "archer",
       "rank": 82,
+      "dps": 560,
+      "burst": 503,
+      "ehp": 8348,
+      "score": 1003.18,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S"
+    },
+    {
+      "name": "BowWizard",
+      "cls": "archer",
+      "rank": 83,
       "dps": 606,
       "burst": 453,
       "ehp": 8548,
@@ -9131,7 +9144,7 @@
     {
       "name": "CosmosNebula",
       "cls": "archer",
-      "rank": 83,
+      "rank": 84,
       "dps": 598,
       "burst": 484,
       "ehp": 8042,
@@ -9144,7 +9157,7 @@
     {
       "name": "GLOBE",
       "cls": "archer",
-      "rank": 84,
+      "rank": 85,
       "dps": 542,
       "burst": 468,
       "ehp": 9351,
@@ -9157,7 +9170,7 @@
     {
       "name": "Mirdoom",
       "cls": "archer",
-      "rank": 85,
+      "rank": 86,
       "dps": 536,
       "burst": 447,
       "ehp": 9956,
@@ -9170,7 +9183,7 @@
     {
       "name": "Mecanico",
       "cls": "archer",
-      "rank": 86,
+      "rank": 87,
       "dps": 634,
       "burst": 447,
       "ehp": 8128,
@@ -9183,7 +9196,7 @@
     {
       "name": "GudArcher",
       "cls": "archer",
-      "rank": 87,
+      "rank": 88,
       "dps": 537,
       "burst": 502,
       "ehp": 8632,
@@ -9196,7 +9209,7 @@
     {
       "name": "Last1Man",
       "cls": "archer",
-      "rank": 88,
+      "rank": 89,
       "dps": 592,
       "burst": 479,
       "ehp": 8117,
@@ -9209,7 +9222,7 @@
     {
       "name": "Violent",
       "cls": "archer",
-      "rank": 89,
+      "rank": 90,
       "dps": 598,
       "burst": 471,
       "ehp": 8164,
@@ -9222,7 +9235,7 @@
     {
       "name": "Dreamlock",
       "cls": "archer",
-      "rank": 90,
+      "rank": 91,
       "dps": 582,
       "burst": 544,
       "ehp": 7173,
@@ -9235,7 +9248,7 @@
     {
       "name": "heocung323",
       "cls": "archer",
-      "rank": 91,
+      "rank": 92,
       "dps": 620,
       "burst": 497,
       "ehp": 7363,
@@ -9248,7 +9261,7 @@
     {
       "name": "YTboron",
       "cls": "archer",
-      "rank": 92,
+      "rank": 93,
       "dps": 553,
       "burst": 463,
       "ehp": 9098,
@@ -9261,7 +9274,7 @@
     {
       "name": "cskiller",
       "cls": "archer",
-      "rank": 93,
+      "rank": 94,
       "dps": 573,
       "burst": 458,
       "ehp": 8790,
@@ -9269,19 +9282,6 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
-    },
-    {
-      "name": "chimeara",
-      "cls": "archer",
-      "rank": 94,
-      "dps": 555,
-      "burst": 498,
-      "ehp": 8283,
-      "score": 1001.99,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "S",
       "overall": "S"
     },
     {
