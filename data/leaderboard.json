@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-27T04:04:50.969Z",
+  "fetchedAt": "2026-06-27T08:46:18.300Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -13003,9 +13003,22 @@
       "overall": "SS"
     },
     {
-      "name": "UltimoChaman",
+      "name": "Healhealhealheal",
       "cls": "shaman",
       "rank": 36,
+      "dps": 585,
+      "burst": 406,
+      "ehp": 9255,
+      "score": 1009.37,
+      "tank": "A+",
+      "hybrid": "S",
+      "dpst": "SS",
+      "overall": "S"
+    },
+    {
+      "name": "UltimoChaman",
+      "cls": "shaman",
+      "rank": 37,
       "dps": 585,
       "burst": 408,
       "ehp": 9237,
@@ -13018,7 +13031,7 @@
     {
       "name": "iDrugDealer",
       "cls": "shaman",
-      "rank": 37,
+      "rank": 38,
       "dps": 580,
       "burst": 392,
       "ehp": 9373,
@@ -13031,7 +13044,7 @@
     {
       "name": "PeterHUN04",
       "cls": "shaman",
-      "rank": 38,
+      "rank": 39,
       "dps": 575,
       "burst": 386,
       "ehp": 9412,
@@ -13044,7 +13057,7 @@
     {
       "name": "Ozphyron",
       "cls": "shaman",
-      "rank": 39,
+      "rank": 40,
       "dps": 600,
       "burst": 415,
       "ehp": 8759,
@@ -13057,7 +13070,7 @@
     {
       "name": "Axile",
       "cls": "shaman",
-      "rank": 40,
+      "rank": 41,
       "dps": 579,
       "burst": 404,
       "ehp": 9343,
@@ -13070,7 +13083,7 @@
     {
       "name": "kittenouo",
       "cls": "shaman",
-      "rank": 41,
+      "rank": 42,
       "dps": 566,
       "burst": 390,
       "ehp": 9749,
@@ -13078,19 +13091,6 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "S"
-    },
-    {
-      "name": "Healhealhealheal",
-      "cls": "shaman",
-      "rank": 42,
-      "dps": 595,
-      "burst": 425,
-      "ehp": 8806,
-      "score": 1008.94,
-      "tank": "A+",
-      "hybrid": "S",
-      "dpst": "SSS",
       "overall": "S"
     },
     {
@@ -15434,9 +15434,22 @@
       "overall": "C"
     },
     {
-      "name": "Babljon",
+      "name": "SyIphiette",
       "cls": "shaman",
       "rank": 223,
+      "dps": 484,
+      "burst": 364,
+      "ehp": 6852,
+      "score": 979.45,
+      "tank": "C",
+      "hybrid": "C",
+      "dpst": "B-",
+      "overall": "C"
+    },
+    {
+      "name": "Babljon",
+      "cls": "shaman",
+      "rank": 224,
       "dps": 458,
       "burst": 339,
       "ehp": 7289,
@@ -15449,7 +15462,7 @@
     {
       "name": "BubblyWater",
       "cls": "shaman",
-      "rank": 224,
+      "rank": 225,
       "dps": 459,
       "burst": 383,
       "ehp": 7724,
@@ -15462,7 +15475,7 @@
     {
       "name": "lBlankI",
       "cls": "shaman",
-      "rank": 225,
+      "rank": 226,
       "dps": 458,
       "burst": 338,
       "ehp": 7154,
@@ -15470,19 +15483,6 @@
       "tank": "C+",
       "hybrid": "C-",
       "dpst": "C",
-      "overall": "C-"
-    },
-    {
-      "name": "SyIphiette",
-      "cls": "shaman",
-      "rank": 226,
-      "dps": 503,
-      "burst": 369,
-      "ehp": 6069,
-      "score": 977.71,
-      "tank": "C-",
-      "hybrid": "C",
-      "dpst": "B",
       "overall": "C-"
     },
     {
