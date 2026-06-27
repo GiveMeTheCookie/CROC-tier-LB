@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-27T13:58:13.551Z",
+  "fetchedAt": "2026-06-27T19:39:10.043Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -2733,9 +2733,22 @@
       "overall": "C+"
     },
     {
-      "name": "Polish",
+      "name": "KroVynArc",
       "cls": "warrior",
       "rank": 211,
+      "dps": 371,
+      "burst": 317,
+      "ehp": 11092,
+      "score": 981.61,
+      "tank": "C-",
+      "hybrid": "C+",
+      "dpst": "B",
+      "overall": "C+"
+    },
+    {
+      "name": "Polish",
+      "cls": "warrior",
+      "rank": 212,
       "dps": 383,
       "burst": 304,
       "ehp": 10198,
@@ -2748,7 +2761,7 @@
     {
       "name": "Straxtic",
       "cls": "warrior",
-      "rank": 212,
+      "rank": 213,
       "dps": 389,
       "burst": 312,
       "ehp": 10037,
@@ -2761,7 +2774,7 @@
     {
       "name": "heorong234",
       "cls": "warrior",
-      "rank": 213,
+      "rank": 214,
       "dps": 385,
       "burst": 305,
       "ehp": 10135,
@@ -2774,7 +2787,7 @@
     {
       "name": "HydrogenBob",
       "cls": "warrior",
-      "rank": 214,
+      "rank": 215,
       "dps": 335,
       "burst": 292,
       "ehp": 13522,
@@ -2787,7 +2800,7 @@
     {
       "name": "jenaga",
       "cls": "warrior",
-      "rank": 215,
+      "rank": 216,
       "dps": 379,
       "burst": 301,
       "ehp": 10556,
@@ -2800,7 +2813,7 @@
     {
       "name": "IBlankl",
       "cls": "warrior",
-      "rank": 216,
+      "rank": 217,
       "dps": 344,
       "burst": 308,
       "ehp": 12050,
@@ -2813,7 +2826,7 @@
     {
       "name": "doobadeeba",
       "cls": "warrior",
-      "rank": 217,
+      "rank": 218,
       "dps": 344,
       "burst": 298,
       "ehp": 12418,
@@ -2826,7 +2839,7 @@
     {
       "name": "LiquidBlade",
       "cls": "warrior",
-      "rank": 218,
+      "rank": 219,
       "dps": 372,
       "burst": 324,
       "ehp": 10478,
@@ -2839,7 +2852,7 @@
     {
       "name": "playee69",
       "cls": "warrior",
-      "rank": 219,
+      "rank": 220,
       "dps": 303,
       "burst": 272,
       "ehp": 15689,
@@ -2852,7 +2865,7 @@
     {
       "name": "INVINCIBLEmcg00t",
       "cls": "warrior",
-      "rank": 220,
+      "rank": 221,
       "dps": 344,
       "burst": 304,
       "ehp": 12180,
@@ -2865,7 +2878,7 @@
     {
       "name": "Arcturion",
       "cls": "warrior",
-      "rank": 221,
+      "rank": 222,
       "dps": 428,
       "burst": 312,
       "ehp": 8408,
@@ -2878,7 +2891,7 @@
     {
       "name": "Dua",
       "cls": "warrior",
-      "rank": 222,
+      "rank": 223,
       "dps": 413,
       "burst": 302,
       "ehp": 9097,
@@ -2891,7 +2904,7 @@
     {
       "name": "Kashuki",
       "cls": "warrior",
-      "rank": 223,
+      "rank": 224,
       "dps": 348,
       "burst": 316,
       "ehp": 11589,
@@ -2904,7 +2917,7 @@
     {
       "name": "LordTankZ",
       "cls": "warrior",
-      "rank": 224,
+      "rank": 225,
       "dps": 371,
       "burst": 327,
       "ehp": 10271,
@@ -2917,7 +2930,7 @@
     {
       "name": "K467",
       "cls": "warrior",
-      "rank": 225,
+      "rank": 226,
       "dps": 340,
       "burst": 268,
       "ehp": 12893,
@@ -2930,7 +2943,7 @@
     {
       "name": "Trissghost",
       "cls": "warrior",
-      "rank": 226,
+      "rank": 227,
       "dps": 326,
       "burst": 286,
       "ehp": 13441,
@@ -2943,7 +2956,7 @@
     {
       "name": "v0idd",
       "cls": "warrior",
-      "rank": 227,
+      "rank": 228,
       "dps": 385,
       "burst": 299,
       "ehp": 9840,
@@ -2956,7 +2969,7 @@
     {
       "name": "FadeTale",
       "cls": "warrior",
-      "rank": 228,
+      "rank": 229,
       "dps": 345,
       "burst": 278,
       "ehp": 12024,
@@ -2969,7 +2982,7 @@
     {
       "name": "vienradzis",
       "cls": "warrior",
-      "rank": 229,
+      "rank": 230,
       "dps": 414,
       "burst": 309,
       "ehp": 8688,
@@ -2977,19 +2990,6 @@
       "tank": "C-",
       "hybrid": "C-",
       "dpst": "B",
-      "overall": "C"
-    },
-    {
-      "name": "KroVynArc",
-      "cls": "warrior",
-      "rank": 230,
-      "dps": 370,
-      "burst": 318,
-      "ehp": 10359,
-      "score": 978.71,
-      "tank": "D+",
-      "hybrid": "C",
-      "dpst": "B-",
       "overall": "C"
     },
     {
