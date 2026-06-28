@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-28T17:45:15.725Z",
+  "fetchedAt": "2026-06-28T19:40:35.815Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -11082,11 +11082,11 @@
       "name": "killthevg03",
       "cls": "archer",
       "rank": 232,
-      "dps": 433,
-      "burst": 391,
-      "ehp": 6908,
-      "score": 970.08,
-      "tank": "B",
+      "dps": 424,
+      "burst": 384,
+      "ehp": 7278,
+      "score": 970.43,
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
