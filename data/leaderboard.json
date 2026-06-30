@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-06-30T09:54:32.523Z",
+  "fetchedAt": "2026-06-30T14:34:32.168Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7023,22 +7023,9 @@
       "overall": "C"
     },
     {
-      "name": "karutimconver",
-      "cls": "mage",
-      "rank": 209,
-      "dps": 467,
-      "burst": 401,
-      "ehp": 7378,
-      "score": 973.75,
-      "tank": "B-",
-      "hybrid": "C",
-      "dpst": "D+",
-      "overall": "C"
-    },
-    {
       "name": "ujuxx",
       "cls": "mage",
-      "rank": 210,
+      "rank": 209,
       "dps": 523,
       "burst": 428,
       "ehp": 5998,
@@ -7051,7 +7038,7 @@
     {
       "name": "FrostedFlake",
       "cls": "mage",
-      "rank": 211,
+      "rank": 210,
       "dps": 504,
       "burst": 451,
       "ehp": 5906,
@@ -7064,7 +7051,7 @@
     {
       "name": "ArkaaaX",
       "cls": "mage",
-      "rank": 212,
+      "rank": 211,
       "dps": 529,
       "burst": 440,
       "ehp": 5677,
@@ -7077,7 +7064,7 @@
     {
       "name": "1nc",
       "cls": "mage",
-      "rank": 213,
+      "rank": 212,
       "dps": 520,
       "burst": 447,
       "ehp": 5693,
@@ -7090,7 +7077,7 @@
     {
       "name": "mageTwink2",
       "cls": "mage",
-      "rank": 214,
+      "rank": 213,
       "dps": 569,
       "burst": 473,
       "ehp": 4801,
@@ -7103,7 +7090,7 @@
     {
       "name": "Leppard99",
       "cls": "mage",
-      "rank": 215,
+      "rank": 214,
       "dps": 519,
       "burst": 463,
       "ehp": 5491,
@@ -7111,6 +7098,19 @@
       "tank": "C",
       "hybrid": "C",
       "dpst": "B-",
+      "overall": "C"
+    },
+    {
+      "name": "karutimconver",
+      "cls": "mage",
+      "rank": 215,
+      "dps": 441,
+      "burst": 379,
+      "ehp": 8271,
+      "score": 973.05,
+      "tank": "B",
+      "hybrid": "C",
+      "dpst": "D",
       "overall": "C"
     },
     {
