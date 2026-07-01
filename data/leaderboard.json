@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-01T02:39:33.627Z",
+  "fetchedAt": "2026-07-01T03:01:53.341Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8713,9 +8713,22 @@
       "overall": "SS"
     },
     {
-      "name": "SwishSwish",
+      "name": "Carson107",
       "cls": "archer",
       "rank": 50,
+      "dps": 558,
+      "burst": 483,
+      "ehp": 9510,
+      "score": 1006.72,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "A+",
+      "overall": "SS"
+    },
+    {
+      "name": "SwishSwish",
+      "cls": "archer",
+      "rank": 51,
       "dps": 572,
       "burst": 478,
       "ehp": 9340,
@@ -8728,7 +8741,7 @@
     {
       "name": "shutiao2",
       "cls": "archer",
-      "rank": 51,
+      "rank": 52,
       "dps": 618,
       "burst": 532,
       "ehp": 7571,
@@ -8741,7 +8754,7 @@
     {
       "name": "toothman",
       "cls": "archer",
-      "rank": 52,
+      "rank": 53,
       "dps": 623,
       "burst": 481,
       "ehp": 8382,
@@ -8754,7 +8767,7 @@
     {
       "name": "EraWalk",
       "cls": "archer",
-      "rank": 53,
+      "rank": 54,
       "dps": 626,
       "burst": 498,
       "ehp": 8018,
@@ -8767,7 +8780,7 @@
     {
       "name": "OnlyWind",
       "cls": "archer",
-      "rank": 54,
+      "rank": 55,
       "dps": 619,
       "burst": 495,
       "ehp": 8167,
@@ -8780,7 +8793,7 @@
     {
       "name": "Desidia",
       "cls": "archer",
-      "rank": 55,
+      "rank": 56,
       "dps": 575,
       "burst": 496,
       "ehp": 8832,
@@ -8793,7 +8806,7 @@
     {
       "name": "jasiubayer2",
       "cls": "archer",
-      "rank": 56,
+      "rank": 57,
       "dps": 581,
       "burst": 483,
       "ehp": 8983,
@@ -8806,7 +8819,7 @@
     {
       "name": "DontBeMe",
       "cls": "archer",
-      "rank": 57,
+      "rank": 58,
       "dps": 621,
       "burst": 482,
       "ehp": 8299,
@@ -8819,7 +8832,7 @@
     {
       "name": "GFDO",
       "cls": "archer",
-      "rank": 58,
+      "rank": 59,
       "dps": 571,
       "burst": 493,
       "ehp": 8918,
@@ -8832,7 +8845,7 @@
     {
       "name": "BLsdb",
       "cls": "archer",
-      "rank": 59,
+      "rank": 60,
       "dps": 609,
       "burst": 506,
       "ehp": 8032,
@@ -8845,7 +8858,7 @@
     {
       "name": "whiteflavored",
       "cls": "archer",
-      "rank": 60,
+      "rank": 61,
       "dps": 567,
       "burst": 491,
       "ehp": 8993,
@@ -8858,7 +8871,7 @@
     {
       "name": "blackajacka",
       "cls": "archer",
-      "rank": 61,
+      "rank": 62,
       "dps": 571,
       "burst": 461,
       "ehp": 9519,
@@ -8871,7 +8884,7 @@
     {
       "name": "DontCCMeBro",
       "cls": "archer",
-      "rank": 62,
+      "rank": 63,
       "dps": 608,
       "burst": 507,
       "ehp": 7938,
@@ -8884,7 +8897,7 @@
     {
       "name": "Rineggan",
       "cls": "archer",
-      "rank": 63,
+      "rank": 64,
       "dps": 597,
       "burst": 481,
       "ehp": 8553,
@@ -8897,7 +8910,7 @@
     {
       "name": "MythicPro",
       "cls": "archer",
-      "rank": 64,
+      "rank": 65,
       "dps": 594,
       "burst": 465,
       "ehp": 8936,
@@ -8910,7 +8923,7 @@
     {
       "name": "FindMe",
       "cls": "archer",
-      "rank": 65,
+      "rank": 66,
       "dps": 559,
       "burst": 486,
       "ehp": 9094,
@@ -8923,7 +8936,7 @@
     {
       "name": "qsdw",
       "cls": "archer",
-      "rank": 66,
+      "rank": 67,
       "dps": 594,
       "burst": 480,
       "ehp": 8587,
@@ -8936,7 +8949,7 @@
     {
       "name": "EternalGlory",
       "cls": "archer",
-      "rank": 67,
+      "rank": 68,
       "dps": 654,
       "burst": 504,
       "ehp": 7218,
@@ -8944,19 +8957,6 @@
       "tank": "A+",
       "hybrid": "S",
       "dpst": "SSS",
-      "overall": "S"
-    },
-    {
-      "name": "Carson107",
-      "cls": "archer",
-      "rank": 68,
-      "dps": 548,
-      "burst": 474,
-      "ehp": 9477,
-      "score": 1004.72,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "A+",
       "overall": "S"
     },
     {
