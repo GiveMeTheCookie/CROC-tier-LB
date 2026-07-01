@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-01T10:03:35.531Z",
+  "fetchedAt": "2026-07-01T14:51:05.788Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -15330,9 +15330,22 @@
       "overall": "C"
     },
     {
-      "name": "HammerYourMom",
+      "name": "SyIphiette",
       "cls": "shaman",
       "rank": 210,
+      "dps": 468,
+      "burst": 353,
+      "ehp": 7603,
+      "score": 981.5,
+      "tank": "B-",
+      "hybrid": "C",
+      "dpst": "B-",
+      "overall": "C"
+    },
+    {
+      "name": "HammerYourMom",
+      "cls": "shaman",
+      "rank": 211,
       "dps": 483,
       "burst": 357,
       "ehp": 7125,
@@ -15345,7 +15358,7 @@
     {
       "name": "killthevg04",
       "cls": "shaman",
-      "rank": 211,
+      "rank": 212,
       "dps": 496,
       "burst": 354,
       "ehp": 6776,
@@ -15358,7 +15371,7 @@
     {
       "name": "LePoland",
       "cls": "shaman",
-      "rank": 212,
+      "rank": 213,
       "dps": 520,
       "burst": 360,
       "ehp": 6151,
@@ -15371,7 +15384,7 @@
     {
       "name": "OBS1D1AN",
       "cls": "shaman",
-      "rank": 213,
+      "rank": 214,
       "dps": 492,
       "burst": 377,
       "ehp": 6876,
@@ -15384,7 +15397,7 @@
     {
       "name": "xBeLm566z",
       "cls": "shaman",
-      "rank": 214,
+      "rank": 215,
       "dps": 436,
       "burst": 317,
       "ehp": 8468,
@@ -15397,7 +15410,7 @@
     {
       "name": "Tikebrain",
       "cls": "shaman",
-      "rank": 215,
+      "rank": 216,
       "dps": 502,
       "burst": 363,
       "ehp": 6496,
@@ -15410,7 +15423,7 @@
     {
       "name": "Reavy",
       "cls": "shaman",
-      "rank": 216,
+      "rank": 217,
       "dps": 562,
       "burst": 379,
       "ehp": 5174,
@@ -15423,7 +15436,7 @@
     {
       "name": "Loneblood",
       "cls": "shaman",
-      "rank": 217,
+      "rank": 218,
       "dps": 454,
       "burst": 366,
       "ehp": 8080,
@@ -15436,7 +15449,7 @@
     {
       "name": "coskek",
       "cls": "shaman",
-      "rank": 218,
+      "rank": 219,
       "dps": 495,
       "burst": 348,
       "ehp": 6504,
@@ -15449,7 +15462,7 @@
     {
       "name": "Flossing",
       "cls": "shaman",
-      "rank": 219,
+      "rank": 220,
       "dps": 443,
       "burst": 366,
       "ehp": 8478,
@@ -15462,7 +15475,7 @@
     {
       "name": "NOVAHEALER",
       "cls": "shaman",
-      "rank": 220,
+      "rank": 221,
       "dps": 464,
       "burst": 341,
       "ehp": 7342,
@@ -15475,7 +15488,7 @@
     {
       "name": "Cherished",
       "cls": "shaman",
-      "rank": 221,
+      "rank": 222,
       "dps": 464,
       "burst": 345,
       "ehp": 7179,
@@ -15488,7 +15501,7 @@
     {
       "name": "Linari",
       "cls": "shaman",
-      "rank": 222,
+      "rank": 223,
       "dps": 453,
       "burst": 333,
       "ehp": 7709,
@@ -15501,7 +15514,7 @@
     {
       "name": "Ilykashlsmus",
       "cls": "shaman",
-      "rank": 223,
+      "rank": 224,
       "dps": 532,
       "burst": 397,
       "ehp": 5682,
@@ -15509,19 +15522,6 @@
       "tank": "D+",
       "hybrid": "C",
       "dpst": "B+",
-      "overall": "C"
-    },
-    {
-      "name": "SyIphiette",
-      "cls": "shaman",
-      "rank": 224,
-      "dps": 484,
-      "burst": 364,
-      "ehp": 6852,
-      "score": 979.45,
-      "tank": "C",
-      "hybrid": "C",
-      "dpst": "B-",
       "overall": "C"
     },
     {
