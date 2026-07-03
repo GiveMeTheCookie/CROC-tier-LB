@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-03T14:24:53.675Z",
+  "fetchedAt": "2026-07-03T18:17:11.868Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -13601,9 +13601,22 @@
       "overall": "A+"
     },
     {
-      "name": "SisterShirley",
+      "name": "somebody4",
       "cls": "shaman",
       "rank": 74,
+      "dps": 554,
+      "burst": 383,
+      "ehp": 9056,
+      "score": 1004.51,
+      "tank": "A+",
+      "hybrid": "A+",
+      "dpst": "A+",
+      "overall": "A+"
+    },
+    {
+      "name": "SisterShirley",
+      "cls": "shaman",
+      "rank": 75,
       "dps": 532,
       "burst": 394,
       "ehp": 9815,
@@ -13616,7 +13629,7 @@
     {
       "name": "pipilarium",
       "cls": "shaman",
-      "rank": 75,
+      "rank": 76,
       "dps": 588,
       "burst": 390,
       "ehp": 8109,
@@ -13624,19 +13637,6 @@
       "tank": "A",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "A+"
-    },
-    {
-      "name": "somebody4",
-      "cls": "shaman",
-      "rank": 76,
-      "dps": 586,
-      "burst": 394,
-      "ehp": 8079,
-      "score": 1003.96,
-      "tank": "A",
-      "hybrid": "S",
-      "dpst": "S",
       "overall": "A+"
     },
     {
