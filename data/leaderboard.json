@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-03T03:54:53.068Z",
+  "fetchedAt": "2026-07-03T09:30:13.955Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -10065,9 +10065,22 @@
       "overall": "A"
     },
     {
-      "name": "leanwitme",
+      "name": "Plagaa",
       "cls": "archer",
       "rank": 152,
+      "dps": 610,
+      "burst": 477,
+      "ehp": 5963,
+      "score": 990.5,
+      "tank": "A-",
+      "hybrid": "A-",
+      "dpst": "S",
+      "overall": "A-"
+    },
+    {
+      "name": "leanwitme",
+      "cls": "archer",
+      "rank": 153,
       "dps": 540,
       "burst": 452,
       "ehp": 7236,
@@ -10080,7 +10093,7 @@
     {
       "name": "slumpie3",
       "cls": "archer",
-      "rank": 153,
+      "rank": 154,
       "dps": 619,
       "burst": 445,
       "ehp": 6247,
@@ -10093,7 +10106,7 @@
     {
       "name": "RompePoto",
       "cls": "archer",
-      "rank": 154,
+      "rank": 155,
       "dps": 537,
       "burst": 436,
       "ehp": 7497,
@@ -10106,7 +10119,7 @@
     {
       "name": "MaximumEvil",
       "cls": "archer",
-      "rank": 155,
+      "rank": 156,
       "dps": 514,
       "burst": 441,
       "ehp": 7768,
@@ -10119,7 +10132,7 @@
     {
       "name": "KAIZERXD",
       "cls": "archer",
-      "rank": 156,
+      "rank": 157,
       "dps": 600,
       "burst": 458,
       "ehp": 6183,
@@ -10132,7 +10145,7 @@
     {
       "name": "xN0TxJ03Lx",
       "cls": "archer",
-      "rank": 157,
+      "rank": 158,
       "dps": 562,
       "burst": 421,
       "ehp": 7188,
@@ -10145,7 +10158,7 @@
     {
       "name": "xMidori",
       "cls": "archer",
-      "rank": 158,
+      "rank": 159,
       "dps": 559,
       "burst": 541,
       "ehp": 5462,
@@ -10153,19 +10166,6 @@
       "tank": "B+",
       "hybrid": "A-",
       "dpst": "SS",
-      "overall": "A-"
-    },
-    {
-      "name": "Plagaa",
-      "cls": "archer",
-      "rank": 159,
-      "dps": 600,
-      "burst": 471,
-      "ehp": 5821,
-      "score": 987.99,
-      "tank": "B+",
-      "hybrid": "A-",
-      "dpst": "S",
       "overall": "A-"
     },
     {
