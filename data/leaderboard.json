@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-06T15:49:46.518Z",
+  "fetchedAt": "2026-07-06T20:16:19.180Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -2330,9 +2330,22 @@
       "overall": "B-"
     },
     {
-      "name": "misery12",
+      "name": "Tarkuk",
       "cls": "warrior",
       "rank": 180,
+      "dps": 438,
+      "burst": 318,
+      "ehp": 9640,
+      "score": 987.17,
+      "tank": "C+",
+      "hybrid": "C+",
+      "dpst": "B+",
+      "overall": "B-"
+    },
+    {
+      "name": "misery12",
+      "cls": "warrior",
+      "rank": 181,
       "dps": 423,
       "burst": 309,
       "ehp": 10289,
@@ -2345,7 +2358,7 @@
     {
       "name": "Warned",
       "cls": "warrior",
-      "rank": 181,
+      "rank": 182,
       "dps": 354,
       "burst": 283,
       "ehp": 13626,
@@ -2358,7 +2371,7 @@
     {
       "name": "wer2",
       "cls": "warrior",
-      "rank": 182,
+      "rank": 183,
       "dps": 396,
       "burst": 326,
       "ehp": 10468,
@@ -2371,7 +2384,7 @@
     {
       "name": "OriginalSensible",
       "cls": "warrior",
-      "rank": 183,
+      "rank": 184,
       "dps": 380,
       "burst": 317,
       "ehp": 11581,
@@ -2384,7 +2397,7 @@
     {
       "name": "OnePerson",
       "cls": "warrior",
-      "rank": 184,
+      "rank": 185,
       "dps": 391,
       "burst": 336,
       "ehp": 10639,
@@ -2397,7 +2410,7 @@
     {
       "name": "rapeir",
       "cls": "warrior",
-      "rank": 185,
+      "rank": 186,
       "dps": 467,
       "burst": 341,
       "ehp": 8121,
@@ -2410,7 +2423,7 @@
     {
       "name": "Juann27M",
       "cls": "warrior",
-      "rank": 186,
+      "rank": 187,
       "dps": 378,
       "burst": 311,
       "ehp": 12050,
@@ -2423,7 +2436,7 @@
     {
       "name": "TrayWay2LAYUH",
       "cls": "warrior",
-      "rank": 187,
+      "rank": 188,
       "dps": 425,
       "burst": 356,
       "ehp": 9045,
@@ -2436,7 +2449,7 @@
     {
       "name": "NightmareTown",
       "cls": "warrior",
-      "rank": 188,
+      "rank": 189,
       "dps": 397,
       "burst": 316,
       "ehp": 10490,
@@ -2449,7 +2462,7 @@
     {
       "name": "INFINITYShadow",
       "cls": "warrior",
-      "rank": 189,
+      "rank": 190,
       "dps": 404,
       "burst": 325,
       "ehp": 10018,
@@ -2462,7 +2475,7 @@
     {
       "name": "Bazinga923874",
       "cls": "warrior",
-      "rank": 190,
+      "rank": 191,
       "dps": 384,
       "burst": 314,
       "ehp": 11238,
@@ -2475,7 +2488,7 @@
     {
       "name": "Hol00",
       "cls": "warrior",
-      "rank": 191,
+      "rank": 192,
       "dps": 349,
       "burst": 307,
       "ehp": 13192,
@@ -2488,7 +2501,7 @@
     {
       "name": "KroVynArc",
       "cls": "warrior",
-      "rank": 192,
+      "rank": 193,
       "dps": 396,
       "burst": 319,
       "ehp": 10633,
@@ -2501,7 +2514,7 @@
     {
       "name": "JohnXina",
       "cls": "warrior",
-      "rank": 193,
+      "rank": 194,
       "dps": 406,
       "burst": 330,
       "ehp": 9492,
@@ -2514,7 +2527,7 @@
     {
       "name": "duroking",
       "cls": "warrior",
-      "rank": 194,
+      "rank": 195,
       "dps": 420,
       "burst": 333,
       "ehp": 9131,
@@ -2527,24 +2540,11 @@
     {
       "name": "wolfsnake",
       "cls": "warrior",
-      "rank": 195,
+      "rank": 196,
       "dps": 440,
       "burst": 330,
       "ehp": 8570,
       "score": 984.42,
-      "tank": "C-",
-      "hybrid": "C+",
-      "dpst": "B+",
-      "overall": "B-"
-    },
-    {
-      "name": "Tarkuk",
-      "cls": "warrior",
-      "rank": 196,
-      "dps": 429,
-      "burst": 328,
-      "ehp": 8998,
-      "score": 984.29,
       "tank": "C-",
       "hybrid": "C+",
       "dpst": "B+",
@@ -10273,9 +10273,22 @@
       "overall": "A-"
     },
     {
-      "name": "Fantasies",
+      "name": "Grieve",
       "cls": "archer",
       "rank": 166,
+      "dps": 589,
+      "burst": 484,
+      "ehp": 5568,
+      "score": 986.56,
+      "tank": "B",
+      "hybrid": "B+",
+      "dpst": "S",
+      "overall": "A-"
+    },
+    {
+      "name": "Fantasies",
+      "cls": "archer",
+      "rank": 167,
       "dps": 575,
       "burst": 445,
       "ehp": 6300,
@@ -10283,19 +10296,6 @@
       "tank": "B+",
       "hybrid": "B+",
       "dpst": "A+",
-      "overall": "A-"
-    },
-    {
-      "name": "Grieve",
-      "cls": "archer",
-      "rank": 167,
-      "dps": 580,
-      "burst": 474,
-      "ehp": 5786,
-      "score": 986.35,
-      "tank": "B",
-      "hybrid": "B+",
-      "dpst": "S",
       "overall": "A-"
     },
     {
@@ -11784,14 +11784,14 @@
       "name": "Skorpius",
       "cls": "archer",
       "rank": 282,
-      "dps": 533,
-      "burst": 405,
-      "ehp": 3598,
-      "score": 954.25,
+      "dps": 569,
+      "burst": 418,
+      "ehp": 3364,
+      "score": 956.06,
       "tank": "D",
-      "hybrid": "D+",
-      "dpst": "B+",
-      "overall": "D+"
+      "hybrid": "C-",
+      "dpst": "A",
+      "overall": "C-"
     },
     {
       "name": "Shihai",
