@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-07T14:53:36.231Z",
+  "fetchedAt": "2026-07-07T16:37:21.691Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8174,8 +8174,8 @@
       "burst": 506,
       "ehp": 9424,
       "score": 1012.69,
-      "tank": "SS",
-      "hybrid": "SS",
+      "tank": "SSS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SSS"
     },
@@ -8187,10 +8187,10 @@
       "burst": 509,
       "ehp": 9202,
       "score": 1012.37,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "Mizzery",
@@ -8203,7 +8203,7 @@
       "tank": "SS",
       "hybrid": "SS",
       "dpst": "SSS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "Kami3z",
@@ -8213,10 +8213,10 @@
       "burst": 506,
       "ehp": 9309,
       "score": 1012.17,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "Themero",
@@ -8229,7 +8229,7 @@
       "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "lBlankl",
@@ -8239,10 +8239,10 @@
       "burst": 513,
       "ehp": 9394,
       "score": 1012.05,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "2006",
@@ -8252,10 +8252,10 @@
       "burst": 495,
       "ehp": 9688,
       "score": 1012.05,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "GYARADOS",
@@ -8265,7 +8265,7 @@
       "burst": 508,
       "ehp": 9386,
       "score": 1011.9,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8278,7 +8278,7 @@
       "burst": 517,
       "ehp": 9175,
       "score": 1011.74,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8317,7 +8317,7 @@
       "burst": 491,
       "ehp": 9608,
       "score": 1011.48,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
@@ -8330,7 +8330,7 @@
       "burst": 498,
       "ehp": 9725,
       "score": 1011.36,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
@@ -8382,7 +8382,7 @@
       "burst": 495,
       "ehp": 9371,
       "score": 1010.71,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
@@ -8408,7 +8408,7 @@
       "burst": 499,
       "ehp": 8338,
       "score": 1009.83,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SSS",
       "overall": "SS"
@@ -8434,7 +8434,7 @@
       "burst": 488,
       "ehp": 8667,
       "score": 1009.35,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8447,7 +8447,7 @@
       "burst": 482,
       "ehp": 10154,
       "score": 1009.29,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "A+",
       "overall": "SS"
@@ -8486,7 +8486,7 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8512,7 +8512,7 @@
       "burst": 470,
       "ehp": 9671,
       "score": 1008.64,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
@@ -8525,7 +8525,7 @@
       "burst": 489,
       "ehp": 8806,
       "score": 1008.59,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8590,7 +8590,7 @@
       "burst": 497,
       "ehp": 8422,
       "score": 1008.39,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -8616,7 +8616,7 @@
       "burst": 484,
       "ehp": 8823,
       "score": 1007.92,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
@@ -8656,7 +8656,7 @@
       "ehp": 8296,
       "score": 1007.63,
       "tank": "S",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -8668,8 +8668,8 @@
       "burst": 523,
       "ehp": 8833,
       "score": 1007.61,
-      "tank": "S",
-      "hybrid": "S",
+      "tank": "SS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -8681,8 +8681,8 @@
       "burst": 497,
       "ehp": 8941,
       "score": 1007.59,
-      "tank": "S",
-      "hybrid": "S",
+      "tank": "SS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -8695,7 +8695,7 @@
       "ehp": 9518,
       "score": 1007.56,
       "tank": "SS",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "A+",
       "overall": "SS"
     },
@@ -8708,7 +8708,7 @@
       "ehp": 9024,
       "score": 1007.51,
       "tank": "SS",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -8720,8 +8720,8 @@
       "burst": 487,
       "ehp": 8719,
       "score": 1007.51,
-      "tank": "S",
-      "hybrid": "S",
+      "tank": "SS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -8734,7 +8734,7 @@
       "ehp": 9214,
       "score": 1007.45,
       "tank": "SS",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -8746,10 +8746,10 @@
       "burst": 477,
       "ehp": 9031,
       "score": 1007.06,
-      "tank": "S",
-      "hybrid": "S",
+      "tank": "SS",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "BonerShot",
@@ -8759,10 +8759,10 @@
       "burst": 461,
       "ehp": 9049,
       "score": 1007.05,
-      "tank": "S",
-      "hybrid": "S",
+      "tank": "SS",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "Reoshade",
@@ -8772,10 +8772,10 @@
       "burst": 476,
       "ehp": 8634,
       "score": 1006.73,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "Carson107",
@@ -8788,7 +8788,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "SwishSwish",
@@ -8811,7 +8811,7 @@
       "burst": 532,
       "ehp": 7571,
       "score": 1006.66,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "SSS",
       "overall": "S"
@@ -8863,7 +8863,7 @@
       "burst": 496,
       "ehp": 8832,
       "score": 1006.3,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -8876,7 +8876,7 @@
       "burst": 483,
       "ehp": 8983,
       "score": 1006.29,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -8902,7 +8902,7 @@
       "burst": 493,
       "ehp": 8918,
       "score": 1006.06,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -8928,7 +8928,7 @@
       "burst": 491,
       "ehp": 8993,
       "score": 1005.93,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -8980,7 +8980,7 @@
       "burst": 465,
       "ehp": 8936,
       "score": 1005.33,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -8993,7 +8993,7 @@
       "burst": 486,
       "ehp": 9094,
       "score": 1005.19,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
@@ -9032,7 +9032,7 @@
       "burst": 535,
       "ehp": 7814,
       "score": 1004.66,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
@@ -9058,7 +9058,7 @@
       "burst": 480,
       "ehp": 8056,
       "score": 1004.46,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
@@ -9084,7 +9084,7 @@
       "burst": 521,
       "ehp": 7824,
       "score": 1004.28,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
@@ -9110,7 +9110,7 @@
       "burst": 453,
       "ehp": 9538,
       "score": 1004.19,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
@@ -9123,7 +9123,7 @@
       "burst": 480,
       "ehp": 7706,
       "score": 1004.03,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
@@ -9136,7 +9136,7 @@
       "burst": 457,
       "ehp": 9281,
       "score": 1004.02,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
@@ -9201,7 +9201,7 @@
       "burst": 464,
       "ehp": 9227,
       "score": 1003.21,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
@@ -9240,7 +9240,7 @@
       "burst": 484,
       "ehp": 8042,
       "score": 1003.07,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -9253,7 +9253,7 @@
       "burst": 468,
       "ehp": 9351,
       "score": 1002.99,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "S",
       "dpst": "A",
       "overall": "S"
@@ -9279,7 +9279,7 @@
       "burst": 447,
       "ehp": 8128,
       "score": 1002.73,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -9293,7 +9293,7 @@
       "ehp": 8632,
       "score": 1002.49,
       "tank": "S",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
     },
@@ -9305,8 +9305,8 @@
       "burst": 479,
       "ehp": 8117,
       "score": 1002.45,
-      "tank": "A+",
-      "hybrid": "A+",
+      "tank": "S",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -9318,7 +9318,7 @@
       "burst": 471,
       "ehp": 8164,
       "score": 1002.42,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "S",
       "dpst": "S",
       "overall": "S"
@@ -9332,7 +9332,7 @@
       "ehp": 7173,
       "score": 1002.39,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
     },
@@ -9345,7 +9345,7 @@
       "ehp": 7363,
       "score": 1002.38,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
     },
@@ -9371,7 +9371,7 @@
       "ehp": 8790,
       "score": 1002.09,
       "tank": "S",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
     },
@@ -9384,9 +9384,9 @@
       "ehp": 9010,
       "score": 1001.79,
       "tank": "S",
-      "hybrid": "A+",
+      "hybrid": "S",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "S"
     },
     {
       "name": "Jashinism",
@@ -9399,7 +9399,7 @@
       "tank": "A+",
       "hybrid": "A+",
       "dpst": "SS",
-      "overall": "A+"
+      "overall": "S"
     },
     {
       "name": "Bamti",
@@ -9412,7 +9412,7 @@
       "tank": "S",
       "hybrid": "A+",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "S"
     },
     {
       "name": "Nanarrow",
@@ -9461,7 +9461,7 @@
       "burst": 518,
       "ehp": 7078,
       "score": 1000.95,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "SS",
       "overall": "A+"
@@ -9513,7 +9513,7 @@
       "burst": 494,
       "ehp": 7192,
       "score": 1000.52,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "SS",
       "overall": "A+"
@@ -9539,7 +9539,7 @@
       "burst": 447,
       "ehp": 8664,
       "score": 1000.29,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
@@ -9552,7 +9552,7 @@
       "burst": 469,
       "ehp": 8337,
       "score": 999.93,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
@@ -9565,7 +9565,7 @@
       "burst": 461,
       "ehp": 7408,
       "score": 999.89,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
@@ -9591,7 +9591,7 @@
       "burst": 483,
       "ehp": 7178,
       "score": 999.26,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
@@ -9604,7 +9604,7 @@
       "burst": 479,
       "ehp": 7492,
       "score": 999.23,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
@@ -9617,7 +9617,7 @@
       "burst": 506,
       "ehp": 6053,
       "score": 998.57,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A+",
       "dpst": "SSS",
       "overall": "A+"
@@ -9643,7 +9643,7 @@
       "burst": 508,
       "ehp": 7639,
       "score": 998.18,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
@@ -9669,7 +9669,7 @@
       "burst": 467,
       "ehp": 8597,
       "score": 997.71,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "A+",
       "dpst": "A",
       "overall": "A+"
@@ -9682,7 +9682,7 @@
       "burst": 456,
       "ehp": 8809,
       "score": 997.63,
-      "tank": "A+",
+      "tank": "S",
       "hybrid": "A+",
       "dpst": "A",
       "overall": "A+"
@@ -9709,7 +9709,7 @@
       "ehp": 8015,
       "score": 996.79,
       "tank": "A+",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -9722,9 +9722,9 @@
       "ehp": 7112,
       "score": 996.64,
       "tank": "A",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "S",
-      "overall": "A"
+      "overall": "A+"
     },
     {
       "name": "Spl1tSh0T",
@@ -9737,7 +9737,7 @@
       "tank": "A",
       "hybrid": "A",
       "dpst": "S",
-      "overall": "A"
+      "overall": "A+"
     },
     {
       "name": "Dhayeearl",
@@ -9747,7 +9747,7 @@
       "burst": 458,
       "ehp": 7769,
       "score": 996.05,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
@@ -9760,7 +9760,7 @@
       "burst": 485,
       "ehp": 6732,
       "score": 995.32,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A",
       "dpst": "S",
       "overall": "A"
@@ -9786,7 +9786,7 @@
       "burst": 438,
       "ehp": 8153,
       "score": 995.13,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
       "overall": "A"
@@ -9799,7 +9799,7 @@
       "burst": 445,
       "ehp": 8022,
       "score": 994.89,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
       "overall": "A"
@@ -9812,7 +9812,7 @@
       "burst": 502,
       "ehp": 6631,
       "score": 994.89,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A",
       "dpst": "S",
       "overall": "A"
@@ -9838,7 +9838,7 @@
       "burst": 511,
       "ehp": 5608,
       "score": 994.53,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A",
       "dpst": "SSS",
       "overall": "A"
@@ -9877,7 +9877,7 @@
       "burst": 439,
       "ehp": 7943,
       "score": 994.17,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
       "overall": "A"
@@ -9890,7 +9890,7 @@
       "burst": 458,
       "ehp": 6817,
       "score": 994.17,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A",
       "dpst": "S",
       "overall": "A"
@@ -9916,7 +9916,7 @@
       "burst": 461,
       "ehp": 8150,
       "score": 993.56,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
       "overall": "A"
@@ -9929,7 +9929,7 @@
       "burst": 475,
       "ehp": 5943,
       "score": 993.12,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A",
       "dpst": "SS",
       "overall": "A"
@@ -9942,7 +9942,7 @@
       "burst": 445,
       "ehp": 8409,
       "score": 992.78,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A-",
       "overall": "A"
@@ -9955,7 +9955,7 @@
       "burst": 441,
       "ehp": 8479,
       "score": 992.65,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A-",
       "overall": "A"
@@ -9981,7 +9981,7 @@
       "burst": 445,
       "ehp": 8423,
       "score": 991.77,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A-",
       "overall": "A"
@@ -9994,8 +9994,8 @@
       "burst": 472,
       "ehp": 6088,
       "score": 991.76,
-      "tank": "B+",
-      "hybrid": "A-",
+      "tank": "A-",
+      "hybrid": "A",
       "dpst": "S",
       "overall": "A"
     },
@@ -10007,7 +10007,7 @@
       "burst": 408,
       "ehp": 8472,
       "score": 991.59,
-      "tank": "A",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A-",
       "overall": "A"
@@ -10021,7 +10021,7 @@
       "ehp": 7485,
       "score": 991.47,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
       "overall": "A"
     },
@@ -10034,7 +10034,7 @@
       "ehp": 7586,
       "score": 991.43,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
       "overall": "A"
     },
@@ -10047,9 +10047,9 @@
       "ehp": 8851,
       "score": 991.39,
       "tank": "A+",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Carnegie",
@@ -10059,10 +10059,10 @@
       "burst": 464,
       "ehp": 7385,
       "score": 991.36,
-      "tank": "A-",
-      "hybrid": "A-",
+      "tank": "A",
+      "hybrid": "A",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Viper196",
@@ -10073,9 +10073,9 @@
       "ehp": 7553,
       "score": 991.35,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Noralye",
@@ -10085,10 +10085,10 @@
       "burst": 477,
       "ehp": 5892,
       "score": 991.31,
-      "tank": "B+",
-      "hybrid": "A-",
+      "tank": "A-",
+      "hybrid": "A",
       "dpst": "SS",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Veli0na3",
@@ -10098,10 +10098,10 @@
       "burst": 414,
       "ehp": 8798,
       "score": 991.14,
-      "tank": "A",
-      "hybrid": "A-",
+      "tank": "A+",
+      "hybrid": "A",
       "dpst": "B+",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Killoker",
@@ -10112,9 +10112,9 @@
       "ehp": 7567,
       "score": 991.04,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Sukhoi57",
@@ -10125,9 +10125,9 @@
       "ehp": 7831,
       "score": 990.93,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "A",
       "dpst": "A-",
-      "overall": "A-"
+      "overall": "A"
     },
     {
       "name": "Plagaa",
@@ -10137,7 +10137,7 @@
       "burst": 477,
       "ehp": 5963,
       "score": 990.5,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A-",
       "dpst": "S",
       "overall": "A-"
@@ -10150,7 +10150,7 @@
       "burst": 452,
       "ehp": 7236,
       "score": 990.03,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A-",
       "dpst": "A",
       "overall": "A-"
@@ -10163,7 +10163,7 @@
       "burst": 445,
       "ehp": 6247,
       "score": 989.96,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A-",
       "dpst": "S",
       "overall": "A-"
@@ -10176,7 +10176,7 @@
       "burst": 436,
       "ehp": 7497,
       "score": 989.59,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
@@ -10202,7 +10202,7 @@
       "burst": 458,
       "ehp": 6183,
       "score": 989.23,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A-",
       "dpst": "A+",
       "overall": "A-"
@@ -10215,7 +10215,7 @@
       "burst": 541,
       "ehp": 5462,
       "score": 988.33,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "A-",
       "dpst": "SS",
       "overall": "A-"
@@ -10228,7 +10228,7 @@
       "burst": 449,
       "ehp": 6241,
       "score": 987.7,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "A-",
       "dpst": "A+",
       "overall": "A-"
@@ -10267,7 +10267,7 @@
       "burst": 416,
       "ehp": 7697,
       "score": 987.36,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
@@ -10293,8 +10293,8 @@
       "burst": 484,
       "ehp": 5568,
       "score": 986.56,
-      "tank": "B",
-      "hybrid": "B+",
+      "tank": "B+",
+      "hybrid": "A-",
       "dpst": "S",
       "overall": "A-"
     },
@@ -10306,8 +10306,8 @@
       "burst": 445,
       "ehp": 6300,
       "score": 986.52,
-      "tank": "B+",
-      "hybrid": "B+",
+      "tank": "A-",
+      "hybrid": "A-",
       "dpst": "A+",
       "overall": "A-"
     },
@@ -10320,9 +10320,9 @@
       "ehp": 6095,
       "score": 986.08,
       "tank": "B+",
-      "hybrid": "B+",
+      "hybrid": "A-",
       "dpst": "A+",
-      "overall": "B+"
+      "overall": "A-"
     },
     {
       "name": "Belin",
@@ -10335,7 +10335,7 @@
       "tank": "B+",
       "hybrid": "B+",
       "dpst": "A+",
-      "overall": "B+"
+      "overall": "A-"
     },
     {
       "name": "Nutri",
@@ -10371,7 +10371,7 @@
       "burst": 428,
       "ehp": 7766,
       "score": 985.32,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "B+",
       "dpst": "B+",
       "overall": "B+"
@@ -10397,7 +10397,7 @@
       "burst": 502,
       "ehp": 4257,
       "score": 984.96,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B+",
       "dpst": "SSS",
       "overall": "B+"
@@ -10423,7 +10423,7 @@
       "burst": 466,
       "ehp": 5525,
       "score": 984.42,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B+",
       "dpst": "S",
       "overall": "B+"
@@ -10436,7 +10436,7 @@
       "burst": 441,
       "ehp": 6051,
       "score": 984,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B+",
       "dpst": "A",
       "overall": "B+"
@@ -10449,7 +10449,7 @@
       "burst": 408,
       "ehp": 8297,
       "score": 983.81,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "B+",
       "dpst": "B",
       "overall": "B+"
@@ -10462,7 +10462,7 @@
       "burst": 415,
       "ehp": 7085,
       "score": 983.61,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "B+",
       "dpst": "B+",
       "overall": "B+"
@@ -10514,7 +10514,7 @@
       "burst": 422,
       "ehp": 6881,
       "score": 983,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "B+",
       "dpst": "A-",
       "overall": "B+"
@@ -10553,7 +10553,7 @@
       "burst": 498,
       "ehp": 4821,
       "score": 982.56,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B+",
       "dpst": "SS",
       "overall": "B+"
@@ -10566,7 +10566,7 @@
       "burst": 450,
       "ehp": 5960,
       "score": 981.94,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B+",
       "dpst": "A",
       "overall": "B+"
@@ -10579,7 +10579,7 @@
       "burst": 436,
       "ehp": 6057,
       "score": 981.8,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B+",
       "dpst": "A",
       "overall": "B+"
@@ -10592,7 +10592,7 @@
       "burst": 388,
       "ehp": 8303,
       "score": 981.8,
-      "tank": "A-",
+      "tank": "A",
       "hybrid": "B+",
       "dpst": "B-",
       "overall": "B+"
@@ -10605,8 +10605,8 @@
       "burst": 462,
       "ehp": 6380,
       "score": 981.21,
-      "tank": "B",
-      "hybrid": "B",
+      "tank": "B+",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "B+"
     },
@@ -10618,7 +10618,7 @@
       "burst": 418,
       "ehp": 7293,
       "score": 981.12,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "B+",
       "dpst": "B",
       "overall": "B+"
@@ -10631,8 +10631,8 @@
       "burst": 424,
       "ehp": 7419,
       "score": 981.05,
-      "tank": "B+",
-      "hybrid": "B",
+      "tank": "A-",
+      "hybrid": "B+",
       "dpst": "B",
       "overall": "B+"
     },
@@ -10644,10 +10644,10 @@
       "burst": 493,
       "ehp": 4339,
       "score": 980.43,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B",
       "dpst": "SS",
-      "overall": "B"
+      "overall": "B+"
     },
     {
       "name": "desTeensyNuz",
@@ -10658,9 +10658,9 @@
       "ehp": 8087,
       "score": 980.39,
       "tank": "A-",
-      "hybrid": "B",
+      "hybrid": "B+",
       "dpst": "B-",
-      "overall": "B"
+      "overall": "B+"
     },
     {
       "name": "obitooxp",
@@ -10673,7 +10673,7 @@
       "tank": "B+",
       "hybrid": "B",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B+"
     },
     {
       "name": "Spypigeon",
@@ -10696,7 +10696,7 @@
       "burst": 443,
       "ehp": 6314,
       "score": 979.73,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
@@ -10722,7 +10722,7 @@
       "burst": 419,
       "ehp": 7252,
       "score": 979.19,
-      "tank": "B+",
+      "tank": "A-",
       "hybrid": "B",
       "dpst": "B",
       "overall": "B"
@@ -10735,7 +10735,7 @@
       "burst": 433,
       "ehp": 6495,
       "score": 979.01,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B",
       "dpst": "B+",
       "overall": "B"
@@ -10748,7 +10748,7 @@
       "burst": 440,
       "ehp": 5449,
       "score": 978.34,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B",
       "dpst": "A",
       "overall": "B"
@@ -10787,7 +10787,7 @@
       "burst": 460,
       "ehp": 5817,
       "score": 977.07,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
@@ -10813,7 +10813,7 @@
       "burst": 440,
       "ehp": 5531,
       "score": 976.67,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
@@ -10826,7 +10826,7 @@
       "burst": 415,
       "ehp": 5868,
       "score": 976.63,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
@@ -10865,8 +10865,8 @@
       "burst": 425,
       "ehp": 5799,
       "score": 975.73,
-      "tank": "B-",
-      "hybrid": "B-",
+      "tank": "B",
+      "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
     },
@@ -10879,9 +10879,9 @@
       "ehp": 6154,
       "score": 975.12,
       "tank": "B",
-      "hybrid": "B-",
+      "hybrid": "B",
       "dpst": "B+",
-      "overall": "B-"
+      "overall": "B"
     },
     {
       "name": "notedthx",
@@ -10891,7 +10891,7 @@
       "burst": 432,
       "ehp": 5153,
       "score": 974.73,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "A",
       "overall": "B-"
@@ -10917,7 +10917,7 @@
       "burst": 393,
       "ehp": 6736,
       "score": 974.24,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "B",
       "overall": "B-"
@@ -10943,7 +10943,7 @@
       "burst": 456,
       "ehp": 5265,
       "score": 973.74,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "A-",
       "overall": "B-"
@@ -10956,7 +10956,7 @@
       "burst": 459,
       "ehp": 4466,
       "score": 973.5,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "B-",
       "dpst": "A+",
       "overall": "B-"
@@ -10969,7 +10969,7 @@
       "burst": 394,
       "ehp": 7341,
       "score": 973.42,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
@@ -10995,7 +10995,7 @@
       "burst": 431,
       "ehp": 5286,
       "score": 973.05,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "A-",
       "overall": "B-"
@@ -11008,7 +11008,7 @@
       "burst": 416,
       "ehp": 4993,
       "score": 972.83,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "A",
       "overall": "B-"
@@ -11034,7 +11034,7 @@
       "burst": 363,
       "ehp": 7452,
       "score": 971.86,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
@@ -11060,7 +11060,7 @@
       "burst": 369,
       "ehp": 7699,
       "score": 971.77,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "C",
       "overall": "B-"
@@ -11073,7 +11073,7 @@
       "burst": 401,
       "ehp": 6289,
       "score": 971.25,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B-",
       "dpst": "B",
       "overall": "B-"
@@ -11086,7 +11086,7 @@
       "burst": 394,
       "ehp": 6113,
       "score": 971.2,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "B-",
       "dpst": "B",
       "overall": "B-"
@@ -11099,7 +11099,7 @@
       "burst": 441,
       "ehp": 5073,
       "score": 971.2,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "A-",
       "overall": "B-"
@@ -11112,8 +11112,8 @@
       "burst": 435,
       "ehp": 5502,
       "score": 970.73,
-      "tank": "C+",
-      "hybrid": "C+",
+      "tank": "B-",
+      "hybrid": "B-",
       "dpst": "B+",
       "overall": "B-"
     },
@@ -11138,8 +11138,8 @@
       "burst": 406,
       "ehp": 5602,
       "score": 970.6,
-      "tank": "C+",
-      "hybrid": "C+",
+      "tank": "B-",
+      "hybrid": "B-",
       "dpst": "B+",
       "overall": "B-"
     },
@@ -11151,7 +11151,7 @@
       "burst": 384,
       "ehp": 7278,
       "score": 970.43,
-      "tank": "B",
+      "tank": "B+",
       "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
@@ -11165,9 +11165,9 @@
       "ehp": 5756,
       "score": 969.82,
       "tank": "B-",
-      "hybrid": "C+",
+      "hybrid": "B-",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "B-"
     },
     {
       "name": "Phyrra",
@@ -11180,7 +11180,7 @@
       "tank": "C+",
       "hybrid": "C+",
       "dpst": "A-",
-      "overall": "C+"
+      "overall": "B-"
     },
     {
       "name": "0o22227o0",
@@ -11190,7 +11190,7 @@
       "burst": 410,
       "ehp": 5433,
       "score": 969.5,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B+",
       "overall": "C+"
@@ -11204,7 +11204,7 @@
       "ehp": 6059,
       "score": 969.48,
       "tank": "B-",
-      "hybrid": "C+",
+      "hybrid": "B-",
       "dpst": "B-",
       "overall": "C+"
     },
@@ -11216,7 +11216,7 @@
       "burst": 412,
       "ehp": 5744,
       "score": 969.29,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
@@ -11242,7 +11242,7 @@
       "burst": 474,
       "ehp": 4728,
       "score": 969.06,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "C+",
       "dpst": "A-",
       "overall": "C+"
@@ -11255,7 +11255,7 @@
       "burst": 401,
       "ehp": 6429,
       "score": 968.94,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "C+",
       "dpst": "B-",
       "overall": "C+"
@@ -11281,7 +11281,7 @@
       "burst": 381,
       "ehp": 6682,
       "score": 968.72,
-      "tank": "B-",
+      "tank": "B",
       "hybrid": "C+",
       "dpst": "C+",
       "overall": "C+"
@@ -11307,7 +11307,7 @@
       "burst": 412,
       "ehp": 5668,
       "score": 968.03,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
@@ -11320,7 +11320,7 @@
       "burst": 412,
       "ehp": 5611,
       "score": 967.71,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
@@ -11346,7 +11346,7 @@
       "burst": 415,
       "ehp": 5470,
       "score": 967.57,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
@@ -11359,7 +11359,7 @@
       "burst": 437,
       "ehp": 4841,
       "score": 967.49,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "C+",
       "dpst": "A-",
       "overall": "C+"
@@ -11398,7 +11398,7 @@
       "burst": 391,
       "ehp": 6039,
       "score": 966.76,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C+",
       "dpst": "B-",
       "overall": "C+"
@@ -11424,8 +11424,8 @@
       "burst": 421,
       "ehp": 4352,
       "score": 965.28,
-      "tank": "C-",
-      "hybrid": "C",
+      "tank": "C",
+      "hybrid": "C+",
       "dpst": "A-",
       "overall": "C+"
     },
@@ -11437,8 +11437,8 @@
       "burst": 415,
       "ehp": 5632,
       "score": 965.19,
-      "tank": "C+",
-      "hybrid": "C",
+      "tank": "B-",
+      "hybrid": "C+",
       "dpst": "B-",
       "overall": "C+"
     },
@@ -11450,10 +11450,10 @@
       "burst": 423,
       "ehp": 4961,
       "score": 964.69,
-      "tank": "C",
-      "hybrid": "C",
+      "tank": "C+",
+      "hybrid": "C+",
       "dpst": "B+",
-      "overall": "C"
+      "overall": "C+"
     },
     {
       "name": "Alekuni",
@@ -11463,7 +11463,7 @@
       "burst": 377,
       "ehp": 5863,
       "score": 963.99,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
@@ -11477,7 +11477,7 @@
       "ehp": 6586,
       "score": 963.98,
       "tank": "B-",
-      "hybrid": "C",
+      "hybrid": "C+",
       "dpst": "C",
       "overall": "C"
     },
@@ -11489,7 +11489,7 @@
       "burst": 382,
       "ehp": 6091,
       "score": 963.54,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
@@ -11502,7 +11502,7 @@
       "burst": 355,
       "ehp": 6328,
       "score": 963.3,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C",
       "dpst": "C",
       "overall": "C"
@@ -11528,7 +11528,7 @@
       "burst": 385,
       "ehp": 6424,
       "score": 961.89,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C",
       "dpst": "C",
       "overall": "C"
@@ -11541,7 +11541,7 @@
       "burst": 402,
       "ehp": 4507,
       "score": 961.58,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "C",
       "dpst": "B+",
       "overall": "C"
@@ -11554,7 +11554,7 @@
       "burst": 393,
       "ehp": 4795,
       "score": 961.41,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "C",
       "dpst": "B",
       "overall": "C"
@@ -11567,7 +11567,7 @@
       "burst": 389,
       "ehp": 5615,
       "score": 960.58,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
@@ -11580,7 +11580,7 @@
       "burst": 422,
       "ehp": 4140,
       "score": 960.53,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "C",
       "dpst": "B+",
       "overall": "C"
@@ -11620,7 +11620,7 @@
       "ehp": 4207,
       "score": 960.13,
       "tank": "C-",
-      "hybrid": "C-",
+      "hybrid": "C",
       "dpst": "B+",
       "overall": "C"
     },
@@ -11645,7 +11645,7 @@
       "burst": 358,
       "ehp": 6605,
       "score": 959.96,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C",
       "dpst": "C-",
       "overall": "C"
@@ -11671,8 +11671,8 @@
       "burst": 376,
       "ehp": 5459,
       "score": 959.86,
-      "tank": "C",
-      "hybrid": "C-",
+      "tank": "C+",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
     },
@@ -11684,10 +11684,10 @@
       "burst": 408,
       "ehp": 4568,
       "score": 959.68,
-      "tank": "C-",
-      "hybrid": "C-",
+      "tank": "C",
+      "hybrid": "C",
       "dpst": "B",
-      "overall": "C-"
+      "overall": "C"
     },
     {
       "name": "penggeneral",
@@ -11697,10 +11697,10 @@
       "burst": 369,
       "ehp": 5485,
       "score": 959.17,
-      "tank": "C",
-      "hybrid": "C-",
+      "tank": "C+",
+      "hybrid": "C",
       "dpst": "C+",
-      "overall": "C-"
+      "overall": "C"
     },
     {
       "name": "neunmalklug",
@@ -11710,7 +11710,7 @@
       "burst": 368,
       "ehp": 5581,
       "score": 958.28,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "C-",
       "dpst": "C",
       "overall": "C-"
@@ -11723,7 +11723,7 @@
       "burst": 396,
       "ehp": 4608,
       "score": 957.98,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "C-",
       "dpst": "B",
       "overall": "C-"
@@ -11749,7 +11749,7 @@
       "burst": 399,
       "ehp": 4650,
       "score": 957.21,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "C-",
       "dpst": "B-",
       "overall": "C-"
@@ -11762,7 +11762,7 @@
       "burst": 342,
       "ehp": 6761,
       "score": 956.81,
-      "tank": "C+",
+      "tank": "B-",
       "hybrid": "C-",
       "dpst": "D+",
       "overall": "C-"
@@ -11775,7 +11775,7 @@
       "burst": 413,
       "ehp": 3749,
       "score": 956.77,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "C-",
       "dpst": "A-",
       "overall": "C-"
@@ -11788,7 +11788,7 @@
       "burst": 369,
       "ehp": 5187,
       "score": 956.31,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "C-",
       "dpst": "C+",
       "overall": "C-"
@@ -11814,7 +11814,7 @@
       "burst": 390,
       "ehp": 3739,
       "score": 953.72,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D+",
       "dpst": "B+",
       "overall": "D+"
@@ -11827,7 +11827,7 @@
       "burst": 338,
       "ehp": 6391,
       "score": 952.95,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "D+",
       "dpst": "D+",
       "overall": "D+"
@@ -11840,7 +11840,7 @@
       "burst": 369,
       "ehp": 4825,
       "score": 951.86,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D+",
       "dpst": "C",
       "overall": "D+"
@@ -11853,7 +11853,7 @@
       "burst": 312,
       "ehp": 6351,
       "score": 951.8,
-      "tank": "C",
+      "tank": "C+",
       "hybrid": "D+",
       "dpst": "D",
       "overall": "D+"
@@ -11866,7 +11866,7 @@
       "burst": 390,
       "ehp": 3808,
       "score": 951.47,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D+",
       "dpst": "B",
       "overall": "D+"
@@ -11879,7 +11879,7 @@
       "burst": 371,
       "ehp": 4398,
       "score": 951.36,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D+",
       "dpst": "C+",
       "overall": "D+"
@@ -11892,7 +11892,7 @@
       "burst": 405,
       "ehp": 3373,
       "score": 950.99,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "D+",
       "dpst": "B+",
       "overall": "D+"
@@ -11905,7 +11905,7 @@
       "burst": 360,
       "ehp": 4162,
       "score": 950.9,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D+",
       "dpst": "B-",
       "overall": "D+"
@@ -11931,7 +11931,7 @@
       "burst": 356,
       "ehp": 5036,
       "score": 949.87,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D+",
       "dpst": "C-",
       "overall": "D+"
@@ -11944,7 +11944,7 @@
       "burst": 348,
       "ehp": 5785,
       "score": 949.64,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "D+",
       "dpst": "D+",
       "overall": "D+"
@@ -11957,8 +11957,8 @@
       "burst": 391,
       "ehp": 3455,
       "score": 949.43,
-      "tank": "D-",
-      "hybrid": "D",
+      "tank": "D",
+      "hybrid": "D+",
       "dpst": "B+",
       "overall": "D+"
     },
@@ -11970,10 +11970,10 @@
       "burst": 388,
       "ehp": 3949,
       "score": 949.11,
-      "tank": "D",
-      "hybrid": "D",
+      "tank": "D+",
+      "hybrid": "D+",
       "dpst": "B-",
-      "overall": "D"
+      "overall": "D+"
     },
     {
       "name": "swynYTthearcher",
@@ -11983,10 +11983,10 @@
       "burst": 351,
       "ehp": 4896,
       "score": 949.02,
-      "tank": "D+",
-      "hybrid": "D",
+      "tank": "C-",
+      "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D"
+      "overall": "D+"
     },
     {
       "name": "fayri",
@@ -11996,10 +11996,10 @@
       "burst": 339,
       "ehp": 5132,
       "score": 949.02,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D"
+      "overall": "D+"
     },
     {
       "name": "SonnyA",
@@ -12009,7 +12009,7 @@
       "burst": 403,
       "ehp": 3119,
       "score": 947.39,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "D",
       "dpst": "B+",
       "overall": "D"
@@ -12022,7 +12022,7 @@
       "burst": 334,
       "ehp": 5168,
       "score": 947.24,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D",
       "dpst": "D+",
       "overall": "D"
@@ -12048,7 +12048,7 @@
       "burst": 398,
       "ehp": 3177,
       "score": 945.88,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "D",
       "dpst": "B+",
       "overall": "D"
@@ -12061,7 +12061,7 @@
       "burst": 354,
       "ehp": 4660,
       "score": 945.62,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D",
       "dpst": "C-",
       "overall": "D"
@@ -12074,7 +12074,7 @@
       "burst": 379,
       "ehp": 3525,
       "score": 945.55,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "D",
       "dpst": "B-",
       "overall": "D"
@@ -12087,7 +12087,7 @@
       "burst": 350,
       "ehp": 4983,
       "score": 945.21,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D",
       "dpst": "D+",
       "overall": "D"
@@ -12100,7 +12100,7 @@
       "burst": 343,
       "ehp": 4964,
       "score": 945.11,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D",
       "dpst": "D+",
       "overall": "D"
@@ -12113,7 +12113,7 @@
       "burst": 374,
       "ehp": 3592,
       "score": 944.88,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "D",
       "dpst": "B-",
       "overall": "D"
@@ -12126,8 +12126,8 @@
       "burst": 414,
       "ehp": 3621,
       "score": 944.37,
-      "tank": "D-",
-      "hybrid": "D-",
+      "tank": "D",
+      "hybrid": "D",
       "dpst": "B-",
       "overall": "D"
     },
@@ -12139,7 +12139,7 @@
       "burst": 340,
       "ehp": 5222,
       "score": 944.31,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D",
       "dpst": "D+",
       "overall": "D"
@@ -12153,7 +12153,7 @@
       "ehp": 3484,
       "score": 944.06,
       "tank": "D-",
-      "hybrid": "D-",
+      "hybrid": "D",
       "dpst": "B-",
       "overall": "D"
     },
@@ -12165,10 +12165,10 @@
       "burst": 372,
       "ehp": 3671,
       "score": 943.95,
-      "tank": "D-",
-      "hybrid": "D-",
+      "tank": "D",
+      "hybrid": "D",
       "dpst": "C+",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "papauru69",
@@ -12178,10 +12178,10 @@
       "burst": 388,
       "ehp": 3109,
       "score": 943.9,
-      "tank": "E",
-      "hybrid": "D-",
+      "tank": "D-",
+      "hybrid": "D",
       "dpst": "B",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "cdsverqgh",
@@ -12191,10 +12191,10 @@
       "burst": 381,
       "ehp": 3898,
       "score": 943.83,
-      "tank": "D-",
-      "hybrid": "D-",
+      "tank": "D",
+      "hybrid": "D",
       "dpst": "C+",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "immobilised",
@@ -12204,10 +12204,10 @@
       "burst": 388,
       "ehp": 3286,
       "score": 943.63,
-      "tank": "E",
-      "hybrid": "D-",
+      "tank": "D-",
+      "hybrid": "D",
       "dpst": "B",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "terry3",
@@ -12217,10 +12217,10 @@
       "burst": 333,
       "ehp": 5443,
       "score": 943.51,
-      "tank": "D+",
-      "hybrid": "D-",
+      "tank": "C-",
+      "hybrid": "D",
       "dpst": "D",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "SnipArrow",
@@ -12230,10 +12230,10 @@
       "burst": 391,
       "ehp": 3463,
       "score": 943.3,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "D-",
       "dpst": "B-",
-      "overall": "D-"
+      "overall": "D"
     },
     {
       "name": "Sylvx",
@@ -12244,7 +12244,7 @@
       "ehp": 4307,
       "score": 942.95,
       "tank": "D",
-      "hybrid": "D-",
+      "hybrid": "D",
       "dpst": "C-",
       "overall": "D-"
     },
@@ -12256,7 +12256,7 @@
       "burst": 368,
       "ehp": 3438,
       "score": 942.85,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "D-",
       "dpst": "B-",
       "overall": "D-"
@@ -12269,8 +12269,8 @@
       "burst": 340,
       "ehp": 4554,
       "score": 942.81,
-      "tank": "D",
-      "hybrid": "D-",
+      "tank": "D+",
+      "hybrid": "D",
       "dpst": "C-",
       "overall": "D-"
     },
@@ -12282,7 +12282,7 @@
       "burst": 349,
       "ehp": 4425,
       "score": 942.67,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D-",
       "dpst": "C-",
       "overall": "D-"
@@ -12295,7 +12295,7 @@
       "burst": 332,
       "ehp": 5272,
       "score": 942.3,
-      "tank": "D+",
+      "tank": "C-",
       "hybrid": "D-",
       "dpst": "D",
       "overall": "D-"
@@ -12308,7 +12308,7 @@
       "burst": 340,
       "ehp": 4307,
       "score": 940.99,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "D-",
       "dpst": "C-",
       "overall": "D-"
@@ -12321,7 +12321,7 @@
       "burst": 327,
       "ehp": 4664,
       "score": 939.2,
-      "tank": "D",
+      "tank": "D+",
       "hybrid": "D-",
       "dpst": "D",
       "overall": "D-"
@@ -12334,7 +12334,7 @@
       "burst": 300,
       "ehp": 6597,
       "score": 939.13,
-      "tank": "C-",
+      "tank": "C",
       "hybrid": "D-",
       "dpst": "F",
       "overall": "D-"
@@ -12347,8 +12347,8 @@
       "burst": 400,
       "ehp": 3052,
       "score": 938.91,
-      "tank": "F",
-      "hybrid": "E",
+      "tank": "E",
+      "hybrid": "D-",
       "dpst": "B-",
       "overall": "D-"
     },
@@ -12360,7 +12360,7 @@
       "burst": 347,
       "ehp": 4404,
       "score": 938.77,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "D-",
       "dpst": "D+",
       "overall": "D-"
@@ -12373,10 +12373,10 @@
       "burst": 335,
       "ehp": 4120,
       "score": 938.3,
-      "tank": "D-",
-      "hybrid": "E",
+      "tank": "D",
+      "hybrid": "D-",
       "dpst": "C-",
-      "overall": "E"
+      "overall": "D-"
     },
     {
       "name": "Ashdeus",
@@ -12386,10 +12386,10 @@
       "burst": 337,
       "ehp": 3804,
       "score": 938.19,
-      "tank": "E",
-      "hybrid": "E",
+      "tank": "D-",
+      "hybrid": "D-",
       "dpst": "C-",
-      "overall": "E"
+      "overall": "D-"
     },
     {
       "name": "Reiju",
@@ -12399,7 +12399,7 @@
       "burst": 373,
       "ehp": 3037,
       "score": 937.56,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "E",
       "dpst": "B-",
       "overall": "E"
@@ -12425,7 +12425,7 @@
       "burst": 347,
       "ehp": 3801,
       "score": 936.68,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
       "overall": "E"
@@ -12438,7 +12438,7 @@
       "burst": 352,
       "ehp": 3692,
       "score": 936.58,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
       "overall": "E"
@@ -12451,7 +12451,7 @@
       "burst": 345,
       "ehp": 3915,
       "score": 936.36,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
       "overall": "E"
@@ -12464,7 +12464,7 @@
       "burst": 350,
       "ehp": 3953,
       "score": 936.11,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
       "overall": "E"
@@ -12477,7 +12477,7 @@
       "burst": 359,
       "ehp": 3775,
       "score": 935.67,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
       "overall": "E"
@@ -12490,7 +12490,7 @@
       "burst": 351,
       "ehp": 3904,
       "score": 935.31,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "E",
       "dpst": "D+",
       "overall": "E"
@@ -12503,7 +12503,7 @@
       "burst": 345,
       "ehp": 3304,
       "score": 934.48,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "E",
       "dpst": "C",
       "overall": "E"
@@ -12516,10 +12516,10 @@
       "burst": 316,
       "ehp": 4819,
       "score": 933.41,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "E",
       "dpst": "D-",
-      "overall": "F"
+      "overall": "E"
     },
     {
       "name": "weeere",
@@ -12529,10 +12529,10 @@
       "burst": 344,
       "ehp": 4111,
       "score": 933.32,
-      "tank": "E",
-      "hybrid": "F",
+      "tank": "D-",
+      "hybrid": "E",
       "dpst": "D",
-      "overall": "F"
+      "overall": "E"
     },
     {
       "name": "StorageTank",
@@ -12542,10 +12542,10 @@
       "burst": 346,
       "ehp": 3333,
       "score": 933.2,
-      "tank": "F",
-      "hybrid": "F",
+      "tank": "E",
+      "hybrid": "E",
       "dpst": "C",
-      "overall": "F"
+      "overall": "E"
     },
     {
       "name": "corey2",
@@ -12555,7 +12555,7 @@
       "burst": 354,
       "ehp": 3344,
       "score": 931.94,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "F",
       "dpst": "C-",
       "overall": "F"
@@ -12568,7 +12568,7 @@
       "burst": 322,
       "ehp": 4275,
       "score": 929.97,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "F",
       "dpst": "D-",
       "overall": "F"
@@ -12581,7 +12581,7 @@
       "burst": 324,
       "ehp": 3720,
       "score": 929.84,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "F",
       "dpst": "D+",
       "overall": "F"
@@ -12594,7 +12594,7 @@
       "burst": 327,
       "ehp": 4341,
       "score": 929.26,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "F",
       "dpst": "D-",
       "overall": "F"
@@ -12607,7 +12607,7 @@
       "burst": 315,
       "ehp": 3735,
       "score": 928.49,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "F",
       "dpst": "D",
       "overall": "F"
@@ -12633,7 +12633,7 @@
       "burst": 304,
       "ehp": 4847,
       "score": 928.28,
-      "tank": "D-",
+      "tank": "D",
       "hybrid": "F",
       "dpst": "F",
       "overall": "F"
@@ -12646,7 +12646,7 @@
       "burst": 332,
       "ehp": 3844,
       "score": 928.18,
-      "tank": "F",
+      "tank": "E",
       "hybrid": "F",
       "dpst": "D",
       "overall": "F"
@@ -12659,9 +12659,22 @@
       "burst": 320,
       "ehp": 4343,
       "score": 928.18,
-      "tank": "E",
+      "tank": "D-",
       "hybrid": "F",
       "dpst": "E",
+      "overall": "F"
+    },
+    {
+      "name": "MushroomPrince",
+      "cls": "archer",
+      "rank": 349,
+      "dps": 421,
+      "burst": 354,
+      "ehp": 2947,
+      "score": 927.32,
+      "tank": "F",
+      "hybrid": "F",
+      "dpst": "C",
       "overall": "F"
     },
     {
@@ -12687,7 +12700,7 @@
       "score": 1014.8,
       "tank": "SS",
       "hybrid": "SSS",
-      "dpst": "SS",
+      "dpst": "SSS",
       "overall": "SSS"
     },
     {
@@ -12699,8 +12712,8 @@
       "ehp": 10768,
       "score": 1014.5,
       "tank": "SS",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "SSS"
     },
     {
@@ -12764,9 +12777,9 @@
       "ehp": 10291,
       "score": 1012.74,
       "tank": "SS",
-      "hybrid": "SSS",
-      "dpst": "S",
-      "overall": "SSS"
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS"
     },
     {
       "name": "PeterHUN04",
@@ -12777,9 +12790,9 @@
       "ehp": 10404,
       "score": 1012.49,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "TwistedTempo",
@@ -12790,9 +12803,9 @@
       "ehp": 9302,
       "score": 1012.28,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SSS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "AncientRecall",
@@ -12805,7 +12818,7 @@
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SSS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "Skyleneqi",
@@ -12816,7 +12829,7 @@
       "ehp": 9767,
       "score": 1012.11,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -12829,7 +12842,7 @@
       "ehp": 9683,
       "score": 1011.95,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -12842,7 +12855,7 @@
       "ehp": 9974,
       "score": 1011.93,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -12855,8 +12868,8 @@
       "ehp": 10408,
       "score": 1011.87,
       "tank": "SS",
-      "hybrid": "SSS",
-      "dpst": "A+",
+      "hybrid": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -12868,8 +12881,8 @@
       "ehp": 10400,
       "score": 1011.72,
       "tank": "SS",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -12881,7 +12894,7 @@
       "ehp": 10083,
       "score": 1011.57,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -12894,7 +12907,7 @@
       "ehp": 9771,
       "score": 1011.44,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -12907,8 +12920,8 @@
       "ehp": 9306,
       "score": 1011.34,
       "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "SS"
     },
     {
@@ -12920,7 +12933,7 @@
       "ehp": 9451,
       "score": 1011.28,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -12933,8 +12946,8 @@
       "ehp": 10072,
       "score": 1011.12,
       "tank": "SS",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -12946,7 +12959,7 @@
       "ehp": 10121,
       "score": 1011.06,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -12959,7 +12972,7 @@
       "ehp": 9216,
       "score": 1010.67,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -12972,8 +12985,8 @@
       "ehp": 9996,
       "score": 1010.66,
       "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -12985,8 +12998,8 @@
       "ehp": 9714,
       "score": 1010.58,
       "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -12998,7 +13011,7 @@
       "ehp": 10397,
       "score": 1010.56,
       "tank": "SS",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "SS"
     },
@@ -13011,7 +13024,7 @@
       "ehp": 9889,
       "score": 1010.53,
       "tank": "SS",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -13024,7 +13037,7 @@
       "ehp": 9153,
       "score": 1010.39,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -13037,7 +13050,7 @@
       "ehp": 9039,
       "score": 1010.2,
       "tank": "A+",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "SSS",
       "overall": "SS"
     },
@@ -13050,8 +13063,8 @@
       "ehp": 8890,
       "score": 1010.1,
       "tank": "A+",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "SS"
     },
     {
@@ -13063,8 +13076,8 @@
       "ehp": 8808,
       "score": 1009.99,
       "tank": "A+",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "SS"
     },
     {
@@ -13076,8 +13089,8 @@
       "ehp": 9522,
       "score": 1009.9,
       "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -13089,8 +13102,8 @@
       "ehp": 8767,
       "score": 1009.89,
       "tank": "A+",
-      "hybrid": "SSS",
-      "dpst": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -13102,7 +13115,7 @@
       "ehp": 9801,
       "score": 1009.88,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -13115,8 +13128,8 @@
       "ehp": 8824,
       "score": 1009.7,
       "tank": "A+",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "SS"
     },
     {
@@ -13128,8 +13141,8 @@
       "ehp": 10064,
       "score": 1009.7,
       "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "A+",
+      "hybrid": "S",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -13141,7 +13154,7 @@
       "ehp": 9455,
       "score": 1009.68,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -13154,7 +13167,7 @@
       "ehp": 9430,
       "score": 1009.57,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -13167,8 +13180,8 @@
       "ehp": 10097,
       "score": 1009.55,
       "tank": "S",
-      "hybrid": "S",
-      "dpst": "SS",
+      "hybrid": "A+",
+      "dpst": "SSS",
       "overall": "SS"
     },
     {
@@ -13180,9 +13193,9 @@
       "ehp": 9255,
       "score": 1009.37,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "UltimoChaman",
@@ -13193,9 +13206,9 @@
       "ehp": 9237,
       "score": 1009.37,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "iDrugDealer",
@@ -13206,9 +13219,9 @@
       "ehp": 9373,
       "score": 1009.36,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "Ozphyron",
@@ -13220,8 +13233,8 @@
       "score": 1009.12,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS"
+      "dpst": "SSS",
+      "overall": "S"
     },
     {
       "name": "Axile",
@@ -13232,9 +13245,9 @@
       "ehp": 9343,
       "score": 1009.06,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS"
+      "hybrid": "S",
+      "dpst": "SS",
+      "overall": "S"
     },
     {
       "name": "IceN1ght",
@@ -13245,9 +13258,9 @@
       "ehp": 9212,
       "score": 1008.99,
       "tank": "S",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "kittenouo",
@@ -13258,9 +13271,9 @@
       "ehp": 9749,
       "score": 1008.97,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "BvbblyWater",
@@ -13271,8 +13284,8 @@
       "ehp": 9027,
       "score": 1008.56,
       "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "S",
+      "hybrid": "S",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13284,8 +13297,8 @@
       "ehp": 9952,
       "score": 1008.56,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "A+",
+      "hybrid": "S",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -13297,8 +13310,8 @@
       "ehp": 9136,
       "score": 1008.31,
       "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "S",
+      "hybrid": "S",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13310,7 +13323,7 @@
       "ehp": 9235,
       "score": 1008.26,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "S"
     },
@@ -13323,8 +13336,8 @@
       "ehp": 8216,
       "score": 1008.24,
       "tank": "A",
-      "hybrid": "SSS",
-      "dpst": "SS",
+      "hybrid": "SS",
+      "dpst": "SSS",
       "overall": "S"
     },
     {
@@ -13336,8 +13349,8 @@
       "ehp": 9474,
       "score": 1008.11,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "A+",
+      "hybrid": "S",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -13349,7 +13362,7 @@
       "ehp": 8893,
       "score": 1007.63,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -13362,8 +13375,8 @@
       "ehp": 9112,
       "score": 1007.63,
       "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "S",
+      "hybrid": "S",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13375,7 +13388,7 @@
       "ehp": 9996,
       "score": 1007.52,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
     },
@@ -13388,7 +13401,7 @@
       "ehp": 8759,
       "score": 1007.41,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -13401,7 +13414,7 @@
       "ehp": 8528,
       "score": 1007.32,
       "tank": "A+",
-      "hybrid": "SSS",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "S"
     },
@@ -13414,8 +13427,8 @@
       "ehp": 9299,
       "score": 1007.23,
       "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "A+",
+      "hybrid": "S",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -13427,7 +13440,7 @@
       "ehp": 9722,
       "score": 1007.03,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
     },
@@ -13440,8 +13453,8 @@
       "ehp": 9282,
       "score": 1007.01,
       "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "A+",
+      "hybrid": "S",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -13453,7 +13466,7 @@
       "ehp": 8802,
       "score": 1006.77,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
     },
@@ -13466,8 +13479,8 @@
       "ehp": 9581,
       "score": 1006.56,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "A",
+      "hybrid": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -13479,7 +13492,7 @@
       "ehp": 8208,
       "score": 1006.53,
       "tank": "A",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S"
     },
@@ -13492,7 +13505,7 @@
       "ehp": 8646,
       "score": 1006.24,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "SS",
       "overall": "S"
     },
@@ -13505,7 +13518,7 @@
       "ehp": 9678,
       "score": 1006.11,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "S"
     },
@@ -13518,9 +13531,9 @@
       "ehp": 9561,
       "score": 1006.1,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "Hatchbando",
@@ -13531,9 +13544,9 @@
       "ehp": 9011,
       "score": 1005.74,
       "tank": "A+",
-      "hybrid": "S",
-      "dpst": "A+",
-      "overall": "S"
+      "hybrid": "A+",
+      "dpst": "S",
+      "overall": "A+"
     },
     {
       "name": "Yunkie",
@@ -13544,9 +13557,9 @@
       "ehp": 8762,
       "score": 1005.56,
       "tank": "A+",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "S",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "Sabatora",
@@ -13557,9 +13570,9 @@
       "ehp": 9613,
       "score": 1005.52,
       "tank": "S",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "A",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "CipherOWO",
@@ -13570,9 +13583,9 @@
       "ehp": 8728,
       "score": 1005.51,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "S",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "BEHOLD",
@@ -13583,7 +13596,7 @@
       "ehp": 9503,
       "score": 1005.22,
       "tank": "A+",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13596,8 +13609,8 @@
       "ehp": 9015,
       "score": 1005,
       "tank": "A+",
-      "hybrid": "S",
-      "dpst": "A+",
+      "hybrid": "A+",
+      "dpst": "S",
       "overall": "A+"
     },
     {
@@ -13609,8 +13622,8 @@
       "ehp": 9697,
       "score": 1004.93,
       "tank": "S",
-      "hybrid": "S",
-      "dpst": "A",
+      "hybrid": "A+",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -13622,7 +13635,7 @@
       "ehp": 9858,
       "score": 1004.84,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13635,7 +13648,7 @@
       "ehp": 9056,
       "score": 1004.51,
       "tank": "A+",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13648,7 +13661,7 @@
       "ehp": 9815,
       "score": 1004.34,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13661,7 +13674,7 @@
       "ehp": 7722,
       "score": 1003.88,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "SS",
       "overall": "A+"
     },
@@ -13674,8 +13687,8 @@
       "ehp": 9211,
       "score": 1003.79,
       "tank": "A+",
-      "hybrid": "S",
-      "dpst": "A",
+      "hybrid": "A+",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -13687,7 +13700,7 @@
       "ehp": 9246,
       "score": 1003.69,
       "tank": "A+",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A",
       "overall": "A+"
     },
@@ -13700,7 +13713,7 @@
       "ehp": 8983,
       "score": 1003.65,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13713,7 +13726,7 @@
       "ehp": 10179,
       "score": 1003.58,
       "tank": "S",
-      "hybrid": "S",
+      "hybrid": "A",
       "dpst": "A-",
       "overall": "A+"
     },
@@ -13726,8 +13739,8 @@
       "ehp": 7720,
       "score": 1003.44,
       "tank": "A-",
-      "hybrid": "S",
-      "dpst": "S",
+      "hybrid": "A+",
+      "dpst": "SS",
       "overall": "A+"
     },
     {
@@ -13739,7 +13752,7 @@
       "ehp": 6440,
       "score": 1003.3,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "S",
       "dpst": "SSS",
       "overall": "A+"
     },
@@ -13752,7 +13765,7 @@
       "ehp": 9518,
       "score": 1003.24,
       "tank": "A+",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13765,7 +13778,7 @@
       "ehp": 8307,
       "score": 1003.14,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "S",
       "overall": "A+"
     },
@@ -13778,7 +13791,7 @@
       "ehp": 8411,
       "score": 1003.13,
       "tank": "A-",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "SS",
       "overall": "A+"
     },
@@ -13791,7 +13804,7 @@
       "ehp": 8737,
       "score": 1003.08,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13804,7 +13817,7 @@
       "ehp": 8824,
       "score": 1002.89,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A+"
     },
@@ -13817,9 +13830,9 @@
       "ehp": 9692,
       "score": 1002.56,
       "tank": "A",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "S",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "413n",
@@ -13830,9 +13843,9 @@
       "ehp": 8742,
       "score": 1002.2,
       "tank": "A",
-      "hybrid": "S",
+      "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "Vollerei",
@@ -13843,9 +13856,9 @@
       "ehp": 8840,
       "score": 1002.19,
       "tank": "A+",
-      "hybrid": "S",
-      "dpst": "A-",
-      "overall": "A+"
+      "hybrid": "A+",
+      "dpst": "A",
+      "overall": "A"
     },
     {
       "name": "Zzzephyrus",
@@ -13856,9 +13869,9 @@
       "ehp": 8228,
       "score": 1002.17,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "S",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "Thebestbound",
@@ -13869,9 +13882,9 @@
       "ehp": 8604,
       "score": 1002.16,
       "tank": "A",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "Sofa",
@@ -13882,9 +13895,9 @@
       "ehp": 7775,
       "score": 1002.01,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "S",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "verybad2",
@@ -13895,7 +13908,7 @@
       "ehp": 8160,
       "score": 1001.67,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "A+",
       "dpst": "A+",
       "overall": "A"
     },
@@ -13908,7 +13921,7 @@
       "ehp": 8626,
       "score": 1001.47,
       "tank": "A",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -13921,8 +13934,8 @@
       "ehp": 8139,
       "score": 1001.35,
       "tank": "A-",
-      "hybrid": "A+",
-      "dpst": "A+",
+      "hybrid": "A",
+      "dpst": "S",
       "overall": "A"
     },
     {
@@ -13934,8 +13947,8 @@
       "ehp": 8439,
       "score": 1001.01,
       "tank": "A-",
-      "hybrid": "A+",
-      "dpst": "A+",
+      "hybrid": "A",
+      "dpst": "S",
       "overall": "A"
     },
     {
@@ -13947,7 +13960,7 @@
       "ehp": 8055,
       "score": 1001.01,
       "tank": "A-",
-      "hybrid": "S",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -13960,7 +13973,7 @@
       "ehp": 9929,
       "score": 1000.71,
       "tank": "S",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "B+",
       "overall": "A"
     },
@@ -13973,8 +13986,8 @@
       "ehp": 8124,
       "score": 1000.23,
       "tank": "A-",
-      "hybrid": "A+",
-      "dpst": "A+",
+      "hybrid": "A",
+      "dpst": "S",
       "overall": "A"
     },
     {
@@ -13986,7 +13999,7 @@
       "ehp": 9239,
       "score": 1000.14,
       "tank": "A",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A",
       "overall": "A"
     },
@@ -13999,8 +14012,8 @@
       "ehp": 9055,
       "score": 1000.11,
       "tank": "A",
-      "hybrid": "A+",
-      "dpst": "A-",
+      "hybrid": "A",
+      "dpst": "A",
       "overall": "A"
     },
     {
@@ -14012,7 +14025,7 @@
       "ehp": 8420,
       "score": 1000.04,
       "tank": "A-",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -14025,7 +14038,7 @@
       "ehp": 7825,
       "score": 1000.04,
       "tank": "B+",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "S",
       "overall": "A"
     },
@@ -14038,7 +14051,7 @@
       "ehp": 8292,
       "score": 999.91,
       "tank": "A-",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
     },
@@ -14051,7 +14064,7 @@
       "ehp": 8751,
       "score": 999.4,
       "tank": "A",
-      "hybrid": "A+",
+      "hybrid": "A-",
       "dpst": "A",
       "overall": "A"
     },
@@ -14064,9 +14077,9 @@
       "ehp": 8887,
       "score": 999.24,
       "tank": "A",
-      "hybrid": "A+",
-      "dpst": "A-",
-      "overall": "A"
+      "hybrid": "A-",
+      "dpst": "A",
+      "overall": "A-"
     },
     {
       "name": "0ver1ord",
@@ -14077,9 +14090,9 @@
       "ehp": 7156,
       "score": 998.6,
       "tank": "B+",
-      "hybrid": "A+",
-      "dpst": "A+",
-      "overall": "A"
+      "hybrid": "A",
+      "dpst": "S",
+      "overall": "A-"
     },
     {
       "name": "Pickleling",
@@ -14090,7 +14103,7 @@
       "ehp": 8938,
       "score": 998.27,
       "tank": "A",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -14103,8 +14116,8 @@
       "ehp": 8701,
       "score": 998.24,
       "tank": "A-",
-      "hybrid": "A",
-      "dpst": "A-",
+      "hybrid": "A-",
+      "dpst": "A",
       "overall": "A-"
     },
     {
@@ -14116,7 +14129,7 @@
       "ehp": 8516,
       "score": 998.16,
       "tank": "A-",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A",
       "overall": "A-"
     },
@@ -14129,7 +14142,7 @@
       "ehp": 9432,
       "score": 997.34,
       "tank": "A",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -14142,7 +14155,7 @@
       "ehp": 7858,
       "score": 997.33,
       "tank": "B+",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A",
       "overall": "A-"
     },
@@ -14155,8 +14168,8 @@
       "ehp": 8796,
       "score": 997.27,
       "tank": "A",
-      "hybrid": "A",
-      "dpst": "B+",
+      "hybrid": "A-",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -14168,7 +14181,7 @@
       "ehp": 7756,
       "score": 997.25,
       "tank": "B+",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A+",
       "overall": "A-"
     },
@@ -14181,8 +14194,8 @@
       "ehp": 9975,
       "score": 996.97,
       "tank": "A+",
-      "hybrid": "A",
-      "dpst": "B",
+      "hybrid": "B+",
+      "dpst": "B+",
       "overall": "A-"
     },
     {
@@ -14194,7 +14207,7 @@
       "ehp": 8563,
       "score": 996.71,
       "tank": "A-",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -14207,7 +14220,7 @@
       "ehp": 7628,
       "score": 996.67,
       "tank": "B+",
-      "hybrid": "A+",
+      "hybrid": "A",
       "dpst": "A",
       "overall": "A-"
     },
@@ -14220,8 +14233,8 @@
       "ehp": 7243,
       "score": 996.61,
       "tank": "B+",
-      "hybrid": "A+",
-      "dpst": "A",
+      "hybrid": "A-",
+      "dpst": "A+",
       "overall": "A-"
     },
     {
@@ -14233,8 +14246,8 @@
       "ehp": 9709,
       "score": 996.57,
       "tank": "A+",
-      "hybrid": "A",
-      "dpst": "B",
+      "hybrid": "B+",
+      "dpst": "B+",
       "overall": "A-"
     },
     {
@@ -14246,8 +14259,8 @@
       "ehp": 8831,
       "score": 996.53,
       "tank": "A",
-      "hybrid": "A",
-      "dpst": "B+",
+      "hybrid": "A-",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -14259,8 +14272,8 @@
       "ehp": 7501,
       "score": 996.34,
       "tank": "B",
-      "hybrid": "A",
-      "dpst": "A+",
+      "hybrid": "B+",
+      "dpst": "S",
       "overall": "A-"
     },
     {
@@ -14272,7 +14285,7 @@
       "ehp": 10737,
       "score": 996.33,
       "tank": "A+",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "B",
       "overall": "A-"
     },
@@ -14285,7 +14298,7 @@
       "ehp": 8541,
       "score": 996.33,
       "tank": "A-",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
     },
@@ -14298,7 +14311,7 @@
       "ehp": 8481,
       "score": 996.06,
       "tank": "A-",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A",
       "overall": "A-"
     },
@@ -14311,9 +14324,9 @@
       "ehp": 7552,
       "score": 995.79,
       "tank": "B+",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "Supportar",
@@ -14324,9 +14337,9 @@
       "ehp": 7654,
       "score": 995.7,
       "tank": "B+",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "A",
-      "overall": "A-"
+      "overall": "B+"
     },
     {
       "name": "3Iixir",
@@ -14337,9 +14350,9 @@
       "ehp": 8314,
       "score": 995.49,
       "tank": "A-",
-      "hybrid": "A-",
-      "dpst": "A-",
-      "overall": "A-"
+      "hybrid": "B+",
+      "dpst": "A",
+      "overall": "B+"
     },
     {
       "name": "Zyprox",
@@ -14350,8 +14363,8 @@
       "ehp": 8763,
       "score": 995.15,
       "tank": "A-",
-      "hybrid": "A-",
-      "dpst": "B+",
+      "hybrid": "B+",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -14363,7 +14376,7 @@
       "ehp": 9901,
       "score": 995.03,
       "tank": "A+",
-      "hybrid": "A",
+      "hybrid": "B+",
       "dpst": "B-",
       "overall": "B+"
     },
@@ -14376,8 +14389,8 @@
       "ehp": 7520,
       "score": 994.92,
       "tank": "B+",
-      "hybrid": "A",
-      "dpst": "A-",
+      "hybrid": "A-",
+      "dpst": "A",
       "overall": "B+"
     },
     {
@@ -14389,7 +14402,7 @@
       "ehp": 8977,
       "score": 994.82,
       "tank": "A-",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "B+"
     },
@@ -14402,7 +14415,7 @@
       "ehp": 7271,
       "score": 994.41,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A+",
       "overall": "B+"
     },
@@ -14415,7 +14428,7 @@
       "ehp": 7999,
       "score": 994.36,
       "tank": "A-",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "B+",
       "overall": "B+"
     },
@@ -14428,7 +14441,7 @@
       "ehp": 8009,
       "score": 993.69,
       "tank": "B+",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "B+",
       "overall": "B+"
     },
@@ -14441,8 +14454,8 @@
       "ehp": 9371,
       "score": 993.61,
       "tank": "A",
-      "hybrid": "B+",
-      "dpst": "B",
+      "hybrid": "B",
+      "dpst": "B+",
       "overall": "B+"
     },
     {
@@ -14454,7 +14467,7 @@
       "ehp": 8258,
       "score": 993.26,
       "tank": "B+",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "A-",
       "overall": "B+"
     },
@@ -14467,7 +14480,7 @@
       "ehp": 7998,
       "score": 992.94,
       "tank": "B",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "B+"
     },
@@ -14480,8 +14493,8 @@
       "ehp": 8333,
       "score": 992.88,
       "tank": "B+",
-      "hybrid": "A-",
-      "dpst": "B+",
+      "hybrid": "B",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -14493,7 +14506,7 @@
       "ehp": 7380,
       "score": 992.85,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "B+"
     },
@@ -14506,7 +14519,7 @@
       "ehp": 7619,
       "score": 992.81,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "B+"
     },
@@ -14519,8 +14532,8 @@
       "ehp": 7761,
       "score": 992.66,
       "tank": "B",
-      "hybrid": "A-",
-      "dpst": "A-",
+      "hybrid": "B",
+      "dpst": "A",
       "overall": "B+"
     },
     {
@@ -14532,9 +14545,9 @@
       "ehp": 6357,
       "score": 992.34,
       "tank": "C+",
-      "hybrid": "A-",
-      "dpst": "A+",
-      "overall": "B+"
+      "hybrid": "B+",
+      "dpst": "S",
+      "overall": "B"
     },
     {
       "name": "NukeLife",
@@ -14545,9 +14558,9 @@
       "ehp": 8474,
       "score": 992.09,
       "tank": "A-",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "B",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "KarlHeinrichMarx",
@@ -14558,9 +14571,9 @@
       "ehp": 7610,
       "score": 992.02,
       "tank": "B+",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "GanjaLand",
@@ -14571,9 +14584,9 @@
       "ehp": 8676,
       "score": 992.01,
       "tank": "A-",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "rndms",
@@ -14584,9 +14597,9 @@
       "ehp": 4692,
       "score": 991.78,
       "tank": "D+",
-      "hybrid": "A",
+      "hybrid": "A-",
       "dpst": "SSS",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "ILordzl",
@@ -14597,7 +14610,7 @@
       "ehp": 7830,
       "score": 991.62,
       "tank": "B+",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14610,7 +14623,7 @@
       "ehp": 7179,
       "score": 991.46,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "A-",
       "overall": "B"
     },
@@ -14623,7 +14636,7 @@
       "ehp": 7978,
       "score": 991.35,
       "tank": "B+",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14636,7 +14649,7 @@
       "ehp": 7229,
       "score": 991.04,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14649,8 +14662,8 @@
       "ehp": 8518,
       "score": 990.75,
       "tank": "A-",
-      "hybrid": "B+",
-      "dpst": "B-",
+      "hybrid": "B",
+      "dpst": "B",
       "overall": "B"
     },
     {
@@ -14662,7 +14675,7 @@
       "ehp": 7530,
       "score": 990.68,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B+",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14675,8 +14688,8 @@
       "ehp": 8887,
       "score": 990.48,
       "tank": "A-",
-      "hybrid": "B+",
-      "dpst": "C+",
+      "hybrid": "B",
+      "dpst": "B-",
       "overall": "B"
     },
     {
@@ -14688,7 +14701,7 @@
       "ehp": 6833,
       "score": 990.45,
       "tank": "B-",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "B"
     },
@@ -14701,7 +14714,7 @@
       "ehp": 7477,
       "score": 990.41,
       "tank": "B",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14714,7 +14727,7 @@
       "ehp": 4578,
       "score": 990.4,
       "tank": "D+",
-      "hybrid": "A",
+      "hybrid": "B+",
       "dpst": "SSS",
       "overall": "B"
     },
@@ -14727,7 +14740,7 @@
       "ehp": 6346,
       "score": 989.5,
       "tank": "C+",
-      "hybrid": "A-",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "B"
     },
@@ -14740,7 +14753,7 @@
       "ehp": 7790,
       "score": 989.3,
       "tank": "B",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "B+",
       "overall": "B"
     },
@@ -14753,9 +14766,9 @@
       "ehp": 8547,
       "score": 989.2,
       "tank": "B+",
-      "hybrid": "B",
-      "dpst": "B",
-      "overall": "B"
+      "hybrid": "B-",
+      "dpst": "B+",
+      "overall": "B-"
     },
     {
       "name": "xXxFIeroIonexXx",
@@ -14766,9 +14779,9 @@
       "ehp": 9794,
       "score": 988.86,
       "tank": "A-",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "C+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "egorpidr",
@@ -14779,9 +14792,9 @@
       "ehp": 7575,
       "score": 988.82,
       "tank": "B",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "NewLoiievi",
@@ -14792,9 +14805,9 @@
       "ehp": 6814,
       "score": 988.74,
       "tank": "C+",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "A",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "2urgy",
@@ -14805,9 +14818,9 @@
       "ehp": 6935,
       "score": 988.55,
       "tank": "B-",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "B+",
-      "overall": "B"
+      "overall": "B-"
     },
     {
       "name": "IdoByoin",
@@ -14818,8 +14831,8 @@
       "ehp": 9490,
       "score": 988.31,
       "tank": "A",
-      "hybrid": "B",
-      "dpst": "C",
+      "hybrid": "B-",
+      "dpst": "C+",
       "overall": "B-"
     },
     {
@@ -14831,7 +14844,7 @@
       "ehp": 6090,
       "score": 988.22,
       "tank": "C+",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "B-"
     },
@@ -14844,7 +14857,7 @@
       "ehp": 9025,
       "score": 988.04,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "B-",
       "overall": "B-"
     },
@@ -14857,8 +14870,8 @@
       "ehp": 5995,
       "score": 987.95,
       "tank": "C",
-      "hybrid": "B+",
-      "dpst": "A",
+      "hybrid": "B",
+      "dpst": "A+",
       "overall": "B-"
     },
     {
@@ -14870,8 +14883,8 @@
       "ehp": 8158,
       "score": 987.5,
       "tank": "B+",
-      "hybrid": "B",
-      "dpst": "B-",
+      "hybrid": "B-",
+      "dpst": "B",
       "overall": "B-"
     },
     {
@@ -14883,7 +14896,7 @@
       "ehp": 8322,
       "score": 987.45,
       "tank": "B",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "B",
       "overall": "B-"
     },
@@ -14896,7 +14909,7 @@
       "ehp": 6344,
       "score": 987.17,
       "tank": "C+",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "A",
       "overall": "B-"
     },
@@ -14909,7 +14922,7 @@
       "ehp": 8653,
       "score": 987.08,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
     },
@@ -14922,7 +14935,7 @@
       "ehp": 8049,
       "score": 987.02,
       "tank": "B+",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "B-",
       "overall": "B-"
     },
@@ -14935,7 +14948,7 @@
       "ehp": 7956,
       "score": 986.99,
       "tank": "B+",
-      "hybrid": "B+",
+      "hybrid": "B-",
       "dpst": "B-",
       "overall": "B-"
     },
@@ -14948,8 +14961,8 @@
       "ehp": 5649,
       "score": 986.74,
       "tank": "C",
-      "hybrid": "B+",
-      "dpst": "A",
+      "hybrid": "B",
+      "dpst": "A+",
       "overall": "B-"
     },
     {
@@ -14961,7 +14974,7 @@
       "ehp": 8545,
       "score": 986.64,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
     },
@@ -14974,7 +14987,7 @@
       "ehp": 8422,
       "score": 986.42,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "C+",
       "overall": "B-"
     },
@@ -14987,7 +15000,7 @@
       "ehp": 6325,
       "score": 986.19,
       "tank": "C+",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "B+",
       "overall": "B-"
     },
@@ -15000,74 +15013,74 @@
       "ehp": 6466,
       "score": 986,
       "tank": "C+",
-      "hybrid": "B",
-      "dpst": "A-",
-      "overall": "B-"
-    },
-    {
-      "name": "DoTTT",
-      "cls": "shaman",
-      "rank": 181,
-      "dps": 473,
-      "burst": 358,
-      "ehp": 8311,
-      "score": 985.83,
-      "tank": "B",
       "hybrid": "B-",
-      "dpst": "B-",
-      "overall": "B-"
-    },
-    {
-      "name": "zZRokiZzz",
-      "cls": "shaman",
-      "rank": 182,
-      "dps": 626,
-      "burst": 416,
-      "ehp": 4815,
-      "score": 985.7,
-      "tank": "D+",
-      "hybrid": "A-",
-      "dpst": "A+",
-      "overall": "B-"
-    },
-    {
-      "name": "MrCures",
-      "cls": "shaman",
-      "rank": 183,
-      "dps": 523,
-      "burst": 374,
-      "ehp": 6573,
-      "score": 985.6,
-      "tank": "C+",
-      "hybrid": "B",
-      "dpst": "B+",
-      "overall": "B-"
-    },
-    {
-      "name": "GEOHEAL",
-      "cls": "shaman",
-      "rank": 184,
-      "dps": 496,
-      "burst": 360,
-      "ehp": 7219,
-      "score": 985.53,
-      "tank": "B-",
-      "hybrid": "B",
-      "dpst": "B",
+      "dpst": "A-",
       "overall": "B-"
     },
     {
       "name": "SyIphiette",
       "cls": "shaman",
-      "rank": 185,
-      "dps": 471,
-      "burst": 365,
-      "ehp": 8284,
-      "score": 985.5,
+      "rank": 181,
+      "dps": 467,
+      "burst": 354,
+      "ehp": 8380,
+      "score": 985.88,
       "tank": "B",
+      "hybrid": "C+",
+      "dpst": "B-",
+      "overall": "C+"
+    },
+    {
+      "name": "DoTTT",
+      "cls": "shaman",
+      "rank": 182,
+      "dps": 473,
+      "burst": 358,
+      "ehp": 8311,
+      "score": 985.83,
+      "tank": "B",
+      "hybrid": "C+",
+      "dpst": "B",
+      "overall": "C+"
+    },
+    {
+      "name": "zZRokiZzz",
+      "cls": "shaman",
+      "rank": 183,
+      "dps": 626,
+      "burst": 416,
+      "ehp": 4815,
+      "score": 985.7,
+      "tank": "D+",
+      "hybrid": "B",
+      "dpst": "A+",
+      "overall": "C+"
+    },
+    {
+      "name": "MrCures",
+      "cls": "shaman",
+      "rank": 184,
+      "dps": 523,
+      "burst": 374,
+      "ehp": 6573,
+      "score": 985.6,
+      "tank": "C+",
+      "hybrid": "B-",
+      "dpst": "B+",
+      "overall": "C+"
+    },
+    {
+      "name": "GEOHEAL",
+      "cls": "shaman",
+      "rank": 185,
+      "dps": 496,
+      "burst": 360,
+      "ehp": 7219,
+      "score": 985.53,
+      "tank": "B-",
       "hybrid": "B-",
       "dpst": "B",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "Aquatech",
@@ -15078,9 +15091,9 @@
       "ehp": 6898,
       "score": 985.48,
       "tank": "C+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "B+",
-      "overall": "B-"
+      "overall": "C+"
     },
     {
       "name": "ChaQi",
@@ -15091,9 +15104,9 @@
       "ehp": 6838,
       "score": 985.45,
       "tank": "C+",
-      "hybrid": "B",
-      "dpst": "B",
-      "overall": "B-"
+      "hybrid": "B-",
+      "dpst": "B+",
+      "overall": "C+"
     },
     {
       "name": "Rinnagan",
@@ -15104,9 +15117,9 @@
       "ehp": 7084,
       "score": 985.42,
       "tank": "B-",
-      "hybrid": "B",
-      "dpst": "B-",
-      "overall": "B-"
+      "hybrid": "B-",
+      "dpst": "B",
+      "overall": "C+"
     },
     {
       "name": "Runachnemtrath",
@@ -15117,8 +15130,8 @@
       "ehp": 7940,
       "score": 984.7,
       "tank": "B",
-      "hybrid": "B",
-      "dpst": "C+",
+      "hybrid": "C+",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -15130,7 +15143,7 @@
       "ehp": 5100,
       "score": 984.68,
       "tank": "C-",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "C+"
     },
@@ -15143,7 +15156,7 @@
       "ehp": 8062,
       "score": 984.52,
       "tank": "B",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B-",
       "overall": "C+"
     },
@@ -15156,7 +15169,7 @@
       "ehp": 6522,
       "score": 984.41,
       "tank": "C+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "B+",
       "overall": "C+"
     },
@@ -15169,8 +15182,8 @@
       "ehp": 6899,
       "score": 984.33,
       "tank": "C+",
-      "hybrid": "B",
-      "dpst": "B",
+      "hybrid": "C+",
+      "dpst": "B+",
       "overall": "C+"
     },
     {
@@ -15182,7 +15195,7 @@
       "ehp": 8754,
       "score": 984.18,
       "tank": "B+",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "C-",
       "overall": "C+"
     },
@@ -15195,7 +15208,7 @@
       "ehp": 9249,
       "score": 983.99,
       "tank": "A-",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "C-",
       "overall": "C+"
     },
@@ -15208,8 +15221,8 @@
       "ehp": 5054,
       "score": 983.65,
       "tank": "D+",
-      "hybrid": "B+",
-      "dpst": "A-",
+      "hybrid": "B",
+      "dpst": "A",
       "overall": "C+"
     },
     {
@@ -15221,7 +15234,7 @@
       "ehp": 4964,
       "score": 983.6,
       "tank": "D+",
-      "hybrid": "B+",
+      "hybrid": "B",
       "dpst": "A",
       "overall": "C+"
     },
@@ -15234,8 +15247,8 @@
       "ehp": 7782,
       "score": 983.59,
       "tank": "B",
-      "hybrid": "B-",
-      "dpst": "C+",
+      "hybrid": "C+",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -15247,7 +15260,7 @@
       "ehp": 7144,
       "score": 983.37,
       "tank": "C+",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
     },
@@ -15260,7 +15273,7 @@
       "ehp": 16595,
       "score": 983.26,
       "tank": "SSS",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "E",
       "overall": "C+"
     },
@@ -15273,8 +15286,8 @@
       "ehp": 6083,
       "score": 983.11,
       "tank": "C",
-      "hybrid": "B",
-      "dpst": "B",
+      "hybrid": "B-",
+      "dpst": "B+",
       "overall": "C+"
     },
     {
@@ -15286,7 +15299,7 @@
       "ehp": 6678,
       "score": 983.09,
       "tank": "C+",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "B",
       "overall": "C+"
     },
@@ -15299,8 +15312,8 @@
       "ehp": 5034,
       "score": 982.69,
       "tank": "D+",
-      "hybrid": "B+",
-      "dpst": "A-",
+      "hybrid": "B-",
+      "dpst": "A",
       "overall": "C+"
     },
     {
@@ -15312,9 +15325,9 @@
       "ehp": 6517,
       "score": 982.4,
       "tank": "C+",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "CukamanShamVG",
@@ -15325,9 +15338,9 @@
       "ehp": 6731,
       "score": 982.37,
       "tank": "C+",
-      "hybrid": "B-",
-      "dpst": "B",
-      "overall": "C+"
+      "hybrid": "C",
+      "dpst": "B+",
+      "overall": "C"
     },
     {
       "name": "Srjuan09",
@@ -15338,9 +15351,9 @@
       "ehp": 8652,
       "score": 982.37,
       "tank": "B",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "C+",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "killthevg04",
@@ -15351,9 +15364,9 @@
       "ehp": 6853,
       "score": 982.25,
       "tank": "C+",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "MarcellusReborn",
@@ -15364,9 +15377,9 @@
       "ehp": 7000,
       "score": 982.03,
       "tank": "C+",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B-",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "nailghtd",
@@ -15377,9 +15390,9 @@
       "ehp": 6498,
       "score": 981.77,
       "tank": "C",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "Arkaa",
@@ -15390,9 +15403,9 @@
       "ehp": 7145,
       "score": 981.74,
       "tank": "B-",
-      "hybrid": "B-",
-      "dpst": "C+",
-      "overall": "C+"
+      "hybrid": "C+",
+      "dpst": "B-",
+      "overall": "C"
     },
     {
       "name": "NaJRevsYou",
@@ -15403,9 +15416,9 @@
       "ehp": 6211,
       "score": 981.65,
       "tank": "C",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B",
-      "overall": "C+"
+      "overall": "C"
     },
     {
       "name": "LOlilOLlo",
@@ -15416,9 +15429,9 @@
       "ehp": 5644,
       "score": 981.63,
       "tank": "C-",
-      "hybrid": "B",
-      "dpst": "B",
-      "overall": "C+"
+      "hybrid": "B-",
+      "dpst": "B+",
+      "overall": "C"
     },
     {
       "name": "HammerYourMom",
@@ -15429,7 +15442,7 @@
       "ehp": 7125,
       "score": 981.46,
       "tank": "C+",
-      "hybrid": "B-",
+      "hybrid": "C",
       "dpst": "B-",
       "overall": "C"
     },
@@ -15442,7 +15455,7 @@
       "ehp": 6151,
       "score": 981.1,
       "tank": "C",
-      "hybrid": "B",
+      "hybrid": "C+",
       "dpst": "B",
       "overall": "C"
     },
@@ -15455,7 +15468,7 @@
       "ehp": 6876,
       "score": 981.08,
       "tank": "C",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "B",
       "overall": "C"
     },
@@ -15468,7 +15481,7 @@
       "ehp": 8468,
       "score": 981.03,
       "tank": "B",
-      "hybrid": "B-",
+      "hybrid": "C",
       "dpst": "C-",
       "overall": "C"
     },
@@ -15481,7 +15494,7 @@
       "ehp": 5174,
       "score": 980.69,
       "tank": "D+",
-      "hybrid": "B",
+      "hybrid": "B-",
       "dpst": "B+",
       "overall": "C"
     },
@@ -15494,7 +15507,7 @@
       "ehp": 8080,
       "score": 980.46,
       "tank": "B-",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "B-",
       "overall": "C"
     },
@@ -15507,7 +15520,7 @@
       "ehp": 6504,
       "score": 980.27,
       "tank": "C+",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "B-",
       "overall": "C"
     },
@@ -15520,7 +15533,7 @@
       "ehp": 8478,
       "score": 980.11,
       "tank": "B-",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "B-",
       "overall": "C"
     },
@@ -15533,7 +15546,7 @@
       "ehp": 7342,
       "score": 979.86,
       "tank": "B-",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
     },
@@ -15546,7 +15559,7 @@
       "ehp": 7179,
       "score": 979.71,
       "tank": "C+",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C"
     },
@@ -15559,7 +15572,7 @@
       "ehp": 7709,
       "score": 979.65,
       "tank": "B-",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "C",
       "overall": "C"
     },
@@ -15572,8 +15585,8 @@
       "ehp": 5682,
       "score": 979.6,
       "tank": "D+",
-      "hybrid": "B-",
-      "dpst": "B+",
+      "hybrid": "C",
+      "dpst": "A-",
       "overall": "C"
     },
     {
@@ -15585,9 +15598,9 @@
       "ehp": 7289,
       "score": 978.71,
       "tank": "C+",
-      "hybrid": "C+",
-      "dpst": "C",
-      "overall": "C"
+      "hybrid": "C",
+      "dpst": "C+",
+      "overall": "C-"
     },
     {
       "name": "BubblyWater",
@@ -15598,7 +15611,7 @@
       "ehp": 7724,
       "score": 978.06,
       "tank": "C+",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "B",
       "overall": "C-"
     },
@@ -15611,7 +15624,7 @@
       "ehp": 7154,
       "score": 977.94,
       "tank": "C+",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C",
       "overall": "C-"
     },
@@ -15624,7 +15637,7 @@
       "ehp": 4695,
       "score": 977.29,
       "tank": "D",
-      "hybrid": "B-",
+      "hybrid": "C+",
       "dpst": "A-",
       "overall": "C-"
     },
@@ -15637,7 +15650,7 @@
       "ehp": 5713,
       "score": 977.16,
       "tank": "D+",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "B",
       "overall": "C-"
     },
@@ -15650,7 +15663,7 @@
       "ehp": 7012,
       "score": 977.09,
       "tank": "C+",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C",
       "overall": "C-"
     },
@@ -15663,8 +15676,8 @@
       "ehp": 5791,
       "score": 977.07,
       "tank": "D+",
-      "hybrid": "C+",
-      "dpst": "B",
+      "hybrid": "C-",
+      "dpst": "B+",
       "overall": "C-"
     },
     {
@@ -15676,7 +15689,7 @@
       "ehp": 4886,
       "score": 976.94,
       "tank": "D",
-      "hybrid": "B-",
+      "hybrid": "C",
       "dpst": "B+",
       "overall": "C-"
     },
@@ -15689,7 +15702,7 @@
       "ehp": 7822,
       "score": 976.91,
       "tank": "C+",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "C",
       "overall": "C-"
     },
@@ -15702,7 +15715,7 @@
       "ehp": 6214,
       "score": 976.88,
       "tank": "C",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C-"
     },
@@ -15715,7 +15728,7 @@
       "ehp": 5976,
       "score": 976.75,
       "tank": "C-",
-      "hybrid": "B-",
+      "hybrid": "C",
       "dpst": "C+",
       "overall": "C-"
     },
@@ -15728,7 +15741,7 @@
       "ehp": 5153,
       "score": 976.6,
       "tank": "D",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "B+",
       "overall": "C-"
     },
@@ -15741,9 +15754,9 @@
       "ehp": 6068,
       "score": 975.73,
       "tank": "C-",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C+",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "DiamondHealer",
@@ -15754,9 +15767,9 @@
       "ehp": 5404,
       "score": 975.48,
       "tank": "D+",
-      "hybrid": "C+",
+      "hybrid": "C",
       "dpst": "B-",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "MedicineManBL",
@@ -15767,9 +15780,9 @@
       "ehp": 7300,
       "score": 975.41,
       "tank": "C+",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "C-",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "Co5moS",
@@ -15780,9 +15793,9 @@
       "ehp": 7049,
       "score": 975.04,
       "tank": "C+",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "C-",
-      "overall": "C-"
+      "overall": "D+"
     },
     {
       "name": "Ar1us",
@@ -15793,7 +15806,7 @@
       "ehp": 6664,
       "score": 974.63,
       "tank": "C",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "C",
       "overall": "D+"
     },
@@ -15806,7 +15819,7 @@
       "ehp": 7262,
       "score": 974.4,
       "tank": "C+",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "C-",
       "overall": "D+"
     },
@@ -15819,7 +15832,7 @@
       "ehp": 6142,
       "score": 974.38,
       "tank": "C-",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C",
       "overall": "D+"
     },
@@ -15832,7 +15845,7 @@
       "ehp": 5439,
       "score": 974.29,
       "tank": "D+",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C+",
       "overall": "D+"
     },
@@ -15845,7 +15858,7 @@
       "ehp": 5775,
       "score": 974.19,
       "tank": "C-",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "C+",
       "overall": "D+"
     },
@@ -15858,7 +15871,7 @@
       "ehp": 6132,
       "score": 974.09,
       "tank": "C-",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "C+",
       "overall": "D+"
     },
@@ -15871,8 +15884,8 @@
       "ehp": 5021,
       "score": 973.33,
       "tank": "D",
-      "hybrid": "C+",
-      "dpst": "C+",
+      "hybrid": "C",
+      "dpst": "B-",
       "overall": "D+"
     },
     {
@@ -15884,7 +15897,7 @@
       "ehp": 6242,
       "score": 972.96,
       "tank": "C-",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "C",
       "overall": "D+"
     },
@@ -15897,8 +15910,8 @@
       "ehp": 5536,
       "score": 972.84,
       "tank": "D+",
-      "hybrid": "C",
-      "dpst": "C+",
+      "hybrid": "D+",
+      "dpst": "B-",
       "overall": "D+"
     },
     {
@@ -15910,9 +15923,9 @@
       "ehp": 4767,
       "score": 972.27,
       "tank": "D-",
-      "hybrid": "C+",
+      "hybrid": "C-",
       "dpst": "B-",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Enchiladas",
@@ -15923,9 +15936,9 @@
       "ehp": 6356,
       "score": 972.23,
       "tank": "C-",
-      "hybrid": "C-",
+      "hybrid": "D+",
       "dpst": "C",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "ChocoChan",
@@ -15936,9 +15949,9 @@
       "ehp": 7378,
       "score": 972.12,
       "tank": "C+",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "D+",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "DespairOfSmaug",
@@ -15949,9 +15962,9 @@
       "ehp": 6280,
       "score": 971.96,
       "tank": "C-",
-      "hybrid": "C-",
+      "hybrid": "D+",
       "dpst": "C",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Mangotuxedo",
@@ -15962,9 +15975,9 @@
       "ehp": 6864,
       "score": 971.88,
       "tank": "C-",
-      "hybrid": "D+",
-      "dpst": "C",
-      "overall": "D+"
+      "hybrid": "D",
+      "dpst": "C+",
+      "overall": "D"
     },
     {
       "name": "sixseeeveeeeenn",
@@ -15975,9 +15988,9 @@
       "ehp": 4887,
       "score": 971.77,
       "tank": "D",
-      "hybrid": "C+",
-      "dpst": "C+",
-      "overall": "D+"
+      "hybrid": "C-",
+      "dpst": "B-",
+      "overall": "D"
     },
     {
       "name": "Heisrunsham",
@@ -15988,9 +16001,9 @@
       "ehp": 4740,
       "score": 971.54,
       "tank": "D-",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "B",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "MedicG",
@@ -16001,9 +16014,9 @@
       "ehp": 6330,
       "score": 971.43,
       "tank": "D+",
-      "hybrid": "D+",
+      "hybrid": "D-",
       "dpst": "B",
-      "overall": "D+"
+      "overall": "D"
     },
     {
       "name": "Lesn",
@@ -16014,7 +16027,7 @@
       "ehp": 5003,
       "score": 970.9,
       "tank": "D-",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "B-",
       "overall": "D"
     },
@@ -16027,7 +16040,7 @@
       "ehp": 7035,
       "score": 970.24,
       "tank": "C",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "D",
       "overall": "D"
     },
@@ -16040,7 +16053,7 @@
       "ehp": 6328,
       "score": 970.21,
       "tank": "D+",
-      "hybrid": "D+",
+      "hybrid": "D",
       "dpst": "C",
       "overall": "D"
     },
@@ -16053,7 +16066,7 @@
       "ehp": 6087,
       "score": 970.01,
       "tank": "D+",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C",
       "overall": "D"
     },
@@ -16066,7 +16079,7 @@
       "ehp": 8062,
       "score": 969.99,
       "tank": "C+",
-      "hybrid": "D+",
+      "hybrid": "D-",
       "dpst": "D",
       "overall": "D"
     },
@@ -16079,7 +16092,7 @@
       "ehp": 6830,
       "score": 969.86,
       "tank": "C-",
-      "hybrid": "D+",
+      "hybrid": "D",
       "dpst": "D+",
       "overall": "D"
     },
@@ -16092,7 +16105,7 @@
       "ehp": 4141,
       "score": 969.7,
       "tank": "F",
-      "hybrid": "C",
+      "hybrid": "C-",
       "dpst": "B",
       "overall": "D"
     },
@@ -16105,8 +16118,8 @@
       "ehp": 4719,
       "score": 969.6,
       "tank": "D-",
-      "hybrid": "C",
-      "dpst": "C+",
+      "hybrid": "D+",
+      "dpst": "B-",
       "overall": "D"
     },
     {
@@ -16118,7 +16131,7 @@
       "ehp": 5588,
       "score": 969.42,
       "tank": "D",
-      "hybrid": "C-",
+      "hybrid": "D+",
       "dpst": "C",
       "overall": "D"
     },
@@ -16131,7 +16144,7 @@
       "ehp": 5234,
       "score": 969.34,
       "tank": "D",
-      "hybrid": "C",
+      "hybrid": "D+",
       "dpst": "C",
       "overall": "D"
     },
@@ -16144,9 +16157,9 @@
       "ehp": 6168,
       "score": 968.97,
       "tank": "D+",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C-",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "NyanLii",
@@ -16157,9 +16170,9 @@
       "ehp": 4972,
       "score": 968.73,
       "tank": "D-",
-      "hybrid": "C-",
+      "hybrid": "D+",
       "dpst": "C+",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "Banewirya",
@@ -16170,9 +16183,9 @@
       "ehp": 6709,
       "score": 968.34,
       "tank": "D+",
-      "hybrid": "D",
+      "hybrid": "E",
       "dpst": "C",
-      "overall": "D"
+      "overall": "D-"
     },
     {
       "name": "MageeDemon",
@@ -16183,7 +16196,7 @@
       "ehp": 5273,
       "score": 967.64,
       "tank": "D-",
-      "hybrid": "D+",
+      "hybrid": "D",
       "dpst": "C+",
       "overall": "D-"
     },
@@ -16196,7 +16209,7 @@
       "ehp": 4737,
       "score": 967.48,
       "tank": "D-",
-      "hybrid": "C-",
+      "hybrid": "D+",
       "dpst": "C+",
       "overall": "D-"
     },
@@ -16209,7 +16222,7 @@
       "ehp": 8794,
       "score": 966.4,
       "tank": "B-",
-      "hybrid": "D",
+      "hybrid": "E",
       "dpst": "F",
       "overall": "D-"
     },
@@ -16222,7 +16235,7 @@
       "ehp": 4909,
       "score": 966.18,
       "tank": "D-",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C",
       "overall": "D-"
     },
@@ -16235,7 +16248,7 @@
       "ehp": 4740,
       "score": 966.13,
       "tank": "E",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C+",
       "overall": "D-"
     },
@@ -16248,9 +16261,9 @@
       "ehp": 4799,
       "score": 965.7,
       "tank": "E",
-      "hybrid": "C-",
-      "dpst": "C",
-      "overall": "D-"
+      "hybrid": "D",
+      "dpst": "C+",
+      "overall": "E"
     },
     {
       "name": "THEGODz",
@@ -16261,9 +16274,9 @@
       "ehp": 5411,
       "score": 965.66,
       "tank": "D",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "D+",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "ELx604",
@@ -16274,9 +16287,9 @@
       "ehp": 4911,
       "score": 965.36,
       "tank": "D-",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C-",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "T13ET",
@@ -16287,9 +16300,9 @@
       "ehp": 5030,
       "score": 965.21,
       "tank": "D-",
-      "hybrid": "D+",
+      "hybrid": "D",
       "dpst": "C-",
-      "overall": "D-"
+      "overall": "E"
     },
     {
       "name": "ShamanMad",
@@ -16300,7 +16313,7 @@
       "ehp": 4232,
       "score": 964.24,
       "tank": "F",
-      "hybrid": "C-",
+      "hybrid": "D",
       "dpst": "C+",
       "overall": "E"
     },
@@ -16313,7 +16326,7 @@
       "ehp": 4774,
       "score": 964.1,
       "tank": "E",
-      "hybrid": "D+",
+      "hybrid": "D-",
       "dpst": "C",
       "overall": "E"
     },
@@ -16326,7 +16339,7 @@
       "ehp": 5286,
       "score": 964.09,
       "tank": "D-",
-      "hybrid": "D",
+      "hybrid": "E",
       "dpst": "C",
       "overall": "E"
     },
@@ -16339,7 +16352,7 @@
       "ehp": 6664,
       "score": 963.11,
       "tank": "D+",
-      "hybrid": "D-",
+      "hybrid": "E",
       "dpst": "D-",
       "overall": "E"
     },
@@ -16352,7 +16365,7 @@
       "ehp": 5035,
       "score": 962.84,
       "tank": "E",
-      "hybrid": "D-",
+      "hybrid": "E",
       "dpst": "C+",
       "overall": "E"
     },
@@ -16365,9 +16378,9 @@
       "ehp": 7256,
       "score": 962,
       "tank": "C-",
-      "hybrid": "E",
+      "hybrid": "F",
       "dpst": "D-",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "Bloodvesla",
@@ -16378,9 +16391,9 @@
       "ehp": 4181,
       "score": 961.19,
       "tank": "F",
-      "hybrid": "D+",
+      "hybrid": "D-",
       "dpst": "C",
-      "overall": "E"
+      "overall": "F"
     },
     {
       "name": "Fixing2",
@@ -16391,7 +16404,7 @@
       "ehp": 4447,
       "score": 960.32,
       "tank": "F",
-      "hybrid": "D+",
+      "hybrid": "D-",
       "dpst": "D+",
       "overall": "F"
     },
@@ -16404,7 +16417,7 @@
       "ehp": 6179,
       "score": 960.14,
       "tank": "D",
-      "hybrid": "D-",
+      "hybrid": "F",
       "dpst": "E",
       "overall": "F"
     },
@@ -16417,7 +16430,7 @@
       "ehp": 5595,
       "score": 959.96,
       "tank": "D-",
-      "hybrid": "D-",
+      "hybrid": "E",
       "dpst": "D-",
       "overall": "F"
     },
@@ -16430,21 +16443,8 @@
       "ehp": 4297,
       "score": 959.02,
       "tank": "F",
-      "hybrid": "D",
+      "hybrid": "D-",
       "dpst": "D+",
-      "overall": "F"
-    },
-    {
-      "name": "Xuxuendo",
-      "cls": "shaman",
-      "rank": 291,
-      "dps": 354,
-      "burst": 296,
-      "ehp": 7887,
-      "score": 957.7,
-      "tank": "C-",
-      "hybrid": "F",
-      "dpst": "F",
       "overall": "F"
     }
   ]
