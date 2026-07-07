@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-06T20:16:19.180Z",
+  "fetchedAt": "2026-07-07T04:03:19.088Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -12964,9 +12964,22 @@
       "overall": "SS"
     },
     {
-      "name": "LePolandV2",
+      "name": "GhostIing",
       "cls": "shaman",
       "rank": 25,
+      "dps": 575,
+      "burst": 395,
+      "ehp": 9714,
+      "score": 1010.58,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS"
+    },
+    {
+      "name": "LePolandV2",
+      "cls": "shaman",
+      "rank": 26,
       "dps": 552,
       "burst": 390,
       "ehp": 10397,
@@ -12979,7 +12992,7 @@
     {
       "name": "Kiyuchi",
       "cls": "shaman",
-      "rank": 26,
+      "rank": 27,
       "dps": 571,
       "burst": 385,
       "ehp": 9889,
@@ -12992,7 +13005,7 @@
     {
       "name": "LoRemipsumdolor",
       "cls": "shaman",
-      "rank": 27,
+      "rank": 28,
       "dps": 595,
       "burst": 410,
       "ehp": 9153,
@@ -13005,7 +13018,7 @@
     {
       "name": "Goldmare",
       "cls": "shaman",
-      "rank": 28,
+      "rank": 29,
       "dps": 605,
       "burst": 421,
       "ehp": 9039,
@@ -13018,7 +13031,7 @@
     {
       "name": "Oakmane",
       "cls": "shaman",
-      "rank": 29,
+      "rank": 30,
       "dps": 606,
       "burst": 408,
       "ehp": 8890,
@@ -13026,19 +13039,6 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SSS",
-      "overall": "SS"
-    },
-    {
-      "name": "GhostIing",
-      "cls": "shaman",
-      "rank": 30,
-      "dps": 549,
-      "burst": 378,
-      "ehp": 10478,
-      "score": 1010.04,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "A+",
       "overall": "SS"
     },
     {
