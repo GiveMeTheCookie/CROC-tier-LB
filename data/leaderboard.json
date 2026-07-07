@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-07T16:37:21.691Z",
+  "fetchedAt": "2026-07-07T20:06:59.621Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1056,9 +1056,22 @@
       "overall": "A"
     },
     {
-      "name": "MUKAN777",
+      "name": "RyuuLion",
       "cls": "warrior",
       "rank": 82,
+      "dps": 416,
+      "burst": 308,
+      "ehp": 14617,
+      "score": 1001.17,
+      "tank": "A",
+      "hybrid": "A+",
+      "dpst": "A-",
+      "overall": "A"
+    },
+    {
+      "name": "MUKAN777",
+      "cls": "warrior",
+      "rank": 83,
       "dps": 464,
       "burst": 337,
       "ehp": 11587,
@@ -1071,7 +1084,7 @@
     {
       "name": "extremelymid",
       "cls": "warrior",
-      "rank": 83,
+      "rank": 84,
       "dps": 448,
       "burst": 328,
       "ehp": 12560,
@@ -1084,7 +1097,7 @@
     {
       "name": "Dartusk",
       "cls": "warrior",
-      "rank": 84,
+      "rank": 85,
       "dps": 475,
       "burst": 351,
       "ehp": 10863,
@@ -1097,7 +1110,7 @@
     {
       "name": "MatlockTownFC",
       "cls": "warrior",
-      "rank": 85,
+      "rank": 86,
       "dps": 344,
       "burst": 260,
       "ehp": 20466,
@@ -1110,7 +1123,7 @@
     {
       "name": "Envy13",
       "cls": "warrior",
-      "rank": 86,
+      "rank": 87,
       "dps": 504,
       "burst": 359,
       "ehp": 9713,
@@ -1123,7 +1136,7 @@
     {
       "name": "SatanTango",
       "cls": "warrior",
-      "rank": 87,
+      "rank": 88,
       "dps": 467,
       "burst": 356,
       "ehp": 10912,
@@ -1136,7 +1149,7 @@
     {
       "name": "Kwylriel",
       "cls": "warrior",
-      "rank": 88,
+      "rank": 89,
       "dps": 480,
       "burst": 339,
       "ehp": 10387,
@@ -1149,7 +1162,7 @@
     {
       "name": "FuelledByHate",
       "cls": "warrior",
-      "rank": 89,
+      "rank": 90,
       "dps": 422,
       "burst": 364,
       "ehp": 12969,
@@ -1162,7 +1175,7 @@
     {
       "name": "TheGrandmaster",
       "cls": "warrior",
-      "rank": 90,
+      "rank": 91,
       "dps": 467,
       "burst": 356,
       "ehp": 11034,
@@ -1175,7 +1188,7 @@
     {
       "name": "nizar12300334",
       "cls": "warrior",
-      "rank": 91,
+      "rank": 92,
       "dps": 400,
       "burst": 347,
       "ehp": 14006,
@@ -1188,7 +1201,7 @@
     {
       "name": "SuzuneH",
       "cls": "warrior",
-      "rank": 92,
+      "rank": 93,
       "dps": 506,
       "burst": 362,
       "ehp": 9453,
@@ -1201,7 +1214,7 @@
     {
       "name": "ReIic",
       "cls": "warrior",
-      "rank": 93,
+      "rank": 94,
       "dps": 460,
       "burst": 340,
       "ehp": 11745,
@@ -1214,7 +1227,7 @@
     {
       "name": "TheSunXIX",
       "cls": "warrior",
-      "rank": 94,
+      "rank": 95,
       "dps": 486,
       "burst": 370,
       "ehp": 9998,
@@ -1227,7 +1240,7 @@
     {
       "name": "InFracture",
       "cls": "warrior",
-      "rank": 95,
+      "rank": 96,
       "dps": 467,
       "burst": 346,
       "ehp": 10904,
@@ -1240,7 +1253,7 @@
     {
       "name": "yoyoyo1370",
       "cls": "warrior",
-      "rank": 96,
+      "rank": 97,
       "dps": 424,
       "burst": 332,
       "ehp": 12896,
@@ -1253,7 +1266,7 @@
     {
       "name": "CheezWhiz",
       "cls": "warrior",
-      "rank": 97,
+      "rank": 98,
       "dps": 349,
       "burst": 262,
       "ehp": 19426,
@@ -1266,7 +1279,7 @@
     {
       "name": "Nosoylaze",
       "cls": "warrior",
-      "rank": 98,
+      "rank": 99,
       "dps": 525,
       "burst": 373,
       "ehp": 8686,
@@ -1274,19 +1287,6 @@
       "tank": "C",
       "hybrid": "A-",
       "dpst": "S",
-      "overall": "A"
-    },
-    {
-      "name": "RyuuLion",
-      "cls": "warrior",
-      "rank": 99,
-      "dps": 407,
-      "burst": 320,
-      "ehp": 14177,
-      "score": 999.36,
-      "tank": "B+",
-      "hybrid": "A",
-      "dpst": "A-",
       "overall": "A"
     },
     {
@@ -12548,9 +12548,22 @@
       "overall": "E"
     },
     {
-      "name": "corey2",
+      "name": "crossed",
       "cls": "archer",
       "rank": 340,
+      "dps": 373,
+      "burst": 309,
+      "ehp": 4502,
+      "score": 933.03,
+      "tank": "D",
+      "hybrid": "E",
+      "dpst": "D-",
+      "overall": "E"
+    },
+    {
+      "name": "corey2",
+      "cls": "archer",
+      "rank": 341,
       "dps": 415,
       "burst": 354,
       "ehp": 3344,
@@ -12563,7 +12576,7 @@
     {
       "name": "Nameaq",
       "cls": "archer",
-      "rank": 341,
+      "rank": 342,
       "dps": 353,
       "burst": 322,
       "ehp": 4275,
@@ -12576,7 +12589,7 @@
     {
       "name": "HouseKiller",
       "cls": "archer",
-      "rank": 342,
+      "rank": 343,
       "dps": 395,
       "burst": 324,
       "ehp": 3720,
@@ -12589,7 +12602,7 @@
     {
       "name": "FLECHINH4",
       "cls": "archer",
-      "rank": 343,
+      "rank": 344,
       "dps": 338,
       "burst": 327,
       "ehp": 4341,
@@ -12602,7 +12615,7 @@
     {
       "name": "Enchantr3ss",
       "cls": "archer",
-      "rank": 344,
+      "rank": 345,
       "dps": 393,
       "burst": 315,
       "ehp": 3735,
@@ -12615,7 +12628,7 @@
     {
       "name": "SomeoneJr",
       "cls": "archer",
-      "rank": 345,
+      "rank": 346,
       "dps": 423,
       "burst": 321,
       "ehp": 3351,
@@ -12628,7 +12641,7 @@
     {
       "name": "bloomvephie3",
       "cls": "archer",
-      "rank": 346,
+      "rank": 347,
       "dps": 324,
       "burst": 304,
       "ehp": 4847,
@@ -12641,7 +12654,7 @@
     {
       "name": "KillerMaster",
       "cls": "archer",
-      "rank": 347,
+      "rank": 348,
       "dps": 363,
       "burst": 332,
       "ehp": 3844,
@@ -12654,7 +12667,7 @@
     {
       "name": "Kiemy",
       "cls": "archer",
-      "rank": 348,
+      "rank": 349,
       "dps": 338,
       "burst": 320,
       "ehp": 4343,
@@ -12667,7 +12680,7 @@
     {
       "name": "MushroomPrince",
       "cls": "archer",
-      "rank": 349,
+      "rank": 350,
       "dps": 421,
       "burst": 354,
       "ehp": 2947,
@@ -13276,9 +13289,22 @@
       "overall": "S"
     },
     {
-      "name": "BvbblyWater",
+      "name": "guest",
       "cls": "shaman",
       "rank": 47,
+      "dps": 603,
+      "burst": 414,
+      "ehp": 8492,
+      "score": 1008.72,
+      "tank": "A+",
+      "hybrid": "SS",
+      "dpst": "SSS",
+      "overall": "S"
+    },
+    {
+      "name": "BvbblyWater",
+      "cls": "shaman",
+      "rank": 48,
       "dps": 584,
       "burst": 404,
       "ehp": 9027,
@@ -13291,7 +13317,7 @@
     {
       "name": "192837123987",
       "cls": "shaman",
-      "rank": 48,
+      "rank": 49,
       "dps": 553,
       "burst": 387,
       "ehp": 9952,
@@ -13304,7 +13330,7 @@
     {
       "name": "MrSaddle",
       "cls": "shaman",
-      "rank": 49,
+      "rank": 50,
       "dps": 583,
       "burst": 403,
       "ehp": 9136,
@@ -13317,7 +13343,7 @@
     {
       "name": "caverpelt",
       "cls": "shaman",
-      "rank": 50,
+      "rank": 51,
       "dps": 578,
       "burst": 413,
       "ehp": 9235,
@@ -13330,7 +13356,7 @@
     {
       "name": "Huskeed",
       "cls": "shaman",
-      "rank": 51,
+      "rank": 52,
       "dps": 613,
       "burst": 411,
       "ehp": 8216,
@@ -13343,7 +13369,7 @@
     {
       "name": "ShturmovicS",
       "cls": "shaman",
-      "rank": 52,
+      "rank": 53,
       "dps": 567,
       "burst": 384,
       "ehp": 9474,
@@ -13356,7 +13382,7 @@
     {
       "name": "Grigory",
       "cls": "shaman",
-      "rank": 53,
+      "rank": 54,
       "dps": 586,
       "burst": 393,
       "ehp": 8893,
@@ -13369,7 +13395,7 @@
     {
       "name": "Multiboxers4",
       "cls": "shaman",
-      "rank": 54,
+      "rank": 55,
       "dps": 582,
       "burst": 402,
       "ehp": 9112,
@@ -13382,7 +13408,7 @@
     {
       "name": "sulaj",
       "cls": "shaman",
-      "rank": 55,
+      "rank": 56,
       "dps": 544,
       "burst": 376,
       "ehp": 9996,
@@ -13395,7 +13421,7 @@
     {
       "name": "RedHealer",
       "cls": "shaman",
-      "rank": 56,
+      "rank": 57,
       "dps": 588,
       "burst": 396,
       "ehp": 8759,
@@ -13408,7 +13434,7 @@
     {
       "name": "WhoTao",
       "cls": "shaman",
-      "rank": 57,
+      "rank": 58,
       "dps": 599,
       "burst": 391,
       "ehp": 8528,
@@ -13419,9 +13445,22 @@
       "overall": "S"
     },
     {
+      "name": "unIucky",
+      "cls": "shaman",
+      "rank": 59,
+      "dps": 556,
+      "burst": 386,
+      "ehp": 9743,
+      "score": 1007.29,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S"
+    },
+    {
       "name": "Scrizz",
       "cls": "shaman",
-      "rank": 58,
+      "rank": 60,
       "dps": 568,
       "burst": 384,
       "ehp": 9299,
@@ -13434,7 +13473,7 @@
     {
       "name": "Roloid",
       "cls": "shaman",
-      "rank": 59,
+      "rank": 61,
       "dps": 549,
       "burst": 381,
       "ehp": 9722,
@@ -13447,7 +13486,7 @@
     {
       "name": "Toshii",
       "cls": "shaman",
-      "rank": 60,
+      "rank": 62,
       "dps": 570,
       "burst": 383,
       "ehp": 9282,
@@ -13460,7 +13499,7 @@
     {
       "name": "UncleClone",
       "cls": "shaman",
-      "rank": 61,
+      "rank": 63,
       "dps": 578,
       "burst": 378,
       "ehp": 8802,
@@ -13473,7 +13512,7 @@
     {
       "name": "Firecape",
       "cls": "shaman",
-      "rank": 62,
+      "rank": 64,
       "dps": 553,
       "burst": 373,
       "ehp": 9581,
@@ -13486,7 +13525,7 @@
     {
       "name": "pipilarium",
       "cls": "shaman",
-      "rank": 63,
+      "rank": 65,
       "dps": 601,
       "burst": 395,
       "ehp": 8208,
@@ -13499,7 +13538,7 @@
     {
       "name": "iiikaa",
       "cls": "shaman",
-      "rank": 64,
+      "rank": 66,
       "dps": 588,
       "burst": 419,
       "ehp": 8646,
@@ -13512,7 +13551,7 @@
     {
       "name": "papauru30",
       "cls": "shaman",
-      "rank": 65,
+      "rank": 67,
       "dps": 544,
       "burst": 378,
       "ehp": 9678,
@@ -13525,7 +13564,7 @@
     {
       "name": "Unik",
       "cls": "shaman",
-      "rank": 66,
+      "rank": 68,
       "dps": 546,
       "burst": 379,
       "ehp": 9561,
@@ -13538,7 +13577,7 @@
     {
       "name": "Hatchbando",
       "cls": "shaman",
-      "rank": 67,
+      "rank": 69,
       "dps": 566,
       "burst": 394,
       "ehp": 9011,
@@ -13551,7 +13590,7 @@
     {
       "name": "Yunkie",
       "cls": "shaman",
-      "rank": 68,
+      "rank": 70,
       "dps": 571,
       "burst": 397,
       "ehp": 8762,
@@ -13564,7 +13603,7 @@
     {
       "name": "Sabatora",
       "cls": "shaman",
-      "rank": 69,
+      "rank": 71,
       "dps": 542,
       "burst": 367,
       "ehp": 9613,
@@ -13577,7 +13616,7 @@
     {
       "name": "CipherOWO",
       "cls": "shaman",
-      "rank": 70,
+      "rank": 72,
       "dps": 575,
       "burst": 401,
       "ehp": 8728,
@@ -13588,9 +13627,22 @@
       "overall": "A+"
     },
     {
+      "name": "Spyware",
+      "cls": "shaman",
+      "rank": 73,
+      "dps": 631,
+      "burst": 425,
+      "ehp": 7201,
+      "score": 1005.39,
+      "tank": "A-",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "A+"
+    },
+    {
       "name": "BEHOLD",
       "cls": "shaman",
-      "rank": 71,
+      "rank": 74,
       "dps": 547,
       "burst": 382,
       "ehp": 9503,
@@ -13603,7 +13655,7 @@
     {
       "name": "humblehealer",
       "cls": "shaman",
-      "rank": 72,
+      "rank": 75,
       "dps": 560,
       "burst": 395,
       "ehp": 9015,
@@ -13616,7 +13668,7 @@
     {
       "name": "AcidShammy",
       "cls": "shaman",
-      "rank": 73,
+      "rank": 76,
       "dps": 540,
       "burst": 374,
       "ehp": 9697,
@@ -13629,7 +13681,7 @@
     {
       "name": "HorrorsofShames",
       "cls": "shaman",
-      "rank": 74,
+      "rank": 77,
       "dps": 535,
       "burst": 395,
       "ehp": 9858,
@@ -13642,7 +13694,7 @@
     {
       "name": "somebody4",
       "cls": "shaman",
-      "rank": 75,
+      "rank": 78,
       "dps": 554,
       "burst": 383,
       "ehp": 9056,
@@ -13655,7 +13707,7 @@
     {
       "name": "SisterShirley",
       "cls": "shaman",
-      "rank": 76,
+      "rank": 79,
       "dps": 532,
       "burst": 394,
       "ehp": 9815,
@@ -13668,7 +13720,7 @@
     {
       "name": "NutriJr",
       "cls": "shaman",
-      "rank": 77,
+      "rank": 80,
       "dps": 606,
       "burst": 421,
       "ehp": 7722,
@@ -13681,7 +13733,7 @@
     {
       "name": "ChaosKiller",
       "cls": "shaman",
-      "rank": 78,
+      "rank": 81,
       "dps": 542,
       "burst": 378,
       "ehp": 9211,
@@ -13694,7 +13746,7 @@
     {
       "name": "Raiden08",
       "cls": "shaman",
-      "rank": 79,
+      "rank": 82,
       "dps": 543,
       "burst": 373,
       "ehp": 9246,
@@ -13705,22 +13757,9 @@
       "overall": "A+"
     },
     {
-      "name": "unIucky",
-      "cls": "shaman",
-      "rank": 80,
-      "dps": 559,
-      "burst": 391,
-      "ehp": 8983,
-      "score": 1003.65,
-      "tank": "A",
-      "hybrid": "A+",
-      "dpst": "A+",
-      "overall": "A+"
-    },
-    {
       "name": "Kasii",
       "cls": "shaman",
-      "rank": 81,
+      "rank": 83,
       "dps": 510,
       "burst": 365,
       "ehp": 10179,
@@ -13728,32 +13767,6 @@
       "tank": "S",
       "hybrid": "A",
       "dpst": "A-",
-      "overall": "A+"
-    },
-    {
-      "name": "guest",
-      "cls": "shaman",
-      "rank": 82,
-      "dps": 595,
-      "burst": 414,
-      "ehp": 7720,
-      "score": 1003.44,
-      "tank": "A-",
-      "hybrid": "A+",
-      "dpst": "SS",
-      "overall": "A+"
-    },
-    {
-      "name": "Spyware",
-      "cls": "shaman",
-      "rank": 83,
-      "dps": 656,
-      "burst": 430,
-      "ehp": 6440,
-      "score": 1003.3,
-      "tank": "B",
-      "hybrid": "S",
-      "dpst": "SSS",
       "overall": "A+"
     },
     {
