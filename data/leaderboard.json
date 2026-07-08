@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-07T20:06:59.621Z",
+  "fetchedAt": "2026-07-08T03:29:34.593Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1043,9 +1043,22 @@
       "overall": "A"
     },
     {
-      "name": "MushroomKing",
+      "name": "RyuuLion",
       "cls": "warrior",
       "rank": 81,
+      "dps": 407,
+      "burst": 309,
+      "ehp": 15012,
+      "score": 1001.35,
+      "tank": "A",
+      "hybrid": "A+",
+      "dpst": "A-",
+      "overall": "A"
+    },
+    {
+      "name": "MushroomKing",
+      "cls": "warrior",
+      "rank": 82,
       "dps": 456,
       "burst": 333,
       "ehp": 11984,
@@ -1053,19 +1066,6 @@
       "tank": "B+",
       "hybrid": "A",
       "dpst": "A",
-      "overall": "A"
-    },
-    {
-      "name": "RyuuLion",
-      "cls": "warrior",
-      "rank": 82,
-      "dps": 416,
-      "burst": 308,
-      "ehp": 14617,
-      "score": 1001.17,
-      "tank": "A",
-      "hybrid": "A+",
-      "dpst": "A-",
       "overall": "A"
     },
     {
@@ -12470,9 +12470,22 @@
       "overall": "E"
     },
     {
-      "name": "Holixer",
+      "name": "crossed",
       "cls": "archer",
       "rank": 334,
+      "dps": 382,
+      "burst": 315,
+      "ehp": 4595,
+      "score": 935.98,
+      "tank": "D",
+      "hybrid": "E",
+      "dpst": "D",
+      "overall": "E"
+    },
+    {
+      "name": "Holixer",
+      "cls": "archer",
+      "rank": 335,
       "dps": 397,
       "burst": 359,
       "ehp": 3775,
@@ -12485,7 +12498,7 @@
     {
       "name": "CatNeta",
       "cls": "archer",
-      "rank": 335,
+      "rank": 336,
       "dps": 392,
       "burst": 351,
       "ehp": 3904,
@@ -12498,7 +12511,7 @@
     {
       "name": "Merschi",
       "cls": "archer",
-      "rank": 336,
+      "rank": 337,
       "dps": 451,
       "burst": 345,
       "ehp": 3304,
@@ -12511,7 +12524,7 @@
     {
       "name": "arrowgobrrr",
       "cls": "archer",
-      "rank": 337,
+      "rank": 338,
       "dps": 348,
       "burst": 316,
       "ehp": 4819,
@@ -12524,7 +12537,7 @@
     {
       "name": "weeere",
       "cls": "archer",
-      "rank": 338,
+      "rank": 339,
       "dps": 366,
       "burst": 344,
       "ehp": 4111,
@@ -12537,7 +12550,7 @@
     {
       "name": "StorageTank",
       "cls": "archer",
-      "rank": 339,
+      "rank": 340,
       "dps": 435,
       "burst": 346,
       "ehp": 3333,
@@ -12545,19 +12558,6 @@
       "tank": "E",
       "hybrid": "E",
       "dpst": "C",
-      "overall": "E"
-    },
-    {
-      "name": "crossed",
-      "cls": "archer",
-      "rank": 340,
-      "dps": 373,
-      "burst": 309,
-      "ehp": 4502,
-      "score": 933.03,
-      "tank": "D",
-      "hybrid": "E",
-      "dpst": "D-",
       "overall": "E"
     },
     {
