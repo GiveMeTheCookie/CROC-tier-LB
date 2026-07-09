@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-09T03:57:00.411Z",
+  "fetchedAt": "2026-07-09T09:33:10.243Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -4991,7 +4991,7 @@
       "score": 1003.83,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "S"
     },
     {
@@ -5290,7 +5290,7 @@
       "score": 999.96,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A+"
     },
     {
@@ -5329,7 +5329,7 @@
       "score": 999.59,
       "tank": "A-",
       "hybrid": "A",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "A+"
     },
     {
@@ -5641,7 +5641,7 @@
       "score": 995.75,
       "tank": "B+",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
@@ -6135,7 +6135,7 @@
       "score": 987.83,
       "tank": "A-",
       "hybrid": "B+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "B+"
     },
     {
@@ -7331,7 +7331,7 @@
       "score": 969.76,
       "tank": "C-",
       "hybrid": "C-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -7539,7 +7539,7 @@
       "score": 964.1,
       "tank": "C",
       "hybrid": "D",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "D"
     },
     {
@@ -7933,9 +7933,22 @@
       "overall": "E"
     },
     {
-      "name": "NeptuneTheGreat",
+      "name": "Flamesotuff",
       "cls": "mage",
       "rank": 275,
+      "dps": 417,
+      "burst": 382,
+      "ehp": 5722,
+      "score": 954.71,
+      "tank": "D+",
+      "hybrid": "E",
+      "dpst": "D-",
+      "overall": "E"
+    },
+    {
+      "name": "NeptuneTheGreat",
+      "cls": "mage",
+      "rank": 276,
       "dps": 506,
       "burst": 417,
       "ehp": 4114,
@@ -7948,7 +7961,7 @@
     {
       "name": "TrOOLer",
       "cls": "mage",
-      "rank": 276,
+      "rank": 277,
       "dps": 502,
       "burst": 419,
       "ehp": 4100,
@@ -7961,7 +7974,7 @@
     {
       "name": "PizzaOven",
       "cls": "mage",
-      "rank": 277,
+      "rank": 278,
       "dps": 480,
       "burst": 421,
       "ehp": 4283,
@@ -7974,7 +7987,7 @@
     {
       "name": "Temmieio",
       "cls": "mage",
-      "rank": 278,
+      "rank": 279,
       "dps": 454,
       "burst": 385,
       "ehp": 4924,
@@ -7987,7 +8000,7 @@
     {
       "name": "HisHighness",
       "cls": "mage",
-      "rank": 279,
+      "rank": 280,
       "dps": 502,
       "burst": 400,
       "ehp": 4184,
@@ -8000,7 +8013,7 @@
     {
       "name": "magiclegand123",
       "cls": "mage",
-      "rank": 280,
+      "rank": 281,
       "dps": 461,
       "burst": 420,
       "ehp": 4350,
@@ -8013,7 +8026,7 @@
     {
       "name": "Overheat",
       "cls": "mage",
-      "rank": 281,
+      "rank": 282,
       "dps": 461,
       "burst": 400,
       "ehp": 4561,
@@ -8026,7 +8039,7 @@
     {
       "name": "Hetzel",
       "cls": "mage",
-      "rank": 282,
+      "rank": 283,
       "dps": 516,
       "burst": 420,
       "ehp": 3716,
@@ -8039,7 +8052,7 @@
     {
       "name": "clwon23",
       "cls": "mage",
-      "rank": 283,
+      "rank": 284,
       "dps": 437,
       "burst": 396,
       "ehp": 4738,
@@ -8052,7 +8065,7 @@
     {
       "name": "Witchling",
       "cls": "mage",
-      "rank": 284,
+      "rank": 285,
       "dps": 434,
       "burst": 370,
       "ehp": 5100,
@@ -8065,7 +8078,7 @@
     {
       "name": "lowexe",
       "cls": "mage",
-      "rank": 285,
+      "rank": 286,
       "dps": 435,
       "burst": 384,
       "ehp": 4867,
@@ -8078,7 +8091,7 @@
     {
       "name": "Bebra777",
       "cls": "mage",
-      "rank": 286,
+      "rank": 287,
       "dps": 506,
       "burst": 430,
       "ehp": 3580,
@@ -8091,7 +8104,7 @@
     {
       "name": "Fixing1",
       "cls": "mage",
-      "rank": 287,
+      "rank": 288,
       "dps": 509,
       "burst": 396,
       "ehp": 3845,
@@ -8104,7 +8117,7 @@
     {
       "name": "Fixing2",
       "cls": "mage",
-      "rank": 288,
+      "rank": 289,
       "dps": 509,
       "burst": 396,
       "ehp": 3845,
@@ -8117,7 +8130,7 @@
     {
       "name": "Starfyr",
       "cls": "mage",
-      "rank": 289,
+      "rank": 290,
       "dps": 457,
       "burst": 406,
       "ehp": 4219,
@@ -8130,7 +8143,7 @@
     {
       "name": "GCnub",
       "cls": "mage",
-      "rank": 290,
+      "rank": 291,
       "dps": 435,
       "burst": 393,
       "ehp": 4619,
