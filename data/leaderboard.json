@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-09T11:30:21.782Z",
+  "fetchedAt": "2026-07-09T11:32:15.509Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -12340,9 +12340,22 @@
       "overall": "D-"
     },
     {
-      "name": "Baronzhem",
+      "name": "crossed",
       "cls": "archer",
       "rank": 323,
+      "dps": 398,
+      "burst": 324,
+      "ehp": 4833,
+      "score": 941.47,
+      "tank": "D+",
+      "hybrid": "D-",
+      "dpst": "D+",
+      "overall": "D-"
+    },
+    {
+      "name": "Baronzhem",
+      "cls": "archer",
+      "rank": 324,
       "dps": 415,
       "burst": 340,
       "ehp": 4307,
@@ -12355,7 +12368,7 @@
     {
       "name": "Sequoia",
       "cls": "archer",
-      "rank": 324,
+      "rank": 325,
       "dps": 388,
       "burst": 327,
       "ehp": 4664,
@@ -12368,7 +12381,7 @@
     {
       "name": "Cuqu1n",
       "cls": "archer",
-      "rank": 325,
+      "rank": 326,
       "dps": 312,
       "burst": 300,
       "ehp": 6597,
@@ -12381,7 +12394,7 @@
     {
       "name": "Sincere",
       "cls": "archer",
-      "rank": 326,
+      "rank": 327,
       "dps": 458,
       "burst": 400,
       "ehp": 3052,
@@ -12394,7 +12407,7 @@
     {
       "name": "Strarhya",
       "cls": "archer",
-      "rank": 327,
+      "rank": 328,
       "dps": 382,
       "burst": 347,
       "ehp": 4404,
@@ -12407,7 +12420,7 @@
     {
       "name": "SELAMINALEKUM",
       "cls": "archer",
-      "rank": 328,
+      "rank": 329,
       "dps": 415,
       "burst": 335,
       "ehp": 4120,
@@ -12420,7 +12433,7 @@
     {
       "name": "Ashdeus",
       "cls": "archer",
-      "rank": 329,
+      "rank": 330,
       "dps": 440,
       "burst": 337,
       "ehp": 3804,
@@ -12433,7 +12446,7 @@
     {
       "name": "Reiju",
       "cls": "archer",
-      "rank": 330,
+      "rank": 331,
       "dps": 479,
       "burst": 373,
       "ehp": 3037,
@@ -12446,7 +12459,7 @@
     {
       "name": "Qiselianiroi",
       "cls": "archer",
-      "rank": 331,
+      "rank": 332,
       "dps": 415,
       "burst": 331,
       "ehp": 4057,
@@ -12459,7 +12472,7 @@
     {
       "name": "Myrgodh",
       "cls": "archer",
-      "rank": 332,
+      "rank": 333,
       "dps": 415,
       "burst": 347,
       "ehp": 3801,
@@ -12472,7 +12485,7 @@
     {
       "name": "Antera",
       "cls": "archer",
-      "rank": 333,
+      "rank": 334,
       "dps": 419,
       "burst": 352,
       "ehp": 3692,
@@ -12485,7 +12498,7 @@
     {
       "name": "FIyingDutchman",
       "cls": "archer",
-      "rank": 334,
+      "rank": 335,
       "dps": 405,
       "burst": 345,
       "ehp": 3915,
@@ -12498,7 +12511,7 @@
     {
       "name": "IdleArcher",
       "cls": "archer",
-      "rank": 335,
+      "rank": 336,
       "dps": 395,
       "burst": 350,
       "ehp": 3953,
@@ -12506,19 +12519,6 @@
       "tank": "D-",
       "hybrid": "E",
       "dpst": "C-",
-      "overall": "E"
-    },
-    {
-      "name": "crossed",
-      "cls": "archer",
-      "rank": 336,
-      "dps": 382,
-      "burst": 315,
-      "ehp": 4595,
-      "score": 935.98,
-      "tank": "D",
-      "hybrid": "E",
-      "dpst": "D",
       "overall": "E"
     },
     {
