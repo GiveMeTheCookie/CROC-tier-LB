@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-08T19:45:12.272Z",
+  "fetchedAt": "2026-07-09T03:57:00.411Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -4393,7 +4393,7 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "SSS"
     },
     {
@@ -4406,7 +4406,7 @@
       "score": 1010.66,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SSS"
     },
     {
@@ -4419,7 +4419,7 @@
       "score": 1010.33,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SSS"
     },
     {
@@ -4432,7 +4432,7 @@
       "score": 1010.16,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SSS"
     },
     {
@@ -4445,7 +4445,7 @@
       "score": 1009.62,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4484,7 +4484,7 @@
       "score": 1009.08,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4497,7 +4497,7 @@
       "score": 1008.86,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4510,7 +4510,7 @@
       "score": 1008.66,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "SS"
     },
     {
@@ -4523,7 +4523,7 @@
       "score": 1008.64,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "SS"
     },
     {
@@ -4536,7 +4536,7 @@
       "score": 1008.36,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4588,7 +4588,7 @@
       "score": 1008.07,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4601,7 +4601,7 @@
       "score": 1007.96,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4614,7 +4614,7 @@
       "score": 1007.89,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4627,7 +4627,7 @@
       "score": 1007.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4692,7 +4692,7 @@
       "score": 1007.46,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4705,7 +4705,7 @@
       "score": 1007.14,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4744,7 +4744,7 @@
       "score": 1006.66,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4757,7 +4757,7 @@
       "score": 1006.61,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "SS"
     },
     {
@@ -4809,7 +4809,7 @@
       "score": 1006.32,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "SS"
     },
     {
@@ -4822,7 +4822,7 @@
       "score": 1006.29,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "SS"
     },
     {
@@ -4835,7 +4835,7 @@
       "score": 1005.85,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "S"
     },
     {
@@ -4848,7 +4848,7 @@
       "score": 1005.76,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -4861,7 +4861,7 @@
       "score": 1005.74,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -4874,39 +4874,26 @@
       "score": 1005.66,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "A",
-      "overall": "S"
-    },
-    {
-      "name": "PorqueLao",
-      "cls": "mage",
-      "rank": 40,
-      "dps": 623,
-      "burst": 497,
-      "ehp": 8613,
-      "score": 1005.07,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A-",
       "overall": "S"
     },
     {
       "name": "MutantIceGolemEX",
       "cls": "mage",
-      "rank": 41,
+      "rank": 40,
       "dps": 597,
       "burst": 504,
       "ehp": 8918,
       "score": 1005.04,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "S"
     },
     {
       "name": "shadow3xm",
       "cls": "mage",
-      "rank": 42,
+      "rank": 41,
       "dps": 608,
       "burst": 504,
       "ehp": 8716,
@@ -4919,46 +4906,46 @@
     {
       "name": "TBTB",
       "cls": "mage",
-      "rank": 43,
+      "rank": 42,
       "dps": 642,
       "burst": 512,
       "ehp": 8005,
       "score": 1004.89,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
       "name": "Flameleader",
       "cls": "mage",
-      "rank": 44,
+      "rank": 43,
       "dps": 641,
       "burst": 511,
       "ehp": 8016,
       "score": 1004.76,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
       "name": "Zintrothen",
       "cls": "mage",
-      "rank": 45,
+      "rank": 44,
       "dps": 661,
       "burst": 506,
       "ehp": 7781,
       "score": 1004.6,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
       "name": "XxPikitrueno11xX",
       "cls": "mage",
-      "rank": 46,
+      "rank": 45,
       "dps": 599,
       "burst": 469,
       "ehp": 9346,
@@ -4971,7 +4958,7 @@
     {
       "name": "Pheusonty3184",
       "cls": "mage",
-      "rank": 47,
+      "rank": 46,
       "dps": 614,
       "burst": 490,
       "ehp": 8667,
@@ -4984,20 +4971,20 @@
     {
       "name": "KCBR",
       "cls": "mage",
-      "rank": 48,
+      "rank": 47,
       "dps": 670,
       "burst": 505,
       "ehp": 7542,
       "score": 1003.92,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
       "name": "NotoAE",
       "cls": "mage",
-      "rank": 49,
+      "rank": 48,
       "dps": 637,
       "burst": 502,
       "ehp": 8054,
@@ -5010,98 +4997,98 @@
     {
       "name": "TheOmen",
       "cls": "mage",
-      "rank": 50,
+      "rank": 49,
       "dps": 631,
       "burst": 501,
       "ehp": 8147,
       "score": 1003.74,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "S"
     },
     {
       "name": "Ravelrond",
       "cls": "mage",
-      "rank": 51,
+      "rank": 50,
       "dps": 687,
       "burst": 505,
       "ehp": 7252,
       "score": 1003.59,
       "tank": "A",
       "hybrid": "A+",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "S"
     },
     {
       "name": "shrinxx",
       "cls": "mage",
-      "rank": 52,
+      "rank": 51,
       "dps": 611,
       "burst": 509,
       "ehp": 8284,
       "score": 1003.46,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "S"
     },
     {
       "name": "DoT0",
       "cls": "mage",
-      "rank": 53,
+      "rank": 52,
       "dps": 584,
       "burst": 481,
       "ehp": 9259,
       "score": 1003.29,
       "tank": "S",
       "hybrid": "S",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "S"
     },
     {
       "name": "StormBladeBL",
       "cls": "mage",
-      "rank": 54,
+      "rank": 53,
       "dps": 611,
       "burst": 487,
       "ehp": 8611,
       "score": 1003.12,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "S"
     },
     {
       "name": "rageymage",
       "cls": "mage",
-      "rank": 55,
+      "rank": 54,
       "dps": 640,
       "burst": 511,
       "ehp": 7729,
       "score": 1003.11,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
       "name": "miniskirt",
       "cls": "mage",
-      "rank": 56,
+      "rank": 55,
       "dps": 599,
       "burst": 498,
       "ehp": 8589,
       "score": 1003.02,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "S"
     },
     {
       "name": "Rockefeller",
       "cls": "mage",
-      "rank": 57,
+      "rank": 56,
       "dps": 623,
       "burst": 488,
       "ehp": 8369,
@@ -5114,150 +5101,150 @@
     {
       "name": "XmixwX2",
       "cls": "mage",
-      "rank": 58,
+      "rank": 57,
       "dps": 605,
       "burst": 487,
       "ehp": 8666,
       "score": 1002.84,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "S"
     },
     {
       "name": "Oreshnik",
       "cls": "mage",
-      "rank": 59,
+      "rank": 58,
       "dps": 597,
       "burst": 463,
       "ehp": 9242,
       "score": 1002.69,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "S"
     },
     {
       "name": "ParadoxPVP",
       "cls": "mage",
-      "rank": 60,
+      "rank": 59,
       "dps": 632,
       "burst": 498,
       "ehp": 7979,
       "score": 1002.59,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "S"
     },
     {
       "name": "LordDagan",
       "cls": "mage",
-      "rank": 61,
+      "rank": 60,
       "dps": 617,
       "burst": 509,
       "ehp": 7920,
       "score": 1002.1,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
       "name": "Arctur",
       "cls": "mage",
-      "rank": 62,
+      "rank": 61,
       "dps": 592,
       "burst": 489,
       "ehp": 8667,
       "score": 1002.02,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "Daysix",
       "cls": "mage",
-      "rank": 63,
+      "rank": 62,
       "dps": 615,
       "burst": 484,
       "ehp": 8319,
       "score": 1001.74,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "kittenoxo",
       "cls": "mage",
-      "rank": 64,
+      "rank": 63,
       "dps": 622,
       "burst": 511,
       "ehp": 7749,
       "score": 1001.72,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
       "name": "adifbshdjbsafbuj",
       "cls": "mage",
-      "rank": 65,
+      "rank": 64,
       "dps": 603,
       "burst": 487,
       "ehp": 8460,
       "score": 1001.7,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "Ganjaa",
       "cls": "mage",
-      "rank": 66,
+      "rank": 65,
       "dps": 605,
       "burst": 513,
       "ehp": 7969,
       "score": 1001.68,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
       "name": "TheRichPrince",
       "cls": "mage",
-      "rank": 67,
+      "rank": 66,
       "dps": 616,
       "burst": 504,
       "ehp": 7907,
       "score": 1001.47,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
       "name": "Hassel",
       "cls": "mage",
-      "rank": 68,
+      "rank": 67,
       "dps": 619,
       "burst": 499,
       "ehp": 7898,
       "score": 1001.23,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
       "name": "Takashi09",
       "cls": "mage",
-      "rank": 69,
+      "rank": 68,
       "dps": 617,
       "burst": 493,
       "ehp": 7845,
@@ -5270,33 +5257,33 @@
     {
       "name": "Satori",
       "cls": "mage",
-      "rank": 70,
+      "rank": 69,
       "dps": 612,
       "burst": 487,
       "ehp": 8013,
       "score": 1000.13,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "UncleCIone",
       "cls": "mage",
-      "rank": 71,
+      "rank": 70,
       "dps": 605,
       "burst": 482,
       "ehp": 8215,
       "score": 1000.13,
       "tank": "A+",
       "hybrid": "A+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "MVP1225",
       "cls": "mage",
-      "rank": 72,
+      "rank": 71,
       "dps": 567,
       "burst": 466,
       "ehp": 9179,
@@ -5309,7 +5296,7 @@
     {
       "name": "recom3",
       "cls": "mage",
-      "rank": 73,
+      "rank": 72,
       "dps": 592,
       "burst": 477,
       "ehp": 8472,
@@ -5322,7 +5309,7 @@
     {
       "name": "beefqyph2",
       "cls": "mage",
-      "rank": 74,
+      "rank": 73,
       "dps": 595,
       "burst": 482,
       "ehp": 8326,
@@ -5335,7 +5322,7 @@
     {
       "name": "NearZer0",
       "cls": "mage",
-      "rank": 75,
+      "rank": 74,
       "dps": 684,
       "burst": 531,
       "ehp": 6301,
@@ -5348,20 +5335,20 @@
     {
       "name": "blackjackz",
       "cls": "mage",
-      "rank": 76,
+      "rank": 75,
       "dps": 647,
       "burst": 507,
       "ehp": 7091,
       "score": 999.57,
       "tank": "A",
       "hybrid": "A",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
       "name": "Unec",
       "cls": "mage",
-      "rank": 77,
+      "rank": 76,
       "dps": 595,
       "burst": 474,
       "ehp": 8379,
@@ -5374,33 +5361,33 @@
     {
       "name": "Felicius",
       "cls": "mage",
-      "rank": 78,
+      "rank": 77,
       "dps": 589,
       "burst": 470,
       "ehp": 8555,
       "score": 999.29,
       "tank": "A+",
       "hybrid": "A",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "A+"
     },
     {
       "name": "kdKat1",
       "cls": "mage",
-      "rank": 79,
+      "rank": 78,
       "dps": 620,
       "burst": 474,
       "ehp": 7945,
       "score": 999.23,
       "tank": "A+",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
       "name": "Curuba",
       "cls": "mage",
-      "rank": 80,
+      "rank": 79,
       "dps": 574,
       "burst": 468,
       "ehp": 8838,
@@ -5413,20 +5400,20 @@
     {
       "name": "Agrona",
       "cls": "mage",
-      "rank": 81,
+      "rank": 80,
       "dps": 573,
       "burst": 454,
       "ehp": 9136,
       "score": 999.18,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A+"
     },
     {
       "name": "ChiIIed",
       "cls": "mage",
-      "rank": 82,
+      "rank": 81,
       "dps": 625,
       "burst": 487,
       "ehp": 7626,
@@ -5439,7 +5426,7 @@
     {
       "name": "pd69",
       "cls": "mage",
-      "rank": 83,
+      "rank": 82,
       "dps": 575,
       "burst": 463,
       "ehp": 8885,
@@ -5452,20 +5439,20 @@
     {
       "name": "UJUJUmageVG",
       "cls": "mage",
-      "rank": 84,
+      "rank": 83,
       "dps": 566,
       "burst": 464,
       "ehp": 9023,
       "score": 999.03,
       "tank": "S",
       "hybrid": "A",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A+"
     },
     {
       "name": "prowerxd2",
       "cls": "mage",
-      "rank": 85,
+      "rank": 84,
       "dps": 602,
       "burst": 474,
       "ehp": 8192,
@@ -5478,7 +5465,7 @@
     {
       "name": "terry2",
       "cls": "mage",
-      "rank": 86,
+      "rank": 85,
       "dps": 573,
       "burst": 467,
       "ehp": 8747,
@@ -5491,20 +5478,20 @@
     {
       "name": "DRAKktarm",
       "cls": "mage",
-      "rank": 87,
+      "rank": 86,
       "dps": 584,
       "burst": 466,
       "ehp": 8525,
       "score": 998.37,
       "tank": "A+",
       "hybrid": "A",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "A"
     },
     {
       "name": "Discipline",
       "cls": "mage",
-      "rank": 88,
+      "rank": 87,
       "dps": 604,
       "burst": 477,
       "ehp": 7965,
@@ -5517,7 +5504,7 @@
     {
       "name": "Shichimi",
       "cls": "mage",
-      "rank": 89,
+      "rank": 88,
       "dps": 627,
       "burst": 518,
       "ehp": 6937,
@@ -5530,7 +5517,7 @@
     {
       "name": "goldd",
       "cls": "mage",
-      "rank": 90,
+      "rank": 89,
       "dps": 573,
       "burst": 501,
       "ehp": 7971,
@@ -5543,46 +5530,46 @@
     {
       "name": "2forU",
       "cls": "mage",
-      "rank": 91,
+      "rank": 90,
       "dps": 572,
       "burst": 486,
       "ehp": 8213,
       "score": 997.66,
       "tank": "A+",
       "hybrid": "A",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "A"
     },
     {
       "name": "Sinic",
       "cls": "mage",
-      "rank": 92,
+      "rank": 91,
       "dps": 647,
       "burst": 504,
       "ehp": 6792,
       "score": 997.59,
       "tank": "A-",
       "hybrid": "A",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
       "name": "FarmingIsFun",
       "cls": "mage",
-      "rank": 93,
+      "rank": 92,
       "dps": 611,
       "burst": 514,
       "ehp": 7110,
       "score": 997.34,
       "tank": "A",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A"
     },
     {
       "name": "iF1NdYoU",
       "cls": "mage",
-      "rank": 94,
+      "rank": 93,
       "dps": 584,
       "burst": 489,
       "ehp": 7811,
@@ -5595,7 +5582,7 @@
     {
       "name": "Phatmatic",
       "cls": "mage",
-      "rank": 95,
+      "rank": 94,
       "dps": 732,
       "burst": 563,
       "ehp": 5091,
@@ -5608,7 +5595,7 @@
     {
       "name": "iiikkkaaa2",
       "cls": "mage",
-      "rank": 96,
+      "rank": 95,
       "dps": 554,
       "burst": 483,
       "ehp": 8346,
@@ -5621,7 +5608,7 @@
     {
       "name": "2026",
       "cls": "mage",
-      "rank": 97,
+      "rank": 96,
       "dps": 585,
       "burst": 456,
       "ehp": 8243,
@@ -5634,7 +5621,7 @@
     {
       "name": "misoedjak",
       "cls": "mage",
-      "rank": 98,
+      "rank": 97,
       "dps": 569,
       "burst": 464,
       "ehp": 8323,
@@ -5647,7 +5634,7 @@
     {
       "name": "q23",
       "cls": "mage",
-      "rank": 99,
+      "rank": 98,
       "dps": 647,
       "burst": 530,
       "ehp": 6178,
@@ -5660,7 +5647,7 @@
     {
       "name": "Cillmyrgrim",
       "cls": "mage",
-      "rank": 100,
+      "rank": 99,
       "dps": 618,
       "burst": 490,
       "ehp": 7079,
@@ -5673,33 +5660,33 @@
     {
       "name": "CoconutSmells",
       "cls": "mage",
-      "rank": 101,
+      "rank": 100,
       "dps": 653,
       "burst": 510,
       "ehp": 6343,
       "score": 995.57,
       "tank": "B+",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
       "name": "MagusTheManiacal",
       "cls": "mage",
-      "rank": 102,
+      "rank": 101,
       "dps": 606,
       "burst": 478,
       "ehp": 7406,
       "score": 995.4,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A"
     },
     {
       "name": "Ln9",
       "cls": "mage",
-      "rank": 103,
+      "rank": 102,
       "dps": 597,
       "burst": 482,
       "ehp": 7470,
@@ -5712,7 +5699,7 @@
     {
       "name": "bIush",
       "cls": "mage",
-      "rank": 104,
+      "rank": 103,
       "dps": 574,
       "burst": 462,
       "ehp": 8170,
@@ -5725,7 +5712,7 @@
     {
       "name": "Dariadeer",
       "cls": "mage",
-      "rank": 105,
+      "rank": 104,
       "dps": 541,
       "burst": 475,
       "ehp": 8441,
@@ -5738,7 +5725,7 @@
     {
       "name": "MexicanLove",
       "cls": "mage",
-      "rank": 106,
+      "rank": 105,
       "dps": 572,
       "burst": 474,
       "ehp": 7881,
@@ -5751,33 +5738,33 @@
     {
       "name": "Sevenrings",
       "cls": "mage",
-      "rank": 107,
+      "rank": 106,
       "dps": 559,
       "burst": 459,
       "ehp": 8400,
       "score": 994.73,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A-"
     },
     {
       "name": "Oras",
       "cls": "mage",
-      "rank": 108,
+      "rank": 107,
       "dps": 554,
       "burst": 468,
       "ehp": 8235,
       "score": 994.27,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A-"
     },
     {
       "name": "MatlockTown",
       "cls": "mage",
-      "rank": 109,
+      "rank": 108,
       "dps": 513,
       "burst": 440,
       "ehp": 9632,
@@ -5790,20 +5777,20 @@
     {
       "name": "KONGG",
       "cls": "mage",
-      "rank": 110,
+      "rank": 109,
       "dps": 649,
       "burst": 507,
       "ehp": 6221,
       "score": 994.16,
       "tank": "B+",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A-"
     },
     {
       "name": "LyraChad",
       "cls": "mage",
-      "rank": 111,
+      "rank": 110,
       "dps": 758,
       "burst": 564,
       "ehp": 4566,
@@ -5816,7 +5803,7 @@
     {
       "name": "Goldennn",
       "cls": "mage",
-      "rank": 112,
+      "rank": 111,
       "dps": 565,
       "burst": 483,
       "ehp": 7626,
@@ -5824,6 +5811,19 @@
       "tank": "A-",
       "hybrid": "A-",
       "dpst": "B+",
+      "overall": "A-"
+    },
+    {
+      "name": "PorqueLao",
+      "cls": "mage",
+      "rank": 112,
+      "dps": 763,
+      "burst": 567,
+      "ehp": 4452,
+      "score": 993.38,
+      "tank": "C+",
+      "hybrid": "A-",
+      "dpst": "SSS",
       "overall": "A-"
     },
     {
@@ -5849,7 +5849,7 @@
       "score": 993.22,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A-"
     },
     {
@@ -5862,7 +5862,7 @@
       "score": 992.79,
       "tank": "B+",
       "hybrid": "A-",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A-"
     },
     {
@@ -5875,7 +5875,7 @@
       "score": 992.78,
       "tank": "A",
       "hybrid": "A-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "A-"
     },
     {
@@ -5901,7 +5901,7 @@
       "score": 991.56,
       "tank": "B+",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -5940,7 +5940,7 @@
       "score": 991.19,
       "tank": "A-",
       "hybrid": "B+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A-"
     },
     {
@@ -5992,7 +5992,7 @@
       "score": 990.72,
       "tank": "B+",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -6031,7 +6031,7 @@
       "score": 990.43,
       "tank": "B",
       "hybrid": "B+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B+"
     },
     {
@@ -6044,7 +6044,7 @@
       "score": 990.11,
       "tank": "A-",
       "hybrid": "B+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "B+"
     },
     {
@@ -6083,7 +6083,7 @@
       "score": 989,
       "tank": "A",
       "hybrid": "B+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "B+"
     },
     {
@@ -6096,7 +6096,7 @@
       "score": 988.79,
       "tank": "B",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -6109,7 +6109,7 @@
       "score": 988.67,
       "tank": "B+",
       "hybrid": "B+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B+"
     },
     {
@@ -6122,7 +6122,7 @@
       "score": 988.66,
       "tank": "B",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -6148,7 +6148,7 @@
       "score": 987.81,
       "tank": "B",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B+"
     },
     {
@@ -6161,7 +6161,7 @@
       "score": 987.64,
       "tank": "B",
       "hybrid": "B",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -6174,7 +6174,7 @@
       "score": 987.24,
       "tank": "A-",
       "hybrid": "B",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "B+"
     },
     {
@@ -6187,7 +6187,7 @@
       "score": 987.23,
       "tank": "B+",
       "hybrid": "B",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "B+"
     },
     {
@@ -6200,7 +6200,7 @@
       "score": 987.2,
       "tank": "B",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -6239,7 +6239,7 @@
       "score": 986.74,
       "tank": "B",
       "hybrid": "B",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -6252,7 +6252,7 @@
       "score": 986.68,
       "tank": "B+",
       "hybrid": "B",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B"
     },
     {
@@ -6265,7 +6265,7 @@
       "score": 986.34,
       "tank": "B-",
       "hybrid": "B",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B"
     },
     {
@@ -6291,7 +6291,7 @@
       "score": 985.14,
       "tank": "C+",
       "hybrid": "B",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "B"
     },
     {
@@ -6304,7 +6304,7 @@
       "score": 985.02,
       "tank": "B+",
       "hybrid": "B",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "B"
     },
     {
@@ -6317,7 +6317,7 @@
       "score": 984.51,
       "tank": "A-",
       "hybrid": "B",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "B"
     },
     {
@@ -6356,7 +6356,7 @@
       "score": 983.98,
       "tank": "C",
       "hybrid": "B-",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "B"
     },
     {
@@ -6369,7 +6369,7 @@
       "score": 983.85,
       "tank": "B-",
       "hybrid": "B-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -6447,7 +6447,7 @@
       "score": 982.85,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B-"
     },
     {
@@ -6473,7 +6473,7 @@
       "score": 982.76,
       "tank": "C-",
       "hybrid": "B-",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "B-"
     },
     {
@@ -6486,7 +6486,7 @@
       "score": 982.51,
       "tank": "B",
       "hybrid": "B-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "B-"
     },
     {
@@ -6512,7 +6512,7 @@
       "score": 982.27,
       "tank": "B",
       "hybrid": "B-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "B-"
     },
     {
@@ -6525,7 +6525,7 @@
       "score": 982.18,
       "tank": "B",
       "hybrid": "B-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "B-"
     },
     {
@@ -6603,7 +6603,7 @@
       "score": 981.39,
       "tank": "B-",
       "hybrid": "B-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B-"
     },
     {
@@ -6655,7 +6655,7 @@
       "score": 980.95,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -6668,7 +6668,7 @@
       "score": 980.94,
       "tank": "C",
       "hybrid": "B-",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B-"
     },
     {
@@ -6681,7 +6681,7 @@
       "score": 980.84,
       "tank": "C",
       "hybrid": "B-",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B-"
     },
     {
@@ -6746,7 +6746,7 @@
       "score": 979.05,
       "tank": "B-",
       "hybrid": "C+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -6759,7 +6759,7 @@
       "score": 978.94,
       "tank": "B-",
       "hybrid": "C+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -6772,7 +6772,7 @@
       "score": 978.66,
       "tank": "C",
       "hybrid": "C+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "C+"
     },
     {
@@ -6798,7 +6798,7 @@
       "score": 978.29,
       "tank": "C",
       "hybrid": "C+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "C+"
     },
     {
@@ -6811,7 +6811,7 @@
       "score": 978.04,
       "tank": "B-",
       "hybrid": "C+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C+"
     },
     {
@@ -6837,7 +6837,7 @@
       "score": 977.61,
       "tank": "C+",
       "hybrid": "C+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -6889,7 +6889,7 @@
       "score": 976.01,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "C+"
     },
     {
@@ -6915,7 +6915,7 @@
       "score": 975.66,
       "tank": "D+",
       "hybrid": "C",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "C"
     },
     {
@@ -6928,7 +6928,7 @@
       "score": 975.54,
       "tank": "C+",
       "hybrid": "C",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -6980,7 +6980,7 @@
       "score": 974.65,
       "tank": "D+",
       "hybrid": "C",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "C"
     },
     {
@@ -6993,7 +6993,7 @@
       "score": 974.65,
       "tank": "B-",
       "hybrid": "C",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "C"
     },
     {
@@ -7006,7 +7006,7 @@
       "score": 974.55,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "C"
     },
     {
@@ -7058,7 +7058,7 @@
       "score": 973.91,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "C"
     },
     {
@@ -7123,7 +7123,7 @@
       "score": 973.15,
       "tank": "C",
       "hybrid": "C",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -7162,7 +7162,7 @@
       "score": 973.05,
       "tank": "B",
       "hybrid": "C",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "C"
     },
     {
@@ -7188,7 +7188,7 @@
       "score": 972.69,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C"
     },
     {
@@ -7227,7 +7227,7 @@
       "score": 971.62,
       "tank": "C-",
       "hybrid": "C-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C-"
     },
     {
@@ -7305,7 +7305,7 @@
       "score": 970.53,
       "tank": "C",
       "hybrid": "C-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -7344,7 +7344,7 @@
       "score": 969.13,
       "tank": "D+",
       "hybrid": "C-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C-"
     },
     {
@@ -7357,7 +7357,7 @@
       "score": 968.85,
       "tank": "C",
       "hybrid": "C-",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "C-"
     },
     {
@@ -7383,7 +7383,7 @@
       "score": 968.47,
       "tank": "D",
       "hybrid": "D+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "C-"
     },
     {
@@ -7448,7 +7448,7 @@
       "score": 966.21,
       "tank": "D-",
       "hybrid": "D+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "D+"
     },
     {
@@ -7500,7 +7500,7 @@
       "score": 964.45,
       "tank": "D",
       "hybrid": "D",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "D+"
     },
     {
@@ -7513,7 +7513,7 @@
       "score": 964.32,
       "tank": "D",
       "hybrid": "D",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "D"
     },
     {
@@ -7656,7 +7656,7 @@
       "score": 961.06,
       "tank": "E",
       "hybrid": "D-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "D"
     },
     {
@@ -7669,7 +7669,7 @@
       "score": 961.03,
       "tank": "D+",
       "hybrid": "D",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "D"
     },
     {
@@ -7721,7 +7721,7 @@
       "score": 960.65,
       "tank": "D",
       "hybrid": "D-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -7760,7 +7760,7 @@
       "score": 960.35,
       "tank": "D-",
       "hybrid": "D-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "D-"
     },
     {
@@ -7799,7 +7799,7 @@
       "score": 958.91,
       "tank": "D-",
       "hybrid": "D-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "D-"
     },
     {
@@ -7825,7 +7825,7 @@
       "score": 957.61,
       "tank": "F",
       "hybrid": "D-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "D-"
     },
     {
@@ -7838,7 +7838,7 @@
       "score": 957.54,
       "tank": "E",
       "hybrid": "D-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "D-"
     },
     {
@@ -7851,7 +7851,7 @@
       "score": 957.1,
       "tank": "F",
       "hybrid": "E",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "D-"
     },
     {
@@ -7864,7 +7864,7 @@
       "score": 956.07,
       "tank": "D-",
       "hybrid": "E",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "E"
     },
     {
@@ -7929,7 +7929,7 @@
       "score": 954.82,
       "tank": "E",
       "hybrid": "E",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "E"
     },
     {
@@ -7968,7 +7968,7 @@
       "score": 954,
       "tank": "E",
       "hybrid": "E",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "E"
     },
     {
@@ -7994,7 +7994,7 @@
       "score": 952.97,
       "tank": "E",
       "hybrid": "F",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "E"
     },
     {
@@ -8033,7 +8033,7 @@
       "score": 951.61,
       "tank": "F",
       "hybrid": "F",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "F"
     },
     {
@@ -8072,7 +8072,7 @@
       "score": 950.32,
       "tank": "D-",
       "hybrid": "F",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "F"
     },
     {
@@ -8098,7 +8098,7 @@
       "score": 949.66,
       "tank": "F",
       "hybrid": "F",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "F"
     },
     {
@@ -8111,7 +8111,7 @@
       "score": 949.66,
       "tank": "F",
       "hybrid": "F",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "F"
     },
     {
