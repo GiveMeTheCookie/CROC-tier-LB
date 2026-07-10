@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-09T19:57:11.426Z",
+  "fetchedAt": "2026-07-10T03:58:10.444Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8193,9 +8193,22 @@
       "overall": "SSS"
     },
     {
-      "name": "Echo0029",
+      "name": "2006",
       "cls": "archer",
       "rank": 4,
+      "dps": 602,
+      "burst": 498,
+      "ehp": 9636,
+      "score": 1012.5,
+      "tank": "SSS",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SSS"
+    },
+    {
+      "name": "Echo0029",
+      "cls": "archer",
+      "rank": 5,
       "dps": 612,
       "burst": 509,
       "ehp": 9202,
@@ -8208,7 +8221,7 @@
     {
       "name": "Mizzery",
       "cls": "archer",
-      "rank": 5,
+      "rank": 6,
       "dps": 626,
       "burst": 516,
       "ehp": 8787,
@@ -8221,7 +8234,7 @@
     {
       "name": "Kami3z",
       "cls": "archer",
-      "rank": 6,
+      "rank": 7,
       "dps": 607,
       "burst": 506,
       "ehp": 9309,
@@ -8234,7 +8247,7 @@
     {
       "name": "Themero",
       "cls": "archer",
-      "rank": 7,
+      "rank": 8,
       "dps": 609,
       "burst": 520,
       "ehp": 8977,
@@ -8247,7 +8260,7 @@
     {
       "name": "lBlankl",
       "cls": "archer",
-      "rank": 8,
+      "rank": 9,
       "dps": 593,
       "burst": 513,
       "ehp": 9394,
@@ -8255,19 +8268,6 @@
       "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SSS"
-    },
-    {
-      "name": "2006",
-      "cls": "archer",
-      "rank": 9,
-      "dps": 597,
-      "burst": 495,
-      "ehp": 9688,
-      "score": 1012.05,
-      "tank": "SSS",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "SSS"
     },
     {
@@ -9425,7 +9425,7 @@
       "tank": "S",
       "hybrid": "A+",
       "dpst": "A+",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "Nanarrow",
@@ -10159,13 +10159,13 @@
       "name": "Plagaa",
       "cls": "archer",
       "rank": 155,
-      "dps": 610,
-      "burst": 477,
-      "ehp": 5963,
-      "score": 990.5,
-      "tank": "A-",
+      "dps": 621,
+      "burst": 485,
+      "ehp": 5718,
+      "score": 990.38,
+      "tank": "B+",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "SS",
       "overall": "A-"
     },
     {
