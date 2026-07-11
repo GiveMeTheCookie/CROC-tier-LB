@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-11T08:06:42.268Z",
+  "fetchedAt": "2026-07-11T13:42:24.851Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -2226,9 +2226,22 @@
       "overall": "B"
     },
     {
-      "name": "PercyJacks0n",
+      "name": "Tarkuk",
       "cls": "warrior",
       "rank": 172,
+      "dps": 456,
+      "burst": 331,
+      "ehp": 9054,
+      "score": 988.27,
+      "tank": "C",
+      "hybrid": "B-",
+      "dpst": "A-",
+      "overall": "B"
+    },
+    {
+      "name": "PercyJacks0n",
+      "cls": "warrior",
+      "rank": 173,
       "dps": 316,
       "burst": 295,
       "ehp": 17628,
@@ -2241,7 +2254,7 @@
     {
       "name": "infinihplitch",
       "cls": "warrior",
-      "rank": 173,
+      "rank": 174,
       "dps": 409,
       "burst": 316,
       "ehp": 11059,
@@ -2254,7 +2267,7 @@
     {
       "name": "Zephia",
       "cls": "warrior",
-      "rank": 174,
+      "rank": 175,
       "dps": 431,
       "burst": 341,
       "ehp": 9616,
@@ -2267,7 +2280,7 @@
     {
       "name": "Manenight",
       "cls": "warrior",
-      "rank": 175,
+      "rank": 176,
       "dps": 429,
       "burst": 352,
       "ehp": 9471,
@@ -2280,7 +2293,7 @@
     {
       "name": "bellcranelxd",
       "cls": "warrior",
-      "rank": 176,
+      "rank": 177,
       "dps": 447,
       "burst": 336,
       "ehp": 9070,
@@ -2293,7 +2306,7 @@
     {
       "name": "helpme22",
       "cls": "warrior",
-      "rank": 177,
+      "rank": 178,
       "dps": 327,
       "burst": 303,
       "ehp": 16004,
@@ -2306,7 +2319,7 @@
     {
       "name": "Nicro",
       "cls": "warrior",
-      "rank": 178,
+      "rank": 179,
       "dps": 387,
       "burst": 339,
       "ehp": 11325,
@@ -2319,26 +2332,13 @@
     {
       "name": "ClubFoot",
       "cls": "warrior",
-      "rank": 179,
+      "rank": 180,
       "dps": 359,
       "burst": 334,
       "ehp": 12823,
       "score": 987.48,
       "tank": "C-",
       "hybrid": "A-",
-      "dpst": "B+",
-      "overall": "B-"
-    },
-    {
-      "name": "Tarkuk",
-      "cls": "warrior",
-      "rank": 180,
-      "dps": 438,
-      "burst": 318,
-      "ehp": 9640,
-      "score": 987.17,
-      "tank": "C+",
-      "hybrid": "C+",
       "dpst": "B+",
       "overall": "B-"
     },
@@ -6269,22 +6269,9 @@
       "overall": "B"
     },
     {
-      "name": "ExiaRaiser01",
-      "cls": "mage",
-      "rank": 147,
-      "dps": 583,
-      "burst": 471,
-      "ehp": 6344,
-      "score": 986.03,
-      "tank": "B",
-      "hybrid": "B",
-      "dpst": "B+",
-      "overall": "B"
-    },
-    {
       "name": "Cepecko",
       "cls": "mage",
-      "rank": 148,
+      "rank": 147,
       "dps": 598,
       "burst": 505,
       "ehp": 5638,
@@ -6292,6 +6279,19 @@
       "tank": "B-",
       "hybrid": "B",
       "dpst": "A",
+      "overall": "B"
+    },
+    {
+      "name": "ExiaRaiser01",
+      "cls": "mage",
+      "rank": 148,
+      "dps": 543,
+      "burst": 442,
+      "ehp": 7256,
+      "score": 985.24,
+      "tank": "B+",
+      "hybrid": "B",
+      "dpst": "B-",
       "overall": "B"
     },
     {
