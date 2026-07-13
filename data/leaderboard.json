@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-13T03:38:33.194Z",
+  "fetchedAt": "2026-07-13T09:40:54.301Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6282,9 +6282,22 @@
       "overall": "B"
     },
     {
-      "name": "Cepecko",
+      "name": "potassgg7",
       "cls": "mage",
       "rank": 148,
+      "dps": 536,
+      "burst": 461,
+      "ehp": 7171,
+      "score": 986.04,
+      "tank": "B+",
+      "hybrid": "B",
+      "dpst": "B-",
+      "overall": "B"
+    },
+    {
+      "name": "Cepecko",
+      "cls": "mage",
+      "rank": 149,
       "dps": 598,
       "burst": 505,
       "ehp": 5638,
@@ -6297,7 +6310,7 @@
     {
       "name": "ExiaRaiser01",
       "cls": "mage",
-      "rank": 149,
+      "rank": 150,
       "dps": 543,
       "burst": 442,
       "ehp": 7256,
@@ -6310,7 +6323,7 @@
     {
       "name": "walid748",
       "cls": "mage",
-      "rank": 150,
+      "rank": 151,
       "dps": 673,
       "burst": 501,
       "ehp": 4878,
@@ -6323,7 +6336,7 @@
     {
       "name": "IceyWizard",
       "cls": "mage",
-      "rank": 151,
+      "rank": 152,
       "dps": 520,
       "burst": 443,
       "ehp": 7593,
@@ -6336,7 +6349,7 @@
     {
       "name": "PowerOfCreation",
       "cls": "mage",
-      "rank": 152,
+      "rank": 153,
       "dps": 475,
       "burst": 427,
       "ehp": 8708,
@@ -6344,19 +6357,6 @@
       "tank": "A-",
       "hybrid": "B",
       "dpst": "C-",
-      "overall": "B"
-    },
-    {
-      "name": "potassgg7",
-      "cls": "mage",
-      "rank": 153,
-      "dps": 528,
-      "burst": 456,
-      "ehp": 7116,
-      "score": 984.42,
-      "tank": "B+",
-      "hybrid": "B",
-      "dpst": "B-",
       "overall": "B"
     },
     {
