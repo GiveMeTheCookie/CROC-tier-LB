@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-13T09:40:54.301Z",
+  "fetchedAt": "2026-07-13T14:51:06.465Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -10988,9 +10988,22 @@
       "overall": "B-"
     },
     {
-      "name": "Toxotaii",
+      "name": "badabomchik1337",
       "cls": "archer",
       "rank": 219,
+      "dps": 458,
+      "burst": 409,
+      "ehp": 6673,
+      "score": 973.56,
+      "tank": "B",
+      "hybrid": "B-",
+      "dpst": "B",
+      "overall": "B-"
+    },
+    {
+      "name": "Toxotaii",
+      "cls": "archer",
+      "rank": 220,
       "dps": 578,
       "burst": 459,
       "ehp": 4466,
@@ -11003,7 +11016,7 @@
     {
       "name": "Darky77",
       "cls": "archer",
-      "rank": 220,
+      "rank": 221,
       "dps": 436,
       "burst": 394,
       "ehp": 7341,
@@ -11016,7 +11029,7 @@
     {
       "name": "Kamilu",
       "cls": "archer",
-      "rank": 221,
+      "rank": 222,
       "dps": 500,
       "burst": 434,
       "ehp": 5603,
@@ -11029,7 +11042,7 @@
     {
       "name": "Ophiirius",
       "cls": "archer",
-      "rank": 222,
+      "rank": 223,
       "dps": 526,
       "burst": 431,
       "ehp": 5286,
@@ -11042,7 +11055,7 @@
     {
       "name": "verybad",
       "cls": "archer",
-      "rank": 223,
+      "rank": 224,
       "dps": 569,
       "burst": 416,
       "ehp": 4993,
@@ -11055,7 +11068,7 @@
     {
       "name": "agiustucs",
       "cls": "archer",
-      "rank": 224,
+      "rank": 225,
       "dps": 555,
       "burst": 435,
       "ehp": 4837,
@@ -11068,7 +11081,7 @@
     {
       "name": "woogs",
       "cls": "archer",
-      "rank": 225,
+      "rank": 226,
       "dps": 451,
       "burst": 363,
       "ehp": 7452,
@@ -11076,19 +11089,6 @@
       "tank": "B+",
       "hybrid": "B-",
       "dpst": "C+",
-      "overall": "B-"
-    },
-    {
-      "name": "badabomchik1337",
-      "cls": "archer",
-      "rank": 226,
-      "dps": 452,
-      "burst": 404,
-      "ehp": 6597,
-      "score": 971.85,
-      "tank": "B",
-      "hybrid": "B-",
-      "dpst": "B-",
       "overall": "B-"
     },
     {
@@ -11885,9 +11885,22 @@
       "overall": "D+"
     },
     {
-      "name": "ccutei",
+      "name": "crossed",
       "cls": "archer",
       "rank": 288,
+      "dps": 418,
+      "burst": 337,
+      "ehp": 5578,
+      "score": 952.02,
+      "tank": "C",
+      "hybrid": "D+",
+      "dpst": "C-",
+      "overall": "D+"
+    },
+    {
+      "name": "ccutei",
+      "cls": "archer",
+      "rank": 289,
       "dps": 432,
       "burst": 369,
       "ehp": 4825,
@@ -11900,7 +11913,7 @@
     {
       "name": "ExNihilo",
       "cls": "archer",
-      "rank": 289,
+      "rank": 290,
       "dps": 400,
       "burst": 312,
       "ehp": 6351,
@@ -11913,7 +11926,7 @@
     {
       "name": "Coff1",
       "cls": "archer",
-      "rank": 290,
+      "rank": 291,
       "dps": 498,
       "burst": 390,
       "ehp": 3808,
@@ -11926,7 +11939,7 @@
     {
       "name": "Arakhus",
       "cls": "archer",
-      "rank": 291,
+      "rank": 292,
       "dps": 461,
       "burst": 371,
       "ehp": 4398,
@@ -11939,7 +11952,7 @@
     {
       "name": "Fenrik",
       "cls": "archer",
-      "rank": 292,
+      "rank": 293,
       "dps": 529,
       "burst": 405,
       "ehp": 3373,
@@ -11952,7 +11965,7 @@
     {
       "name": "Nymling",
       "cls": "archer",
-      "rank": 293,
+      "rank": 294,
       "dps": 493,
       "burst": 360,
       "ehp": 4162,
@@ -11965,7 +11978,7 @@
     {
       "name": "Garcher",
       "cls": "archer",
-      "rank": 294,
+      "rank": 295,
       "dps": 421,
       "burst": 350,
       "ehp": 5111,
@@ -11978,7 +11991,7 @@
     {
       "name": "ka1sa",
       "cls": "archer",
-      "rank": 295,
+      "rank": 296,
       "dps": 414,
       "burst": 356,
       "ehp": 5036,
@@ -11991,7 +12004,7 @@
     {
       "name": "Intensions",
       "cls": "archer",
-      "rank": 296,
+      "rank": 297,
       "dps": 375,
       "burst": 348,
       "ehp": 5785,
@@ -12004,7 +12017,7 @@
     {
       "name": "Gaxsaubird",
       "cls": "archer",
-      "rank": 297,
+      "rank": 298,
       "dps": 519,
       "burst": 391,
       "ehp": 3455,
@@ -12017,7 +12030,7 @@
     {
       "name": "Joudi",
       "cls": "archer",
-      "rank": 298,
+      "rank": 299,
       "dps": 464,
       "burst": 388,
       "ehp": 3949,
@@ -12030,7 +12043,7 @@
     {
       "name": "swynYTthearcher",
       "cls": "archer",
-      "rank": 299,
+      "rank": 300,
       "dps": 423,
       "burst": 351,
       "ehp": 4896,
@@ -12043,7 +12056,7 @@
     {
       "name": "fayri",
       "cls": "archer",
-      "rank": 300,
+      "rank": 301,
       "dps": 420,
       "burst": 339,
       "ehp": 5132,
@@ -12056,7 +12069,7 @@
     {
       "name": "SonnyA",
       "cls": "archer",
-      "rank": 301,
+      "rank": 302,
       "dps": 529,
       "burst": 403,
       "ehp": 3119,
@@ -12069,7 +12082,7 @@
     {
       "name": "KingCardinal",
       "cls": "archer",
-      "rank": 302,
+      "rank": 303,
       "dps": 409,
       "burst": 334,
       "ehp": 5168,
@@ -12082,7 +12095,7 @@
     {
       "name": "BenitoJuarez",
       "cls": "archer",
-      "rank": 303,
+      "rank": 304,
       "dps": 392,
       "burst": 319,
       "ehp": 5667,
@@ -12090,19 +12103,6 @@
       "tank": "C-",
       "hybrid": "D",
       "dpst": "D",
-      "overall": "D"
-    },
-    {
-      "name": "crossed",
-      "cls": "archer",
-      "rank": 304,
-      "dps": 405,
-      "burst": 326,
-      "ehp": 5260,
-      "score": 946.27,
-      "tank": "C-",
-      "hybrid": "D",
-      "dpst": "D+",
       "overall": "D"
     },
     {
