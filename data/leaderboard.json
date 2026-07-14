@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-14T08:20:41.809Z",
+  "fetchedAt": "2026-07-14T14:00:47.268Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -116,7 +116,7 @@
       "score": 1013.25,
       "tank": "B",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -129,7 +129,7 @@
       "score": 1012.99,
       "tank": "B",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -142,7 +142,7 @@
       "score": 1012.94,
       "tank": "B",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -181,7 +181,7 @@
       "score": 1012.27,
       "tank": "B-",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SS"
     },
     {
@@ -350,7 +350,7 @@
       "score": 1010.42,
       "tank": "B",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -363,7 +363,7 @@
       "score": 1010.27,
       "tank": "B+",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -428,7 +428,7 @@
       "score": 1009.3,
       "tank": "B",
       "hybrid": "S",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -454,7 +454,7 @@
       "score": 1008.67,
       "tank": "A-",
       "hybrid": "SS",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -519,7 +519,7 @@
       "score": 1008.05,
       "tank": "B-",
       "hybrid": "S",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -649,7 +649,7 @@
       "score": 1006.11,
       "tank": "B+",
       "hybrid": "S",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -662,7 +662,7 @@
       "score": 1005.99,
       "tank": "C+",
       "hybrid": "A+",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "A+"
     },
     {
@@ -688,7 +688,7 @@
       "score": 1005.4,
       "tank": "C",
       "hybrid": "A",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "A+"
     },
     {
@@ -701,7 +701,7 @@
       "score": 1005.11,
       "tank": "B",
       "hybrid": "A+",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -766,7 +766,7 @@
       "score": 1004.29,
       "tank": "B-",
       "hybrid": "A+",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -896,7 +896,7 @@
       "score": 1002.96,
       "tank": "B+",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
@@ -909,7 +909,7 @@
       "score": 1002.8,
       "tank": "C",
       "hybrid": "A",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "A+"
     },
     {
@@ -922,7 +922,7 @@
       "score": 1002.58,
       "tank": "C+",
       "hybrid": "A+",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -948,7 +948,7 @@
       "score": 1002.44,
       "tank": "B",
       "hybrid": "S",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
@@ -961,7 +961,7 @@
       "score": 1002.31,
       "tank": "B-",
       "hybrid": "A",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
@@ -974,7 +974,7 @@
       "score": 1002.14,
       "tank": "C+",
       "hybrid": "A",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
@@ -1050,7 +1050,7 @@
       "burst": 337,
       "ehp": 11587,
       "score": 1001.04,
-      "tank": "B",
+      "tank": "B-",
       "hybrid": "A",
       "dpst": "A+",
       "overall": "A"
@@ -1065,7 +1065,7 @@
       "score": 1000.75,
       "tank": "B",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A"
     },
     {
@@ -1091,7 +1091,7 @@
       "score": 1000.54,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A"
     },
     {
@@ -1104,7 +1104,7 @@
       "score": 1000.2,
       "tank": "C+",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
@@ -1169,7 +1169,7 @@
       "score": 999.85,
       "tank": "B-",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A"
     },
     {
@@ -1182,7 +1182,7 @@
       "score": 999.84,
       "tank": "C",
       "hybrid": "A-",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A"
     },
     {
@@ -1247,7 +1247,7 @@
       "score": 999.46,
       "tank": "SS",
       "hybrid": "A+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "A"
     },
     {
@@ -1286,7 +1286,7 @@
       "score": 999.01,
       "tank": "B+",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A"
     },
     {
@@ -1312,7 +1312,7 @@
       "score": 998.69,
       "tank": "B+",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -1351,7 +1351,7 @@
       "score": 998.02,
       "tank": "C+",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A-"
     },
     {
@@ -1364,7 +1364,7 @@
       "score": 997.91,
       "tank": "C+",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A-"
     },
     {
@@ -1468,7 +1468,7 @@
       "score": 996.39,
       "tank": "B+",
       "hybrid": "A",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "A-"
     },
     {
@@ -1494,7 +1494,7 @@
       "score": 996.25,
       "tank": "B-",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -1507,7 +1507,7 @@
       "score": 996.03,
       "tank": "B-",
       "hybrid": "A-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A-"
     },
     {
@@ -1611,7 +1611,7 @@
       "score": 994.65,
       "tank": "B+",
       "hybrid": "A-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B+"
     },
     {
@@ -1624,7 +1624,7 @@
       "score": 994.56,
       "tank": "C",
       "hybrid": "B+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "B+"
     },
     {
@@ -1741,7 +1741,7 @@
       "score": 993.28,
       "tank": "A-",
       "hybrid": "A-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B+"
     },
     {
@@ -1767,7 +1767,7 @@
       "score": 993.2,
       "tank": "B",
       "hybrid": "A-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B+"
     },
     {
@@ -1910,7 +1910,7 @@
       "score": 991.55,
       "tank": "C",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B+"
     },
     {
@@ -1949,7 +1949,7 @@
       "score": 990.95,
       "tank": "C",
       "hybrid": "B",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -2027,7 +2027,7 @@
       "score": 990.3,
       "tank": "C+",
       "hybrid": "B+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2053,7 +2053,7 @@
       "score": 990.17,
       "tank": "C",
       "hybrid": "B-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -2079,7 +2079,7 @@
       "score": 989.99,
       "tank": "B",
       "hybrid": "B+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B"
     },
     {
@@ -2118,7 +2118,7 @@
       "score": 989.03,
       "tank": "C-",
       "hybrid": "B-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -2157,7 +2157,7 @@
       "score": 988.75,
       "tank": "SSS",
       "hybrid": "A-",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "B"
     },
     {
@@ -2209,7 +2209,7 @@
       "score": 988.33,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2248,7 +2248,7 @@
       "score": 988.22,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2274,7 +2274,7 @@
       "score": 987.87,
       "tank": "D+",
       "hybrid": "B-",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -2326,7 +2326,7 @@
       "score": 987.48,
       "tank": "C-",
       "hybrid": "A-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -2391,7 +2391,7 @@
       "score": 986.4,
       "tank": "C-",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -2508,7 +2508,7 @@
       "score": 984.5,
       "tank": "C-",
       "hybrid": "C+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -2521,7 +2521,7 @@
       "score": 984.42,
       "tank": "C-",
       "hybrid": "C+",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -2534,7 +2534,7 @@
       "score": 984.23,
       "tank": "B",
       "hybrid": "B-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "B-"
     },
     {
@@ -2599,7 +2599,7 @@
       "score": 983.4,
       "tank": "B+",
       "hybrid": "B",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C+"
     },
     {
@@ -2625,7 +2625,7 @@
       "score": 983.25,
       "tank": "B+",
       "hybrid": "B",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C+"
     },
     {
@@ -2703,7 +2703,7 @@
       "score": 982.37,
       "tank": "S",
       "hybrid": "B",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "C+"
     },
     {
@@ -2716,7 +2716,7 @@
       "score": 982.11,
       "tank": "C+",
       "hybrid": "C+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -2768,7 +2768,7 @@
       "score": 981.76,
       "tank": "C-",
       "hybrid": "C+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C+"
     },
     {
@@ -2794,7 +2794,7 @@
       "score": 981.3,
       "tank": "C-",
       "hybrid": "C+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C+"
     },
     {
@@ -2820,7 +2820,7 @@
       "score": 981.01,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -2859,7 +2859,7 @@
       "score": 980.44,
       "tank": "C",
       "hybrid": "C+",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -2872,7 +2872,7 @@
       "score": 980.4,
       "tank": "D+",
       "hybrid": "C+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C+"
     },
     {
@@ -2911,7 +2911,7 @@
       "score": 979.92,
       "tank": "C-",
       "hybrid": "C-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C"
     },
     {
@@ -2950,7 +2950,7 @@
       "score": 979.28,
       "tank": "D",
       "hybrid": "C+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C"
     },
     {
@@ -2963,7 +2963,7 @@
       "score": 979.08,
       "tank": "B-",
       "hybrid": "C+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -3106,7 +3106,7 @@
       "score": 977.89,
       "tank": "C+",
       "hybrid": "C+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -3132,7 +3132,7 @@
       "score": 977.58,
       "tank": "C+",
       "hybrid": "C",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -3184,7 +3184,7 @@
       "score": 976.73,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C"
     },
     {
@@ -3249,7 +3249,7 @@
       "score": 975.75,
       "tank": "C",
       "hybrid": "C-",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -3275,7 +3275,7 @@
       "score": 975.16,
       "tank": "C-",
       "hybrid": "C",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -3314,7 +3314,7 @@
       "score": 974.71,
       "tank": "C+",
       "hybrid": "C",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "C-"
     },
     {
@@ -3338,7 +3338,7 @@
       "burst": 306,
       "ehp": 10568,
       "score": 974.23,
-      "tank": "D+",
+      "tank": "D",
       "hybrid": "C-",
       "dpst": "B-",
       "overall": "C-"
@@ -3377,7 +3377,7 @@
       "burst": 297,
       "ehp": 9078,
       "score": 973.82,
-      "tank": "C-",
+      "tank": "D+",
       "hybrid": "D+",
       "dpst": "B-",
       "overall": "C-"
@@ -3418,7 +3418,7 @@
       "score": 973.62,
       "tank": "C-",
       "hybrid": "D+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C-"
     },
     {
@@ -3431,7 +3431,7 @@
       "score": 973.61,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "C-"
     },
     {
@@ -3470,7 +3470,7 @@
       "score": 972.23,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D+"
     },
     {
@@ -3496,7 +3496,7 @@
       "score": 971.58,
       "tank": "B-",
       "hybrid": "C-",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "D+"
     },
     {
@@ -3574,7 +3574,7 @@
       "score": 969.49,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "D+"
     },
     {
@@ -3678,7 +3678,7 @@
       "score": 968.41,
       "tank": "D+",
       "hybrid": "D+",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3691,7 +3691,7 @@
       "score": 968.17,
       "tank": "B",
       "hybrid": "D+",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "D"
     },
     {
@@ -3704,7 +3704,7 @@
       "score": 967.98,
       "tank": "D+",
       "hybrid": "D+",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3730,7 +3730,7 @@
       "score": 967.34,
       "tank": "D+",
       "hybrid": "D",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3743,7 +3743,7 @@
       "score": 967.26,
       "tank": "D",
       "hybrid": "D+",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3756,7 +3756,7 @@
       "score": 967.19,
       "tank": "B+",
       "hybrid": "C-",
-      "dpst": "D+",
+      "dpst": "D",
       "overall": "D"
     },
     {
@@ -3769,7 +3769,7 @@
       "score": 967.15,
       "tank": "E",
       "hybrid": "D+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "D"
     },
     {
@@ -3780,9 +3780,9 @@
       "burst": 224,
       "ehp": 15525,
       "score": 966.81,
-      "tank": "B+",
+      "tank": "B",
       "hybrid": "D+",
-      "dpst": "D+",
+      "dpst": "D",
       "overall": "D"
     },
     {
@@ -3808,7 +3808,7 @@
       "score": 965.75,
       "tank": "D",
       "hybrid": "D-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3834,7 +3834,7 @@
       "score": 965.7,
       "tank": "D",
       "hybrid": "D-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D"
     },
     {
@@ -3873,7 +3873,7 @@
       "score": 964.83,
       "tank": "C-",
       "hybrid": "D-",
-      "dpst": "C",
+      "dpst": "C-",
       "overall": "D-"
     },
     {
@@ -3912,7 +3912,7 @@
       "score": 964.19,
       "tank": "D",
       "hybrid": "D-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D-"
     },
     {
@@ -3951,7 +3951,7 @@
       "score": 962.94,
       "tank": "C-",
       "hybrid": "D",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "D-"
     },
     {
@@ -4055,13 +4055,26 @@
       "score": 960.28,
       "tank": "C-",
       "hybrid": "D-",
-      "dpst": "C-",
+      "dpst": "D+",
+      "overall": "E"
+    },
+    {
+      "name": "rapeir",
+      "cls": "warrior",
+      "rank": 313,
+      "dps": 218,
+      "burst": 167,
+      "ehp": 21288,
+      "score": 960.05,
+      "tank": "SS",
+      "hybrid": "D",
+      "dpst": "F",
       "overall": "E"
     },
     {
       "name": "twirl",
       "cls": "warrior",
-      "rank": 313,
+      "rank": 314,
       "dps": 252,
       "burst": 212,
       "ehp": 14028,
@@ -4074,7 +4087,7 @@
     {
       "name": "r2019",
       "cls": "warrior",
-      "rank": 314,
+      "rank": 315,
       "dps": 378,
       "burst": 284,
       "ehp": 6647,
@@ -4087,7 +4100,7 @@
     {
       "name": "Bamti2",
       "cls": "warrior",
-      "rank": 315,
+      "rank": 316,
       "dps": 294,
       "burst": 276,
       "ehp": 10843,
@@ -4100,7 +4113,7 @@
     {
       "name": "dakkbore2",
       "cls": "warrior",
-      "rank": 316,
+      "rank": 317,
       "dps": 302,
       "burst": 245,
       "ehp": 10038,
@@ -4113,7 +4126,7 @@
     {
       "name": "Shamano9999",
       "cls": "warrior",
-      "rank": 317,
+      "rank": 318,
       "dps": 257,
       "burst": 248,
       "ehp": 14609,
@@ -4126,20 +4139,20 @@
     {
       "name": "TogoBeaaar",
       "cls": "warrior",
-      "rank": 318,
+      "rank": 319,
       "dps": 295,
       "burst": 259,
       "ehp": 10399,
       "score": 959.41,
       "tank": "D+",
       "hybrid": "D-",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "E"
     },
     {
       "name": "NPzWVG",
       "cls": "warrior",
-      "rank": 319,
+      "rank": 320,
       "dps": 291,
       "burst": 257,
       "ehp": 10616,
@@ -4152,7 +4165,7 @@
     {
       "name": "Bomfire25S",
       "cls": "warrior",
-      "rank": 320,
+      "rank": 321,
       "dps": 284,
       "burst": 267,
       "ehp": 11499,
@@ -4165,7 +4178,7 @@
     {
       "name": "OGdaniel",
       "cls": "warrior",
-      "rank": 321,
+      "rank": 322,
       "dps": 279,
       "burst": 207,
       "ehp": 11759,
@@ -4178,7 +4191,7 @@
     {
       "name": "hordes321321",
       "cls": "warrior",
-      "rank": 322,
+      "rank": 323,
       "dps": 283,
       "burst": 224,
       "ehp": 11501,
@@ -4186,19 +4199,6 @@
       "tank": "C+",
       "hybrid": "E",
       "dpst": "D",
-      "overall": "E"
-    },
-    {
-      "name": "rapeir",
-      "cls": "warrior",
-      "rank": 323,
-      "dps": 215,
-      "burst": 164,
-      "ehp": 21065,
-      "score": 958.31,
-      "tank": "SS",
-      "hybrid": "D",
-      "dpst": "F",
       "overall": "E"
     },
     {
@@ -4211,7 +4211,7 @@
       "score": 957.91,
       "tank": "C",
       "hybrid": "D",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "F"
     },
     {
@@ -4302,7 +4302,7 @@
       "score": 957.25,
       "tank": "E",
       "hybrid": "D-",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "F"
     },
     {
