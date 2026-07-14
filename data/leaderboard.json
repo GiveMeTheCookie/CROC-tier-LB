@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-13T19:39:36.083Z",
+  "fetchedAt": "2026-07-14T03:13:26.768Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -12262,9 +12262,22 @@
       "overall": "D"
     },
     {
-      "name": "immobilised",
+      "name": "CannonbaII",
       "cls": "archer",
       "rank": 317,
+      "dps": 389,
+      "burst": 332,
+      "ehp": 5081,
+      "score": 943.7,
+      "tank": "C-",
+      "hybrid": "D",
+      "dpst": "D+",
+      "overall": "D"
+    },
+    {
+      "name": "immobilised",
+      "cls": "archer",
+      "rank": 318,
       "dps": 487,
       "burst": 388,
       "ehp": 3286,
@@ -12277,7 +12290,7 @@
     {
       "name": "terry3",
       "cls": "archer",
-      "rank": 318,
+      "rank": 319,
       "dps": 364,
       "burst": 333,
       "ehp": 5443,
@@ -12290,7 +12303,7 @@
     {
       "name": "SnipArrow",
       "cls": "archer",
-      "rank": 319,
+      "rank": 320,
       "dps": 458,
       "burst": 391,
       "ehp": 3463,
@@ -12303,7 +12316,7 @@
     {
       "name": "Sylvx",
       "cls": "archer",
-      "rank": 320,
+      "rank": 321,
       "dps": 421,
       "burst": 349,
       "ehp": 4307,
@@ -12316,7 +12329,7 @@
     {
       "name": "n20",
       "cls": "archer",
-      "rank": 321,
+      "rank": 322,
       "dps": 485,
       "burst": 368,
       "ehp": 3438,
@@ -12329,7 +12342,7 @@
     {
       "name": "minted",
       "cls": "archer",
-      "rank": 322,
+      "rank": 323,
       "dps": 410,
       "burst": 340,
       "ehp": 4554,
@@ -12342,7 +12355,7 @@
     {
       "name": "Despina",
       "cls": "archer",
-      "rank": 323,
+      "rank": 324,
       "dps": 409,
       "burst": 349,
       "ehp": 4425,
@@ -12350,19 +12363,6 @@
       "tank": "D+",
       "hybrid": "D-",
       "dpst": "C-",
-      "overall": "D-"
-    },
-    {
-      "name": "CannonbaII",
-      "cls": "archer",
-      "rank": 324,
-      "dps": 378,
-      "burst": 334,
-      "ehp": 5081,
-      "score": 942.59,
-      "tank": "D+",
-      "hybrid": "D-",
-      "dpst": "D",
       "overall": "D-"
     },
     {
