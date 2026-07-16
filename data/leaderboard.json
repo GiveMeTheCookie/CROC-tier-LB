@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-16T08:25:27.909Z",
+  "fetchedAt": "2026-07-16T14:09:45.917Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1940,9 +1940,22 @@
       "overall": "B"
     },
     {
-      "name": "90212",
+      "name": "Tarkuk",
       "cls": "warrior",
       "rank": 150,
+      "dps": 462,
+      "burst": 336,
+      "ehp": 9310,
+      "score": 991.02,
+      "tank": "C",
+      "hybrid": "B",
+      "dpst": "A-",
+      "overall": "B"
+    },
+    {
+      "name": "90212",
+      "cls": "warrior",
+      "rank": 151,
       "dps": 446,
       "burst": 342,
       "ehp": 9315,
@@ -1955,7 +1968,7 @@
     {
       "name": "RevarC",
       "cls": "warrior",
-      "rank": 151,
+      "rank": 152,
       "dps": 414,
       "burst": 330,
       "ehp": 11094,
@@ -1968,7 +1981,7 @@
     {
       "name": "SquireOfFaith",
       "cls": "warrior",
-      "rank": 152,
+      "rank": 153,
       "dps": 432,
       "burst": 350,
       "ehp": 9788,
@@ -1981,7 +1994,7 @@
     {
       "name": "WARV3D",
       "cls": "warrior",
-      "rank": 153,
+      "rank": 154,
       "dps": 403,
       "burst": 325,
       "ehp": 11460,
@@ -1994,7 +2007,7 @@
     {
       "name": "Kepaxx",
       "cls": "warrior",
-      "rank": 154,
+      "rank": 155,
       "dps": 424,
       "burst": 323,
       "ehp": 10818,
@@ -2007,7 +2020,7 @@
     {
       "name": "Kurotora",
       "cls": "warrior",
-      "rank": 155,
+      "rank": 156,
       "dps": 434,
       "burst": 323,
       "ehp": 9960,
@@ -2020,7 +2033,7 @@
     {
       "name": "AnboIV",
       "cls": "warrior",
-      "rank": 156,
+      "rank": 157,
       "dps": 383,
       "burst": 322,
       "ehp": 12433,
@@ -2033,7 +2046,7 @@
     {
       "name": "Aizer",
       "cls": "warrior",
-      "rank": 157,
+      "rank": 158,
       "dps": 385,
       "burst": 313,
       "ehp": 12286,
@@ -2046,7 +2059,7 @@
     {
       "name": "Kildir",
       "cls": "warrior",
-      "rank": 158,
+      "rank": 159,
       "dps": 459,
       "burst": 334,
       "ehp": 9203,
@@ -2059,7 +2072,7 @@
     {
       "name": "TheIronKnight",
       "cls": "warrior",
-      "rank": 159,
+      "rank": 160,
       "dps": 407,
       "burst": 321,
       "ehp": 11326,
@@ -2072,7 +2085,7 @@
     {
       "name": "cookie5712",
       "cls": "warrior",
-      "rank": 160,
+      "rank": 161,
       "dps": 362,
       "burst": 295,
       "ehp": 13683,
@@ -2085,7 +2098,7 @@
     {
       "name": "Drakkambi",
       "cls": "warrior",
-      "rank": 161,
+      "rank": 162,
       "dps": 417,
       "burst": 326,
       "ehp": 10661,
@@ -2098,7 +2111,7 @@
     {
       "name": "doraemon04",
       "cls": "warrior",
-      "rank": 162,
+      "rank": 163,
       "dps": 402,
       "burst": 322,
       "ehp": 11408,
@@ -2111,7 +2124,7 @@
     {
       "name": "GoldWarden",
       "cls": "warrior",
-      "rank": 163,
+      "rank": 164,
       "dps": 443,
       "burst": 341,
       "ehp": 9353,
@@ -2124,7 +2137,7 @@
     {
       "name": "TeranceV2",
       "cls": "warrior",
-      "rank": 164,
+      "rank": 165,
       "dps": 440,
       "burst": 318,
       "ehp": 9629,
@@ -2137,7 +2150,7 @@
     {
       "name": "TbcIAmHere3",
       "cls": "warrior",
-      "rank": 165,
+      "rank": 166,
       "dps": 435,
       "burst": 340,
       "ehp": 9611,
@@ -2150,7 +2163,7 @@
     {
       "name": "bga",
       "cls": "warrior",
-      "rank": 166,
+      "rank": 167,
       "dps": 291,
       "burst": 204,
       "ehp": 23713,
@@ -2163,7 +2176,7 @@
     {
       "name": "Soule4ter",
       "cls": "warrior",
-      "rank": 167,
+      "rank": 168,
       "dps": 414,
       "burst": 327,
       "ehp": 10389,
@@ -2176,7 +2189,7 @@
     {
       "name": "hEXE",
       "cls": "warrior",
-      "rank": 168,
+      "rank": 169,
       "dps": 326,
       "burst": 253,
       "ehp": 17455,
@@ -2189,7 +2202,7 @@
     {
       "name": "SinSiboire",
       "cls": "warrior",
-      "rank": 169,
+      "rank": 170,
       "dps": 369,
       "burst": 293,
       "ehp": 12729,
@@ -2202,7 +2215,7 @@
     {
       "name": "TWISTEDASIAN",
       "cls": "warrior",
-      "rank": 170,
+      "rank": 171,
       "dps": 409,
       "burst": 314,
       "ehp": 11089,
@@ -2210,19 +2223,6 @@
       "tank": "C+",
       "hybrid": "B-",
       "dpst": "B+",
-      "overall": "B"
-    },
-    {
-      "name": "Tarkuk",
-      "cls": "warrior",
-      "rank": 171,
-      "dps": 456,
-      "burst": 331,
-      "ehp": 9054,
-      "score": 988.27,
-      "tank": "C-",
-      "hybrid": "B-",
-      "dpst": "A-",
       "overall": "B"
     },
     {
