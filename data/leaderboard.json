@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-17T08:21:38.962Z",
+  "fetchedAt": "2026-07-17T13:54:05.286Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -11901,10 +11901,10 @@
       "name": "CannonbaII",
       "cls": "archer",
       "rank": 289,
-      "dps": 406,
-      "burst": 357,
-      "ehp": 5814,
-      "score": 955.15,
+      "dps": 404,
+      "burst": 355,
+      "ehp": 5908,
+      "score": 955.2,
       "tank": "C+",
       "hybrid": "C-",
       "dpst": "C-",
