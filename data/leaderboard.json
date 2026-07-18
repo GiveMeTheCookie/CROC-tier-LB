@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-17T19:20:57.797Z",
+  "fetchedAt": "2026-07-18T03:12:20.252Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7842,9 +7842,22 @@
       "overall": "D-"
     },
     {
-      "name": "hsbb1",
+      "name": "Witchling",
       "cls": "mage",
       "rank": 268,
+      "dps": 451,
+      "burst": 378,
+      "ehp": 5611,
+      "score": 957.5,
+      "tank": "D+",
+      "hybrid": "D-",
+      "dpst": "D",
+      "overall": "D-"
+    },
+    {
+      "name": "hsbb1",
+      "cls": "mage",
+      "rank": 269,
       "dps": 573,
       "burst": 449,
       "ehp": 3460,
@@ -7857,7 +7870,7 @@
     {
       "name": "FleroloneVG",
       "cls": "mage",
-      "rank": 269,
+      "rank": 270,
       "dps": 485,
       "burst": 416,
       "ehp": 4489,
@@ -7870,7 +7883,7 @@
     {
       "name": "Aryeyaepiol",
       "cls": "mage",
-      "rank": 270,
+      "rank": 271,
       "dps": 547,
       "burst": 435,
       "ehp": 3673,
@@ -7883,7 +7896,7 @@
     {
       "name": "DontBeBonkers",
       "cls": "mage",
-      "rank": 271,
+      "rank": 272,
       "dps": 447,
       "burst": 389,
       "ehp": 5232,
@@ -7896,7 +7909,7 @@
     {
       "name": "whiteflavmage",
       "cls": "mage",
-      "rank": 272,
+      "rank": 273,
       "dps": 545,
       "burst": 440,
       "ehp": 3615,
@@ -7909,7 +7922,7 @@
     {
       "name": "UwUgirlepexs",
       "cls": "mage",
-      "rank": 273,
+      "rank": 274,
       "dps": 436,
       "burst": 387,
       "ehp": 5370,
@@ -7922,7 +7935,7 @@
     {
       "name": "HongbIood",
       "cls": "mage",
-      "rank": 274,
+      "rank": 275,
       "dps": 532,
       "burst": 426,
       "ehp": 3802,
@@ -7935,7 +7948,7 @@
     {
       "name": "Flamesotuff",
       "cls": "mage",
-      "rank": 275,
+      "rank": 276,
       "dps": 417,
       "burst": 382,
       "ehp": 5722,
@@ -7948,7 +7961,7 @@
     {
       "name": "NeptuneTheGreat",
       "cls": "mage",
-      "rank": 276,
+      "rank": 277,
       "dps": 506,
       "burst": 417,
       "ehp": 4114,
@@ -7961,7 +7974,7 @@
     {
       "name": "TrOOLer",
       "cls": "mage",
-      "rank": 277,
+      "rank": 278,
       "dps": 502,
       "burst": 419,
       "ehp": 4100,
@@ -7974,7 +7987,7 @@
     {
       "name": "PizzaOven",
       "cls": "mage",
-      "rank": 278,
+      "rank": 279,
       "dps": 480,
       "burst": 421,
       "ehp": 4283,
@@ -7987,7 +8000,7 @@
     {
       "name": "Temmieio",
       "cls": "mage",
-      "rank": 279,
+      "rank": 280,
       "dps": 454,
       "burst": 385,
       "ehp": 4924,
@@ -8000,7 +8013,7 @@
     {
       "name": "HisHighness",
       "cls": "mage",
-      "rank": 280,
+      "rank": 281,
       "dps": 502,
       "burst": 400,
       "ehp": 4184,
@@ -8013,7 +8026,7 @@
     {
       "name": "magiclegand123",
       "cls": "mage",
-      "rank": 281,
+      "rank": 282,
       "dps": 461,
       "burst": 420,
       "ehp": 4350,
@@ -8026,7 +8039,7 @@
     {
       "name": "Overheat",
       "cls": "mage",
-      "rank": 282,
+      "rank": 283,
       "dps": 461,
       "burst": 400,
       "ehp": 4561,
@@ -8039,7 +8052,7 @@
     {
       "name": "Hetzel",
       "cls": "mage",
-      "rank": 283,
+      "rank": 284,
       "dps": 516,
       "burst": 420,
       "ehp": 3716,
@@ -8052,7 +8065,7 @@
     {
       "name": "clwon23",
       "cls": "mage",
-      "rank": 284,
+      "rank": 285,
       "dps": 437,
       "burst": 396,
       "ehp": 4738,
@@ -8060,19 +8073,6 @@
       "tank": "D-",
       "hybrid": "F",
       "dpst": "D",
-      "overall": "F"
-    },
-    {
-      "name": "Witchling",
-      "cls": "mage",
-      "rank": 285,
-      "dps": 434,
-      "burst": 370,
-      "ehp": 5100,
-      "score": 950.44,
-      "tank": "D-",
-      "hybrid": "F",
-      "dpst": "D-",
       "overall": "F"
     },
     {
@@ -8661,9 +8661,22 @@
       "overall": "SS"
     },
     {
-      "name": "Scopop",
+      "name": "whiteflavored",
       "cls": "archer",
       "rank": 40,
+      "dps": 561,
+      "burst": 486,
+      "ehp": 9628,
+      "score": 1007.74,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "A+",
+      "overall": "SS"
+    },
+    {
+      "name": "Scopop",
+      "cls": "archer",
+      "rank": 41,
       "dps": 615,
       "burst": 503,
       "ehp": 8296,
@@ -8676,7 +8689,7 @@
     {
       "name": "pooppoop787",
       "cls": "archer",
-      "rank": 41,
+      "rank": 42,
       "dps": 562,
       "burst": 523,
       "ehp": 8833,
@@ -8689,7 +8702,7 @@
     {
       "name": "Ckurupt",
       "cls": "archer",
-      "rank": 42,
+      "rank": 43,
       "dps": 582,
       "burst": 497,
       "ehp": 8941,
@@ -8702,7 +8715,7 @@
     {
       "name": "Puurplez",
       "cls": "archer",
-      "rank": 43,
+      "rank": 44,
       "dps": 574,
       "burst": 477,
       "ehp": 9518,
@@ -8715,7 +8728,7 @@
     {
       "name": "STKM99",
       "cls": "archer",
-      "rank": 44,
+      "rank": 45,
       "dps": 567,
       "burst": 506,
       "ehp": 9024,
@@ -8728,7 +8741,7 @@
     {
       "name": "SoughtOut",
       "cls": "archer",
-      "rank": 45,
+      "rank": 46,
       "dps": 606,
       "burst": 487,
       "ehp": 8719,
@@ -8741,7 +8754,7 @@
     {
       "name": "DarkSiderSZ",
       "cls": "archer",
-      "rank": 46,
+      "rank": 47,
       "dps": 595,
       "burst": 477,
       "ehp": 9031,
@@ -8754,7 +8767,7 @@
     {
       "name": "BonerShot",
       "cls": "archer",
-      "rank": 47,
+      "rank": 48,
       "dps": 613,
       "burst": 461,
       "ehp": 9049,
@@ -8767,7 +8780,7 @@
     {
       "name": "AUseLessArcher",
       "cls": "archer",
-      "rank": 48,
+      "rank": 49,
       "dps": 617,
       "burst": 480,
       "ehp": 8553,
@@ -8780,7 +8793,7 @@
     {
       "name": "Reoshade",
       "cls": "archer",
-      "rank": 49,
+      "rank": 50,
       "dps": 615,
       "burst": 476,
       "ehp": 8634,
@@ -8793,7 +8806,7 @@
     {
       "name": "Carson107",
       "cls": "archer",
-      "rank": 50,
+      "rank": 51,
       "dps": 558,
       "burst": 483,
       "ehp": 9510,
@@ -8806,7 +8819,7 @@
     {
       "name": "SwishSwish",
       "cls": "archer",
-      "rank": 51,
+      "rank": 52,
       "dps": 572,
       "burst": 478,
       "ehp": 9340,
@@ -8819,7 +8832,7 @@
     {
       "name": "shutiao2",
       "cls": "archer",
-      "rank": 52,
+      "rank": 53,
       "dps": 618,
       "burst": 532,
       "ehp": 7571,
@@ -8832,7 +8845,7 @@
     {
       "name": "toothman",
       "cls": "archer",
-      "rank": 53,
+      "rank": 54,
       "dps": 623,
       "burst": 481,
       "ehp": 8382,
@@ -8845,7 +8858,7 @@
     {
       "name": "EraWalk",
       "cls": "archer",
-      "rank": 54,
+      "rank": 55,
       "dps": 626,
       "burst": 498,
       "ehp": 8018,
@@ -8858,7 +8871,7 @@
     {
       "name": "OnlyWind",
       "cls": "archer",
-      "rank": 55,
+      "rank": 56,
       "dps": 619,
       "burst": 495,
       "ehp": 8167,
@@ -8871,7 +8884,7 @@
     {
       "name": "Desidia",
       "cls": "archer",
-      "rank": 56,
+      "rank": 57,
       "dps": 575,
       "burst": 496,
       "ehp": 8832,
@@ -8884,7 +8897,7 @@
     {
       "name": "jasiubayer2",
       "cls": "archer",
-      "rank": 57,
+      "rank": 58,
       "dps": 581,
       "burst": 483,
       "ehp": 8983,
@@ -8897,7 +8910,7 @@
     {
       "name": "DontBeMe",
       "cls": "archer",
-      "rank": 58,
+      "rank": 59,
       "dps": 621,
       "burst": 482,
       "ehp": 8299,
@@ -8910,7 +8923,7 @@
     {
       "name": "GFDO",
       "cls": "archer",
-      "rank": 59,
+      "rank": 60,
       "dps": 571,
       "burst": 493,
       "ehp": 8918,
@@ -8923,7 +8936,7 @@
     {
       "name": "BLsdb",
       "cls": "archer",
-      "rank": 60,
+      "rank": 61,
       "dps": 609,
       "burst": 506,
       "ehp": 8032,
@@ -8931,19 +8944,6 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S"
-    },
-    {
-      "name": "whiteflavored",
-      "cls": "archer",
-      "rank": 61,
-      "dps": 567,
-      "burst": 491,
-      "ehp": 8993,
-      "score": 1005.93,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "A+",
       "overall": "S"
     },
     {
@@ -9675,9 +9675,22 @@
       "overall": "A+"
     },
     {
-      "name": "Caesium",
+      "name": "KAIZERXD",
       "cls": "archer",
       "rank": 118,
+      "dps": 619,
+      "burst": 463,
+      "ehp": 7200,
+      "score": 997.92,
+      "tank": "A+",
+      "hybrid": "A+",
+      "dpst": "S",
+      "overall": "A+"
+    },
+    {
+      "name": "Caesium",
+      "cls": "archer",
+      "rank": 119,
       "dps": 561,
       "burst": 464,
       "ehp": 8035,
@@ -9690,7 +9703,7 @@
     {
       "name": "LostWithin",
       "cls": "archer",
-      "rank": 119,
+      "rank": 120,
       "dps": 525,
       "burst": 467,
       "ehp": 8597,
@@ -9703,7 +9716,7 @@
     {
       "name": "Unsatisfactory",
       "cls": "archer",
-      "rank": 120,
+      "rank": 121,
       "dps": 525,
       "burst": 456,
       "ehp": 8809,
@@ -9716,7 +9729,7 @@
     {
       "name": "Temperment",
       "cls": "archer",
-      "rank": 121,
+      "rank": 122,
       "dps": 548,
       "burst": 489,
       "ehp": 7773,
@@ -9729,7 +9742,7 @@
     {
       "name": "ZeFoe",
       "cls": "archer",
-      "rank": 122,
+      "rank": 123,
       "dps": 556,
       "burst": 460,
       "ehp": 8015,
@@ -9742,7 +9755,7 @@
     {
       "name": "Zilu",
       "cls": "archer",
-      "rank": 123,
+      "rank": 124,
       "dps": 590,
       "burst": 480,
       "ehp": 7112,
@@ -9755,7 +9768,7 @@
     {
       "name": "Spl1tSh0T",
       "cls": "archer",
-      "rank": 124,
+      "rank": 125,
       "dps": 596,
       "burst": 483,
       "ehp": 6886,
@@ -9768,7 +9781,7 @@
     {
       "name": "Dhayeearl",
       "cls": "archer",
-      "rank": 125,
+      "rank": 126,
       "dps": 565,
       "burst": 458,
       "ehp": 7769,
@@ -9781,7 +9794,7 @@
     {
       "name": "Apsara",
       "cls": "archer",
-      "rank": 126,
+      "rank": 127,
       "dps": 575,
       "burst": 452,
       "ehp": 7704,
@@ -9794,7 +9807,7 @@
     {
       "name": "Aphelion",
       "cls": "archer",
-      "rank": 127,
+      "rank": 128,
       "dps": 596,
       "burst": 485,
       "ehp": 6732,
@@ -9807,7 +9820,7 @@
     {
       "name": "UnlikeSkill",
       "cls": "archer",
-      "rank": 128,
+      "rank": 129,
       "dps": 552,
       "burst": 445,
       "ehp": 8022,
@@ -9820,7 +9833,7 @@
     {
       "name": "JNSM2",
       "cls": "archer",
-      "rank": 129,
+      "rank": 130,
       "dps": 579,
       "burst": 502,
       "ehp": 6631,
@@ -9833,7 +9846,7 @@
     {
       "name": "Heherim",
       "cls": "archer",
-      "rank": 130,
+      "rank": 131,
       "dps": 533,
       "burst": 442,
       "ehp": 8346,
@@ -9846,7 +9859,7 @@
     {
       "name": "johnthepro75",
       "cls": "archer",
-      "rank": 131,
+      "rank": 132,
       "dps": 653,
       "burst": 511,
       "ehp": 5608,
@@ -9859,7 +9872,7 @@
     {
       "name": "Sagittae",
       "cls": "archer",
-      "rank": 132,
+      "rank": 133,
       "dps": 650,
       "burst": 485,
       "ehp": 5974,
@@ -9872,7 +9885,7 @@
     {
       "name": "KIDBOMBAAAA",
       "cls": "archer",
-      "rank": 133,
+      "rank": 134,
       "dps": 550,
       "burst": 479,
       "ehp": 7347,
@@ -9885,7 +9898,7 @@
     {
       "name": "Finnaly",
       "cls": "archer",
-      "rank": 134,
+      "rank": 135,
       "dps": 555,
       "burst": 439,
       "ehp": 7943,
@@ -9898,7 +9911,7 @@
     {
       "name": "Deliver",
       "cls": "archer",
-      "rank": 135,
+      "rank": 136,
       "dps": 609,
       "burst": 458,
       "ehp": 6817,
@@ -9911,7 +9924,7 @@
     {
       "name": "FallenSaint",
       "cls": "archer",
-      "rank": 136,
+      "rank": 137,
       "dps": 576,
       "burst": 447,
       "ehp": 7396,
@@ -9924,7 +9937,7 @@
     {
       "name": "ArcherMad",
       "cls": "archer",
-      "rank": 137,
+      "rank": 138,
       "dps": 513,
       "burst": 461,
       "ehp": 8150,
@@ -9937,7 +9950,7 @@
     {
       "name": "Exothermic",
       "cls": "archer",
-      "rank": 138,
+      "rank": 139,
       "dps": 647,
       "burst": 475,
       "ehp": 5943,
@@ -9950,7 +9963,7 @@
     {
       "name": "Muborik",
       "cls": "archer",
-      "rank": 139,
+      "rank": 140,
       "dps": 508,
       "burst": 445,
       "ehp": 8409,
@@ -9963,7 +9976,7 @@
     {
       "name": "Riznuaqua",
       "cls": "archer",
-      "rank": 140,
+      "rank": 141,
       "dps": 508,
       "burst": 441,
       "ehp": 8479,
@@ -9976,7 +9989,7 @@
     {
       "name": "Pheromone761",
       "cls": "archer",
-      "rank": 141,
+      "rank": 142,
       "dps": 495,
       "burst": 412,
       "ehp": 9340,
@@ -9989,7 +10002,7 @@
     {
       "name": "OneShotKill",
       "cls": "archer",
-      "rank": 142,
+      "rank": 143,
       "dps": 498,
       "burst": 445,
       "ehp": 8423,
@@ -10002,7 +10015,7 @@
     {
       "name": "DeniedArch",
       "cls": "archer",
-      "rank": 143,
+      "rank": 144,
       "dps": 621,
       "burst": 472,
       "ehp": 6088,
@@ -10015,7 +10028,7 @@
     {
       "name": "MishaPrecision",
       "cls": "archer",
-      "rank": 144,
+      "rank": 145,
       "dps": 536,
       "burst": 408,
       "ehp": 8472,
@@ -10028,7 +10041,7 @@
     {
       "name": "achermaster4321",
       "cls": "archer",
-      "rank": 145,
+      "rank": 146,
       "dps": 549,
       "burst": 443,
       "ehp": 7485,
@@ -10041,7 +10054,7 @@
     {
       "name": "CHR1S1",
       "cls": "archer",
-      "rank": 146,
+      "rank": 147,
       "dps": 628,
       "burst": 481,
       "ehp": 5846,
@@ -10054,7 +10067,7 @@
     {
       "name": "Demokar",
       "cls": "archer",
-      "rank": 147,
+      "rank": 148,
       "dps": 516,
       "burst": 467,
       "ehp": 7586,
@@ -10067,7 +10080,7 @@
     {
       "name": "DrEadFuLHadEs",
       "cls": "archer",
-      "rank": 148,
+      "rank": 149,
       "dps": 494,
       "burst": 425,
       "ehp": 8851,
@@ -10080,7 +10093,7 @@
     {
       "name": "Carnegie",
       "cls": "archer",
-      "rank": 149,
+      "rank": 150,
       "dps": 530,
       "burst": 464,
       "ehp": 7385,
@@ -10093,7 +10106,7 @@
     {
       "name": "Viper196",
       "cls": "archer",
-      "rank": 150,
+      "rank": 151,
       "dps": 526,
       "burst": 458,
       "ehp": 7553,
@@ -10106,7 +10119,7 @@
     {
       "name": "Noralye",
       "cls": "archer",
-      "rank": 151,
+      "rank": 152,
       "dps": 627,
       "burst": 477,
       "ehp": 5892,
@@ -10119,7 +10132,7 @@
     {
       "name": "Plagaa",
       "cls": "archer",
-      "rank": 152,
+      "rank": 153,
       "dps": 611,
       "burst": 478,
       "ehp": 6050,
@@ -10132,7 +10145,7 @@
     {
       "name": "Veli0na3",
       "cls": "archer",
-      "rank": 153,
+      "rank": 154,
       "dps": 507,
       "burst": 414,
       "ehp": 8798,
@@ -10145,7 +10158,7 @@
     {
       "name": "Killoker",
       "cls": "archer",
-      "rank": 154,
+      "rank": 155,
       "dps": 528,
       "burst": 454,
       "ehp": 7567,
@@ -10158,7 +10171,7 @@
     {
       "name": "Sukhoi57",
       "cls": "archer",
-      "rank": 155,
+      "rank": 156,
       "dps": 544,
       "burst": 425,
       "ehp": 7831,
@@ -10171,7 +10184,7 @@
     {
       "name": "leanwitme",
       "cls": "archer",
-      "rank": 156,
+      "rank": 157,
       "dps": 540,
       "burst": 452,
       "ehp": 7236,
@@ -10184,7 +10197,7 @@
     {
       "name": "slumpie3",
       "cls": "archer",
-      "rank": 157,
+      "rank": 158,
       "dps": 619,
       "burst": 445,
       "ehp": 6247,
@@ -10197,7 +10210,7 @@
     {
       "name": "RompePoto",
       "cls": "archer",
-      "rank": 158,
+      "rank": 159,
       "dps": 537,
       "burst": 436,
       "ehp": 7497,
@@ -10210,7 +10223,7 @@
     {
       "name": "MaximumEvil",
       "cls": "archer",
-      "rank": 159,
+      "rank": 160,
       "dps": 514,
       "burst": 441,
       "ehp": 7768,
@@ -10223,24 +10236,11 @@
     {
       "name": "WaitUrDead",
       "cls": "archer",
-      "rank": 160,
+      "rank": 161,
       "dps": 556,
       "burst": 465,
       "ehp": 6640,
       "score": 989.31,
-      "tank": "A-",
-      "hybrid": "A-",
-      "dpst": "A+",
-      "overall": "A-"
-    },
-    {
-      "name": "KAIZERXD",
-      "cls": "archer",
-      "rank": 161,
-      "dps": 600,
-      "burst": 458,
-      "ehp": 6183,
-      "score": 989.23,
       "tank": "A-",
       "hybrid": "A-",
       "dpst": "A+",
@@ -12802,7 +12802,7 @@
       "burst": 399,
       "ehp": 9953,
       "score": 1014.94,
-      "tank": "SSS",
+      "tank": "SS",
       "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS"
@@ -13298,7 +13298,7 @@
       "score": 1009.55,
       "tank": "S",
       "hybrid": "A+",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13402,7 +13402,7 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "S",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13465,9 +13465,9 @@
       "burst": 411,
       "ehp": 8216,
       "score": 1008.24,
-      "tank": "A+",
+      "tank": "A",
       "hybrid": "S",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "S"
     },
     {
@@ -13816,7 +13816,7 @@
       "burst": 394,
       "ehp": 9815,
       "score": 1004.34,
-      "tank": "S",
+      "tank": "A+",
       "hybrid": "A",
       "dpst": "A+",
       "overall": "A+"
@@ -13844,7 +13844,7 @@
       "score": 1003.79,
       "tank": "A+",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
@@ -13907,7 +13907,7 @@
       "burst": 424,
       "ehp": 8411,
       "score": 1003.13,
-      "tank": "A",
+      "tank": "A-",
       "hybrid": "A",
       "dpst": "SS",
       "overall": "A+"
@@ -13985,7 +13985,7 @@
       "burst": 398,
       "ehp": 8228,
       "score": 1002.17,
-      "tank": "A",
+      "tank": "A-",
       "hybrid": "A",
       "dpst": "S",
       "overall": "A"
@@ -14102,7 +14102,7 @@
       "burst": 404,
       "ehp": 8439,
       "score": 1001.01,
-      "tank": "A",
+      "tank": "A-",
       "hybrid": "A-",
       "dpst": "S",
       "overall": "A"
@@ -14550,22 +14550,9 @@
       "overall": "B+"
     },
     {
-      "name": "yeeeeelok",
-      "cls": "shaman",
-      "rank": 136,
-      "dps": 440,
-      "burst": 348,
-      "ehp": 11247,
-      "score": 994.48,
-      "tank": "S",
-      "hybrid": "B-",
-      "dpst": "B",
-      "overall": "B+"
-    },
-    {
       "name": "HealsForWarrior",
       "cls": "shaman",
-      "rank": 137,
+      "rank": 136,
       "dps": 559,
       "burst": 403,
       "ehp": 7271,
@@ -14578,7 +14565,7 @@
     {
       "name": "Sarashina",
       "cls": "shaman",
-      "rank": 138,
+      "rank": 137,
       "dps": 523,
       "burst": 362,
       "ehp": 7999,
@@ -14591,7 +14578,7 @@
     {
       "name": "NSPz",
       "cls": "shaman",
-      "rank": 139,
+      "rank": 138,
       "dps": 518,
       "burst": 363,
       "ehp": 8009,
@@ -14604,7 +14591,7 @@
     {
       "name": "winterwashere",
       "cls": "shaman",
-      "rank": 140,
+      "rank": 139,
       "dps": 481,
       "burst": 360,
       "ehp": 9371,
@@ -14617,7 +14604,7 @@
     {
       "name": "MehImmaHeal",
       "cls": "shaman",
-      "rank": 141,
+      "rank": 140,
       "dps": 515,
       "burst": 384,
       "ehp": 8258,
@@ -14630,7 +14617,7 @@
     {
       "name": "IXIXI",
       "cls": "shaman",
-      "rank": 142,
+      "rank": 141,
       "dps": 524,
       "burst": 394,
       "ehp": 7998,
@@ -14643,7 +14630,7 @@
     {
       "name": "KaLiBriQR",
       "cls": "shaman",
-      "rank": 143,
+      "rank": 142,
       "dps": 509,
       "burst": 371,
       "ehp": 8333,
@@ -14656,7 +14643,7 @@
     {
       "name": "Azricarp",
       "cls": "shaman",
-      "rank": 144,
+      "rank": 143,
       "dps": 544,
       "burst": 373,
       "ehp": 7380,
@@ -14669,12 +14656,12 @@
     {
       "name": "Nicotonoirsha",
       "cls": "shaman",
-      "rank": 145,
+      "rank": 144,
       "dps": 537,
       "burst": 378,
       "ehp": 7619,
       "score": 992.81,
-      "tank": "B+",
+      "tank": "B",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
@@ -14682,7 +14669,7 @@
     {
       "name": "MiniShammy",
       "cls": "shaman",
-      "rank": 146,
+      "rank": 145,
       "dps": 588,
       "burst": 413,
       "ehp": 6357,
@@ -14695,7 +14682,7 @@
     {
       "name": "NukeLife",
       "cls": "shaman",
-      "rank": 147,
+      "rank": 146,
       "dps": 496,
       "burst": 344,
       "ehp": 8474,
@@ -14708,7 +14695,7 @@
     {
       "name": "KarlHeinrichMarx",
       "cls": "shaman",
-      "rank": 148,
+      "rank": 147,
       "dps": 522,
       "burst": 366,
       "ehp": 7610,
@@ -14721,7 +14708,7 @@
     {
       "name": "GanjaLand",
       "cls": "shaman",
-      "rank": 149,
+      "rank": 148,
       "dps": 492,
       "burst": 366,
       "ehp": 8676,
@@ -14734,7 +14721,7 @@
     {
       "name": "rndms",
       "cls": "shaman",
-      "rank": 150,
+      "rank": 149,
       "dps": 678,
       "burst": 456,
       "ehp": 4692,
@@ -14747,7 +14734,7 @@
     {
       "name": "ILordzl",
       "cls": "shaman",
-      "rank": 151,
+      "rank": 150,
       "dps": 517,
       "burst": 367,
       "ehp": 7830,
@@ -14760,7 +14747,7 @@
     {
       "name": "AzukaTems",
       "cls": "shaman",
-      "rank": 152,
+      "rank": 151,
       "dps": 540,
       "burst": 372,
       "ehp": 7179,
@@ -14773,7 +14760,7 @@
     {
       "name": "Satsura",
       "cls": "shaman",
-      "rank": 153,
+      "rank": 152,
       "dps": 510,
       "burst": 358,
       "ehp": 7978,
@@ -14786,7 +14773,7 @@
     {
       "name": "frazmin3",
       "cls": "shaman",
-      "rank": 154,
+      "rank": 153,
       "dps": 528,
       "burst": 367,
       "ehp": 7229,
@@ -14799,7 +14786,7 @@
     {
       "name": "wipestyle",
       "cls": "shaman",
-      "rank": 155,
+      "rank": 154,
       "dps": 486,
       "burst": 345,
       "ehp": 8518,
@@ -14812,7 +14799,7 @@
     {
       "name": "Banewirya",
       "cls": "shaman",
-      "rank": 156,
+      "rank": 155,
       "dps": 517,
       "burst": 353,
       "ehp": 7724,
@@ -14825,7 +14812,7 @@
     {
       "name": "LunaMercy",
       "cls": "shaman",
-      "rank": 157,
+      "rank": 156,
       "dps": 516,
       "burst": 360,
       "ehp": 7530,
@@ -14838,7 +14825,7 @@
     {
       "name": "petitchou",
       "cls": "shaman",
-      "rank": 158,
+      "rank": 157,
       "dps": 518,
       "burst": 358,
       "ehp": 7590,
@@ -14851,7 +14838,7 @@
     {
       "name": "LoneBoy",
       "cls": "shaman",
-      "rank": 159,
+      "rank": 158,
       "dps": 475,
       "burst": 328,
       "ehp": 8887,
@@ -14864,7 +14851,7 @@
     {
       "name": "NaturePower",
       "cls": "shaman",
-      "rank": 160,
+      "rank": 159,
       "dps": 549,
       "burst": 398,
       "ehp": 6833,
@@ -14877,7 +14864,7 @@
     {
       "name": "SkilledatHealing",
       "cls": "shaman",
-      "rank": 161,
+      "rank": 160,
       "dps": 524,
       "burst": 370,
       "ehp": 7477,
@@ -14890,7 +14877,7 @@
     {
       "name": "ElghtySix",
       "cls": "shaman",
-      "rank": 162,
+      "rank": 161,
       "dps": 678,
       "burst": 472,
       "ehp": 4578,
@@ -14903,7 +14890,7 @@
     {
       "name": "Stix",
       "cls": "shaman",
-      "rank": 163,
+      "rank": 162,
       "dps": 600,
       "burst": 431,
       "ehp": 5803,
@@ -14916,7 +14903,7 @@
     {
       "name": "Linari",
       "cls": "shaman",
-      "rank": 164,
+      "rank": 163,
       "dps": 564,
       "burst": 391,
       "ehp": 6421,
@@ -14929,12 +14916,12 @@
     {
       "name": "Enchiladas",
       "cls": "shaman",
-      "rank": 165,
+      "rank": 164,
       "dps": 503,
       "burst": 367,
       "ehp": 7956,
       "score": 989.62,
-      "tank": "B+",
+      "tank": "B",
       "hybrid": "B-",
       "dpst": "B+",
       "overall": "B-"
@@ -14942,7 +14929,7 @@
     {
       "name": "ShadowHunter123",
       "cls": "shaman",
-      "rank": 166,
+      "rank": 165,
       "dps": 565,
       "burst": 393,
       "ehp": 6346,
@@ -14955,7 +14942,7 @@
     {
       "name": "DukeCarlton",
       "cls": "shaman",
-      "rank": 167,
+      "rank": 166,
       "dps": 507,
       "burst": 373,
       "ehp": 7790,
@@ -14968,7 +14955,7 @@
     {
       "name": "Arkankh",
       "cls": "shaman",
-      "rank": 168,
+      "rank": 167,
       "dps": 498,
       "burst": 364,
       "ehp": 7953,
@@ -14981,11 +14968,24 @@
     {
       "name": "K43L",
       "cls": "shaman",
-      "rank": 169,
+      "rank": 168,
       "dps": 482,
       "burst": 368,
       "ehp": 8547,
       "score": 989.2,
+      "tank": "B+",
+      "hybrid": "C+",
+      "dpst": "B+",
+      "overall": "B-"
+    },
+    {
+      "name": "SyIphiette",
+      "cls": "shaman",
+      "rank": 169,
+      "dps": 490,
+      "burst": 366,
+      "ehp": 8231,
+      "score": 988.93,
       "tank": "B+",
       "hybrid": "C+",
       "dpst": "B+",
@@ -15070,27 +15070,14 @@
       "overall": "B-"
     },
     {
-      "name": "SyIphiette",
-      "cls": "shaman",
-      "rank": 176,
-      "dps": 481,
-      "burst": 369,
-      "ehp": 8369,
-      "score": 987.86,
-      "tank": "B+",
-      "hybrid": "C+",
-      "dpst": "B+",
-      "overall": "B-"
-    },
-    {
       "name": "Solnix",
       "cls": "shaman",
-      "rank": 177,
+      "rank": 176,
       "dps": 481,
       "burst": 364,
       "ehp": 8322,
       "score": 987.45,
-      "tank": "B+",
+      "tank": "B",
       "hybrid": "C+",
       "dpst": "B",
       "overall": "B-"
@@ -15098,7 +15085,7 @@
     {
       "name": "AnEntity",
       "cls": "shaman",
-      "rank": 178,
+      "rank": 177,
       "dps": 547,
       "burst": 406,
       "ehp": 6344,
@@ -15111,7 +15098,7 @@
     {
       "name": "calImeisra",
       "cls": "shaman",
-      "rank": 179,
+      "rank": 178,
       "dps": 459,
       "burst": 331,
       "ehp": 8653,
@@ -15124,7 +15111,7 @@
     {
       "name": "Sulfuric",
       "cls": "shaman",
-      "rank": 180,
+      "rank": 179,
       "dps": 478,
       "burst": 340,
       "ehp": 8049,
@@ -15137,7 +15124,7 @@
     {
       "name": "Bound",
       "cls": "shaman",
-      "rank": 181,
+      "rank": 180,
       "dps": 483,
       "burst": 338,
       "ehp": 7956,
@@ -15150,7 +15137,7 @@
     {
       "name": "Tikebrain",
       "cls": "shaman",
-      "rank": 182,
+      "rank": 181,
       "dps": 533,
       "burst": 380,
       "ehp": 6612,
@@ -15163,7 +15150,7 @@
     {
       "name": "WarDogHealer",
       "cls": "shaman",
-      "rank": 183,
+      "rank": 182,
       "dps": 579,
       "burst": 411,
       "ehp": 5649,
@@ -15176,7 +15163,7 @@
     {
       "name": "MimirsWell",
       "cls": "shaman",
-      "rank": 184,
+      "rank": 183,
       "dps": 461,
       "burst": 336,
       "ehp": 8545,
@@ -15189,7 +15176,7 @@
     {
       "name": "mendstyle",
       "cls": "shaman",
-      "rank": 185,
+      "rank": 184,
       "dps": 464,
       "burst": 329,
       "ehp": 8422,
@@ -15202,7 +15189,7 @@
     {
       "name": "Synthrax",
       "cls": "shaman",
-      "rank": 186,
+      "rank": 185,
       "dps": 464,
       "burst": 335,
       "ehp": 8553,
@@ -15215,7 +15202,7 @@
     {
       "name": "Carcinogenic",
       "cls": "shaman",
-      "rank": 187,
+      "rank": 186,
       "dps": 540,
       "burst": 375,
       "ehp": 6325,
@@ -15228,7 +15215,7 @@
     {
       "name": "AsYouRunAway",
       "cls": "shaman",
-      "rank": 188,
+      "rank": 187,
       "dps": 538,
       "burst": 393,
       "ehp": 6466,
@@ -15241,7 +15228,7 @@
     {
       "name": "DoTTT",
       "cls": "shaman",
-      "rank": 189,
+      "rank": 188,
       "dps": 473,
       "burst": 358,
       "ehp": 8311,
@@ -15254,7 +15241,7 @@
     {
       "name": "zZRokiZzz",
       "cls": "shaman",
-      "rank": 190,
+      "rank": 189,
       "dps": 626,
       "burst": 416,
       "ehp": 4815,
@@ -15267,7 +15254,7 @@
     {
       "name": "MrCures",
       "cls": "shaman",
-      "rank": 191,
+      "rank": 190,
       "dps": 523,
       "burst": 374,
       "ehp": 6573,
@@ -15280,7 +15267,7 @@
     {
       "name": "GEOHEAL",
       "cls": "shaman",
-      "rank": 192,
+      "rank": 191,
       "dps": 496,
       "burst": 360,
       "ehp": 7219,
@@ -15293,7 +15280,7 @@
     {
       "name": "Aquatech",
       "cls": "shaman",
-      "rank": 193,
+      "rank": 192,
       "dps": 513,
       "burst": 374,
       "ehp": 6898,
@@ -15306,7 +15293,7 @@
     {
       "name": "ChaQi",
       "cls": "shaman",
-      "rank": 194,
+      "rank": 193,
       "dps": 515,
       "burst": 371,
       "ehp": 6838,
@@ -15319,7 +15306,7 @@
     {
       "name": "Rinnagan",
       "cls": "shaman",
-      "rank": 195,
+      "rank": 194,
       "dps": 504,
       "burst": 352,
       "ehp": 7084,
@@ -15327,6 +15314,19 @@
       "tank": "B-",
       "hybrid": "C+",
       "dpst": "B",
+      "overall": "C+"
+    },
+    {
+      "name": "yeeeeelok",
+      "cls": "shaman",
+      "rank": 195,
+      "dps": 335,
+      "burst": 274,
+      "ehp": 15482,
+      "score": 984.93,
+      "tank": "SSS",
+      "hybrid": "D+",
+      "dpst": "E",
       "overall": "C+"
     },
     {
@@ -15612,7 +15612,7 @@
       "score": 981.63,
       "tank": "C-",
       "hybrid": "C+",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "C"
     },
     {
@@ -15662,7 +15662,7 @@
       "burst": 317,
       "ehp": 8468,
       "score": 981.03,
-      "tank": "B+",
+      "tank": "B",
       "hybrid": "C-",
       "dpst": "C-",
       "overall": "C"
@@ -15740,7 +15740,7 @@
       "burst": 345,
       "ehp": 7179,
       "score": 979.71,
-      "tank": "B-",
+      "tank": "C+",
       "hybrid": "C-",
       "dpst": "C+",
       "overall": "C-"
@@ -15883,7 +15883,7 @@
       "burst": 345,
       "ehp": 7822,
       "score": 976.91,
-      "tank": "B-",
+      "tank": "C+",
       "hybrid": "D",
       "dpst": "C",
       "overall": "C-"
@@ -16312,7 +16312,7 @@
       "burst": 330,
       "ehp": 6168,
       "score": 968.97,
-      "tank": "C-",
+      "tank": "D+",
       "hybrid": "D-",
       "dpst": "C-",
       "overall": "D-"
