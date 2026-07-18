@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-18T03:12:20.252Z",
+  "fetchedAt": "2026-07-18T08:03:28.649Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6698,22 +6698,9 @@
       "overall": "B-"
     },
     {
-      "name": "octo88",
-      "cls": "mage",
-      "rank": 180,
-      "dps": 620,
-      "burst": 491,
-      "ehp": 4921,
-      "score": 980.36,
-      "tank": "C",
-      "hybrid": "C+",
-      "dpst": "A",
-      "overall": "B-"
-    },
-    {
       "name": "Mageoker",
       "cls": "mage",
-      "rank": 181,
+      "rank": 180,
       "dps": 512,
       "burst": 438,
       "ehp": 7003,
@@ -6726,7 +6713,7 @@
     {
       "name": "9374234124",
       "cls": "mage",
-      "rank": 182,
+      "rank": 181,
       "dps": 531,
       "burst": 439,
       "ehp": 6674,
@@ -6739,7 +6726,7 @@
     {
       "name": "Fictional",
       "cls": "mage",
-      "rank": 183,
+      "rank": 182,
       "dps": 545,
       "burst": 437,
       "ehp": 6391,
@@ -6752,7 +6739,7 @@
     {
       "name": "GankerKiller",
       "cls": "mage",
-      "rank": 184,
+      "rank": 183,
       "dps": 535,
       "burst": 453,
       "ehp": 6217,
@@ -6765,7 +6752,7 @@
     {
       "name": "Th3yDisappointM3",
       "cls": "mage",
-      "rank": 185,
+      "rank": 184,
       "dps": 537,
       "burst": 451,
       "ehp": 6215,
@@ -6778,7 +6765,7 @@
     {
       "name": "konkonkonkon",
       "cls": "mage",
-      "rank": 186,
+      "rank": 185,
       "dps": 599,
       "burst": 487,
       "ehp": 4983,
@@ -6791,7 +6778,7 @@
     {
       "name": "BAITING",
       "cls": "mage",
-      "rank": 187,
+      "rank": 186,
       "dps": 534,
       "burst": 450,
       "ehp": 6183,
@@ -6804,7 +6791,7 @@
     {
       "name": "Walzoth",
       "cls": "mage",
-      "rank": 188,
+      "rank": 187,
       "dps": 611,
       "burst": 483,
       "ehp": 4863,
@@ -6817,7 +6804,7 @@
     {
       "name": "XxMellseaskullxX",
       "cls": "mage",
-      "rank": 189,
+      "rank": 188,
       "dps": 522,
       "burst": 440,
       "ehp": 6461,
@@ -6830,7 +6817,7 @@
     {
       "name": "GaIaxy",
       "cls": "mage",
-      "rank": 190,
+      "rank": 189,
       "dps": 598,
       "burst": 472,
       "ehp": 5049,
@@ -6843,7 +6830,7 @@
     {
       "name": "Zumwalt",
       "cls": "mage",
-      "rank": 191,
+      "rank": 190,
       "dps": 541,
       "burst": 446,
       "ehp": 6033,
@@ -6851,6 +6838,19 @@
       "tank": "C+",
       "hybrid": "C+",
       "dpst": "B",
+      "overall": "C+"
+    },
+    {
+      "name": "octo88",
+      "cls": "mage",
+      "rank": 191,
+      "dps": 613,
+      "burst": 478,
+      "ehp": 4809,
+      "score": 977.57,
+      "tank": "C",
+      "hybrid": "C+",
+      "dpst": "A",
       "overall": "C+"
     },
     {
