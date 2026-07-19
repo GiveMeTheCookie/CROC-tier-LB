@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-18T19:14:01.799Z",
+  "fetchedAt": "2026-07-19T03:32:14.935Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -952,9 +952,22 @@
       "overall": "A+"
     },
     {
-      "name": "tony1216",
+      "name": "RyuuLion",
       "cls": "warrior",
       "rank": 74,
+      "dps": 418,
+      "burst": 326,
+      "ehp": 14477,
+      "score": 1002.37,
+      "tank": "B+",
+      "hybrid": "A+",
+      "dpst": "A",
+      "overall": "A"
+    },
+    {
+      "name": "tony1216",
+      "cls": "warrior",
+      "rank": 75,
       "dps": 470,
       "burst": 357,
       "ehp": 11340,
@@ -967,7 +980,7 @@
     {
       "name": "gen5",
       "cls": "warrior",
-      "rank": 75,
+      "rank": 76,
       "dps": 469,
       "burst": 357,
       "ehp": 11643,
@@ -980,7 +993,7 @@
     {
       "name": "RisenBeast",
       "cls": "warrior",
-      "rank": 76,
+      "rank": 77,
       "dps": 469,
       "burst": 354,
       "ehp": 11250,
@@ -993,7 +1006,7 @@
     {
       "name": "Yelp",
       "cls": "warrior",
-      "rank": 77,
+      "rank": 78,
       "dps": 463,
       "burst": 350,
       "ehp": 11255,
@@ -1001,19 +1014,6 @@
       "tank": "B-",
       "hybrid": "A",
       "dpst": "A+",
-      "overall": "A"
-    },
-    {
-      "name": "RyuuLion",
-      "cls": "warrior",
-      "rank": 78,
-      "dps": 406,
-      "burst": 317,
-      "ehp": 14991,
-      "score": 1001.71,
-      "tank": "B+",
-      "hybrid": "A+",
-      "dpst": "A",
       "overall": "A"
     },
     {
@@ -4956,9 +4956,22 @@
       "overall": "S"
     },
     {
-      "name": "XxPikitrueno11xX",
+      "name": "Ganjaa",
       "cls": "mage",
       "rank": 46,
+      "dps": 612,
+      "burst": 502,
+      "ehp": 8566,
+      "score": 1004.4,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "A",
+      "overall": "S"
+    },
+    {
+      "name": "XxPikitrueno11xX",
+      "cls": "mage",
+      "rank": 47,
       "dps": 599,
       "burst": 469,
       "ehp": 9346,
@@ -4971,7 +4984,7 @@
     {
       "name": "Pheusonty3184",
       "cls": "mage",
-      "rank": 47,
+      "rank": 48,
       "dps": 614,
       "burst": 490,
       "ehp": 8667,
@@ -4984,7 +4997,7 @@
     {
       "name": "KCBR",
       "cls": "mage",
-      "rank": 48,
+      "rank": 49,
       "dps": 670,
       "burst": 505,
       "ehp": 7542,
@@ -4997,7 +5010,7 @@
     {
       "name": "NotoAE",
       "cls": "mage",
-      "rank": 49,
+      "rank": 50,
       "dps": 637,
       "burst": 502,
       "ehp": 8054,
@@ -5010,7 +5023,7 @@
     {
       "name": "TheOmen",
       "cls": "mage",
-      "rank": 50,
+      "rank": 51,
       "dps": 631,
       "burst": 501,
       "ehp": 8147,
@@ -5023,7 +5036,7 @@
     {
       "name": "Ravelrond",
       "cls": "mage",
-      "rank": 51,
+      "rank": 52,
       "dps": 687,
       "burst": 505,
       "ehp": 7252,
@@ -5036,7 +5049,7 @@
     {
       "name": "shrinxx",
       "cls": "mage",
-      "rank": 52,
+      "rank": 53,
       "dps": 611,
       "burst": 509,
       "ehp": 8284,
@@ -5049,7 +5062,7 @@
     {
       "name": "DoT0",
       "cls": "mage",
-      "rank": 53,
+      "rank": 54,
       "dps": 584,
       "burst": 481,
       "ehp": 9259,
@@ -5062,7 +5075,7 @@
     {
       "name": "ParadoxPVP",
       "cls": "mage",
-      "rank": 54,
+      "rank": 55,
       "dps": 633,
       "burst": 499,
       "ehp": 8059,
@@ -5075,7 +5088,7 @@
     {
       "name": "StormBladeBL",
       "cls": "mage",
-      "rank": 55,
+      "rank": 56,
       "dps": 611,
       "burst": 487,
       "ehp": 8611,
@@ -5088,7 +5101,7 @@
     {
       "name": "rageymage",
       "cls": "mage",
-      "rank": 56,
+      "rank": 57,
       "dps": 640,
       "burst": 511,
       "ehp": 7729,
@@ -5101,7 +5114,7 @@
     {
       "name": "miniskirt",
       "cls": "mage",
-      "rank": 57,
+      "rank": 58,
       "dps": 599,
       "burst": 498,
       "ehp": 8589,
@@ -5114,7 +5127,7 @@
     {
       "name": "Rockefeller",
       "cls": "mage",
-      "rank": 58,
+      "rank": 59,
       "dps": 623,
       "burst": 488,
       "ehp": 8369,
@@ -5127,24 +5140,11 @@
     {
       "name": "XmixwX2",
       "cls": "mage",
-      "rank": 59,
+      "rank": 60,
       "dps": 605,
       "burst": 487,
       "ehp": 8666,
       "score": 1002.84,
-      "tank": "S",
-      "hybrid": "A+",
-      "dpst": "A",
-      "overall": "S"
-    },
-    {
-      "name": "Ganjaa",
-      "cls": "mage",
-      "rank": 60,
-      "dps": 602,
-      "burst": 498,
-      "ehp": 8493,
-      "score": 1002.76,
       "tank": "S",
       "hybrid": "A+",
       "dpst": "A",
