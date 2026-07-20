@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-20T14:23:14.813Z",
+  "fetchedAt": "2026-07-20T19:51:18.779Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -11547,9 +11547,22 @@
       "overall": "C+"
     },
     {
-      "name": "CrzyMnky",
+      "name": "CannonbaII",
       "cls": "archer",
       "rank": 261,
+      "dps": 432,
+      "burst": 375,
+      "ehp": 6431,
+      "score": 964.96,
+      "tank": "B-",
+      "hybrid": "C+",
+      "dpst": "C+",
+      "overall": "C+"
+    },
+    {
+      "name": "CrzyMnky",
+      "cls": "archer",
+      "rank": 262,
       "dps": 479,
       "burst": 423,
       "ehp": 4961,
@@ -11562,7 +11575,7 @@
     {
       "name": "Alekuni",
       "cls": "archer",
-      "rank": 262,
+      "rank": 263,
       "dps": 456,
       "burst": 377,
       "ehp": 5863,
@@ -11575,7 +11588,7 @@
     {
       "name": "AP0LL0",
       "cls": "archer",
-      "rank": 263,
+      "rank": 264,
       "dps": 421,
       "burst": 370,
       "ehp": 6586,
@@ -11588,7 +11601,7 @@
     {
       "name": "CapnWood",
       "cls": "archer",
-      "rank": 264,
+      "rank": 265,
       "dps": 433,
       "burst": 382,
       "ehp": 6091,
@@ -11601,7 +11614,7 @@
     {
       "name": "Arcylla",
       "cls": "archer",
-      "rank": 265,
+      "rank": 266,
       "dps": 447,
       "burst": 355,
       "ehp": 6328,
@@ -11614,7 +11627,7 @@
     {
       "name": "AdobeMasteryi",
       "cls": "archer",
-      "rank": 266,
+      "rank": 267,
       "dps": 462,
       "burst": 380,
       "ehp": 5610,
@@ -11622,19 +11635,6 @@
       "tank": "C+",
       "hybrid": "C",
       "dpst": "B-",
-      "overall": "C"
-    },
-    {
-      "name": "CannonbaII",
-      "cls": "archer",
-      "rank": 267,
-      "dps": 427,
-      "burst": 370,
-      "ehp": 6329,
-      "score": 963.02,
-      "tank": "B-",
-      "hybrid": "C",
-      "dpst": "C",
       "overall": "C"
     },
     {
