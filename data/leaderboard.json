@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-21T08:39:47.963Z",
+  "fetchedAt": "2026-07-21T14:10:07.648Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -900,9 +900,22 @@
       "overall": "A+"
     },
     {
-      "name": "IDontTank",
+      "name": "RyuuLion",
       "cls": "warrior",
       "rank": 70,
+      "dps": 405,
+      "burst": 316,
+      "ehp": 15551,
+      "score": 1002.61,
+      "tank": "A-",
+      "hybrid": "A+",
+      "dpst": "A",
+      "overall": "A+"
+    },
+    {
+      "name": "IDontTank",
+      "cls": "warrior",
+      "rank": 71,
       "dps": 464,
       "burst": 362,
       "ehp": 11276,
@@ -915,7 +928,7 @@
     {
       "name": "AFKfarming",
       "cls": "warrior",
-      "rank": 71,
+      "rank": 72,
       "dps": 458,
       "burst": 333,
       "ehp": 11973,
@@ -928,7 +941,7 @@
     {
       "name": "Iegend",
       "cls": "warrior",
-      "rank": 72,
+      "rank": 73,
       "dps": 414,
       "burst": 340,
       "ehp": 13938,
@@ -937,19 +950,6 @@
       "hybrid": "S",
       "dpst": "A",
       "overall": "A+"
-    },
-    {
-      "name": "RyuuLion",
-      "cls": "warrior",
-      "rank": 73,
-      "dps": 418,
-      "burst": 326,
-      "ehp": 14477,
-      "score": 1002.37,
-      "tank": "B+",
-      "hybrid": "A+",
-      "dpst": "A",
-      "overall": "A"
     },
     {
       "name": "tony1216",
