@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-20T19:51:18.779Z",
+  "fetchedAt": "2026-07-21T03:26:07.967Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -10000,9 +10000,22 @@
       "overall": "A"
     },
     {
-      "name": "Pheromone761",
+      "name": "Plagaa",
       "cls": "archer",
       "rank": 142,
+      "dps": 615,
+      "burst": 481,
+      "ehp": 6144,
+      "score": 992.62,
+      "tank": "A-",
+      "hybrid": "A",
+      "dpst": "S",
+      "overall": "A"
+    },
+    {
+      "name": "Pheromone761",
+      "cls": "archer",
+      "rank": 143,
       "dps": 495,
       "burst": 412,
       "ehp": 9340,
@@ -10015,7 +10028,7 @@
     {
       "name": "OneShotKill",
       "cls": "archer",
-      "rank": 143,
+      "rank": 144,
       "dps": 498,
       "burst": 445,
       "ehp": 8423,
@@ -10028,7 +10041,7 @@
     {
       "name": "DeniedArch",
       "cls": "archer",
-      "rank": 144,
+      "rank": 145,
       "dps": 621,
       "burst": 472,
       "ehp": 6088,
@@ -10041,7 +10054,7 @@
     {
       "name": "MishaPrecision",
       "cls": "archer",
-      "rank": 145,
+      "rank": 146,
       "dps": 536,
       "burst": 408,
       "ehp": 8472,
@@ -10054,7 +10067,7 @@
     {
       "name": "achermaster4321",
       "cls": "archer",
-      "rank": 146,
+      "rank": 147,
       "dps": 549,
       "burst": 443,
       "ehp": 7485,
@@ -10067,7 +10080,7 @@
     {
       "name": "CHR1S1",
       "cls": "archer",
-      "rank": 147,
+      "rank": 148,
       "dps": 628,
       "burst": 481,
       "ehp": 5846,
@@ -10080,7 +10093,7 @@
     {
       "name": "Demokar",
       "cls": "archer",
-      "rank": 148,
+      "rank": 149,
       "dps": 516,
       "burst": 467,
       "ehp": 7586,
@@ -10093,7 +10106,7 @@
     {
       "name": "DrEadFuLHadEs",
       "cls": "archer",
-      "rank": 149,
+      "rank": 150,
       "dps": 494,
       "burst": 425,
       "ehp": 8851,
@@ -10106,7 +10119,7 @@
     {
       "name": "Carnegie",
       "cls": "archer",
-      "rank": 150,
+      "rank": 151,
       "dps": 530,
       "burst": 464,
       "ehp": 7385,
@@ -10119,7 +10132,7 @@
     {
       "name": "Viper196",
       "cls": "archer",
-      "rank": 151,
+      "rank": 152,
       "dps": 526,
       "burst": 458,
       "ehp": 7553,
@@ -10132,26 +10145,13 @@
     {
       "name": "Noralye",
       "cls": "archer",
-      "rank": 152,
+      "rank": 153,
       "dps": 627,
       "burst": 477,
       "ehp": 5892,
       "score": 991.31,
       "tank": "A-",
       "hybrid": "A",
-      "dpst": "S",
-      "overall": "A"
-    },
-    {
-      "name": "Plagaa",
-      "cls": "archer",
-      "rank": 153,
-      "dps": 611,
-      "burst": 478,
-      "ehp": 6050,
-      "score": 991.27,
-      "tank": "A-",
-      "hybrid": "A-",
       "dpst": "S",
       "overall": "A"
     },
