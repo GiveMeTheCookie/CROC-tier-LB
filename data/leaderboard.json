@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-24T08:37:10.483Z",
+  "fetchedAt": "2026-07-24T13:59:47.869Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8479,9 +8479,22 @@
       "overall": "SS"
     },
     {
-      "name": "Kanemi",
+      "name": "epexs",
       "cls": "archer",
       "rank": 23,
+      "dps": 622,
+      "burst": 499,
+      "ehp": 8633,
+      "score": 1009.5,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS"
+    },
+    {
+      "name": "Kanemi",
+      "cls": "archer",
+      "rank": 24,
       "dps": 631,
       "burst": 488,
       "ehp": 8667,
@@ -8494,7 +8507,7 @@
     {
       "name": "ArcherOPP",
       "cls": "archer",
-      "rank": 24,
+      "rank": 25,
       "dps": 556,
       "burst": 482,
       "ehp": 10154,
@@ -8507,7 +8520,7 @@
     {
       "name": "Ve1iona3",
       "cls": "archer",
-      "rank": 25,
+      "rank": 26,
       "dps": 608,
       "burst": 472,
       "ehp": 9383,
@@ -8520,7 +8533,7 @@
     {
       "name": "Xee",
       "cls": "archer",
-      "rank": 26,
+      "rank": 27,
       "dps": 587,
       "burst": 507,
       "ehp": 9015,
@@ -8533,7 +8546,7 @@
     {
       "name": "butterfIy",
       "cls": "archer",
-      "rank": 27,
+      "rank": 28,
       "dps": 607,
       "burst": 515,
       "ehp": 8474,
@@ -8546,7 +8559,7 @@
     {
       "name": "DashStyle",
       "cls": "archer",
-      "rank": 28,
+      "rank": 29,
       "dps": 583,
       "burst": 483,
       "ehp": 9463,
@@ -8559,7 +8572,7 @@
     {
       "name": "FlNlTE",
       "cls": "archer",
-      "rank": 29,
+      "rank": 30,
       "dps": 587,
       "burst": 470,
       "ehp": 9671,
@@ -8572,7 +8585,7 @@
     {
       "name": "TopKirito",
       "cls": "archer",
-      "rank": 30,
+      "rank": 31,
       "dps": 612,
       "burst": 489,
       "ehp": 8806,
@@ -8585,7 +8598,7 @@
     {
       "name": "7537amen",
       "cls": "archer",
-      "rank": 31,
+      "rank": 32,
       "dps": 544,
       "burst": 527,
       "ehp": 9269,
@@ -8598,7 +8611,7 @@
     {
       "name": "Troop51",
       "cls": "archer",
-      "rank": 32,
+      "rank": 33,
       "dps": 566,
       "burst": 508,
       "ehp": 9199,
@@ -8611,7 +8624,7 @@
     {
       "name": "NaxiosTrues",
       "cls": "archer",
-      "rank": 33,
+      "rank": 34,
       "dps": 597,
       "burst": 495,
       "ehp": 8898,
@@ -8624,7 +8637,7 @@
     {
       "name": "frank01235",
       "cls": "archer",
-      "rank": 34,
+      "rank": 35,
       "dps": 565,
       "burst": 508,
       "ehp": 9222,
@@ -8637,24 +8650,11 @@
     {
       "name": "Starius",
       "cls": "archer",
-      "rank": 35,
+      "rank": 36,
       "dps": 624,
       "burst": 497,
       "ehp": 8422,
       "score": 1008.39,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS"
-    },
-    {
-      "name": "epexs",
-      "cls": "archer",
-      "rank": 36,
-      "dps": 614,
-      "burst": 495,
-      "ehp": 8584,
-      "score": 1008.19,
       "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
