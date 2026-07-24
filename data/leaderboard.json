@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-24T13:59:47.869Z",
+  "fetchedAt": "2026-07-24T19:39:59.345Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -887,9 +887,22 @@
       "overall": "A+"
     },
     {
-      "name": "FlamingSlash",
+      "name": "RyuuLion",
       "cls": "warrior",
       "rank": 69,
+      "dps": 398,
+      "burst": 319,
+      "ehp": 16064,
+      "score": 1002.83,
+      "tank": "B+",
+      "hybrid": "S",
+      "dpst": "A",
+      "overall": "A+"
+    },
+    {
+      "name": "FlamingSlash",
+      "cls": "warrior",
+      "rank": 70,
       "dps": 532,
       "burst": 377,
       "ehp": 9228,
@@ -897,19 +910,6 @@
       "tank": "C",
       "hybrid": "A",
       "dpst": "S",
-      "overall": "A+"
-    },
-    {
-      "name": "RyuuLion",
-      "cls": "warrior",
-      "rank": 70,
-      "dps": 405,
-      "burst": 316,
-      "ehp": 15551,
-      "score": 1002.61,
-      "tank": "A-",
-      "hybrid": "A+",
-      "dpst": "A",
       "overall": "A+"
     },
     {
