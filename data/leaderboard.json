@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-26T13:43:39.695Z",
+  "fetchedAt": "2026-07-26T19:21:41.924Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -8245,9 +8245,22 @@
       "overall": "SSS"
     },
     {
-      "name": "2006",
+      "name": "Themero",
       "cls": "archer",
       "rank": 4,
+      "dps": 611,
+      "burst": 524,
+      "ehp": 8977,
+      "score": 1012.65,
+      "tank": "SSS",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SSS"
+    },
+    {
+      "name": "2006",
+      "cls": "archer",
+      "rank": 5,
       "dps": 602,
       "burst": 498,
       "ehp": 9636,
@@ -8260,7 +8273,7 @@
     {
       "name": "Echo0029",
       "cls": "archer",
-      "rank": 5,
+      "rank": 6,
       "dps": 612,
       "burst": 509,
       "ehp": 9202,
@@ -8273,7 +8286,7 @@
     {
       "name": "Mizzery",
       "cls": "archer",
-      "rank": 6,
+      "rank": 7,
       "dps": 626,
       "burst": 516,
       "ehp": 8787,
@@ -8286,7 +8299,7 @@
     {
       "name": "TheWhitheOP",
       "cls": "archer",
-      "rank": 7,
+      "rank": 8,
       "dps": 572,
       "burst": 509,
       "ehp": 9906,
@@ -8299,25 +8312,12 @@
     {
       "name": "Kami3z",
       "cls": "archer",
-      "rank": 8,
+      "rank": 9,
       "dps": 607,
       "burst": 506,
       "ehp": 9309,
       "score": 1012.17,
       "tank": "SSS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SSS"
-    },
-    {
-      "name": "Themero",
-      "cls": "archer",
-      "rank": 9,
-      "dps": 609,
-      "burst": 520,
-      "ehp": 8977,
-      "score": 1012.1,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SSS"
@@ -8333,7 +8333,7 @@
       "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "GYARADOS",
@@ -8853,7 +8853,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "Carson107",
@@ -8866,7 +8866,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "SwishSwish",
@@ -9880,7 +9880,7 @@
       "tank": "A",
       "hybrid": "A",
       "dpst": "S",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "Dhayeearl",
@@ -10790,7 +10790,7 @@
       "tank": "B+",
       "hybrid": "B",
       "dpst": "B+",
-      "overall": "B+"
+      "overall": "B"
     },
     {
       "name": "Spypigeon",
