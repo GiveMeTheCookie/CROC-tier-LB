@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-27T10:03:51.869Z",
+  "fetchedAt": "2026-07-27T14:52:01.987Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -16565,9 +16565,22 @@
       "overall": "E"
     },
     {
-      "name": "IvyCloud",
+      "name": "Methode",
       "cls": "shaman",
       "rank": 286,
+      "dps": 462,
+      "burst": 343,
+      "ehp": 5237,
+      "score": 964.04,
+      "tank": "D-",
+      "hybrid": "E",
+      "dpst": "C-",
+      "overall": "E"
+    },
+    {
+      "name": "IvyCloud",
+      "cls": "shaman",
+      "rank": 287,
       "dps": 404,
       "burst": 312,
       "ehp": 6664,
@@ -16580,7 +16593,7 @@
     {
       "name": "OssoPodree",
       "cls": "shaman",
-      "rank": 287,
+      "rank": 288,
       "dps": 470,
       "burst": 375,
       "ehp": 5035,
@@ -16593,7 +16606,7 @@
     {
       "name": "Bloodvesla",
       "cls": "shaman",
-      "rank": 288,
+      "rank": 289,
       "dps": 501,
       "burst": 355,
       "ehp": 4181,
@@ -16606,7 +16619,7 @@
     {
       "name": "Fixing2",
       "cls": "shaman",
-      "rank": 289,
+      "rank": 290,
       "dps": 480,
       "burst": 332,
       "ehp": 4447,
@@ -16619,7 +16632,7 @@
     {
       "name": "NrgAtlas",
       "cls": "shaman",
-      "rank": 290,
+      "rank": 291,
       "dps": 403,
       "burst": 301,
       "ehp": 6179,
@@ -16632,7 +16645,7 @@
     {
       "name": "Biingo",
       "cls": "shaman",
-      "rank": 291,
+      "rank": 292,
       "dps": 424,
       "burst": 314,
       "ehp": 5595,
