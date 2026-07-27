@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-26T19:21:41.924Z",
+  "fetchedAt": "2026-07-27T03:46:15.946Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6061,9 +6061,22 @@
       "overall": "B+"
     },
     {
-      "name": "DEATHZONE",
+      "name": "potassgg7",
       "cls": "mage",
       "rank": 130,
+      "dps": 553,
+      "burst": 470,
+      "ehp": 7419,
+      "score": 989.96,
+      "tank": "A-",
+      "hybrid": "B+",
+      "dpst": "B+",
+      "overall": "B+"
+    },
+    {
+      "name": "DEATHZONE",
+      "cls": "mage",
+      "rank": 131,
       "dps": 576,
       "burst": 459,
       "ehp": 7104,
@@ -6076,7 +6089,7 @@
     {
       "name": "GitGold",
       "cls": "mage",
-      "rank": 131,
+      "rank": 132,
       "dps": 568,
       "burst": 470,
       "ehp": 7047,
@@ -6089,7 +6102,7 @@
     {
       "name": "wuzzwuzzPANDA",
       "cls": "mage",
-      "rank": 132,
+      "rank": 133,
       "dps": 540,
       "burst": 417,
       "ehp": 8475,
@@ -6102,7 +6115,7 @@
     {
       "name": "Nightowlgamer2",
       "cls": "mage",
-      "rank": 133,
+      "rank": 134,
       "dps": 614,
       "burst": 486,
       "ehp": 6131,
@@ -6115,7 +6128,7 @@
     {
       "name": "IBlankI",
       "cls": "mage",
-      "rank": 134,
+      "rank": 135,
       "dps": 548,
       "burst": 470,
       "ehp": 7274,
@@ -6128,7 +6141,7 @@
     {
       "name": "BrrBerry",
       "cls": "mage",
-      "rank": 135,
+      "rank": 136,
       "dps": 602,
       "burst": 482,
       "ehp": 6311,
@@ -6141,7 +6154,7 @@
     {
       "name": "ab96",
       "cls": "mage",
-      "rank": 136,
+      "rank": 137,
       "dps": 607,
       "burst": 461,
       "ehp": 6532,
@@ -6154,7 +6167,7 @@
     {
       "name": "thundrax7",
       "cls": "mage",
-      "rank": 137,
+      "rank": 138,
       "dps": 525,
       "burst": 442,
       "ehp": 8014,
@@ -6167,7 +6180,7 @@
     {
       "name": "Persevere",
       "cls": "mage",
-      "rank": 138,
+      "rank": 139,
       "dps": 595,
       "burst": 470,
       "ehp": 6459,
@@ -6180,7 +6193,7 @@
     {
       "name": "NekoPuurplezUwU",
       "cls": "mage",
-      "rank": 139,
+      "rank": 140,
       "dps": 663,
       "burst": 516,
       "ehp": 5123,
@@ -6193,7 +6206,7 @@
     {
       "name": "Azoselta",
       "cls": "mage",
-      "rank": 140,
+      "rank": 141,
       "dps": 611,
       "burst": 482,
       "ehp": 6060,
@@ -6201,19 +6214,6 @@
       "tank": "B",
       "hybrid": "B",
       "dpst": "A",
-      "overall": "B+"
-    },
-    {
-      "name": "potassgg7",
-      "cls": "mage",
-      "rank": 141,
-      "dps": 540,
-      "burst": 463,
-      "ehp": 7275,
-      "score": 987.26,
-      "tank": "B+",
-      "hybrid": "B",
-      "dpst": "B",
       "overall": "B+"
     },
     {
@@ -9129,9 +9129,22 @@
       "overall": "S"
     },
     {
-      "name": "Yix",
+      "name": "chimeara",
       "cls": "archer",
       "rank": 72,
+      "dps": 565,
+      "burst": 507,
+      "ehp": 8443,
+      "score": 1004.45,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S"
+    },
+    {
+      "name": "Yix",
+      "cls": "archer",
+      "rank": 73,
       "dps": 585,
       "burst": 470,
       "ehp": 8799,
@@ -9144,7 +9157,7 @@
     {
       "name": "ArcherMad",
       "cls": "archer",
-      "rank": 73,
+      "rank": 74,
       "dps": 557,
       "burst": 483,
       "ehp": 9025,
@@ -9157,7 +9170,7 @@
     {
       "name": "yoyoyo1371",
       "cls": "archer",
-      "rank": 74,
+      "rank": 75,
       "dps": 585,
       "burst": 521,
       "ehp": 7824,
@@ -9170,7 +9183,7 @@
     {
       "name": "BegForMercy",
       "cls": "archer",
-      "rank": 75,
+      "rank": 76,
       "dps": 601,
       "burst": 472,
       "ehp": 8439,
@@ -9183,7 +9196,7 @@
     {
       "name": "bosserlok",
       "cls": "archer",
-      "rank": 76,
+      "rank": 77,
       "dps": 563,
       "burst": 453,
       "ehp": 9538,
@@ -9196,7 +9209,7 @@
     {
       "name": "AbodeMasteryi",
       "cls": "archer",
-      "rank": 77,
+      "rank": 78,
       "dps": 638,
       "burst": 480,
       "ehp": 7706,
@@ -9209,7 +9222,7 @@
     {
       "name": "Emplify",
       "cls": "archer",
-      "rank": 78,
+      "rank": 79,
       "dps": 570,
       "burst": 457,
       "ehp": 9281,
@@ -9222,7 +9235,7 @@
     {
       "name": "Feyarium",
       "cls": "archer",
-      "rank": 79,
+      "rank": 80,
       "dps": 589,
       "burst": 493,
       "ehp": 8170,
@@ -9235,7 +9248,7 @@
     {
       "name": "ArcherOfDarkness",
       "cls": "archer",
-      "rank": 80,
+      "rank": 81,
       "dps": 518,
       "burst": 482,
       "ehp": 9720,
@@ -9248,7 +9261,7 @@
     {
       "name": "Roupang7",
       "cls": "archer",
-      "rank": 81,
+      "rank": 82,
       "dps": 585,
       "burst": 470,
       "ehp": 8602,
@@ -9261,7 +9274,7 @@
     {
       "name": "oXOXo",
       "cls": "archer",
-      "rank": 82,
+      "rank": 83,
       "dps": 680,
       "burst": 480,
       "ehp": 7033,
@@ -9274,7 +9287,7 @@
     {
       "name": "PleaseSayHello",
       "cls": "archer",
-      "rank": 83,
+      "rank": 84,
       "dps": 555,
       "burst": 464,
       "ehp": 9227,
@@ -9282,19 +9295,6 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "A",
-      "overall": "S"
-    },
-    {
-      "name": "chimeara",
-      "cls": "archer",
-      "rank": 84,
-      "dps": 560,
-      "burst": 503,
-      "ehp": 8348,
-      "score": 1003.18,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "S",
       "overall": "S"
     },
     {
