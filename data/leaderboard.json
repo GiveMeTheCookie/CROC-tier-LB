@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-27T03:46:15.946Z",
+  "fetchedAt": "2026-07-27T10:03:51.869Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -822,9 +822,22 @@
       "overall": "A+"
     },
     {
-      "name": "VaIkyrie",
+      "name": "tony1216",
       "cls": "warrior",
       "rank": 64,
+      "dps": 474,
+      "burst": 358,
+      "ehp": 11507,
+      "score": 1003.6,
+      "tank": "B-",
+      "hybrid": "A+",
+      "dpst": "S",
+      "overall": "A+"
+    },
+    {
+      "name": "VaIkyrie",
+      "cls": "warrior",
+      "rank": 65,
       "dps": 423,
       "burst": 352,
       "ehp": 14045,
@@ -837,7 +850,7 @@
     {
       "name": "Ady01",
       "cls": "warrior",
-      "rank": 65,
+      "rank": 66,
       "dps": 434,
       "burst": 305,
       "ehp": 13522,
@@ -850,7 +863,7 @@
     {
       "name": "2Sop",
       "cls": "warrior",
-      "rank": 66,
+      "rank": 67,
       "dps": 541,
       "burst": 408,
       "ehp": 8519,
@@ -863,7 +876,7 @@
     {
       "name": "AndreyPowered2",
       "cls": "warrior",
-      "rank": 67,
+      "rank": 68,
       "dps": 440,
       "burst": 331,
       "ehp": 13086,
@@ -876,7 +889,7 @@
     {
       "name": "NotPaozzh",
       "cls": "warrior",
-      "rank": 68,
+      "rank": 69,
       "dps": 466,
       "burst": 351,
       "ehp": 11991,
@@ -889,7 +902,7 @@
     {
       "name": "RyuuLion",
       "cls": "warrior",
-      "rank": 69,
+      "rank": 70,
       "dps": 398,
       "burst": 319,
       "ehp": 16064,
@@ -902,7 +915,7 @@
     {
       "name": "FlamingSlash",
       "cls": "warrior",
-      "rank": 70,
+      "rank": 71,
       "dps": 532,
       "burst": 377,
       "ehp": 9228,
@@ -915,7 +928,7 @@
     {
       "name": "IDontTank",
       "cls": "warrior",
-      "rank": 71,
+      "rank": 72,
       "dps": 464,
       "burst": 362,
       "ehp": 11276,
@@ -928,7 +941,7 @@
     {
       "name": "AFKfarming",
       "cls": "warrior",
-      "rank": 72,
+      "rank": 73,
       "dps": 458,
       "burst": 333,
       "ehp": 11973,
@@ -941,7 +954,7 @@
     {
       "name": "Iegend",
       "cls": "warrior",
-      "rank": 73,
+      "rank": 74,
       "dps": 414,
       "burst": 340,
       "ehp": 13938,
@@ -950,19 +963,6 @@
       "hybrid": "S",
       "dpst": "A",
       "overall": "A+"
-    },
-    {
-      "name": "tony1216",
-      "cls": "warrior",
-      "rank": 74,
-      "dps": 470,
-      "burst": 357,
-      "ehp": 11340,
-      "score": 1002.31,
-      "tank": "B-",
-      "hybrid": "A",
-      "dpst": "A+",
-      "overall": "A"
     },
     {
       "name": "gen5",
