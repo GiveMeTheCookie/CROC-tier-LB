@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-27T19:45:28.703Z",
+  "fetchedAt": "2026-07-28T03:17:16.725Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -10312,9 +10312,22 @@
       "overall": "A-"
     },
     {
-      "name": "xMidori",
+      "name": "Aurae",
       "cls": "archer",
       "rank": 163,
+      "dps": 573,
+      "burst": 455,
+      "ehp": 6463,
+      "score": 988.58,
+      "tank": "A-",
+      "hybrid": "A-",
+      "dpst": "A+",
+      "overall": "A-"
+    },
+    {
+      "name": "xMidori",
+      "cls": "archer",
+      "rank": 164,
       "dps": 559,
       "burst": 541,
       "ehp": 5462,
@@ -10327,7 +10340,7 @@
     {
       "name": "Dakkbore",
       "cls": "archer",
-      "rank": 164,
+      "rank": 165,
       "dps": 588,
       "burst": 449,
       "ehp": 6241,
@@ -10340,7 +10353,7 @@
     {
       "name": "MythicArrow",
       "cls": "archer",
-      "rank": 165,
+      "rank": 166,
       "dps": 599,
       "burst": 446,
       "ehp": 6128,
@@ -10353,7 +10366,7 @@
     {
       "name": "MaricioA",
       "cls": "archer",
-      "rank": 166,
+      "rank": 167,
       "dps": 546,
       "burst": 434,
       "ehp": 7018,
@@ -10366,7 +10379,7 @@
     {
       "name": "DragonArcher2012",
       "cls": "archer",
-      "rank": 167,
+      "rank": 168,
       "dps": 525,
       "burst": 416,
       "ehp": 7697,
@@ -10379,7 +10392,7 @@
     {
       "name": "Gr33nArr0w",
       "cls": "archer",
-      "rank": 168,
+      "rank": 169,
       "dps": 484,
       "burst": 409,
       "ehp": 8550,
@@ -10392,7 +10405,7 @@
     {
       "name": "Grieve",
       "cls": "archer",
-      "rank": 169,
+      "rank": 170,
       "dps": 589,
       "burst": 484,
       "ehp": 5568,
@@ -10405,23 +10418,10 @@
     {
       "name": "Fantasies",
       "cls": "archer",
-      "rank": 170,
+      "rank": 171,
       "dps": 575,
       "burst": 445,
       "ehp": 6300,
-      "score": 986.52,
-      "tank": "A-",
-      "hybrid": "A-",
-      "dpst": "A",
-      "overall": "A-"
-    },
-    {
-      "name": "Aurae",
-      "cls": "archer",
-      "rank": 171,
-      "dps": 563,
-      "burst": 447,
-      "ehp": 6423,
       "score": 986.52,
       "tank": "A-",
       "hybrid": "A-",
