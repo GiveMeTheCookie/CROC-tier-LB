@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-28T14:26:05.192Z",
+  "fetchedAt": "2026-07-28T19:42:48.578Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1823,9 +1823,22 @@
       "overall": "B+"
     },
     {
-      "name": "0rizz",
+      "name": "SquireOfFaith",
       "cls": "warrior",
       "rank": 141,
+      "dps": 380,
+      "burst": 310,
+      "ehp": 13226,
+      "score": 992.89,
+      "tank": "B",
+      "hybrid": "A-",
+      "dpst": "B+",
+      "overall": "B+"
+    },
+    {
+      "name": "0rizz",
+      "cls": "warrior",
+      "rank": 142,
       "dps": 428,
       "burst": 320,
       "ehp": 10781,
@@ -1838,7 +1851,7 @@
     {
       "name": "TankyManky",
       "cls": "warrior",
-      "rank": 142,
+      "rank": 143,
       "dps": 386,
       "burst": 316,
       "ehp": 13063,
@@ -1851,7 +1864,7 @@
     {
       "name": "VeteranOfPain",
       "cls": "warrior",
-      "rank": 143,
+      "rank": 144,
       "dps": 463,
       "burst": 334,
       "ehp": 9685,
@@ -1864,7 +1877,7 @@
     {
       "name": "ReStartX",
       "cls": "warrior",
-      "rank": 144,
+      "rank": 145,
       "dps": 426,
       "burst": 320,
       "ehp": 10684,
@@ -1877,7 +1890,7 @@
     {
       "name": "multiboxer2",
       "cls": "warrior",
-      "rank": 145,
+      "rank": 146,
       "dps": 378,
       "burst": 321,
       "ehp": 13341,
@@ -1890,7 +1903,7 @@
     {
       "name": "ImANub",
       "cls": "warrior",
-      "rank": 146,
+      "rank": 147,
       "dps": 411,
       "burst": 315,
       "ehp": 11734,
@@ -1903,7 +1916,7 @@
     {
       "name": "Grundun",
       "cls": "warrior",
-      "rank": 147,
+      "rank": 148,
       "dps": 389,
       "burst": 292,
       "ehp": 13206,
@@ -1916,7 +1929,7 @@
     {
       "name": "RunFromMe",
       "cls": "warrior",
-      "rank": 148,
+      "rank": 149,
       "dps": 442,
       "burst": 354,
       "ehp": 9938,
@@ -1929,7 +1942,7 @@
     {
       "name": "DPSkid",
       "cls": "warrior",
-      "rank": 149,
+      "rank": 150,
       "dps": 417,
       "burst": 338,
       "ehp": 10822,
@@ -1942,7 +1955,7 @@
     {
       "name": "SaneDaWarrior",
       "cls": "warrior",
-      "rank": 150,
+      "rank": 151,
       "dps": 413,
       "burst": 351,
       "ehp": 10961,
@@ -1955,7 +1968,7 @@
     {
       "name": "Tarkuk",
       "cls": "warrior",
-      "rank": 151,
+      "rank": 152,
       "dps": 462,
       "burst": 336,
       "ehp": 9310,
@@ -1968,7 +1981,7 @@
     {
       "name": "90212",
       "cls": "warrior",
-      "rank": 152,
+      "rank": 153,
       "dps": 446,
       "burst": 342,
       "ehp": 9315,
@@ -1981,7 +1994,7 @@
     {
       "name": "heorong234",
       "cls": "warrior",
-      "rank": 153,
+      "rank": 154,
       "dps": 413,
       "burst": 318,
       "ehp": 11243,
@@ -1994,25 +2007,12 @@
     {
       "name": "RevarC",
       "cls": "warrior",
-      "rank": 154,
+      "rank": 155,
       "dps": 414,
       "burst": 330,
       "ehp": 11094,
       "score": 990.82,
       "tank": "C",
-      "hybrid": "B",
-      "dpst": "A-",
-      "overall": "B"
-    },
-    {
-      "name": "SquireOfFaith",
-      "cls": "warrior",
-      "rank": 155,
-      "dps": 432,
-      "burst": 350,
-      "ehp": 9788,
-      "score": 990.8,
-      "tank": "C-",
       "hybrid": "B",
       "dpst": "A-",
       "overall": "B"
