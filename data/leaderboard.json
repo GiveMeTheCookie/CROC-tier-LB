@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-28T08:46:32.733Z",
+  "fetchedAt": "2026-07-28T14:26:05.192Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -13237,9 +13237,22 @@
       "overall": "SS"
     },
     {
-      "name": "Oakmane",
+      "name": "Cyclones",
       "cls": "shaman",
       "rank": 30,
+      "dps": 577,
+      "burst": 390,
+      "ehp": 9576,
+      "score": 1010.18,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "Oakmane",
+      "cls": "shaman",
+      "rank": 31,
       "dps": 606,
       "burst": 408,
       "ehp": 8890,
@@ -13252,7 +13265,7 @@
     {
       "name": "PyaNeNk",
       "cls": "shaman",
-      "rank": 31,
+      "rank": 32,
       "dps": 613,
       "burst": 410,
       "ehp": 8808,
@@ -13265,7 +13278,7 @@
     {
       "name": "Krixo",
       "cls": "shaman",
-      "rank": 32,
+      "rank": 33,
       "dps": 576,
       "burst": 398,
       "ehp": 9522,
@@ -13278,7 +13291,7 @@
     {
       "name": "Pickle",
       "cls": "shaman",
-      "rank": 33,
+      "rank": 34,
       "dps": 604,
       "burst": 395,
       "ehp": 8767,
@@ -13291,7 +13304,7 @@
     {
       "name": "else",
       "cls": "shaman",
-      "rank": 34,
+      "rank": 35,
       "dps": 571,
       "burst": 385,
       "ehp": 9801,
@@ -13304,7 +13317,7 @@
     {
       "name": "Yashahime",
       "cls": "shaman",
-      "rank": 35,
+      "rank": 36,
       "dps": 599,
       "burst": 415,
       "ehp": 8824,
@@ -13317,7 +13330,7 @@
     {
       "name": "Urgmax3",
       "cls": "shaman",
-      "rank": 36,
+      "rank": 37,
       "dps": 560,
       "burst": 385,
       "ehp": 10064,
@@ -13330,7 +13343,7 @@
     {
       "name": "soulhealing",
       "cls": "shaman",
-      "rank": 37,
+      "rank": 38,
       "dps": 576,
       "burst": 386,
       "ehp": 9455,
@@ -13339,19 +13352,6 @@
       "hybrid": "S",
       "dpst": "S",
       "overall": "SS"
-    },
-    {
-      "name": "Cyclones",
-      "cls": "shaman",
-      "rank": 38,
-      "dps": 578,
-      "burst": 389,
-      "ehp": 9430,
-      "score": 1009.57,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "S",
-      "overall": "S"
     },
     {
       "name": "InMyPocket",
