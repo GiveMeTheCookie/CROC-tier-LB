@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-29T14:24:54.209Z",
+  "fetchedAt": "2026-07-29T19:27:50.176Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -13939,9 +13939,22 @@
       "overall": "A+"
     },
     {
-      "name": "ByakuganKek",
+      "name": "Thebestbound",
       "cls": "shaman",
       "rank": 84,
+      "dps": 527,
+      "burst": 376,
+      "ehp": 9773,
+      "score": 1003.44,
+      "tank": "S",
+      "hybrid": "A",
+      "dpst": "A",
+      "overall": "A+"
+    },
+    {
+      "name": "ByakuganKek",
+      "cls": "shaman",
+      "rank": 85,
       "dps": 535,
       "burst": 394,
       "ehp": 9518,
@@ -13954,7 +13967,7 @@
     {
       "name": "1312acab",
       "cls": "shaman",
-      "rank": 85,
+      "rank": 86,
       "dps": 572,
       "burst": 405,
       "ehp": 8307,
@@ -13967,7 +13980,7 @@
     {
       "name": "Yoroshiku",
       "cls": "shaman",
-      "rank": 86,
+      "rank": 87,
       "dps": 572,
       "burst": 424,
       "ehp": 8411,
@@ -13980,7 +13993,7 @@
     {
       "name": "Routine",
       "cls": "shaman",
-      "rank": 87,
+      "rank": 88,
       "dps": 559,
       "burst": 391,
       "ehp": 8737,
@@ -13993,7 +14006,7 @@
     {
       "name": "GalaxyKnight859",
       "cls": "shaman",
-      "rank": 88,
+      "rank": 89,
       "dps": 557,
       "burst": 386,
       "ehp": 8824,
@@ -14006,7 +14019,7 @@
     {
       "name": "mandok",
       "cls": "shaman",
-      "rank": 89,
+      "rank": 90,
       "dps": 532,
       "burst": 419,
       "ehp": 9692,
@@ -14019,7 +14032,7 @@
     {
       "name": "413n",
       "cls": "shaman",
-      "rank": 90,
+      "rank": 91,
       "dps": 556,
       "burst": 385,
       "ehp": 8742,
@@ -14032,7 +14045,7 @@
     {
       "name": "Vollerei",
       "cls": "shaman",
-      "rank": 91,
+      "rank": 92,
       "dps": 549,
       "burst": 363,
       "ehp": 8840,
@@ -14045,7 +14058,7 @@
     {
       "name": "Zzzephyrus",
       "cls": "shaman",
-      "rank": 92,
+      "rank": 93,
       "dps": 576,
       "burst": 398,
       "ehp": 8228,
@@ -14053,19 +14066,6 @@
       "tank": "A-",
       "hybrid": "A",
       "dpst": "S",
-      "overall": "A"
-    },
-    {
-      "name": "Thebestbound",
-      "cls": "shaman",
-      "rank": 93,
-      "dps": 558,
-      "burst": 396,
-      "ehp": 8604,
-      "score": 1002.16,
-      "tank": "A",
-      "hybrid": "A",
-      "dpst": "A+",
       "overall": "A"
     },
     {
