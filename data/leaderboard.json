@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-28T19:42:48.578Z",
+  "fetchedAt": "2026-07-29T03:20:03.676Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1914,9 +1914,22 @@
       "overall": "B+"
     },
     {
-      "name": "Grundun",
+      "name": "Tarkuk",
       "cls": "warrior",
       "rank": 148,
+      "dps": 467,
+      "burst": 338,
+      "ehp": 9399,
+      "score": 992.35,
+      "tank": "C",
+      "hybrid": "B",
+      "dpst": "A",
+      "overall": "B+"
+    },
+    {
+      "name": "Grundun",
+      "cls": "warrior",
+      "rank": 149,
       "dps": 389,
       "burst": 292,
       "ehp": 13206,
@@ -1929,7 +1942,7 @@
     {
       "name": "RunFromMe",
       "cls": "warrior",
-      "rank": 149,
+      "rank": 150,
       "dps": 442,
       "burst": 354,
       "ehp": 9938,
@@ -1942,7 +1955,7 @@
     {
       "name": "DPSkid",
       "cls": "warrior",
-      "rank": 150,
+      "rank": 151,
       "dps": 417,
       "burst": 338,
       "ehp": 10822,
@@ -1955,7 +1968,7 @@
     {
       "name": "SaneDaWarrior",
       "cls": "warrior",
-      "rank": 151,
+      "rank": 152,
       "dps": 413,
       "burst": 351,
       "ehp": 10961,
@@ -1963,19 +1976,6 @@
       "tank": "C-",
       "hybrid": "B+",
       "dpst": "A",
-      "overall": "B"
-    },
-    {
-      "name": "Tarkuk",
-      "cls": "warrior",
-      "rank": 152,
-      "dps": 462,
-      "burst": 336,
-      "ehp": 9310,
-      "score": 991.02,
-      "tank": "C",
-      "hybrid": "B",
-      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -8336,26 +8336,26 @@
       "overall": "SS"
     },
     {
-      "name": "GYARADOS",
+      "name": "aaa12345",
       "cls": "archer",
       "rank": 11,
+      "dps": 586,
+      "burst": 508,
+      "ehp": 9608,
+      "score": 1012.01,
+      "tank": "SSS",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "GYARADOS",
+      "cls": "archer",
+      "rank": 12,
       "dps": 597,
       "burst": 508,
       "ehp": 9386,
       "score": 1011.9,
-      "tank": "SSS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS"
-    },
-    {
-      "name": "aaa12345",
-      "cls": "archer",
-      "rank": 12,
-      "dps": 597,
-      "burst": 517,
-      "ehp": 9175,
-      "score": 1011.74,
       "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
@@ -9025,9 +9025,22 @@
       "overall": "S"
     },
     {
-      "name": "Rineggan",
+      "name": "ArcherMad",
       "cls": "archer",
       "rank": 64,
+      "dps": 563,
+      "burst": 488,
+      "ehp": 9077,
+      "score": 1005.59,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "A+",
+      "overall": "S"
+    },
+    {
+      "name": "Rineggan",
+      "cls": "archer",
+      "rank": 65,
       "dps": 597,
       "burst": 481,
       "ehp": 8553,
@@ -9040,7 +9053,7 @@
     {
       "name": "MythicPro",
       "cls": "archer",
-      "rank": 65,
+      "rank": 66,
       "dps": 594,
       "burst": 465,
       "ehp": 8936,
@@ -9053,7 +9066,7 @@
     {
       "name": "FindMe",
       "cls": "archer",
-      "rank": 66,
+      "rank": 67,
       "dps": 559,
       "burst": 486,
       "ehp": 9094,
@@ -9066,7 +9079,7 @@
     {
       "name": "qsdw",
       "cls": "archer",
-      "rank": 67,
+      "rank": 68,
       "dps": 594,
       "burst": 480,
       "ehp": 8587,
@@ -9079,7 +9092,7 @@
     {
       "name": "EternalGlory",
       "cls": "archer",
-      "rank": 68,
+      "rank": 69,
       "dps": 654,
       "burst": 504,
       "ehp": 7218,
@@ -9092,7 +9105,7 @@
     {
       "name": "xRishi",
       "cls": "archer",
-      "rank": 69,
+      "rank": 70,
       "dps": 575,
       "burst": 535,
       "ehp": 7814,
@@ -9105,7 +9118,7 @@
     {
       "name": "bej",
       "cls": "archer",
-      "rank": 70,
+      "rank": 71,
       "dps": 585,
       "burst": 471,
       "ehp": 8795,
@@ -9118,7 +9131,7 @@
     {
       "name": "Maframz",
       "cls": "archer",
-      "rank": 71,
+      "rank": 72,
       "dps": 620,
       "burst": 480,
       "ehp": 8056,
@@ -9131,7 +9144,7 @@
     {
       "name": "chimeara",
       "cls": "archer",
-      "rank": 72,
+      "rank": 73,
       "dps": 565,
       "burst": 507,
       "ehp": 8443,
@@ -9144,25 +9157,12 @@
     {
       "name": "Yix",
       "cls": "archer",
-      "rank": 73,
+      "rank": 74,
       "dps": 585,
       "burst": 470,
       "ehp": 8799,
       "score": 1004.4,
       "tank": "S",
-      "hybrid": "S",
-      "dpst": "A+",
-      "overall": "S"
-    },
-    {
-      "name": "ArcherMad",
-      "cls": "archer",
-      "rank": 74,
-      "dps": 557,
-      "burst": 483,
-      "ehp": 9025,
-      "score": 1004.3,
-      "tank": "SS",
       "hybrid": "S",
       "dpst": "A+",
       "overall": "S"
