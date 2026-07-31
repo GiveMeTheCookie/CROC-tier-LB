@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-07-31T14:24:27.339Z",
+  "fetchedAt": "2026-07-31T19:45:01.387Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -11950,22 +11950,9 @@
       "overall": "C-"
     },
     {
-      "name": "crossed",
-      "cls": "archer",
-      "rank": 289,
-      "dps": 429,
-      "burst": 344,
-      "ehp": 5810,
-      "score": 956.14,
-      "tank": "C+",
-      "hybrid": "C-",
-      "dpst": "C-",
-      "overall": "C-"
-    },
-    {
       "name": "Skorpius",
       "cls": "archer",
-      "rank": 290,
+      "rank": 289,
       "dps": 569,
       "burst": 418,
       "ehp": 3364,
@@ -11973,6 +11960,19 @@
       "tank": "D",
       "hybrid": "C-",
       "dpst": "A-",
+      "overall": "C-"
+    },
+    {
+      "name": "crossed",
+      "cls": "archer",
+      "rank": 290,
+      "dps": 412,
+      "burst": 331,
+      "ehp": 6060,
+      "score": 953.99,
+      "tank": "C+",
+      "hybrid": "C-",
+      "dpst": "D+",
       "overall": "C-"
     },
     {
