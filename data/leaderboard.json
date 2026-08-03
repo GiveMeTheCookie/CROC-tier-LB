@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-03T14:56:08.487Z",
+  "fetchedAt": "2026-08-03T19:47:16.191Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -11378,9 +11378,22 @@
       "overall": "C+"
     },
     {
-      "name": "Die4dayz",
+      "name": "BeyondEverything",
       "cls": "archer",
       "rank": 245,
+      "dps": 495,
+      "burst": 384,
+      "ehp": 5907,
+      "score": 969.24,
+      "tank": "B-",
+      "hybrid": "C+",
+      "dpst": "B",
+      "overall": "C+"
+    },
+    {
+      "name": "Die4dayz",
+      "cls": "archer",
+      "rank": 246,
       "dps": 575,
       "burst": 446,
       "ehp": 4197,
@@ -11393,7 +11406,7 @@
     {
       "name": "CannonbaII",
       "cls": "archer",
-      "rank": 246,
+      "rank": 247,
       "dps": 428,
       "burst": 381,
       "ehp": 7045,
@@ -11406,7 +11419,7 @@
     {
       "name": "VLLY01",
       "cls": "archer",
-      "rank": 247,
+      "rank": 248,
       "dps": 489,
       "burst": 474,
       "ehp": 4728,
@@ -11419,7 +11432,7 @@
     {
       "name": "OnixVoid",
       "cls": "archer",
-      "rank": 248,
+      "rank": 249,
       "dps": 439,
       "burst": 401,
       "ehp": 6429,
@@ -11432,7 +11445,7 @@
     {
       "name": "IIIIIAbyzzIIIII",
       "cls": "archer",
-      "rank": 249,
+      "rank": 250,
       "dps": 463,
       "burst": 408,
       "ehp": 5928,
@@ -11445,7 +11458,7 @@
     {
       "name": "aimlocked",
       "cls": "archer",
-      "rank": 250,
+      "rank": 251,
       "dps": 444,
       "burst": 381,
       "ehp": 6682,
@@ -11458,7 +11471,7 @@
     {
       "name": "ZafiRo5561",
       "cls": "archer",
-      "rank": 251,
+      "rank": 252,
       "dps": 501,
       "burst": 425,
       "ehp": 5124,
@@ -11471,7 +11484,7 @@
     {
       "name": "3184318431843184",
       "cls": "archer",
-      "rank": 252,
+      "rank": 253,
       "dps": 468,
       "burst": 412,
       "ehp": 5668,
@@ -11484,7 +11497,7 @@
     {
       "name": "RXmixw1234",
       "cls": "archer",
-      "rank": 253,
+      "rank": 254,
       "dps": 469,
       "burst": 412,
       "ehp": 5611,
@@ -11497,7 +11510,7 @@
     {
       "name": "WarDogKiller",
       "cls": "archer",
-      "rank": 254,
+      "rank": 255,
       "dps": 524,
       "burst": 400,
       "ehp": 5097,
@@ -11510,7 +11523,7 @@
     {
       "name": "HeadIess",
       "cls": "archer",
-      "rank": 255,
+      "rank": 256,
       "dps": 474,
       "burst": 415,
       "ehp": 5470,
@@ -11523,7 +11536,7 @@
     {
       "name": "Yassou",
       "cls": "archer",
-      "rank": 256,
+      "rank": 257,
       "dps": 501,
       "burst": 437,
       "ehp": 4841,
@@ -11536,7 +11549,7 @@
     {
       "name": "molykote",
       "cls": "archer",
-      "rank": 257,
+      "rank": 258,
       "dps": 418,
       "burst": 360,
       "ehp": 7363,
@@ -11549,7 +11562,7 @@
     {
       "name": "Arkgecko",
       "cls": "archer",
-      "rank": 258,
+      "rank": 259,
       "dps": 465,
       "burst": 376,
       "ehp": 6173,
@@ -11562,7 +11575,7 @@
     {
       "name": "Sylis",
       "cls": "archer",
-      "rank": 259,
+      "rank": 260,
       "dps": 455,
       "burst": 391,
       "ehp": 6039,
@@ -11575,7 +11588,7 @@
     {
       "name": "archer1254",
       "cls": "archer",
-      "rank": 260,
+      "rank": 261,
       "dps": 474,
       "burst": 419,
       "ehp": 5298,
@@ -11588,7 +11601,7 @@
     {
       "name": "Spiritarch",
       "cls": "archer",
-      "rank": 261,
+      "rank": 262,
       "dps": 544,
       "burst": 421,
       "ehp": 4352,
@@ -11601,25 +11614,12 @@
     {
       "name": "LittleXDM",
       "cls": "archer",
-      "rank": 262,
+      "rank": 263,
       "dps": 442,
       "burst": 415,
       "ehp": 5632,
       "score": 965.19,
       "tank": "B-",
-      "hybrid": "C+",
-      "dpst": "B-",
-      "overall": "C+"
-    },
-    {
-      "name": "BeyondEverything",
-      "cls": "archer",
-      "rank": 263,
-      "dps": 494,
-      "burst": 375,
-      "ehp": 5489,
-      "score": 964.83,
-      "tank": "C+",
       "hybrid": "C+",
       "dpst": "B-",
       "overall": "C+"
