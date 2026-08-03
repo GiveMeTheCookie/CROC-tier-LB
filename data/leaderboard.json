@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-02T19:20:34.576Z",
+  "fetchedAt": "2026-08-03T03:37:09.323Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -10,7 +10,7 @@
       "burst": 397,
       "ehp": 13365,
       "score": 1015.99,
-      "tank": "B",
+      "tank": "B-",
       "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS"
@@ -51,7 +51,7 @@
       "score": 1014.48,
       "tank": "B",
       "hybrid": "SSS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS"
     },
     {
@@ -77,7 +77,7 @@
       "score": 1013.62,
       "tank": "B",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS"
     },
     {
@@ -220,7 +220,7 @@
       "score": 1011.6,
       "tank": "B+",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -623,7 +623,7 @@
       "score": 1006.26,
       "tank": "C+",
       "hybrid": "A+",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "S"
     },
     {
@@ -779,7 +779,7 @@
       "score": 1004.13,
       "tank": "B-",
       "hybrid": "A+",
-      "dpst": "S",
+      "dpst": "A+",
       "overall": "A+"
     },
     {
@@ -857,7 +857,7 @@
       "score": 1003.5,
       "tank": "A",
       "hybrid": "S",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A+"
     },
     {
@@ -948,7 +948,7 @@
       "score": 1002.51,
       "tank": "B",
       "hybrid": "A+",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A+"
     },
     {
@@ -1130,7 +1130,7 @@
       "score": 1000.02,
       "tank": "B-",
       "hybrid": "A",
-      "dpst": "A+",
+      "dpst": "A",
       "overall": "A"
     },
     {
@@ -1245,7 +1245,7 @@
       "burst": 346,
       "ehp": 10904,
       "score": 999.59,
-      "tank": "B-",
+      "tank": "C+",
       "hybrid": "A-",
       "dpst": "A+",
       "overall": "A"
@@ -1286,7 +1286,7 @@
       "score": 999.12,
       "tank": "B",
       "hybrid": "A",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "A"
     },
     {
@@ -1583,7 +1583,7 @@
       "burst": 319,
       "ehp": 12696,
       "score": 995.18,
-      "tank": "B",
+      "tank": "B-",
       "hybrid": "A-",
       "dpst": "A-",
       "overall": "A-"
@@ -1975,7 +1975,7 @@
       "score": 991.19,
       "tank": "C-",
       "hybrid": "B+",
-      "dpst": "A",
+      "dpst": "A-",
       "overall": "B"
     },
     {
@@ -2001,7 +2001,7 @@
       "score": 990.95,
       "tank": "C+",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2105,7 +2105,7 @@
       "score": 990.03,
       "tank": "C+",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2183,7 +2183,7 @@
       "score": 988.8,
       "tank": "C+",
       "hybrid": "B-",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2222,7 +2222,7 @@
       "score": 988.67,
       "tank": "C",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B"
     },
     {
@@ -2326,7 +2326,7 @@
       "score": 987.56,
       "tank": "C-",
       "hybrid": "B",
-      "dpst": "A-",
+      "dpst": "B+",
       "overall": "B-"
     },
     {
@@ -2469,7 +2469,7 @@
       "score": 985.51,
       "tank": "C",
       "hybrid": "B-",
-      "dpst": "B+",
+      "dpst": "B",
       "overall": "B-"
     },
     {
@@ -2560,7 +2560,7 @@
       "score": 983.97,
       "tank": "B-",
       "hybrid": "B-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -2846,7 +2846,7 @@
       "score": 980.81,
       "tank": "C-",
       "hybrid": "B-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C+"
     },
     {
@@ -2976,7 +2976,7 @@
       "score": 979.05,
       "tank": "C",
       "hybrid": "C+",
-      "dpst": "B-",
+      "dpst": "C+",
       "overall": "C"
     },
     {
@@ -3145,7 +3145,7 @@
       "score": 977.42,
       "tank": "C-",
       "hybrid": "C-",
-      "dpst": "B",
+      "dpst": "B-",
       "overall": "C"
     },
     {
@@ -3223,7 +3223,7 @@
       "score": 975.9,
       "tank": "B-",
       "hybrid": "C",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "C-"
     },
     {
@@ -3301,7 +3301,7 @@
       "score": 975.03,
       "tank": "C+",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "C-"
     },
     {
@@ -3457,7 +3457,7 @@
       "score": 972.89,
       "tank": "C",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D+"
     },
     {
@@ -3561,7 +3561,7 @@
       "score": 970.07,
       "tank": "D+",
       "hybrid": "C-",
-      "dpst": "C+",
+      "dpst": "C",
       "overall": "D+"
     },
     {
@@ -3600,7 +3600,7 @@
       "score": 969.42,
       "tank": "B-",
       "hybrid": "C-",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "D+"
     },
     {
@@ -3652,7 +3652,7 @@
       "score": 968.83,
       "tank": "B+",
       "hybrid": "C-",
-      "dpst": "D+",
+      "dpst": "D",
       "overall": "D"
     },
     {
@@ -3873,7 +3873,7 @@
       "score": 964.99,
       "tank": "C-",
       "hybrid": "C-",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "D-"
     },
     {
@@ -4003,33 +4003,33 @@
       "score": 961.82,
       "tank": "C+",
       "hybrid": "D-",
-      "dpst": "D+",
+      "dpst": "D",
+      "overall": "E"
+    },
+    {
+      "name": "rapeir",
+      "cls": "warrior",
+      "rank": 309,
+      "dps": 225,
+      "burst": 167,
+      "ehp": 20948,
+      "score": 961.35,
+      "tank": "SS",
+      "hybrid": "D",
+      "dpst": "F",
       "overall": "E"
     },
     {
       "name": "Pepequila2759",
       "cls": "warrior",
-      "rank": 309,
+      "rank": 310,
       "dps": 292,
       "burst": 283,
       "ehp": 11367,
       "score": 960.86,
       "tank": "F",
       "hybrid": "D+",
-      "dpst": "C",
-      "overall": "E"
-    },
-    {
-      "name": "rapeir",
-      "cls": "warrior",
-      "rank": 310,
-      "dps": 219,
-      "burst": 167,
-      "ehp": 21546,
-      "score": 960.82,
-      "tank": "SS",
-      "hybrid": "D",
-      "dpst": "F",
+      "dpst": "C-",
       "overall": "E"
     },
     {
@@ -4055,7 +4055,7 @@
       "score": 960.59,
       "tank": "B-",
       "hybrid": "D-",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "E"
     },
     {
@@ -4185,7 +4185,7 @@
       "score": 959.25,
       "tank": "D-",
       "hybrid": "D-",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "E"
     },
     {
@@ -4211,7 +4211,7 @@
       "score": 958.52,
       "tank": "C+",
       "hybrid": "E",
-      "dpst": "D",
+      "dpst": "D-",
       "overall": "E"
     },
     {
@@ -4354,7 +4354,7 @@
       "score": 955.88,
       "tank": "E",
       "hybrid": "E",
-      "dpst": "C-",
+      "dpst": "D+",
       "overall": "F"
     },
     {
