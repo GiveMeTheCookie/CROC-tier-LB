@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-04T08:49:41.105Z",
+  "fetchedAt": "2026-08-04T14:31:55.136Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -14225,9 +14225,22 @@
       "overall": "A"
     },
     {
-      "name": "TWlNK",
+      "name": "Chupapiii",
       "cls": "shaman",
       "rank": 103,
+      "dps": 553,
+      "burst": 399,
+      "ehp": 8339,
+      "score": 1000.87,
+      "tank": "A",
+      "hybrid": "A-",
+      "dpst": "A+",
+      "overall": "A"
+    },
+    {
+      "name": "TWlNK",
+      "cls": "shaman",
+      "rank": 104,
       "dps": 505,
       "burst": 343,
       "ehp": 9929,
@@ -14240,7 +14253,7 @@
     {
       "name": "SaintZen",
       "cls": "shaman",
-      "rank": 104,
+      "rank": 105,
       "dps": 543,
       "burst": 380,
       "ehp": 8778,
@@ -14253,7 +14266,7 @@
     {
       "name": "Kuraii",
       "cls": "shaman",
-      "rank": 105,
+      "rank": 106,
       "dps": 525,
       "burst": 388,
       "ehp": 9239,
@@ -14266,7 +14279,7 @@
     {
       "name": "CchinajJack",
       "cls": "shaman",
-      "rank": 106,
+      "rank": 107,
       "dps": 551,
       "burst": 395,
       "ehp": 8420,
@@ -14279,7 +14292,7 @@
     {
       "name": "CthuIhu",
       "cls": "shaman",
-      "rank": 107,
+      "rank": 108,
       "dps": 573,
       "burst": 409,
       "ehp": 7825,
@@ -14292,7 +14305,7 @@
     {
       "name": "09110",
       "cls": "shaman",
-      "rank": 108,
+      "rank": 109,
       "dps": 552,
       "burst": 398,
       "ehp": 8292,
@@ -14305,7 +14318,7 @@
     {
       "name": "homolulu",
       "cls": "shaman",
-      "rank": 109,
+      "rank": 110,
       "dps": 538,
       "burst": 380,
       "ehp": 8751,
@@ -14318,7 +14331,7 @@
     {
       "name": "Sunharu",
       "cls": "shaman",
-      "rank": 110,
+      "rank": 111,
       "dps": 515,
       "burst": 384,
       "ehp": 9253,
@@ -14331,7 +14344,7 @@
     {
       "name": "GanDerrick2",
       "cls": "shaman",
-      "rank": 111,
+      "rank": 112,
       "dps": 525,
       "burst": 377,
       "ehp": 8887,
@@ -14344,7 +14357,7 @@
     {
       "name": "IdoByoin",
       "cls": "shaman",
-      "rank": 112,
+      "rank": 113,
       "dps": 476,
       "burst": 344,
       "ehp": 10380,
@@ -14357,7 +14370,7 @@
     {
       "name": "0ver1ord",
       "cls": "shaman",
-      "rank": 113,
+      "rank": 114,
       "dps": 589,
       "burst": 399,
       "ehp": 7156,
@@ -14365,19 +14378,6 @@
       "tank": "B+",
       "hybrid": "A",
       "dpst": "S",
-      "overall": "A-"
-    },
-    {
-      "name": "Chupapiii",
-      "cls": "shaman",
-      "rank": 114,
-      "dps": 546,
-      "burst": 382,
-      "ehp": 8212,
-      "score": 998.33,
-      "tank": "A-",
-      "hybrid": "A-",
-      "dpst": "A",
       "overall": "A-"
     },
     {
