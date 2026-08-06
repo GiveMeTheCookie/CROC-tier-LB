@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-05T19:45:33.556Z",
+  "fetchedAt": "2026-08-06T03:18:59.659Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -14836,9 +14836,22 @@
       "overall": "B"
     },
     {
-      "name": "MiniShammy",
+      "name": "SyIphiette",
       "cls": "shaman",
       "rank": 147,
+      "dps": 529,
+      "burst": 375,
+      "ehp": 7553,
+      "score": 992.45,
+      "tank": "B+",
+      "hybrid": "B",
+      "dpst": "A-",
+      "overall": "B"
+    },
+    {
+      "name": "MiniShammy",
+      "cls": "shaman",
+      "rank": 148,
       "dps": 588,
       "burst": 413,
       "ehp": 6357,
@@ -14851,7 +14864,7 @@
     {
       "name": "NukeLife",
       "cls": "shaman",
-      "rank": 148,
+      "rank": 149,
       "dps": 496,
       "burst": 344,
       "ehp": 8474,
@@ -14864,7 +14877,7 @@
     {
       "name": "KarlHeinrichMarx",
       "cls": "shaman",
-      "rank": 149,
+      "rank": 150,
       "dps": 522,
       "burst": 366,
       "ehp": 7610,
@@ -14877,26 +14890,13 @@
     {
       "name": "GanjaLand",
       "cls": "shaman",
-      "rank": 150,
+      "rank": 151,
       "dps": 492,
       "burst": 366,
       "ehp": 8676,
       "score": 992.01,
       "tank": "A-",
       "hybrid": "B-",
-      "dpst": "B+",
-      "overall": "B"
-    },
-    {
-      "name": "SyIphiette",
-      "cls": "shaman",
-      "rank": 151,
-      "dps": 511,
-      "burst": 371,
-      "ehp": 8006,
-      "score": 991.92,
-      "tank": "B+",
-      "hybrid": "B",
       "dpst": "B+",
       "overall": "B"
     },
