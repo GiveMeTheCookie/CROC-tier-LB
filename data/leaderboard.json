@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-12T13:24:49.043Z",
+  "fetchedAt": "2026-08-12T19:10:38.990Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -14719,9 +14719,22 @@
       "overall": "B+"
     },
     {
-      "name": "Rolzonsia",
+      "name": "Tikebrain",
       "cls": "shaman",
       "rank": 134,
+      "dps": 533,
+      "burst": 376,
+      "ehp": 7915,
+      "score": 995.04,
+      "tank": "B+",
+      "hybrid": "B+",
+      "dpst": "A-",
+      "overall": "B+"
+    },
+    {
+      "name": "Rolzonsia",
+      "cls": "shaman",
+      "rank": 135,
       "dps": 470,
       "burst": 325,
       "ehp": 9901,
@@ -14734,7 +14747,7 @@
     {
       "name": "Warlithkhon",
       "cls": "shaman",
-      "rank": 135,
+      "rank": 136,
       "dps": 548,
       "burst": 378,
       "ehp": 7520,
@@ -14747,7 +14760,7 @@
     {
       "name": "dabMDR2",
       "cls": "shaman",
-      "rank": 136,
+      "rank": 137,
       "dps": 500,
       "burst": 374,
       "ehp": 8977,
@@ -14760,7 +14773,7 @@
     {
       "name": "HealsForWarrior",
       "cls": "shaman",
-      "rank": 137,
+      "rank": 138,
       "dps": 559,
       "burst": 403,
       "ehp": 7271,
@@ -14773,7 +14786,7 @@
     {
       "name": "Sarashina",
       "cls": "shaman",
-      "rank": 138,
+      "rank": 139,
       "dps": 523,
       "burst": 362,
       "ehp": 7999,
@@ -14781,19 +14794,6 @@
       "tank": "A-",
       "hybrid": "B+",
       "dpst": "B+",
-      "overall": "B+"
-    },
-    {
-      "name": "Tikebrain",
-      "cls": "shaman",
-      "rank": 139,
-      "dps": 553,
-      "burst": 379,
-      "ehp": 7269,
-      "score": 994.01,
-      "tank": "B",
-      "hybrid": "B+",
-      "dpst": "A",
       "overall": "B+"
     },
     {
