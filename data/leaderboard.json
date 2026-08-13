@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-12T19:10:38.990Z",
+  "fetchedAt": "2026-08-13T02:30:34.347Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -91,7 +91,7 @@
       "tank": "B+",
       "hybrid": "SSS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "Protecting",
@@ -104,7 +104,7 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "windstyle",
@@ -663,7 +663,7 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
+      "overall": "A+"
     },
     {
       "name": "TywinLannister",
@@ -988,7 +988,7 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "A",
-      "overall": "A+"
+      "overall": "A"
     },
     {
       "name": "gen5",
@@ -4345,9 +4345,22 @@
       "overall": "F"
     },
     {
-      "name": "McConfing",
+      "name": "Moggerman45",
       "cls": "warrior",
       "rank": 335,
+      "dps": 288,
+      "burst": 262,
+      "ehp": 10233,
+      "score": 957.04,
+      "tank": "D",
+      "hybrid": "E",
+      "dpst": "D+",
+      "overall": "F"
+    },
+    {
+      "name": "McConfing",
+      "cls": "warrior",
+      "rank": 336,
       "dps": 274,
       "burst": 237,
       "ehp": 11034,
@@ -4360,7 +4373,7 @@
     {
       "name": "evilwarrior1",
       "cls": "warrior",
-      "rank": 336,
+      "rank": 337,
       "dps": 268,
       "burst": 245,
       "ehp": 11522,
@@ -4373,7 +4386,7 @@
     {
       "name": "AnyPercentNMG",
       "cls": "warrior",
-      "rank": 337,
+      "rank": 338,
       "dps": 301,
       "burst": 276,
       "ehp": 9102,
@@ -4386,7 +4399,7 @@
     {
       "name": "BlooBerry",
       "cls": "warrior",
-      "rank": 338,
+      "rank": 339,
       "dps": 254,
       "burst": 222,
       "ehp": 12415,
@@ -4399,7 +4412,7 @@
     {
       "name": "tudalllunab13",
       "cls": "warrior",
-      "rank": 339,
+      "rank": 340,
       "dps": 279,
       "burst": 243,
       "ehp": 10242,
@@ -9792,9 +9805,22 @@
       "overall": "A+"
     },
     {
-      "name": "Bloz2",
+      "name": "Plagaa",
       "cls": "archer",
       "rank": 118,
+      "dps": 612,
+      "burst": 463,
+      "ehp": 7377,
+      "score": 998.36,
+      "tank": "A+",
+      "hybrid": "A+",
+      "dpst": "S",
+      "overall": "A+"
+    },
+    {
+      "name": "Bloz2",
+      "cls": "archer",
+      "rank": 119,
       "dps": 534,
       "burst": 440,
       "ehp": 9106,
@@ -9807,7 +9833,7 @@
     {
       "name": "zhun123",
       "cls": "archer",
-      "rank": 119,
+      "rank": 120,
       "dps": 542,
       "burst": 508,
       "ehp": 7639,
@@ -9820,7 +9846,7 @@
     {
       "name": "KAIZERXD",
       "cls": "archer",
-      "rank": 120,
+      "rank": 121,
       "dps": 619,
       "burst": 463,
       "ehp": 7200,
@@ -9833,7 +9859,7 @@
     {
       "name": "Caesium",
       "cls": "archer",
-      "rank": 121,
+      "rank": 122,
       "dps": 561,
       "burst": 464,
       "ehp": 8035,
@@ -9846,7 +9872,7 @@
     {
       "name": "LostWithin",
       "cls": "archer",
-      "rank": 122,
+      "rank": 123,
       "dps": 525,
       "burst": 467,
       "ehp": 8597,
@@ -9859,7 +9885,7 @@
     {
       "name": "Unsatisfactory",
       "cls": "archer",
-      "rank": 123,
+      "rank": 124,
       "dps": 525,
       "burst": 456,
       "ehp": 8809,
@@ -9872,7 +9898,7 @@
     {
       "name": "Temperment",
       "cls": "archer",
-      "rank": 124,
+      "rank": 125,
       "dps": 548,
       "burst": 489,
       "ehp": 7773,
@@ -9885,7 +9911,7 @@
     {
       "name": "xN0TxJ03Lx",
       "cls": "archer",
-      "rank": 125,
+      "rank": 126,
       "dps": 545,
       "burst": 458,
       "ehp": 8356,
@@ -9898,7 +9924,7 @@
     {
       "name": "ZeFoe",
       "cls": "archer",
-      "rank": 126,
+      "rank": 127,
       "dps": 556,
       "burst": 460,
       "ehp": 8015,
@@ -9906,19 +9932,6 @@
       "tank": "A+",
       "hybrid": "A+",
       "dpst": "A",
-      "overall": "A+"
-    },
-    {
-      "name": "Plagaa",
-      "cls": "archer",
-      "rank": 127,
-      "dps": 604,
-      "burst": 459,
-      "ehp": 7274,
-      "score": 996.68,
-      "tank": "A",
-      "hybrid": "A+",
-      "dpst": "A+",
       "overall": "A+"
     },
     {
