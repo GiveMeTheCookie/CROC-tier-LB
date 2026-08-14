@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-13T19:11:30.010Z",
+  "fetchedAt": "2026-08-14T02:28:44.854Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -6022,22 +6022,9 @@
       "overall": "A-"
     },
     {
-      "name": "Paozzzh",
-      "cls": "mage",
-      "rank": 123,
-      "dps": 544,
-      "burst": 458,
-      "ehp": 8013,
-      "score": 991.18,
-      "tank": "A",
-      "hybrid": "B+",
-      "dpst": "B+",
-      "overall": "A-"
-    },
-    {
       "name": "AngeIine",
       "cls": "mage",
-      "rank": 124,
+      "rank": 123,
       "dps": 599,
       "burst": 476,
       "ehp": 6819,
@@ -6050,7 +6037,7 @@
     {
       "name": "ab96",
       "cls": "mage",
-      "rank": 125,
+      "rank": 124,
       "dps": 620,
       "burst": 466,
       "ehp": 6668,
@@ -6063,7 +6050,7 @@
     {
       "name": "UI3VE",
       "cls": "mage",
-      "rank": 126,
+      "rank": 125,
       "dps": 624,
       "burst": 516,
       "ehp": 5936,
@@ -6076,7 +6063,7 @@
     {
       "name": "We0w",
       "cls": "mage",
-      "rank": 127,
+      "rank": 126,
       "dps": 551,
       "burst": 458,
       "ehp": 7830,
@@ -6089,7 +6076,7 @@
     {
       "name": "potassgg7",
       "cls": "mage",
-      "rank": 128,
+      "rank": 127,
       "dps": 535,
       "burst": 468,
       "ehp": 7896,
@@ -6102,7 +6089,7 @@
     {
       "name": "NewXomeone",
       "cls": "mage",
-      "rank": 129,
+      "rank": 128,
       "dps": 618,
       "burst": 484,
       "ehp": 6402,
@@ -6115,7 +6102,7 @@
     {
       "name": "SVKsRomeo",
       "cls": "mage",
-      "rank": 130,
+      "rank": 129,
       "dps": 593,
       "burst": 476,
       "ehp": 6833,
@@ -6128,7 +6115,7 @@
     {
       "name": "BIGy",
       "cls": "mage",
-      "rank": 131,
+      "rank": 130,
       "dps": 566,
       "burst": 472,
       "ehp": 7272,
@@ -6141,7 +6128,7 @@
     {
       "name": "W3ndy",
       "cls": "mage",
-      "rank": 132,
+      "rank": 131,
       "dps": 615,
       "burst": 506,
       "ehp": 6087,
@@ -6154,7 +6141,7 @@
     {
       "name": "Vaylor",
       "cls": "mage",
-      "rank": 133,
+      "rank": 132,
       "dps": 534,
       "burst": 456,
       "ehp": 8029,
@@ -6162,6 +6149,19 @@
       "tank": "A-",
       "hybrid": "B+",
       "dpst": "B",
+      "overall": "B+"
+    },
+    {
+      "name": "Paozzzh",
+      "cls": "mage",
+      "rank": 133,
+      "dps": 546,
+      "burst": 461,
+      "ehp": 7641,
+      "score": 989.66,
+      "tank": "A-",
+      "hybrid": "B+",
+      "dpst": "B+",
       "overall": "B+"
     },
     {
