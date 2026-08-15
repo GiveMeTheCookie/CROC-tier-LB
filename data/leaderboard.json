@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-15T06:49:30.405Z",
+  "fetchedAt": "2026-08-15T12:50:52.283Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7608,9 +7608,22 @@
       "overall": "D+"
     },
     {
-      "name": "zZRokiZz",
+      "name": "Arcynox",
       "cls": "mage",
       "rank": 245,
+      "dps": 435,
+      "burst": 405,
+      "ehp": 6626,
+      "score": 965.9,
+      "tank": "C",
+      "hybrid": "D+",
+      "dpst": "D+",
+      "overall": "D+"
+    },
+    {
+      "name": "zZRokiZz",
+      "cls": "mage",
+      "rank": 246,
       "dps": 512,
       "burst": 436,
       "ehp": 5013,
@@ -7623,7 +7636,7 @@
     {
       "name": "SkulI",
       "cls": "mage",
-      "rank": 246,
+      "rank": 247,
       "dps": 476,
       "burst": 415,
       "ehp": 5737,
@@ -7636,7 +7649,7 @@
     {
       "name": "Blizzardd",
       "cls": "mage",
-      "rank": 247,
+      "rank": 248,
       "dps": 415,
       "burst": 384,
       "ehp": 7299,
@@ -7644,19 +7657,6 @@
       "tank": "C+",
       "hybrid": "D+",
       "dpst": "D-",
-      "overall": "D+"
-    },
-    {
-      "name": "Arcynox",
-      "cls": "mage",
-      "rank": 248,
-      "dps": 431,
-      "burst": 402,
-      "ehp": 6527,
-      "score": 964.53,
-      "tank": "C",
-      "hybrid": "D+",
-      "dpst": "D",
       "overall": "D+"
     },
     {
@@ -16201,9 +16201,22 @@
       "overall": "C-"
     },
     {
-      "name": "DiamondHealer",
+      "name": "PriestOfPaddle",
       "cls": "shaman",
       "rank": 247,
+      "dps": 522,
+      "burst": 365,
+      "ehp": 5417,
+      "score": 976.42,
+      "tank": "D+",
+      "hybrid": "C-",
+      "dpst": "B-",
+      "overall": "D+"
+    },
+    {
+      "name": "DiamondHealer",
+      "cls": "shaman",
+      "rank": 248,
       "dps": 516,
       "burst": 357,
       "ehp": 5404,
@@ -16216,7 +16229,7 @@
     {
       "name": "MedicineManBL",
       "cls": "shaman",
-      "rank": 248,
+      "rank": 249,
       "dps": 442,
       "burst": 318,
       "ehp": 7300,
@@ -16229,7 +16242,7 @@
     {
       "name": "Co5moS",
       "cls": "shaman",
-      "rank": 249,
+      "rank": 250,
       "dps": 448,
       "burst": 324,
       "ehp": 7049,
@@ -16237,19 +16250,6 @@
       "tank": "C+",
       "hybrid": "D+",
       "dpst": "C-",
-      "overall": "D+"
-    },
-    {
-      "name": "PriestOfPaddle",
-      "cls": "shaman",
-      "rank": 250,
-      "dps": 518,
-      "burst": 363,
-      "ehp": 5310,
-      "score": 974.74,
-      "tank": "D+",
-      "hybrid": "C-",
-      "dpst": "B-",
       "overall": "D+"
     },
     {
