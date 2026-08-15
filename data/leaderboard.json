@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-15T12:50:52.283Z",
+  "fetchedAt": "2026-08-15T18:39:15.597Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -5437,22 +5437,9 @@
       "overall": "A+"
     },
     {
-      "name": "blackjackz",
-      "cls": "mage",
-      "rank": 78,
-      "dps": 647,
-      "burst": 507,
-      "ehp": 7091,
-      "score": 999.57,
-      "tank": "A",
-      "hybrid": "A",
-      "dpst": "SS",
-      "overall": "A+"
-    },
-    {
       "name": "Unec",
       "cls": "mage",
-      "rank": 79,
+      "rank": 78,
       "dps": 595,
       "burst": 474,
       "ehp": 8379,
@@ -5460,6 +5447,19 @@
       "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
+      "overall": "A+"
+    },
+    {
+      "name": "blackjackz",
+      "cls": "mage",
+      "rank": 79,
+      "dps": 650,
+      "burst": 507,
+      "ehp": 7014,
+      "score": 999.35,
+      "tank": "A",
+      "hybrid": "A",
+      "dpst": "SS",
       "overall": "A+"
     },
     {
