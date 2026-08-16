@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-16T12:52:20.642Z",
+  "fetchedAt": "2026-08-16T18:38:04.016Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -16708,9 +16708,22 @@
       "overall": "E"
     },
     {
-      "name": "ELx604",
+      "name": "r3medy",
       "cls": "shaman",
       "rank": 285,
+      "dps": 470,
+      "burst": 329,
+      "ehp": 5196,
+      "score": 965.61,
+      "tank": "D",
+      "hybrid": "D-",
+      "dpst": "C-",
+      "overall": "E"
+    },
+    {
+      "name": "ELx604",
+      "cls": "shaman",
+      "rank": 286,
       "dps": 485,
       "burst": 334,
       "ehp": 4911,
@@ -16723,7 +16736,7 @@
     {
       "name": "T13ET",
       "cls": "shaman",
-      "rank": 286,
+      "rank": 287,
       "dps": 476,
       "burst": 343,
       "ehp": 5030,
@@ -16736,7 +16749,7 @@
     {
       "name": "5S5",
       "cls": "shaman",
-      "rank": 287,
+      "rank": 288,
       "dps": 401,
       "burst": 323,
       "ehp": 7229,
@@ -16744,19 +16757,6 @@
       "tank": "C-",
       "hybrid": "F",
       "dpst": "D",
-      "overall": "E"
-    },
-    {
-      "name": "r3medy",
-      "cls": "shaman",
-      "rank": 288,
-      "dps": 469,
-      "burst": 329,
-      "ehp": 5104,
-      "score": 964.76,
-      "tank": "D-",
-      "hybrid": "D-",
-      "dpst": "C-",
       "overall": "E"
     },
     {
