@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-17T01:44:34.957Z",
+  "fetchedAt": "2026-08-17T07:07:46.472Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -9649,9 +9649,22 @@
       "overall": "A+"
     },
     {
-      "name": "Nuk3r",
+      "name": "nMaster4",
       "cls": "archer",
       "rank": 105,
+      "dps": 570,
+      "burst": 461,
+      "ehp": 8549,
+      "score": 1000.98,
+      "tank": "S",
+      "hybrid": "A+",
+      "dpst": "A+",
+      "overall": "A+"
+    },
+    {
+      "name": "Nuk3r",
+      "cls": "archer",
+      "rank": 106,
       "dps": 600,
       "burst": 518,
       "ehp": 7078,
@@ -9664,7 +9677,7 @@
     {
       "name": "bonsai3",
       "cls": "archer",
-      "rank": 106,
+      "rank": 107,
       "dps": 574,
       "burst": 485,
       "ehp": 7971,
@@ -9677,24 +9690,11 @@
     {
       "name": "recom",
       "cls": "archer",
-      "rank": 107,
+      "rank": 108,
       "dps": 558,
       "burst": 452,
       "ehp": 8897,
       "score": 1000.62,
-      "tank": "S",
-      "hybrid": "A+",
-      "dpst": "A+",
-      "overall": "A+"
-    },
-    {
-      "name": "nMaster4",
-      "cls": "archer",
-      "rank": 108,
-      "dps": 568,
-      "burst": 460,
-      "ehp": 8522,
-      "score": 1000.57,
       "tank": "S",
       "hybrid": "A+",
       "dpst": "A+",
@@ -13484,9 +13484,22 @@
       "overall": "SS"
     },
     {
-      "name": "Yashahime",
+      "name": "Roloid",
       "cls": "shaman",
       "rank": 36,
+      "dps": 559,
+      "burst": 387,
+      "ehp": 9966,
+      "score": 1009.71,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "Yashahime",
+      "cls": "shaman",
+      "rank": 37,
       "dps": 599,
       "burst": 415,
       "ehp": 8824,
@@ -13499,7 +13512,7 @@
     {
       "name": "Urgmax3",
       "cls": "shaman",
-      "rank": 37,
+      "rank": 38,
       "dps": 560,
       "burst": 385,
       "ehp": 10064,
@@ -13512,7 +13525,7 @@
     {
       "name": "soulhealing",
       "cls": "shaman",
-      "rank": 38,
+      "rank": 39,
       "dps": 576,
       "burst": 386,
       "ehp": 9455,
@@ -13525,7 +13538,7 @@
     {
       "name": "InMyPocket",
       "cls": "shaman",
-      "rank": 39,
+      "rank": 40,
       "dps": 559,
       "burst": 424,
       "ehp": 10097,
@@ -13538,7 +13551,7 @@
     {
       "name": "Healhealhealheal",
       "cls": "shaman",
-      "rank": 40,
+      "rank": 41,
       "dps": 585,
       "burst": 406,
       "ehp": 9255,
@@ -13551,7 +13564,7 @@
     {
       "name": "UltimoChaman",
       "cls": "shaman",
-      "rank": 41,
+      "rank": 42,
       "dps": 585,
       "burst": 408,
       "ehp": 9237,
@@ -13564,7 +13577,7 @@
     {
       "name": "iDrugDealer",
       "cls": "shaman",
-      "rank": 42,
+      "rank": 43,
       "dps": 580,
       "burst": 392,
       "ehp": 9373,
@@ -13577,7 +13590,7 @@
     {
       "name": "Ozphyron",
       "cls": "shaman",
-      "rank": 43,
+      "rank": 44,
       "dps": 600,
       "burst": 415,
       "ehp": 8759,
@@ -13590,7 +13603,7 @@
     {
       "name": "Axile",
       "cls": "shaman",
-      "rank": 44,
+      "rank": 45,
       "dps": 579,
       "burst": 404,
       "ehp": 9343,
@@ -13603,7 +13616,7 @@
     {
       "name": "IceN1ght",
       "cls": "shaman",
-      "rank": 45,
+      "rank": 46,
       "dps": 588,
       "burst": 387,
       "ehp": 9212,
@@ -13616,7 +13629,7 @@
     {
       "name": "kittenouo",
       "cls": "shaman",
-      "rank": 46,
+      "rank": 47,
       "dps": 566,
       "burst": 390,
       "ehp": 9749,
@@ -13629,7 +13642,7 @@
     {
       "name": "guest",
       "cls": "shaman",
-      "rank": 47,
+      "rank": 48,
       "dps": 603,
       "burst": 414,
       "ehp": 8492,
@@ -13642,7 +13655,7 @@
     {
       "name": "BvbblyWater",
       "cls": "shaman",
-      "rank": 48,
+      "rank": 49,
       "dps": 584,
       "burst": 404,
       "ehp": 9027,
@@ -13655,7 +13668,7 @@
     {
       "name": "192837123987",
       "cls": "shaman",
-      "rank": 49,
+      "rank": 50,
       "dps": 553,
       "burst": 387,
       "ehp": 9952,
@@ -13663,19 +13676,6 @@
       "tank": "S",
       "hybrid": "A+",
       "dpst": "S",
-      "overall": "S"
-    },
-    {
-      "name": "Roloid",
-      "cls": "shaman",
-      "rank": 50,
-      "dps": 554,
-      "burst": 384,
-      "ehp": 9869,
-      "score": 1008.44,
-      "tank": "S",
-      "hybrid": "S",
-      "dpst": "A+",
       "overall": "S"
     },
     {
