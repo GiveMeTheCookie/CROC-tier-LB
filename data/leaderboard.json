@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-17T07:07:46.472Z",
+  "fetchedAt": "2026-08-17T12:57:18.565Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7569,9 +7569,22 @@
       "overall": "D+"
     },
     {
-      "name": "AndreyPowered",
+      "name": "Arcynox",
       "cls": "mage",
       "rank": 242,
+      "dps": 440,
+      "burst": 408,
+      "ehp": 6671,
+      "score": 967.25,
+      "tank": "C+",
+      "hybrid": "D+",
+      "dpst": "D+",
+      "overall": "D+"
+    },
+    {
+      "name": "AndreyPowered",
+      "cls": "mage",
+      "rank": 243,
       "dps": 503,
       "burst": 413,
       "ehp": 5528,
@@ -7584,7 +7597,7 @@
     {
       "name": "Flamesotuff",
       "cls": "mage",
-      "rank": 243,
+      "rank": 244,
       "dps": 491,
       "burst": 448,
       "ehp": 5195,
@@ -7597,7 +7610,7 @@
     {
       "name": "BatChest",
       "cls": "mage",
-      "rank": 244,
+      "rank": 245,
       "dps": 592,
       "burst": 471,
       "ehp": 3919,
@@ -7605,19 +7618,6 @@
       "tank": "D-",
       "hybrid": "D+",
       "dpst": "A",
-      "overall": "D+"
-    },
-    {
-      "name": "Arcynox",
-      "cls": "mage",
-      "rank": 245,
-      "dps": 435,
-      "burst": 405,
-      "ehp": 6626,
-      "score": 965.9,
-      "tank": "C",
-      "hybrid": "D+",
-      "dpst": "D+",
       "overall": "D+"
     },
     {
@@ -9987,9 +9987,22 @@
       "overall": "A+"
     },
     {
-      "name": "Spl1tSh0T",
+      "name": "JNSM2",
       "cls": "archer",
       "rank": 131,
+      "dps": 588,
+      "burst": 507,
+      "ehp": 6645,
+      "score": 996.22,
+      "tank": "A",
+      "hybrid": "A",
+      "dpst": "SS",
+      "overall": "A"
+    },
+    {
+      "name": "Spl1tSh0T",
+      "cls": "archer",
+      "rank": 132,
       "dps": 596,
       "burst": 483,
       "ehp": 6886,
@@ -10002,7 +10015,7 @@
     {
       "name": "Dhayeearl",
       "cls": "archer",
-      "rank": 132,
+      "rank": 133,
       "dps": 565,
       "burst": 458,
       "ehp": 7769,
@@ -10015,7 +10028,7 @@
     {
       "name": "Apsara",
       "cls": "archer",
-      "rank": 133,
+      "rank": 134,
       "dps": 575,
       "burst": 452,
       "ehp": 7704,
@@ -10028,7 +10041,7 @@
     {
       "name": "Aphelion",
       "cls": "archer",
-      "rank": 134,
+      "rank": 135,
       "dps": 596,
       "burst": 485,
       "ehp": 6732,
@@ -10041,7 +10054,7 @@
     {
       "name": "UnlikeSkill",
       "cls": "archer",
-      "rank": 135,
+      "rank": 136,
       "dps": 552,
       "burst": 445,
       "ehp": 8022,
@@ -10049,19 +10062,6 @@
       "tank": "A+",
       "hybrid": "A",
       "dpst": "A",
-      "overall": "A"
-    },
-    {
-      "name": "JNSM2",
-      "cls": "archer",
-      "rank": 136,
-      "dps": 579,
-      "burst": 502,
-      "ehp": 6631,
-      "score": 994.89,
-      "tank": "A",
-      "hybrid": "A",
-      "dpst": "S",
       "overall": "A"
     },
     {
