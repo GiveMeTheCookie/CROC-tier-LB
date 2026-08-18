@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-18T06:55:10.243Z",
+  "fetchedAt": "2026-08-18T13:03:20.149Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7517,9 +7517,22 @@
       "overall": "C-"
     },
     {
-      "name": "KATIS",
+      "name": "Arcynox",
       "cls": "mage",
       "rank": 238,
+      "dps": 444,
+      "burst": 412,
+      "ehp": 6771,
+      "score": 968.72,
+      "tank": "C+",
+      "hybrid": "C-",
+      "dpst": "D+",
+      "overall": "C-"
+    },
+    {
+      "name": "KATIS",
+      "cls": "mage",
+      "rank": 239,
       "dps": 436,
       "burst": 393,
       "ehp": 7263,
@@ -7532,7 +7545,7 @@
     {
       "name": "Vasto",
       "cls": "mage",
-      "rank": 239,
+      "rank": 240,
       "dps": 601,
       "burst": 462,
       "ehp": 4138,
@@ -7545,7 +7558,7 @@
     {
       "name": "Errblaze",
       "cls": "mage",
-      "rank": 240,
+      "rank": 241,
       "dps": 577,
       "burst": 459,
       "ehp": 4296,
@@ -7558,7 +7571,7 @@
     {
       "name": "Safe",
       "cls": "mage",
-      "rank": 241,
+      "rank": 242,
       "dps": 512,
       "burst": 429,
       "ehp": 5293,
@@ -7566,19 +7579,6 @@
       "tank": "C-",
       "hybrid": "D+",
       "dpst": "B-",
-      "overall": "D+"
-    },
-    {
-      "name": "Arcynox",
-      "cls": "mage",
-      "rank": 242,
-      "dps": 440,
-      "burst": 408,
-      "ehp": 6671,
-      "score": 967.25,
-      "tank": "C+",
-      "hybrid": "D+",
-      "dpst": "D+",
       "overall": "D+"
     },
     {
