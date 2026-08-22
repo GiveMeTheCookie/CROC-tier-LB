@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-22T06:51:10.904Z",
+  "fetchedAt": "2026-08-22T12:52:03.679Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -7257,9 +7257,22 @@
       "overall": "C"
     },
     {
-      "name": "FrostedFlake",
+      "name": "Arcynox",
       "cls": "mage",
       "rank": 217,
+      "dps": 459,
+      "burst": 434,
+      "ehp": 6898,
+      "score": 973.66,
+      "tank": "B-",
+      "hybrid": "C",
+      "dpst": "C",
+      "overall": "C"
+    },
+    {
+      "name": "FrostedFlake",
+      "cls": "mage",
+      "rank": 218,
       "dps": 504,
       "burst": 451,
       "ehp": 5906,
@@ -7272,7 +7285,7 @@
     {
       "name": "ArkaaaX",
       "cls": "mage",
-      "rank": 218,
+      "rank": 219,
       "dps": 529,
       "burst": 440,
       "ehp": 5677,
@@ -7285,7 +7298,7 @@
     {
       "name": "1nc",
       "cls": "mage",
-      "rank": 219,
+      "rank": 220,
       "dps": 520,
       "burst": 447,
       "ehp": 5693,
@@ -7298,7 +7311,7 @@
     {
       "name": "mageTwink2",
       "cls": "mage",
-      "rank": 220,
+      "rank": 221,
       "dps": 569,
       "burst": 473,
       "ehp": 4801,
@@ -7311,7 +7324,7 @@
     {
       "name": "Leppard99",
       "cls": "mage",
-      "rank": 221,
+      "rank": 222,
       "dps": 519,
       "burst": 463,
       "ehp": 5491,
@@ -7324,7 +7337,7 @@
     {
       "name": "karutimconver",
       "cls": "mage",
-      "rank": 222,
+      "rank": 223,
       "dps": 441,
       "burst": 379,
       "ehp": 8271,
@@ -7337,7 +7350,7 @@
     {
       "name": "Milim46",
       "cls": "mage",
-      "rank": 223,
+      "rank": 224,
       "dps": 594,
       "burst": 480,
       "ehp": 4447,
@@ -7350,7 +7363,7 @@
     {
       "name": "HosyeM",
       "cls": "mage",
-      "rank": 224,
+      "rank": 225,
       "dps": 559,
       "burst": 459,
       "ehp": 5013,
@@ -7363,7 +7376,7 @@
     {
       "name": "taco12blmagician",
       "cls": "mage",
-      "rank": 225,
+      "rank": 226,
       "dps": 529,
       "burst": 445,
       "ehp": 5494,
@@ -7376,7 +7389,7 @@
     {
       "name": "REXdatu",
       "cls": "mage",
-      "rank": 226,
+      "rank": 227,
       "dps": 604,
       "burst": 477,
       "ehp": 4336,
@@ -7389,7 +7402,7 @@
     {
       "name": "Baramb0",
       "cls": "mage",
-      "rank": 227,
+      "rank": 228,
       "dps": 506,
       "burst": 420,
       "ehp": 6117,
@@ -7402,7 +7415,7 @@
     {
       "name": "Mudan",
       "cls": "mage",
-      "rank": 228,
+      "rank": 229,
       "dps": 575,
       "burst": 447,
       "ehp": 4865,
@@ -7415,7 +7428,7 @@
     {
       "name": "FroggoWorried",
       "cls": "mage",
-      "rank": 229,
+      "rank": 230,
       "dps": 561,
       "burst": 442,
       "ehp": 5054,
@@ -7428,7 +7441,7 @@
     {
       "name": "MuItiverse",
       "cls": "mage",
-      "rank": 230,
+      "rank": 231,
       "dps": 454,
       "burst": 410,
       "ehp": 7018,
@@ -7441,7 +7454,7 @@
     {
       "name": "aquafir3",
       "cls": "mage",
-      "rank": 231,
+      "rank": 232,
       "dps": 516,
       "burst": 430,
       "ehp": 5671,
@@ -7454,7 +7467,7 @@
     {
       "name": "ShamanDemon",
       "cls": "mage",
-      "rank": 232,
+      "rank": 233,
       "dps": 594,
       "burst": 474,
       "ehp": 4308,
@@ -7467,7 +7480,7 @@
     {
       "name": "Y0RJAN",
       "cls": "mage",
-      "rank": 233,
+      "rank": 234,
       "dps": 527,
       "burst": 453,
       "ehp": 5231,
@@ -7480,7 +7493,7 @@
     {
       "name": "bomer4664",
       "cls": "mage",
-      "rank": 234,
+      "rank": 235,
       "dps": 531,
       "burst": 447,
       "ehp": 5245,
@@ -7493,7 +7506,7 @@
     {
       "name": "Hidrabais",
       "cls": "mage",
-      "rank": 235,
+      "rank": 236,
       "dps": 509,
       "burst": 454,
       "ehp": 5393,
@@ -7506,7 +7519,7 @@
     {
       "name": "GlitchFalx",
       "cls": "mage",
-      "rank": 236,
+      "rank": 237,
       "dps": 518,
       "burst": 436,
       "ehp": 5490,
@@ -7519,7 +7532,7 @@
     {
       "name": "WinterLover",
       "cls": "mage",
-      "rank": 237,
+      "rank": 238,
       "dps": 524,
       "burst": 444,
       "ehp": 5257,
@@ -7532,7 +7545,7 @@
     {
       "name": "AsianExpress",
       "cls": "mage",
-      "rank": 238,
+      "rank": 239,
       "dps": 566,
       "burst": 454,
       "ehp": 4608,
@@ -7545,7 +7558,7 @@
     {
       "name": "ManelBL",
       "cls": "mage",
-      "rank": 239,
+      "rank": 240,
       "dps": 488,
       "burst": 416,
       "ehp": 5995,
@@ -7553,19 +7566,6 @@
       "tank": "C",
       "hybrid": "C-",
       "dpst": "C",
-      "overall": "C-"
-    },
-    {
-      "name": "Arcynox",
-      "cls": "mage",
-      "rank": 240,
-      "dps": 444,
-      "burst": 412,
-      "ehp": 6771,
-      "score": 968.72,
-      "tank": "C+",
-      "hybrid": "C-",
-      "dpst": "D+",
       "overall": "C-"
     },
     {
