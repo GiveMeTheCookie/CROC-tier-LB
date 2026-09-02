@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-01T20:56:08.153Z",
+  "fetchedAt": "2026-09-02T04:03:31.124Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1771,9 +1771,22 @@
       "overall": "SS"
     },
     {
-      "name": "Troop51",
+      "name": "Mecanico",
       "cls": "archer",
       "rank": 37,
+      "dps": 601,
+      "burst": 503,
+      "ehp": 8696,
+      "score": 1008.47,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS"
+    },
+    {
+      "name": "Troop51",
+      "cls": "archer",
+      "rank": 38,
       "dps": 566,
       "burst": 508,
       "ehp": 9199,
@@ -1786,7 +1799,7 @@
     {
       "name": "NaxiosTrues",
       "cls": "archer",
-      "rank": 38,
+      "rank": 39,
       "dps": 597,
       "burst": 495,
       "ehp": 8898,
@@ -1799,7 +1812,7 @@
     {
       "name": "frank01235",
       "cls": "archer",
-      "rank": 39,
+      "rank": 40,
       "dps": 565,
       "burst": 508,
       "ehp": 9222,
@@ -1812,26 +1825,13 @@
     {
       "name": "Starius",
       "cls": "archer",
-      "rank": 40,
+      "rank": 41,
       "dps": 624,
       "burst": 497,
       "ehp": 8422,
       "score": 1008.39,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS"
-    },
-    {
-      "name": "Mecanico",
-      "cls": "archer",
-      "rank": 41,
-      "dps": 588,
-      "burst": 492,
-      "ehp": 9114,
-      "score": 1008.38,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS"
     },
