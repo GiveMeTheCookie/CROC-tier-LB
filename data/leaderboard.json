@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-02T20:54:41.324Z",
+  "fetchedAt": "2026-09-03T04:02:07.011Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1362,7 +1362,7 @@
       "burst": 524,
       "ehp": 8977,
       "score": 1012.65,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS"
@@ -1492,7 +1492,7 @@
       "burst": 511,
       "ehp": 9251,
       "score": 1011.46,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -1557,7 +1557,7 @@
       "burst": 495,
       "ehp": 9371,
       "score": 1010.71,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
@@ -1726,7 +1726,7 @@
       "burst": 470,
       "ehp": 9671,
       "score": 1008.64,
-      "tank": "SS",
+      "tank": "SSS",
       "hybrid": "S",
       "dpst": "SS",
       "overall": "SS"
@@ -1895,7 +1895,7 @@
       "burst": 503,
       "ehp": 8296,
       "score": 1007.63,
-      "tank": "S",
+      "tank": "SS",
       "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
