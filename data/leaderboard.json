@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-03T20:52:50.824Z",
+  "fetchedAt": "2026-09-04T04:10:02.206Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -50,7 +50,7 @@
       "ehp": 12730,
       "score": 1014.48,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS"
     },
@@ -89,7 +89,7 @@
       "ehp": 12485,
       "score": 1013.82,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SSS"
     },
@@ -102,7 +102,7 @@
       "ehp": 13158,
       "score": 1013.47,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SSS"
     },
@@ -141,7 +141,7 @@
       "ehp": 12621,
       "score": 1012.94,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -193,7 +193,7 @@
       "ehp": 12780,
       "score": 1012.27,
       "tank": "B",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -219,7 +219,7 @@
       "ehp": 13328,
       "score": 1011.8,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -232,7 +232,7 @@
       "ehp": 14216,
       "score": 1011.78,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -245,7 +245,7 @@
       "ehp": 13846,
       "score": 1011.61,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -258,7 +258,7 @@
       "ehp": 13564,
       "score": 1011.44,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -297,7 +297,7 @@
       "ehp": 14211,
       "score": 1011.1,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -362,7 +362,7 @@
       "ehp": 13890,
       "score": 1010.42,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -388,7 +388,7 @@
       "ehp": 12408,
       "score": 1010.25,
       "tank": "B",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -492,7 +492,7 @@
       "ehp": 9300,
       "score": 1008.43,
       "tank": "C+",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "A+",
       "overall": "S"
     },
@@ -583,7 +583,7 @@
       "ehp": 15545,
       "score": 1007.3,
       "tank": "A",
-      "hybrid": "A",
+      "hybrid": "A+",
       "dpst": "S",
       "overall": "S"
     },
@@ -608,7 +608,7 @@
       "burst": 378,
       "ehp": 9939,
       "score": 1006.99,
-      "tank": "B-",
+      "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
       "overall": "S"
