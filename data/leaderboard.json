@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-04T16:10:29.554Z",
+  "fetchedAt": "2026-09-04T20:39:22.591Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1186,9 +1186,22 @@
       "overall": "SS"
     },
     {
-      "name": "shadow3xm",
+      "name": "Oras",
       "cls": "mage",
       "rank": 42,
+      "dps": 604,
+      "burst": 513,
+      "ehp": 8687,
+      "score": 1005.29,
+      "tank": "S",
+      "hybrid": "A+",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "shadow3xm",
+      "cls": "mage",
+      "rank": 43,
       "dps": 609,
       "burst": 504,
       "ehp": 8716,
@@ -1201,7 +1214,7 @@
     {
       "name": "MutantIceGolemEX",
       "cls": "mage",
-      "rank": 43,
+      "rank": 44,
       "dps": 597,
       "burst": 504,
       "ehp": 8918,
@@ -1214,7 +1227,7 @@
     {
       "name": "TBTB",
       "cls": "mage",
-      "rank": 44,
+      "rank": 45,
       "dps": 642,
       "burst": 512,
       "ehp": 8005,
@@ -1227,7 +1240,7 @@
     {
       "name": "Flameleader",
       "cls": "mage",
-      "rank": 45,
+      "rank": 46,
       "dps": 641,
       "burst": 511,
       "ehp": 8016,
@@ -1240,7 +1253,7 @@
     {
       "name": "Zintrothen",
       "cls": "mage",
-      "rank": 46,
+      "rank": 47,
       "dps": 661,
       "burst": 506,
       "ehp": 7781,
@@ -1253,7 +1266,7 @@
     {
       "name": "Ganjaa",
       "cls": "mage",
-      "rank": 47,
+      "rank": 48,
       "dps": 612,
       "burst": 502,
       "ehp": 8566,
@@ -1266,7 +1279,7 @@
     {
       "name": "ParadoxPVP",
       "cls": "mage",
-      "rank": 48,
+      "rank": 49,
       "dps": 635,
       "burst": 512,
       "ehp": 8010,
@@ -1279,26 +1292,13 @@
     {
       "name": "XxPikitrueno11xX",
       "cls": "mage",
-      "rank": 49,
+      "rank": 50,
       "dps": 599,
       "burst": 469,
       "ehp": 9346,
       "score": 1003.96,
       "tank": "S",
       "hybrid": "A",
-      "dpst": "S",
-      "overall": "S"
-    },
-    {
-      "name": "KCBR",
-      "cls": "mage",
-      "rank": 50,
-      "dps": 670,
-      "burst": 505,
-      "ehp": 7542,
-      "score": 1003.92,
-      "tank": "A+",
-      "hybrid": "SS",
       "dpst": "S",
       "overall": "S"
     },
