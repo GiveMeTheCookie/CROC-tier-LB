@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-05T04:01:19.187Z",
+  "fetchedAt": "2026-09-05T10:24:37.294Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1862,9 +1862,22 @@
       "overall": "SS"
     },
     {
-      "name": "BEEENY",
+      "name": "SoughtOut",
       "cls": "archer",
       "rank": 44,
+      "dps": 599,
+      "burst": 498,
+      "ehp": 8695,
+      "score": 1007.9,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS"
+    },
+    {
+      "name": "BEEENY",
+      "cls": "archer",
+      "rank": 45,
       "dps": 580,
       "burst": 497,
       "ehp": 9030,
@@ -1877,7 +1890,7 @@
     {
       "name": "thebiggestbound",
       "cls": "archer",
-      "rank": 45,
+      "rank": 46,
       "dps": 590,
       "burst": 491,
       "ehp": 8985,
@@ -1890,7 +1903,7 @@
     {
       "name": "Scopop",
       "cls": "archer",
-      "rank": 46,
+      "rank": 47,
       "dps": 615,
       "burst": 503,
       "ehp": 8296,
@@ -1903,7 +1916,7 @@
     {
       "name": "pooppoop787",
       "cls": "archer",
-      "rank": 47,
+      "rank": 48,
       "dps": 562,
       "burst": 523,
       "ehp": 8833,
@@ -1916,7 +1929,7 @@
     {
       "name": "Ckurupt",
       "cls": "archer",
-      "rank": 48,
+      "rank": 49,
       "dps": 582,
       "burst": 497,
       "ehp": 8941,
@@ -1929,26 +1942,13 @@
     {
       "name": "Puurplez",
       "cls": "archer",
-      "rank": 49,
+      "rank": 50,
       "dps": 574,
       "burst": 477,
       "ehp": 9518,
       "score": 1007.56,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SS"
-    },
-    {
-      "name": "SoughtOut",
-      "cls": "archer",
-      "rank": 50,
-      "dps": 606,
-      "burst": 487,
-      "ehp": 8719,
-      "score": 1007.51,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
