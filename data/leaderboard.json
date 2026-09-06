@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-05T20:13:14.154Z",
+  "fetchedAt": "2026-09-06T04:08:41.518Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -29,22 +29,9 @@
       "overall": "SSS"
     },
     {
-      "name": "Iceearlcraft",
-      "cls": "warrior",
-      "rank": 3,
-      "dps": 519,
-      "burst": 391,
-      "ehp": 12754,
-      "score": 1015.28,
-      "tank": "B",
-      "hybrid": "SSS",
-      "dpst": "SSS",
-      "overall": "SSS"
-    },
-    {
       "name": "MutantEndermanEX",
       "cls": "warrior",
-      "rank": 4,
+      "rank": 3,
       "dps": 511,
       "burst": 384,
       "ehp": 12730,
@@ -57,7 +44,7 @@
     {
       "name": "notgophju",
       "cls": "warrior",
-      "rank": 5,
+      "rank": 4,
       "dps": 490,
       "burst": 357,
       "ehp": 14053,
@@ -70,7 +57,7 @@
     {
       "name": "Falcon",
       "cls": "warrior",
-      "rank": 6,
+      "rank": 5,
       "dps": 531,
       "burst": 388,
       "ehp": 11993,
@@ -83,7 +70,7 @@
     {
       "name": "KevinMoncadaVe",
       "cls": "warrior",
-      "rank": 7,
+      "rank": 6,
       "dps": 523,
       "burst": 379,
       "ehp": 12485,
@@ -96,7 +83,7 @@
     {
       "name": "Protecting",
       "cls": "warrior",
-      "rank": 8,
+      "rank": 7,
       "dps": 503,
       "burst": 381,
       "ehp": 13158,
@@ -109,7 +96,7 @@
     {
       "name": "windstyle",
       "cls": "warrior",
-      "rank": 9,
+      "rank": 8,
       "dps": 510,
       "burst": 371,
       "ehp": 12975,
@@ -122,7 +109,7 @@
     {
       "name": "Sworduozi",
       "cls": "warrior",
-      "rank": 10,
+      "rank": 9,
       "dps": 499,
       "burst": 372,
       "ehp": 13293,
@@ -130,12 +117,12 @@
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "MaricioZ",
       "cls": "warrior",
-      "rank": 11,
+      "rank": 10,
       "dps": 508,
       "burst": 382,
       "ehp": 12621,
@@ -143,12 +130,12 @@
       "tank": "B",
       "hybrid": "SSS",
       "dpst": "SS",
-      "overall": "SS"
+      "overall": "SSS"
     },
     {
       "name": "bga",
       "cls": "warrior",
-      "rank": 12,
+      "rank": 11,
       "dps": 499,
       "burst": 374,
       "ehp": 13308,
@@ -161,7 +148,7 @@
     {
       "name": "Dunster",
       "cls": "warrior",
-      "rank": 13,
+      "rank": 12,
       "dps": 481,
       "burst": 359,
       "ehp": 14410,
@@ -174,7 +161,7 @@
     {
       "name": "ShukketsuArashi",
       "cls": "warrior",
-      "rank": 14,
+      "rank": 13,
       "dps": 500,
       "burst": 362,
       "ehp": 13257,
@@ -187,7 +174,7 @@
     {
       "name": "Tankoker",
       "cls": "warrior",
-      "rank": 15,
+      "rank": 14,
       "dps": 499,
       "burst": 385,
       "ehp": 12780,
@@ -200,7 +187,7 @@
     {
       "name": "daknight",
       "cls": "warrior",
-      "rank": 16,
+      "rank": 15,
       "dps": 495,
       "burst": 370,
       "ehp": 12772,
@@ -213,7 +200,7 @@
     {
       "name": "swanson",
       "cls": "warrior",
-      "rank": 17,
+      "rank": 16,
       "dps": 492,
       "burst": 358,
       "ehp": 13328,
@@ -226,7 +213,7 @@
     {
       "name": "NightBladez",
       "cls": "warrior",
-      "rank": 18,
+      "rank": 17,
       "dps": 472,
       "burst": 366,
       "ehp": 14216,
@@ -239,7 +226,7 @@
     {
       "name": "Smorgon",
       "cls": "warrior",
-      "rank": 19,
+      "rank": 18,
       "dps": 472,
       "burst": 367,
       "ehp": 13846,
@@ -252,7 +239,7 @@
     {
       "name": "LimitedJ",
       "cls": "warrior",
-      "rank": 20,
+      "rank": 19,
       "dps": 479,
       "burst": 360,
       "ehp": 13564,
@@ -265,7 +252,7 @@
     {
       "name": "nickeIodeon",
       "cls": "warrior",
-      "rank": 21,
+      "rank": 20,
       "dps": 490,
       "burst": 368,
       "ehp": 13156,
@@ -278,7 +265,7 @@
     {
       "name": "messerschmidt",
       "cls": "warrior",
-      "rank": 22,
+      "rank": 21,
       "dps": 491,
       "burst": 377,
       "ehp": 12835,
@@ -291,7 +278,7 @@
     {
       "name": "ClownPiercee",
       "cls": "warrior",
-      "rank": 23,
+      "rank": 22,
       "dps": 460,
       "burst": 369,
       "ehp": 14211,
@@ -304,7 +291,7 @@
     {
       "name": "Rapier",
       "cls": "warrior",
-      "rank": 24,
+      "rank": 23,
       "dps": 492,
       "burst": 372,
       "ehp": 12894,
@@ -317,7 +304,7 @@
     {
       "name": "lordwar222",
       "cls": "warrior",
-      "rank": 25,
+      "rank": 24,
       "dps": 452,
       "burst": 351,
       "ehp": 15319,
@@ -330,7 +317,7 @@
     {
       "name": "ChinaJjack",
       "cls": "warrior",
-      "rank": 26,
+      "rank": 25,
       "dps": 503,
       "burst": 378,
       "ehp": 11860,
@@ -343,7 +330,7 @@
     {
       "name": "Whirlwindist",
       "cls": "warrior",
-      "rank": 27,
+      "rank": 26,
       "dps": 508,
       "burst": 370,
       "ehp": 12277,
@@ -356,7 +343,7 @@
     {
       "name": "CuItist",
       "cls": "warrior",
-      "rank": 28,
+      "rank": 27,
       "dps": 466,
       "burst": 365,
       "ehp": 13890,
@@ -369,7 +356,7 @@
     {
       "name": "TheDani1401",
       "cls": "warrior",
-      "rank": 29,
+      "rank": 28,
       "dps": 471,
       "burst": 355,
       "ehp": 14106,
@@ -382,7 +369,7 @@
     {
       "name": "GTGG",
       "cls": "warrior",
-      "rank": 30,
+      "rank": 29,
       "dps": 483,
       "burst": 370,
       "ehp": 12408,
@@ -395,7 +382,7 @@
     {
       "name": "Berlife2",
       "cls": "warrior",
-      "rank": 31,
+      "rank": 30,
       "dps": 457,
       "burst": 355,
       "ehp": 14509,
@@ -408,7 +395,7 @@
     {
       "name": "machlne",
       "cls": "warrior",
-      "rank": 32,
+      "rank": 31,
       "dps": 506,
       "burst": 368,
       "ehp": 11958,
@@ -421,7 +408,7 @@
     {
       "name": "illaoi0901",
       "cls": "warrior",
-      "rank": 33,
+      "rank": 32,
       "dps": 485,
       "burst": 352,
       "ehp": 12941,
@@ -434,7 +421,7 @@
     {
       "name": "GoodTankyBoi",
       "cls": "warrior",
-      "rank": 34,
+      "rank": 33,
       "dps": 520,
       "burst": 381,
       "ehp": 11098,
@@ -442,12 +429,12 @@
       "tank": "B-",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "Bennni",
       "cls": "warrior",
-      "rank": 35,
+      "rank": 34,
       "dps": 489,
       "burst": 357,
       "ehp": 12769,
@@ -455,12 +442,12 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "S"
+      "overall": "SS"
     },
     {
       "name": "SpaceCreated",
       "cls": "warrior",
-      "rank": 36,
+      "rank": 35,
       "dps": 469,
       "burst": 353,
       "ehp": 13412,
@@ -473,7 +460,7 @@
     {
       "name": "ElCapitanAmerica",
       "cls": "warrior",
-      "rank": 37,
+      "rank": 36,
       "dps": 446,
       "burst": 337,
       "ehp": 14697,
@@ -486,7 +473,7 @@
     {
       "name": "Roquita",
       "cls": "warrior",
-      "rank": 38,
+      "rank": 37,
       "dps": 562,
       "burst": 396,
       "ehp": 9300,
@@ -499,7 +486,7 @@
     {
       "name": "tanksword",
       "cls": "warrior",
-      "rank": 39,
+      "rank": 38,
       "dps": 457,
       "burst": 359,
       "ehp": 13743,
@@ -512,7 +499,7 @@
     {
       "name": "ConvolutedTubule",
       "cls": "warrior",
-      "rank": 40,
+      "rank": 39,
       "dps": 463,
       "burst": 351,
       "ehp": 13367,
@@ -525,7 +512,7 @@
     {
       "name": "Xerunt",
       "cls": "warrior",
-      "rank": 41,
+      "rank": 40,
       "dps": 481,
       "burst": 365,
       "ehp": 12656,
@@ -538,7 +525,7 @@
     {
       "name": "Kurzgesagt",
       "cls": "warrior",
-      "rank": 42,
+      "rank": 41,
       "dps": 526,
       "burst": 372,
       "ehp": 10912,
@@ -551,7 +538,7 @@
     {
       "name": "opprofff",
       "cls": "warrior",
-      "rank": 43,
+      "rank": 42,
       "dps": 502,
       "burst": 378,
       "ehp": 11550,
@@ -564,7 +551,7 @@
     {
       "name": "LichtBach",
       "cls": "warrior",
-      "rank": 44,
+      "rank": 43,
       "dps": 517,
       "burst": 391,
       "ehp": 10697,
@@ -577,7 +564,7 @@
     {
       "name": "reminiscence",
       "cls": "warrior",
-      "rank": 45,
+      "rank": 44,
       "dps": 435,
       "burst": 317,
       "ehp": 15545,
@@ -590,7 +577,7 @@
     {
       "name": "fleshlumpeater1",
       "cls": "warrior",
-      "rank": 46,
+      "rank": 45,
       "dps": 463,
       "burst": 358,
       "ehp": 12997,
@@ -603,7 +590,7 @@
     {
       "name": "TheWarriorYT",
       "cls": "warrior",
-      "rank": 47,
+      "rank": 46,
       "dps": 536,
       "burst": 378,
       "ehp": 9939,
@@ -616,7 +603,7 @@
     {
       "name": "Sociopath1",
       "cls": "warrior",
-      "rank": 48,
+      "rank": 47,
       "dps": 473,
       "burst": 371,
       "ehp": 12190,
@@ -629,7 +616,7 @@
     {
       "name": "iMinju",
       "cls": "warrior",
-      "rank": 49,
+      "rank": 48,
       "dps": 479,
       "burst": 352,
       "ehp": 12222,
@@ -642,7 +629,7 @@
     {
       "name": "Karasugai",
       "cls": "warrior",
-      "rank": 50,
+      "rank": 49,
       "dps": 454,
       "burst": 342,
       "ehp": 13337,
@@ -650,6 +637,19 @@
       "tank": "B+",
       "hybrid": "A+",
       "dpst": "S",
+      "overall": "S"
+    },
+    {
+      "name": "Gaho",
+      "cls": "warrior",
+      "rank": 50,
+      "dps": 518,
+      "burst": 377,
+      "ehp": 10354,
+      "score": 1006.26,
+      "tank": "C+",
+      "hybrid": "SS",
+      "dpst": "A+",
       "overall": "S"
     },
     {
