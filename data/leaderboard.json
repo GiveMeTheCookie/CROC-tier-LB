@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-08T04:09:58.506Z",
+  "fetchedAt": "2026-09-08T11:02:01.991Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1628,9 +1628,22 @@
       "overall": "SS"
     },
     {
-      "name": "Kanemi",
+      "name": "Poor",
       "cls": "archer",
       "rank": 26,
+      "dps": 603,
+      "burst": 516,
+      "ehp": 8617,
+      "score": 1009.54,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS"
+    },
+    {
+      "name": "Kanemi",
+      "cls": "archer",
+      "rank": 27,
       "dps": 631,
       "burst": 488,
       "ehp": 8667,
@@ -1643,7 +1656,7 @@
     {
       "name": "ArcherOPP",
       "cls": "archer",
-      "rank": 27,
+      "rank": 28,
       "dps": 556,
       "burst": 482,
       "ehp": 10154,
@@ -1656,7 +1669,7 @@
     {
       "name": "Ve1iona3",
       "cls": "archer",
-      "rank": 28,
+      "rank": 29,
       "dps": 608,
       "burst": 472,
       "ehp": 9383,
@@ -1669,7 +1682,7 @@
     {
       "name": "Xee",
       "cls": "archer",
-      "rank": 29,
+      "rank": 30,
       "dps": 587,
       "burst": 507,
       "ehp": 9015,
@@ -1682,7 +1695,7 @@
     {
       "name": "butterfIy",
       "cls": "archer",
-      "rank": 30,
+      "rank": 31,
       "dps": 607,
       "burst": 515,
       "ehp": 8474,
@@ -1695,7 +1708,7 @@
     {
       "name": "AUseLessArcher",
       "cls": "archer",
-      "rank": 31,
+      "rank": 32,
       "dps": 620,
       "burst": 499,
       "ehp": 8499,
@@ -1708,7 +1721,7 @@
     {
       "name": "DashStyle",
       "cls": "archer",
-      "rank": 32,
+      "rank": 33,
       "dps": 583,
       "burst": 483,
       "ehp": 9463,
@@ -1721,26 +1734,13 @@
     {
       "name": "FlNlTE",
       "cls": "archer",
-      "rank": 33,
+      "rank": 34,
       "dps": 587,
       "burst": 470,
       "ehp": 9671,
       "score": 1008.64,
       "tank": "SS",
       "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SS"
-    },
-    {
-      "name": "Poor",
-      "cls": "archer",
-      "rank": 34,
-      "dps": 633,
-      "burst": 518,
-      "ehp": 7940,
-      "score": 1008.61,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS"
     },
