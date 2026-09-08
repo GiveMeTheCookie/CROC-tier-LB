@@ -1,8 +1,4 @@
-// scraper/scrape-one.js — scrapes ONE class (passed as CLI arg) and writes
-// data/leaderboard-<key>.json. Designed to run as one matrix job per class
-// so a slow/timed-out class never eats another class's time budget.
-//
-// Usage: node scrape-one.js <classIndex 0-3>
+// scraper/scrape.js — plain Playwright with stealth headers
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
@@ -25,25 +21,25 @@ function stripTags(s) {
 async function scrapeClass(page, cls) {
   const url = `${BASE}?c=${cls.param}`;
   console.log(`[${cls.key}] navigating to ${url}`);
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 120000 });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
 
   try {
     await page.waitForFunction(
       () => !document.title.includes('Just a moment'),
-      { timeout: 45000 }
+      { timeout: 30000 }
     );
   } catch {
     console.log(`[${cls.key}] CF check timeout, proceeding anyway`);
   }
 
-  await page.waitForSelector('table tbody tr, table tr', { timeout: 45000 }).catch(() => {});
+  await page.waitForSelector('table tbody tr, table tr', { timeout: 30000 }).catch(() => {});
   await page.waitForTimeout(3000);
 
-  const html = await page.content();
-  const outDir = path.join(__dirname, '..', 'data');
-  fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, `debug-${cls.key}.html`), html);
-  console.log(`[debug] dumped rendered HTML for ${cls.key}, length ${html.length}`);
+  if (cls.key === 'warrior') {
+    const html = await page.content();
+    fs.writeFileSync(path.join(__dirname, '..', 'data', 'debug.html'), html);
+    console.log(`[debug] dumped rendered HTML for warrior, length ${html.length}`);
+  }
 
   let stableRounds = 0;
   let lastCount = 0;
@@ -69,7 +65,7 @@ async function scrapeClass(page, cls) {
     await page.waitForTimeout(clicked ? 1200 : 800);
 
     const count = await page.evaluate(
-      () => document.querySelectorAll('table tbody tr, table tr').length
+      () => document.querySelectorAll('table tbody tr').length
     );
 
     if (count <= lastCount) stableRounds++;
@@ -82,16 +78,53 @@ async function scrapeClass(page, cls) {
     }
   }
 
+  // Use the embedded JSON data if available (fastest and most reliable)
+  const embeddedData = await page.evaluate((clsParam) => {
+    const scripts = Array.from(document.querySelectorAll('script[data-sveltekit-fetched]'));
+    for (const s of scripts) {
+      if (s.dataset.url === `/api/tierlist/${clsParam}`) {
+        try {
+          const parsed = JSON.parse(s.textContent);
+          return JSON.parse(parsed.body);
+        } catch { return null; }
+      }
+    }
+    return null;
+  }, cls.param);
+
+  if (embeddedData && embeddedData.length > 0) {
+    console.log(`[${cls.key}] using embedded JSON data: ${embeddedData.length} rows`);
+    let rank = 0;
+    return embeddedData.map(row => {
+      rank++;
+      return {
+        name: row.name,
+        cls: cls.key,
+        rank,
+        dps: row.dps ?? null,
+        burst: row.burst ?? null,
+        ehp: row.ehp ?? null,
+        score: row.overall ?? null,
+        tank: row.tankt ?? null,
+        hybrid: row.hybridt ?? null,
+        dpst: row.dpst ?? null,
+        overall: row.overallt ?? null,
+      };
+    });
+  }
+
+  // Fallback: parse HTML table
+  console.log(`[${cls.key}] falling back to HTML parsing`);
   const rawRows = await page.evaluate(() => {
-    const trs = Array.from(document.querySelectorAll('table tr'));
+    const trs = Array.from(document.querySelectorAll('table tbody tr'));
     return trs.map(tr => {
       const tds = Array.from(tr.querySelectorAll('td'));
-      if (tds.length < 9) return null;
+      if (tds.length < 8) return null;
       return tds.map(td => td.innerHTML);
     }).filter(Boolean);
   });
 
-  console.log(`[${cls.key}] extracted ${rawRows.length} raw rows`);
+  console.log(`[${cls.key}] extracted ${rawRows.length} raw rows from HTML`);
 
   const parsed = [];
   let rank = 0;
@@ -104,6 +137,7 @@ async function scrapeClass(page, cls) {
       const n = parseFloat(stripTags(s).replace(/,/g, ''));
       return Number.isNaN(n) ? null : n;
     };
+    // cols: Name(0) DPS(1) Burst(2) eHP(3) BuildScore(4) TankTier(5) HybridTier(6) DPSTier(7) Overall(8)
     parsed.push({
       name, cls: cls.key, rank,
       dps: num(cells[1]), burst: num(cells[2]), ehp: num(cells[3]),
@@ -116,13 +150,6 @@ async function scrapeClass(page, cls) {
 }
 
 (async () => {
-  const classIndex = parseInt(process.argv[2], 10);
-  const cls = CLASSES[classIndex];
-  if (!cls) {
-    console.error(`Invalid class index: ${process.argv[2]} (expected 0-3)`);
-    process.exit(1);
-  }
-
   const browser = await chromium.launch({
     headless: true,
     args: [
@@ -145,24 +172,21 @@ async function scrapeClass(page, cls) {
 
   const page = await context.newPage();
 
-  let rows = [];
-  let ok = true;
-  try {
-    rows = await scrapeClass(page, cls);
-  } catch (err) {
-    console.error(`[${cls.key}] failed:`, err.message);
-    ok = false;
+  const allRows = [];
+  for (const cls of CLASSES) {
+    try {
+      const rows = await scrapeClass(page, cls);
+      allRows.push(...rows);
+    } catch (err) {
+      console.error(`[${cls.key}] failed:`, err.message);
+    }
   }
 
   await browser.close();
 
-  const out = { ok, class: cls.key, fetchedAt: new Date().toISOString(), rows };
+  const out = { ok: true, fetchedAt: new Date().toISOString(), rows: allRows };
   const outDir = path.join(__dirname, '..', 'data');
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, `leaderboard-${cls.key}.json`), JSON.stringify(out, null, 2));
-  console.log(`Wrote ${rows.length} rows for ${cls.key} to data/leaderboard-${cls.key}.json`);
-
-  if (!ok || rows.length === 0) {
-    process.exit(1);
-  }
+  fs.writeFileSync(path.join(outDir, 'leaderboard.json'), JSON.stringify(out, null, 2));
+  console.log(`Wrote ${allRows.length} total rows to data/leaderboard.json`);
 })();
