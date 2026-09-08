@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-08T16:27:35.598Z",
+  "fetchedAt": "2026-09-08T19:52:00.210Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1306,10 +1306,10 @@
       "name": "SrJuan07",
       "cls": "archer",
       "rank": 1,
-      "dps": 583,
-      "burst": 501,
-      "ehp": 10209,
-      "score": 1013.68,
+      "dps": 593,
+      "burst": 492,
+      "ehp": 10223,
+      "score": 1013.77,
       "tank": "SSS",
       "hybrid": "SS",
       "dpst": "SSS",
@@ -1845,7 +1845,7 @@
       "score": 1007.95,
       "tank": "S",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -1871,7 +1871,7 @@
       "score": 1007.9,
       "tank": "S",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -1884,7 +1884,7 @@
       "score": 1007.84,
       "tank": "S",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
@@ -1897,7 +1897,7 @@
       "score": 1007.81,
       "tank": "S",
       "hybrid": "SS",
-      "dpst": "SS",
+      "dpst": "S",
       "overall": "SS"
     },
     {
