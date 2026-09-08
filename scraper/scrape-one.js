@@ -51,14 +51,12 @@ function stripTags(s) {
   await page.waitForSelector('table tbody tr, table tr', { timeout: 30000 }).catch(() => {});
   await page.waitForTimeout(3000);
 
-  // Dump debug HTML for first class
   if (clsIndex === 0) {
     const html = await page.content();
     fs.writeFileSync(path.join(__dirname, '..', 'data', 'debug.html'), html);
     console.log(`[debug] dumped rendered HTML for ${cls.key}, length ${html.length}`);
   }
 
-  // Try embedded JSON first
   const embeddedData = await page.evaluate((clsParam) => {
     const scripts = Array.from(document.querySelectorAll('script[data-sveltekit-fetched]'));
     for (const s of scripts) {
@@ -91,7 +89,6 @@ function stripTags(s) {
       overall: row.overallt ?? null,
     }));
   } else {
-    // Fallback: scroll and parse HTML
     console.log(`[${cls.key}] falling back to HTML scraping`);
     let stableRounds = 0, lastCount = 0;
     for (let i = 0; i < 60; i++) {
@@ -140,6 +137,7 @@ function stripTags(s) {
   const outDir = path.join(__dirname, '..', 'data');
   fs.mkdirSync(outDir, { recursive: true });
   const outFile = path.join(outDir, `leaderboard-${cls.key}.json`);
-  fs.writeFileSync(outFile, JSON.stringify(rows, null, 2));
+  const out = { ok: true, rows };
+  fs.writeFileSync(outFile, JSON.stringify(out, null, 2));
   console.log(`Wrote ${rows.length} rows for ${cls.key} to data/leaderboard-${cls.key}.json`);
 })();
