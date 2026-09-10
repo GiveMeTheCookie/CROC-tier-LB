@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-10T16:14:17.789Z",
+  "fetchedAt": "2026-09-10T20:44:00.738Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -117,7 +117,7 @@
       "tank": "B+",
       "hybrid": "SSS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "MaricioZ",
@@ -130,7 +130,7 @@
       "tank": "B",
       "hybrid": "SSS",
       "dpst": "SS",
-      "overall": "SSS"
+      "overall": "SS"
     },
     {
       "name": "bga",
@@ -310,7 +310,7 @@
       "ehp": 15319,
       "score": 1010.7,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -388,7 +388,7 @@
       "ehp": 14509,
       "score": 1009.98,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS"
     },
@@ -414,7 +414,7 @@
       "ehp": 12941,
       "score": 1009.61,
       "tank": "B+",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "SS"
     },
@@ -429,7 +429,7 @@
       "tank": "B-",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "Bennni",
@@ -442,7 +442,7 @@
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS"
+      "overall": "S"
     },
     {
       "name": "SpaceCreated",
@@ -609,7 +609,7 @@
       "ehp": 12190,
       "score": 1006.74,
       "tank": "B-",
-      "hybrid": "S",
+      "hybrid": "SS",
       "dpst": "S",
       "overall": "S"
     },
