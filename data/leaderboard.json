@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-12T20:26:32.000Z",
+  "fetchedAt": "2026-09-14T04:24:10.195Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1397,12 +1397,12 @@
       "name": "TheWhitheOP",
       "cls": "archer",
       "rank": 8,
-      "dps": 572,
+      "dps": 595,
       "burst": 509,
-      "ehp": 9906,
-      "score": 1012.2,
+      "ehp": 9469,
+      "score": 1012.19,
       "tank": "SS",
-      "hybrid": "SS",
+      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SSS"
     },
@@ -2369,9 +2369,22 @@
       "overall": "SS"
     },
     {
-      "name": "PyaNeNk",
+      "name": "Zzzephyrus",
       "cls": "shaman",
       "rank": 33,
+      "dps": 554,
+      "burst": 386,
+      "ehp": 10308,
+      "score": 1010.02,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "PyaNeNk",
+      "cls": "shaman",
+      "rank": 34,
       "dps": 613,
       "burst": 410,
       "ehp": 8808,
@@ -2384,7 +2397,7 @@
     {
       "name": "Krixo",
       "cls": "shaman",
-      "rank": 34,
+      "rank": 35,
       "dps": 576,
       "burst": 398,
       "ehp": 9522,
@@ -2397,7 +2410,7 @@
     {
       "name": "Pickle",
       "cls": "shaman",
-      "rank": 35,
+      "rank": 36,
       "dps": 604,
       "burst": 395,
       "ehp": 8767,
@@ -2410,7 +2423,7 @@
     {
       "name": "else",
       "cls": "shaman",
-      "rank": 36,
+      "rank": 37,
       "dps": 571,
       "burst": 385,
       "ehp": 9801,
@@ -2423,7 +2436,7 @@
     {
       "name": "Urgmax3",
       "cls": "shaman",
-      "rank": 37,
+      "rank": 38,
       "dps": 560,
       "burst": 385,
       "ehp": 10064,
@@ -2436,7 +2449,7 @@
     {
       "name": "Yashahime",
       "cls": "shaman",
-      "rank": 38,
+      "rank": 39,
       "dps": 599,
       "burst": 415,
       "ehp": 8824,
@@ -2449,7 +2462,7 @@
     {
       "name": "soulhealing",
       "cls": "shaman",
-      "rank": 39,
+      "rank": 40,
       "dps": 576,
       "burst": 386,
       "ehp": 9455,
@@ -2462,7 +2475,7 @@
     {
       "name": "InMyPocket",
       "cls": "shaman",
-      "rank": 40,
+      "rank": 41,
       "dps": 559,
       "burst": 424,
       "ehp": 10097,
@@ -2475,7 +2488,7 @@
     {
       "name": "Healhealhealheal",
       "cls": "shaman",
-      "rank": 41,
+      "rank": 42,
       "dps": 585,
       "burst": 406,
       "ehp": 9255,
@@ -2488,7 +2501,7 @@
     {
       "name": "UltimoChaman",
       "cls": "shaman",
-      "rank": 42,
+      "rank": 43,
       "dps": 585,
       "burst": 408,
       "ehp": 9237,
@@ -2501,7 +2514,7 @@
     {
       "name": "iDrugDealer",
       "cls": "shaman",
-      "rank": 43,
+      "rank": 44,
       "dps": 580,
       "burst": 392,
       "ehp": 9373,
@@ -2514,7 +2527,7 @@
     {
       "name": "Axile",
       "cls": "shaman",
-      "rank": 44,
+      "rank": 45,
       "dps": 580,
       "burst": 405,
       "ehp": 9343,
@@ -2527,7 +2540,7 @@
     {
       "name": "Ozphyron",
       "cls": "shaman",
-      "rank": 45,
+      "rank": 46,
       "dps": 600,
       "burst": 415,
       "ehp": 8759,
@@ -2540,7 +2553,7 @@
     {
       "name": "IceN1ght",
       "cls": "shaman",
-      "rank": 46,
+      "rank": 47,
       "dps": 588,
       "burst": 387,
       "ehp": 9212,
@@ -2553,7 +2566,7 @@
     {
       "name": "kittenouo",
       "cls": "shaman",
-      "rank": 47,
+      "rank": 48,
       "dps": 566,
       "burst": 390,
       "ehp": 9749,
@@ -2566,7 +2579,7 @@
     {
       "name": "guest",
       "cls": "shaman",
-      "rank": 48,
+      "rank": 49,
       "dps": 603,
       "burst": 414,
       "ehp": 8492,
@@ -2579,7 +2592,7 @@
     {
       "name": "192837123987",
       "cls": "shaman",
-      "rank": 49,
+      "rank": 50,
       "dps": 553,
       "burst": 387,
       "ehp": 9952,
@@ -2587,19 +2600,6 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "A+",
-      "overall": "S"
-    },
-    {
-      "name": "BvbblyWater",
-      "cls": "shaman",
-      "rank": 50,
-      "dps": 584,
-      "burst": 404,
-      "ehp": 9027,
-      "score": 1008.56,
-      "tank": "A+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S"
     }
   ]
