@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-09-15T16:45:47.635Z",
+  "fetchedAt": "2026-09-15T21:09:08.250Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -1901,9 +1901,22 @@
       "overall": "SS"
     },
     {
-      "name": "Scopop",
+      "name": "ichimaru",
       "cls": "archer",
       "rank": 47,
+      "dps": 558,
+      "burst": 500,
+      "ehp": 9381,
+      "score": 1007.78,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "SS"
+    },
+    {
+      "name": "Scopop",
+      "cls": "archer",
+      "rank": 48,
       "dps": 615,
       "burst": 503,
       "ehp": 8296,
@@ -1916,7 +1929,7 @@
     {
       "name": "pooppoop787",
       "cls": "archer",
-      "rank": 48,
+      "rank": 49,
       "dps": 562,
       "burst": 523,
       "ehp": 8833,
@@ -1929,26 +1942,13 @@
     {
       "name": "Ckurupt",
       "cls": "archer",
-      "rank": 49,
+      "rank": 50,
       "dps": 582,
       "burst": 497,
       "ehp": 8941,
       "score": 1007.59,
       "tank": "S",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS"
-    },
-    {
-      "name": "Puurplez",
-      "cls": "archer",
-      "rank": 50,
-      "dps": 574,
-      "burst": 477,
-      "ehp": 9518,
-      "score": 1007.56,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS"
     },
