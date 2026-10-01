@@ -14,7 +14,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     strategy:
       fail-fast: false       # one class timing out shouldn't cancel the others
       matrix:
