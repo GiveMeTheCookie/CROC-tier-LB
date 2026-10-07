@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-06T18:16:06.954Z",
+  "fetchedAt": "2026-10-07T05:32:55.654Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65406,6 +65406,19 @@
       "rank": 31
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 32
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -65416,7 +65429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "butterfIy",
@@ -65424,19 +65437,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 33
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -66056,6 +66056,19 @@
       "rank": 81
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 82
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -66066,7 +66079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 82
+      "rank": 83
     },
     {
       "name": "butterfIy",
@@ -66074,19 +66087,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 83
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -66706,6 +66706,19 @@
       "rank": 131
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 132
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -66716,7 +66729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 132
+      "rank": 133
     },
     {
       "name": "butterfIy",
@@ -66724,19 +66737,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 133
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -67356,6 +67356,19 @@
       "rank": 181
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 182
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -67366,7 +67379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 182
+      "rank": 183
     },
     {
       "name": "butterfIy",
@@ -67374,19 +67387,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 183
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -68006,6 +68006,19 @@
       "rank": 231
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 232
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -68016,7 +68029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 232
+      "rank": 233
     },
     {
       "name": "butterfIy",
@@ -68024,19 +68037,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 233
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -68656,6 +68656,19 @@
       "rank": 281
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 282
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -68666,7 +68679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 282
+      "rank": 283
     },
     {
       "name": "butterfIy",
@@ -68674,19 +68687,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 283
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -69306,6 +69306,19 @@
       "rank": 331
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 332
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -69316,7 +69329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 332
+      "rank": 333
     },
     {
       "name": "butterfIy",
@@ -69324,19 +69337,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 333
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -69956,6 +69956,19 @@
       "rank": 381
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 382
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -69966,7 +69979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 382
+      "rank": 383
     },
     {
       "name": "butterfIy",
@@ -69974,19 +69987,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 383
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -70606,6 +70606,19 @@
       "rank": 431
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 432
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -70616,7 +70629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 432
+      "rank": 433
     },
     {
       "name": "butterfIy",
@@ -70624,19 +70637,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 433
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -71256,6 +71256,19 @@
       "rank": 481
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 482
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -71266,7 +71279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 482
+      "rank": 483
     },
     {
       "name": "butterfIy",
@@ -71274,19 +71287,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 483
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -71906,6 +71906,19 @@
       "rank": 531
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 532
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -71916,7 +71929,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 532
+      "rank": 533
     },
     {
       "name": "butterfIy",
@@ -71924,19 +71937,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 533
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -72556,6 +72556,19 @@
       "rank": 581
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 582
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -72566,7 +72579,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 582
+      "rank": 583
     },
     {
       "name": "butterfIy",
@@ -72574,19 +72587,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 583
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -73206,6 +73206,19 @@
       "rank": 631
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 632
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -73216,7 +73229,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 632
+      "rank": 633
     },
     {
       "name": "butterfIy",
@@ -73224,19 +73237,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 633
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -73856,6 +73856,19 @@
       "rank": 681
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 682
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -73866,7 +73879,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 682
+      "rank": 683
     },
     {
       "name": "butterfIy",
@@ -73874,19 +73887,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 683
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -74506,6 +74506,19 @@
       "rank": 731
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 732
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -74516,7 +74529,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 732
+      "rank": 733
     },
     {
       "name": "butterfIy",
@@ -74524,19 +74537,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 733
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -75156,6 +75156,19 @@
       "rank": 781
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 782
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -75166,7 +75179,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 782
+      "rank": 783
     },
     {
       "name": "butterfIy",
@@ -75174,19 +75187,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 783
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -75806,6 +75806,19 @@
       "rank": 831
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 832
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -75816,7 +75829,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 832
+      "rank": 833
     },
     {
       "name": "butterfIy",
@@ -75824,19 +75837,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 833
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -76456,6 +76456,19 @@
       "rank": 881
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 882
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -76466,7 +76479,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 882
+      "rank": 883
     },
     {
       "name": "butterfIy",
@@ -76474,19 +76487,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 883
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -77106,6 +77106,19 @@
       "rank": 931
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 932
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -77116,7 +77129,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 932
+      "rank": 933
     },
     {
       "name": "butterfIy",
@@ -77124,19 +77137,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 933
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -77756,6 +77756,19 @@
       "rank": 981
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 982
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -77766,7 +77779,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 982
+      "rank": 983
     },
     {
       "name": "butterfIy",
@@ -77774,19 +77787,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 983
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -78406,6 +78406,19 @@
       "rank": 1031
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1032
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -78416,7 +78429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1032
+      "rank": 1033
     },
     {
       "name": "butterfIy",
@@ -78424,19 +78437,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1033
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -79056,6 +79056,19 @@
       "rank": 1081
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1082
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -79066,7 +79079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1082
+      "rank": 1083
     },
     {
       "name": "butterfIy",
@@ -79074,19 +79087,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1083
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -79706,6 +79706,19 @@
       "rank": 1131
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1132
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -79716,7 +79729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1132
+      "rank": 1133
     },
     {
       "name": "butterfIy",
@@ -79724,19 +79737,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1133
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -80356,6 +80356,19 @@
       "rank": 1181
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1182
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -80366,7 +80379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1182
+      "rank": 1183
     },
     {
       "name": "butterfIy",
@@ -80374,19 +80387,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1183
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -81006,6 +81006,19 @@
       "rank": 1231
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1232
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -81016,7 +81029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1232
+      "rank": 1233
     },
     {
       "name": "butterfIy",
@@ -81024,19 +81037,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1233
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -81656,6 +81656,19 @@
       "rank": 1281
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1282
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -81666,7 +81679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1282
+      "rank": 1283
     },
     {
       "name": "butterfIy",
@@ -81674,19 +81687,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1283
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -82306,6 +82306,19 @@
       "rank": 1331
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1332
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -82316,7 +82329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1332
+      "rank": 1333
     },
     {
       "name": "butterfIy",
@@ -82324,19 +82337,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1333
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -82956,6 +82956,19 @@
       "rank": 1381
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1382
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -82966,7 +82979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1382
+      "rank": 1383
     },
     {
       "name": "butterfIy",
@@ -82974,19 +82987,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1383
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -83606,6 +83606,19 @@
       "rank": 1431
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1432
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -83616,7 +83629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1432
+      "rank": 1433
     },
     {
       "name": "butterfIy",
@@ -83624,19 +83637,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1433
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -84256,6 +84256,19 @@
       "rank": 1481
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1482
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -84266,7 +84279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1482
+      "rank": 1483
     },
     {
       "name": "butterfIy",
@@ -84274,19 +84287,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1483
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -84906,6 +84906,19 @@
       "rank": 1531
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1532
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -84916,7 +84929,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1532
+      "rank": 1533
     },
     {
       "name": "butterfIy",
@@ -84924,19 +84937,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1533
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -85556,6 +85556,19 @@
       "rank": 1581
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1582
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -85566,7 +85579,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1582
+      "rank": 1583
     },
     {
       "name": "butterfIy",
@@ -85574,19 +85587,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1583
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -86206,6 +86206,19 @@
       "rank": 1631
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1632
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -86216,7 +86229,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1632
+      "rank": 1633
     },
     {
       "name": "butterfIy",
@@ -86224,19 +86237,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1633
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -86856,6 +86856,19 @@
       "rank": 1681
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1682
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -86866,7 +86879,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1682
+      "rank": 1683
     },
     {
       "name": "butterfIy",
@@ -86874,19 +86887,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1683
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -87506,6 +87506,19 @@
       "rank": 1731
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1732
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -87516,7 +87529,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1732
+      "rank": 1733
     },
     {
       "name": "butterfIy",
@@ -87524,19 +87537,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1733
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -88156,6 +88156,19 @@
       "rank": 1781
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1782
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -88166,7 +88179,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1782
+      "rank": 1783
     },
     {
       "name": "butterfIy",
@@ -88174,19 +88187,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1783
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -88806,6 +88806,19 @@
       "rank": 1831
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1832
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -88816,7 +88829,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1832
+      "rank": 1833
     },
     {
       "name": "butterfIy",
@@ -88824,19 +88837,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1833
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -89456,6 +89456,19 @@
       "rank": 1881
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1882
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -89466,7 +89479,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1882
+      "rank": 1883
     },
     {
       "name": "butterfIy",
@@ -89474,19 +89487,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1883
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -90106,6 +90106,19 @@
       "rank": 1931
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1932
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -90116,7 +90129,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1932
+      "rank": 1933
     },
     {
       "name": "butterfIy",
@@ -90124,19 +90137,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1933
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -90756,6 +90756,19 @@
       "rank": 1981
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1982
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -90766,7 +90779,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1982
+      "rank": 1983
     },
     {
       "name": "butterfIy",
@@ -90774,19 +90787,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1983
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -91406,6 +91406,19 @@
       "rank": 2031
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2032
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -91416,7 +91429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2032
+      "rank": 2033
     },
     {
       "name": "butterfIy",
@@ -91424,19 +91437,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2033
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -92056,6 +92056,19 @@
       "rank": 2081
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2082
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -92066,7 +92079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2082
+      "rank": 2083
     },
     {
       "name": "butterfIy",
@@ -92074,19 +92087,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2083
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -92706,6 +92706,19 @@
       "rank": 2131
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2132
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -92716,7 +92729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2132
+      "rank": 2133
     },
     {
       "name": "butterfIy",
@@ -92724,19 +92737,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2133
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -93356,6 +93356,19 @@
       "rank": 2181
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2182
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -93366,7 +93379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2182
+      "rank": 2183
     },
     {
       "name": "butterfIy",
@@ -93374,19 +93387,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2183
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -94006,6 +94006,19 @@
       "rank": 2231
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2232
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -94016,7 +94029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2232
+      "rank": 2233
     },
     {
       "name": "butterfIy",
@@ -94024,19 +94037,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2233
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -94656,6 +94656,19 @@
       "rank": 2281
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2282
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -94666,7 +94679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2282
+      "rank": 2283
     },
     {
       "name": "butterfIy",
@@ -94674,19 +94687,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2283
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -95306,6 +95306,19 @@
       "rank": 2331
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2332
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -95316,7 +95329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2332
+      "rank": 2333
     },
     {
       "name": "butterfIy",
@@ -95324,19 +95337,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2333
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -95956,6 +95956,19 @@
       "rank": 2381
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2382
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -95966,7 +95979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2382
+      "rank": 2383
     },
     {
       "name": "butterfIy",
@@ -95974,19 +95987,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2383
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -96606,6 +96606,19 @@
       "rank": 2431
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2432
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -96616,7 +96629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2432
+      "rank": 2433
     },
     {
       "name": "butterfIy",
@@ -96624,19 +96637,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2433
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
@@ -97256,6 +97256,19 @@
       "rank": 2481
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 612,
+      "burst": 492,
+      "ehp": 8873,
+      "score": 1009.24,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2482
+    },
+    {
       "name": "Xee",
       "dps": 587,
       "burst": 507,
@@ -97266,7 +97279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2482
+      "rank": 2483
     },
     {
       "name": "butterfIy",
@@ -97274,19 +97287,6 @@
       "burst": 515,
       "ehp": 8474,
       "score": 1009.07,
-      "tank": "S",
-      "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2483
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 620,
-      "burst": 499,
-      "ehp": 8499,
-      "score": 1008.74,
       "tank": "S",
       "hybrid": "SSS",
       "dpst": "SS",
