@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-13T00:31:10.131Z",
+  "fetchedAt": "2026-10-13T14:01:43.603Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -458,6 +458,19 @@
       "rank": 35
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 36
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -468,7 +481,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Roquita",
@@ -481,7 +494,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "tanksword",
@@ -494,7 +507,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "ConvolutedTubule",
@@ -507,20 +520,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Xerunt",
@@ -533,7 +546,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Kurzgesagt",
@@ -546,7 +559,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "opprofff",
@@ -559,7 +572,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "LichtBach",
@@ -570,19 +583,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 44
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 45
@@ -1108,6 +1108,19 @@
       "rank": 85
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 86
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -1118,7 +1131,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 86
+      "rank": 87
     },
     {
       "name": "Roquita",
@@ -1131,7 +1144,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 87
+      "rank": 88
     },
     {
       "name": "tanksword",
@@ -1144,7 +1157,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 88
+      "rank": 89
     },
     {
       "name": "ConvolutedTubule",
@@ -1157,20 +1170,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 89
+      "rank": 90
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "Xerunt",
@@ -1183,7 +1196,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "Kurzgesagt",
@@ -1196,7 +1209,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "opprofff",
@@ -1209,7 +1222,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "LichtBach",
@@ -1220,19 +1233,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 94
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 95
@@ -1758,6 +1758,19 @@
       "rank": 135
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 136
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -1768,7 +1781,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 136
+      "rank": 137
     },
     {
       "name": "Roquita",
@@ -1781,7 +1794,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "tanksword",
@@ -1794,7 +1807,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 138
+      "rank": 139
     },
     {
       "name": "ConvolutedTubule",
@@ -1807,20 +1820,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 139
+      "rank": 140
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 140
+      "rank": 141
     },
     {
       "name": "Xerunt",
@@ -1833,7 +1846,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 141
+      "rank": 142
     },
     {
       "name": "Kurzgesagt",
@@ -1846,7 +1859,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 142
+      "rank": 143
     },
     {
       "name": "opprofff",
@@ -1859,7 +1872,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 143
+      "rank": 144
     },
     {
       "name": "LichtBach",
@@ -1870,19 +1883,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 144
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 145
@@ -2408,6 +2408,19 @@
       "rank": 185
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 186
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -2418,7 +2431,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 186
+      "rank": 187
     },
     {
       "name": "Roquita",
@@ -2431,7 +2444,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 187
+      "rank": 188
     },
     {
       "name": "tanksword",
@@ -2444,7 +2457,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 188
+      "rank": 189
     },
     {
       "name": "ConvolutedTubule",
@@ -2457,20 +2470,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 189
+      "rank": 190
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 190
+      "rank": 191
     },
     {
       "name": "Xerunt",
@@ -2483,7 +2496,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 191
+      "rank": 192
     },
     {
       "name": "Kurzgesagt",
@@ -2496,7 +2509,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 192
+      "rank": 193
     },
     {
       "name": "opprofff",
@@ -2509,7 +2522,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "LichtBach",
@@ -2520,19 +2533,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 194
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 195
@@ -3058,6 +3058,19 @@
       "rank": 235
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 236
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -3068,7 +3081,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 236
+      "rank": 237
     },
     {
       "name": "Roquita",
@@ -3081,7 +3094,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 237
+      "rank": 238
     },
     {
       "name": "tanksword",
@@ -3094,7 +3107,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 238
+      "rank": 239
     },
     {
       "name": "ConvolutedTubule",
@@ -3107,20 +3120,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 239
+      "rank": 240
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 240
+      "rank": 241
     },
     {
       "name": "Xerunt",
@@ -3133,7 +3146,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 241
+      "rank": 242
     },
     {
       "name": "Kurzgesagt",
@@ -3146,7 +3159,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 242
+      "rank": 243
     },
     {
       "name": "opprofff",
@@ -3159,7 +3172,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 243
+      "rank": 244
     },
     {
       "name": "LichtBach",
@@ -3170,19 +3183,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 244
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 245
@@ -3708,6 +3708,19 @@
       "rank": 285
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 286
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -3718,7 +3731,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 286
+      "rank": 287
     },
     {
       "name": "Roquita",
@@ -3731,7 +3744,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 287
+      "rank": 288
     },
     {
       "name": "tanksword",
@@ -3744,7 +3757,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 288
+      "rank": 289
     },
     {
       "name": "ConvolutedTubule",
@@ -3757,20 +3770,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 289
+      "rank": 290
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 290
+      "rank": 291
     },
     {
       "name": "Xerunt",
@@ -3783,7 +3796,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 291
+      "rank": 292
     },
     {
       "name": "Kurzgesagt",
@@ -3796,7 +3809,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 292
+      "rank": 293
     },
     {
       "name": "opprofff",
@@ -3809,7 +3822,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 293
+      "rank": 294
     },
     {
       "name": "LichtBach",
@@ -3820,19 +3833,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 294
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 295
@@ -4358,6 +4358,19 @@
       "rank": 335
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 336
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -4368,7 +4381,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 336
+      "rank": 337
     },
     {
       "name": "Roquita",
@@ -4381,7 +4394,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 337
+      "rank": 338
     },
     {
       "name": "tanksword",
@@ -4394,7 +4407,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 338
+      "rank": 339
     },
     {
       "name": "ConvolutedTubule",
@@ -4407,20 +4420,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 339
+      "rank": 340
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 340
+      "rank": 341
     },
     {
       "name": "Xerunt",
@@ -4433,7 +4446,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 341
+      "rank": 342
     },
     {
       "name": "Kurzgesagt",
@@ -4446,7 +4459,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 342
+      "rank": 343
     },
     {
       "name": "opprofff",
@@ -4459,7 +4472,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 343
+      "rank": 344
     },
     {
       "name": "LichtBach",
@@ -4470,19 +4483,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 344
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 345
@@ -5008,6 +5008,19 @@
       "rank": 385
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 386
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -5018,7 +5031,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 386
+      "rank": 387
     },
     {
       "name": "Roquita",
@@ -5031,7 +5044,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 387
+      "rank": 388
     },
     {
       "name": "tanksword",
@@ -5044,7 +5057,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 388
+      "rank": 389
     },
     {
       "name": "ConvolutedTubule",
@@ -5057,20 +5070,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 389
+      "rank": 390
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 390
+      "rank": 391
     },
     {
       "name": "Xerunt",
@@ -5083,7 +5096,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 391
+      "rank": 392
     },
     {
       "name": "Kurzgesagt",
@@ -5096,7 +5109,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 392
+      "rank": 393
     },
     {
       "name": "opprofff",
@@ -5109,7 +5122,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 393
+      "rank": 394
     },
     {
       "name": "LichtBach",
@@ -5120,19 +5133,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 394
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 395
@@ -5658,6 +5658,19 @@
       "rank": 435
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 436
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -5668,7 +5681,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 436
+      "rank": 437
     },
     {
       "name": "Roquita",
@@ -5681,7 +5694,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 437
+      "rank": 438
     },
     {
       "name": "tanksword",
@@ -5694,7 +5707,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 438
+      "rank": 439
     },
     {
       "name": "ConvolutedTubule",
@@ -5707,20 +5720,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 439
+      "rank": 440
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 440
+      "rank": 441
     },
     {
       "name": "Xerunt",
@@ -5733,7 +5746,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 441
+      "rank": 442
     },
     {
       "name": "Kurzgesagt",
@@ -5746,7 +5759,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 442
+      "rank": 443
     },
     {
       "name": "opprofff",
@@ -5759,7 +5772,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 443
+      "rank": 444
     },
     {
       "name": "LichtBach",
@@ -5770,19 +5783,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 444
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 445
@@ -6308,6 +6308,19 @@
       "rank": 485
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 486
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -6318,7 +6331,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 486
+      "rank": 487
     },
     {
       "name": "Roquita",
@@ -6331,7 +6344,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 487
+      "rank": 488
     },
     {
       "name": "tanksword",
@@ -6344,7 +6357,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 488
+      "rank": 489
     },
     {
       "name": "ConvolutedTubule",
@@ -6357,20 +6370,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 489
+      "rank": 490
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 490
+      "rank": 491
     },
     {
       "name": "Xerunt",
@@ -6383,7 +6396,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 491
+      "rank": 492
     },
     {
       "name": "Kurzgesagt",
@@ -6396,7 +6409,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 492
+      "rank": 493
     },
     {
       "name": "opprofff",
@@ -6409,7 +6422,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 493
+      "rank": 494
     },
     {
       "name": "LichtBach",
@@ -6420,19 +6433,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 494
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 495
@@ -6958,6 +6958,19 @@
       "rank": 535
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 536
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -6968,7 +6981,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 536
+      "rank": 537
     },
     {
       "name": "Roquita",
@@ -6981,7 +6994,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 537
+      "rank": 538
     },
     {
       "name": "tanksword",
@@ -6994,7 +7007,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 538
+      "rank": 539
     },
     {
       "name": "ConvolutedTubule",
@@ -7007,20 +7020,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 539
+      "rank": 540
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 540
+      "rank": 541
     },
     {
       "name": "Xerunt",
@@ -7033,7 +7046,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 541
+      "rank": 542
     },
     {
       "name": "Kurzgesagt",
@@ -7046,7 +7059,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 542
+      "rank": 543
     },
     {
       "name": "opprofff",
@@ -7059,7 +7072,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 543
+      "rank": 544
     },
     {
       "name": "LichtBach",
@@ -7070,19 +7083,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 544
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 545
@@ -7608,6 +7608,19 @@
       "rank": 585
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 586
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -7618,7 +7631,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 586
+      "rank": 587
     },
     {
       "name": "Roquita",
@@ -7631,7 +7644,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 587
+      "rank": 588
     },
     {
       "name": "tanksword",
@@ -7644,7 +7657,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 588
+      "rank": 589
     },
     {
       "name": "ConvolutedTubule",
@@ -7657,20 +7670,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 589
+      "rank": 590
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 590
+      "rank": 591
     },
     {
       "name": "Xerunt",
@@ -7683,7 +7696,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 591
+      "rank": 592
     },
     {
       "name": "Kurzgesagt",
@@ -7696,7 +7709,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 592
+      "rank": 593
     },
     {
       "name": "opprofff",
@@ -7709,7 +7722,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 593
+      "rank": 594
     },
     {
       "name": "LichtBach",
@@ -7720,19 +7733,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 594
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 595
@@ -8258,6 +8258,19 @@
       "rank": 635
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 636
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -8268,7 +8281,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 636
+      "rank": 637
     },
     {
       "name": "Roquita",
@@ -8281,7 +8294,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 637
+      "rank": 638
     },
     {
       "name": "tanksword",
@@ -8294,7 +8307,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 638
+      "rank": 639
     },
     {
       "name": "ConvolutedTubule",
@@ -8307,20 +8320,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 639
+      "rank": 640
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 640
+      "rank": 641
     },
     {
       "name": "Xerunt",
@@ -8333,7 +8346,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 641
+      "rank": 642
     },
     {
       "name": "Kurzgesagt",
@@ -8346,7 +8359,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 642
+      "rank": 643
     },
     {
       "name": "opprofff",
@@ -8359,7 +8372,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 643
+      "rank": 644
     },
     {
       "name": "LichtBach",
@@ -8370,19 +8383,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 644
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 645
@@ -8908,6 +8908,19 @@
       "rank": 685
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 686
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -8918,7 +8931,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 686
+      "rank": 687
     },
     {
       "name": "Roquita",
@@ -8931,7 +8944,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 687
+      "rank": 688
     },
     {
       "name": "tanksword",
@@ -8944,7 +8957,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 688
+      "rank": 689
     },
     {
       "name": "ConvolutedTubule",
@@ -8957,20 +8970,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 689
+      "rank": 690
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 690
+      "rank": 691
     },
     {
       "name": "Xerunt",
@@ -8983,7 +8996,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 691
+      "rank": 692
     },
     {
       "name": "Kurzgesagt",
@@ -8996,7 +9009,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 692
+      "rank": 693
     },
     {
       "name": "opprofff",
@@ -9009,7 +9022,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 693
+      "rank": 694
     },
     {
       "name": "LichtBach",
@@ -9020,19 +9033,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 694
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 695
@@ -9558,6 +9558,19 @@
       "rank": 735
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 736
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -9568,7 +9581,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 736
+      "rank": 737
     },
     {
       "name": "Roquita",
@@ -9581,7 +9594,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 737
+      "rank": 738
     },
     {
       "name": "tanksword",
@@ -9594,7 +9607,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 738
+      "rank": 739
     },
     {
       "name": "ConvolutedTubule",
@@ -9607,20 +9620,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 739
+      "rank": 740
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 740
+      "rank": 741
     },
     {
       "name": "Xerunt",
@@ -9633,7 +9646,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 741
+      "rank": 742
     },
     {
       "name": "Kurzgesagt",
@@ -9646,7 +9659,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 742
+      "rank": 743
     },
     {
       "name": "opprofff",
@@ -9659,7 +9672,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 743
+      "rank": 744
     },
     {
       "name": "LichtBach",
@@ -9670,19 +9683,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 744
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 745
@@ -10208,6 +10208,19 @@
       "rank": 785
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 786
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -10218,7 +10231,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 786
+      "rank": 787
     },
     {
       "name": "Roquita",
@@ -10231,7 +10244,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 787
+      "rank": 788
     },
     {
       "name": "tanksword",
@@ -10244,7 +10257,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 788
+      "rank": 789
     },
     {
       "name": "ConvolutedTubule",
@@ -10257,20 +10270,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 789
+      "rank": 790
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 790
+      "rank": 791
     },
     {
       "name": "Xerunt",
@@ -10283,7 +10296,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 791
+      "rank": 792
     },
     {
       "name": "Kurzgesagt",
@@ -10296,7 +10309,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 792
+      "rank": 793
     },
     {
       "name": "opprofff",
@@ -10309,7 +10322,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 793
+      "rank": 794
     },
     {
       "name": "LichtBach",
@@ -10320,19 +10333,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 794
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 795
@@ -10858,6 +10858,19 @@
       "rank": 835
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 836
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -10868,7 +10881,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 836
+      "rank": 837
     },
     {
       "name": "Roquita",
@@ -10881,7 +10894,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 837
+      "rank": 838
     },
     {
       "name": "tanksword",
@@ -10894,7 +10907,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 838
+      "rank": 839
     },
     {
       "name": "ConvolutedTubule",
@@ -10907,20 +10920,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 839
+      "rank": 840
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 840
+      "rank": 841
     },
     {
       "name": "Xerunt",
@@ -10933,7 +10946,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 841
+      "rank": 842
     },
     {
       "name": "Kurzgesagt",
@@ -10946,7 +10959,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 842
+      "rank": 843
     },
     {
       "name": "opprofff",
@@ -10959,7 +10972,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 843
+      "rank": 844
     },
     {
       "name": "LichtBach",
@@ -10970,19 +10983,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 844
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 845
@@ -11508,6 +11508,19 @@
       "rank": 885
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 886
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -11518,7 +11531,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 886
+      "rank": 887
     },
     {
       "name": "Roquita",
@@ -11531,7 +11544,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 887
+      "rank": 888
     },
     {
       "name": "tanksword",
@@ -11544,7 +11557,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 888
+      "rank": 889
     },
     {
       "name": "ConvolutedTubule",
@@ -11557,20 +11570,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 889
+      "rank": 890
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 890
+      "rank": 891
     },
     {
       "name": "Xerunt",
@@ -11583,7 +11596,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 891
+      "rank": 892
     },
     {
       "name": "Kurzgesagt",
@@ -11596,7 +11609,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 892
+      "rank": 893
     },
     {
       "name": "opprofff",
@@ -11609,7 +11622,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 893
+      "rank": 894
     },
     {
       "name": "LichtBach",
@@ -11620,19 +11633,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 894
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 895
@@ -12158,6 +12158,19 @@
       "rank": 935
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 936
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -12168,7 +12181,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 936
+      "rank": 937
     },
     {
       "name": "Roquita",
@@ -12181,7 +12194,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 937
+      "rank": 938
     },
     {
       "name": "tanksword",
@@ -12194,7 +12207,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 938
+      "rank": 939
     },
     {
       "name": "ConvolutedTubule",
@@ -12207,20 +12220,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 939
+      "rank": 940
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 940
+      "rank": 941
     },
     {
       "name": "Xerunt",
@@ -12233,7 +12246,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 941
+      "rank": 942
     },
     {
       "name": "Kurzgesagt",
@@ -12246,7 +12259,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 942
+      "rank": 943
     },
     {
       "name": "opprofff",
@@ -12259,7 +12272,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 943
+      "rank": 944
     },
     {
       "name": "LichtBach",
@@ -12270,19 +12283,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 944
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 945
@@ -12808,6 +12808,19 @@
       "rank": 985
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 986
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -12818,7 +12831,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 986
+      "rank": 987
     },
     {
       "name": "Roquita",
@@ -12831,7 +12844,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 987
+      "rank": 988
     },
     {
       "name": "tanksword",
@@ -12844,7 +12857,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 988
+      "rank": 989
     },
     {
       "name": "ConvolutedTubule",
@@ -12857,20 +12870,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 989
+      "rank": 990
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 990
+      "rank": 991
     },
     {
       "name": "Xerunt",
@@ -12883,7 +12896,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 991
+      "rank": 992
     },
     {
       "name": "Kurzgesagt",
@@ -12896,7 +12909,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 992
+      "rank": 993
     },
     {
       "name": "opprofff",
@@ -12909,7 +12922,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 993
+      "rank": 994
     },
     {
       "name": "LichtBach",
@@ -12920,19 +12933,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 994
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 995
@@ -13458,6 +13458,19 @@
       "rank": 1035
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1036
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -13468,7 +13481,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1036
+      "rank": 1037
     },
     {
       "name": "Roquita",
@@ -13481,7 +13494,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1037
+      "rank": 1038
     },
     {
       "name": "tanksword",
@@ -13494,7 +13507,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1038
+      "rank": 1039
     },
     {
       "name": "ConvolutedTubule",
@@ -13507,20 +13520,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1039
+      "rank": 1040
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1040
+      "rank": 1041
     },
     {
       "name": "Xerunt",
@@ -13533,7 +13546,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1041
+      "rank": 1042
     },
     {
       "name": "Kurzgesagt",
@@ -13546,7 +13559,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1042
+      "rank": 1043
     },
     {
       "name": "opprofff",
@@ -13559,7 +13572,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1043
+      "rank": 1044
     },
     {
       "name": "LichtBach",
@@ -13570,19 +13583,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1044
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1045
@@ -14108,6 +14108,19 @@
       "rank": 1085
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1086
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -14118,7 +14131,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1086
+      "rank": 1087
     },
     {
       "name": "Roquita",
@@ -14131,7 +14144,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1087
+      "rank": 1088
     },
     {
       "name": "tanksword",
@@ -14144,7 +14157,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1088
+      "rank": 1089
     },
     {
       "name": "ConvolutedTubule",
@@ -14157,20 +14170,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1089
+      "rank": 1090
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1090
+      "rank": 1091
     },
     {
       "name": "Xerunt",
@@ -14183,7 +14196,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1091
+      "rank": 1092
     },
     {
       "name": "Kurzgesagt",
@@ -14196,7 +14209,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1092
+      "rank": 1093
     },
     {
       "name": "opprofff",
@@ -14209,7 +14222,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1093
+      "rank": 1094
     },
     {
       "name": "LichtBach",
@@ -14220,19 +14233,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1094
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1095
@@ -14758,6 +14758,19 @@
       "rank": 1135
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1136
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -14768,7 +14781,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1136
+      "rank": 1137
     },
     {
       "name": "Roquita",
@@ -14781,7 +14794,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1137
+      "rank": 1138
     },
     {
       "name": "tanksword",
@@ -14794,7 +14807,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1138
+      "rank": 1139
     },
     {
       "name": "ConvolutedTubule",
@@ -14807,20 +14820,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1139
+      "rank": 1140
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1140
+      "rank": 1141
     },
     {
       "name": "Xerunt",
@@ -14833,7 +14846,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1141
+      "rank": 1142
     },
     {
       "name": "Kurzgesagt",
@@ -14846,7 +14859,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1142
+      "rank": 1143
     },
     {
       "name": "opprofff",
@@ -14859,7 +14872,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1143
+      "rank": 1144
     },
     {
       "name": "LichtBach",
@@ -14870,19 +14883,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1144
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1145
@@ -15408,6 +15408,19 @@
       "rank": 1185
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1186
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -15418,7 +15431,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1186
+      "rank": 1187
     },
     {
       "name": "Roquita",
@@ -15431,7 +15444,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1187
+      "rank": 1188
     },
     {
       "name": "tanksword",
@@ -15444,7 +15457,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1188
+      "rank": 1189
     },
     {
       "name": "ConvolutedTubule",
@@ -15457,20 +15470,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1189
+      "rank": 1190
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1190
+      "rank": 1191
     },
     {
       "name": "Xerunt",
@@ -15483,7 +15496,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1191
+      "rank": 1192
     },
     {
       "name": "Kurzgesagt",
@@ -15496,7 +15509,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1192
+      "rank": 1193
     },
     {
       "name": "opprofff",
@@ -15509,7 +15522,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1193
+      "rank": 1194
     },
     {
       "name": "LichtBach",
@@ -15520,19 +15533,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1194
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1195
@@ -16058,6 +16058,19 @@
       "rank": 1235
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1236
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -16068,7 +16081,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1236
+      "rank": 1237
     },
     {
       "name": "Roquita",
@@ -16081,7 +16094,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1237
+      "rank": 1238
     },
     {
       "name": "tanksword",
@@ -16094,7 +16107,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1238
+      "rank": 1239
     },
     {
       "name": "ConvolutedTubule",
@@ -16107,20 +16120,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1239
+      "rank": 1240
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1240
+      "rank": 1241
     },
     {
       "name": "Xerunt",
@@ -16133,7 +16146,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1241
+      "rank": 1242
     },
     {
       "name": "Kurzgesagt",
@@ -16146,7 +16159,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1242
+      "rank": 1243
     },
     {
       "name": "opprofff",
@@ -16159,7 +16172,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1243
+      "rank": 1244
     },
     {
       "name": "LichtBach",
@@ -16170,19 +16183,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1244
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1245
@@ -16708,6 +16708,19 @@
       "rank": 1285
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1286
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -16718,7 +16731,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1286
+      "rank": 1287
     },
     {
       "name": "Roquita",
@@ -16731,7 +16744,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1287
+      "rank": 1288
     },
     {
       "name": "tanksword",
@@ -16744,7 +16757,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1288
+      "rank": 1289
     },
     {
       "name": "ConvolutedTubule",
@@ -16757,20 +16770,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1289
+      "rank": 1290
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1290
+      "rank": 1291
     },
     {
       "name": "Xerunt",
@@ -16783,7 +16796,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1291
+      "rank": 1292
     },
     {
       "name": "Kurzgesagt",
@@ -16796,7 +16809,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1292
+      "rank": 1293
     },
     {
       "name": "opprofff",
@@ -16809,7 +16822,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1293
+      "rank": 1294
     },
     {
       "name": "LichtBach",
@@ -16820,19 +16833,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1294
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1295
@@ -17358,6 +17358,19 @@
       "rank": 1335
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1336
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -17368,7 +17381,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1336
+      "rank": 1337
     },
     {
       "name": "Roquita",
@@ -17381,7 +17394,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1337
+      "rank": 1338
     },
     {
       "name": "tanksword",
@@ -17394,7 +17407,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1338
+      "rank": 1339
     },
     {
       "name": "ConvolutedTubule",
@@ -17407,20 +17420,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1339
+      "rank": 1340
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1340
+      "rank": 1341
     },
     {
       "name": "Xerunt",
@@ -17433,7 +17446,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1341
+      "rank": 1342
     },
     {
       "name": "Kurzgesagt",
@@ -17446,7 +17459,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1342
+      "rank": 1343
     },
     {
       "name": "opprofff",
@@ -17459,7 +17472,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1343
+      "rank": 1344
     },
     {
       "name": "LichtBach",
@@ -17470,19 +17483,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1344
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1345
@@ -18008,6 +18008,19 @@
       "rank": 1385
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1386
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -18018,7 +18031,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1386
+      "rank": 1387
     },
     {
       "name": "Roquita",
@@ -18031,7 +18044,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1387
+      "rank": 1388
     },
     {
       "name": "tanksword",
@@ -18044,7 +18057,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1388
+      "rank": 1389
     },
     {
       "name": "ConvolutedTubule",
@@ -18057,20 +18070,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1389
+      "rank": 1390
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1390
+      "rank": 1391
     },
     {
       "name": "Xerunt",
@@ -18083,7 +18096,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1391
+      "rank": 1392
     },
     {
       "name": "Kurzgesagt",
@@ -18096,7 +18109,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1392
+      "rank": 1393
     },
     {
       "name": "opprofff",
@@ -18109,7 +18122,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1393
+      "rank": 1394
     },
     {
       "name": "LichtBach",
@@ -18120,19 +18133,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1394
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1395
@@ -18658,6 +18658,19 @@
       "rank": 1435
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1436
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -18668,7 +18681,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1436
+      "rank": 1437
     },
     {
       "name": "Roquita",
@@ -18681,7 +18694,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1437
+      "rank": 1438
     },
     {
       "name": "tanksword",
@@ -18694,7 +18707,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1438
+      "rank": 1439
     },
     {
       "name": "ConvolutedTubule",
@@ -18707,20 +18720,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1439
+      "rank": 1440
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1440
+      "rank": 1441
     },
     {
       "name": "Xerunt",
@@ -18733,7 +18746,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1441
+      "rank": 1442
     },
     {
       "name": "Kurzgesagt",
@@ -18746,7 +18759,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1442
+      "rank": 1443
     },
     {
       "name": "opprofff",
@@ -18759,7 +18772,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1443
+      "rank": 1444
     },
     {
       "name": "LichtBach",
@@ -18770,19 +18783,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1444
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1445
@@ -19308,6 +19308,19 @@
       "rank": 1485
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1486
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -19318,7 +19331,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1486
+      "rank": 1487
     },
     {
       "name": "Roquita",
@@ -19331,7 +19344,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1487
+      "rank": 1488
     },
     {
       "name": "tanksword",
@@ -19344,7 +19357,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1488
+      "rank": 1489
     },
     {
       "name": "ConvolutedTubule",
@@ -19357,20 +19370,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1489
+      "rank": 1490
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1490
+      "rank": 1491
     },
     {
       "name": "Xerunt",
@@ -19383,7 +19396,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1491
+      "rank": 1492
     },
     {
       "name": "Kurzgesagt",
@@ -19396,7 +19409,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1492
+      "rank": 1493
     },
     {
       "name": "opprofff",
@@ -19409,7 +19422,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1493
+      "rank": 1494
     },
     {
       "name": "LichtBach",
@@ -19420,19 +19433,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1494
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1495
@@ -19958,6 +19958,19 @@
       "rank": 1535
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1536
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -19968,7 +19981,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1536
+      "rank": 1537
     },
     {
       "name": "Roquita",
@@ -19981,7 +19994,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1537
+      "rank": 1538
     },
     {
       "name": "tanksword",
@@ -19994,7 +20007,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1538
+      "rank": 1539
     },
     {
       "name": "ConvolutedTubule",
@@ -20007,20 +20020,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1539
+      "rank": 1540
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1540
+      "rank": 1541
     },
     {
       "name": "Xerunt",
@@ -20033,7 +20046,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1541
+      "rank": 1542
     },
     {
       "name": "Kurzgesagt",
@@ -20046,7 +20059,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1542
+      "rank": 1543
     },
     {
       "name": "opprofff",
@@ -20059,7 +20072,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1543
+      "rank": 1544
     },
     {
       "name": "LichtBach",
@@ -20070,19 +20083,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1544
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1545
@@ -20608,6 +20608,19 @@
       "rank": 1585
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1586
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -20618,7 +20631,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1586
+      "rank": 1587
     },
     {
       "name": "Roquita",
@@ -20631,7 +20644,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1587
+      "rank": 1588
     },
     {
       "name": "tanksword",
@@ -20644,7 +20657,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1588
+      "rank": 1589
     },
     {
       "name": "ConvolutedTubule",
@@ -20657,20 +20670,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1589
+      "rank": 1590
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1590
+      "rank": 1591
     },
     {
       "name": "Xerunt",
@@ -20683,7 +20696,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1591
+      "rank": 1592
     },
     {
       "name": "Kurzgesagt",
@@ -20696,7 +20709,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1592
+      "rank": 1593
     },
     {
       "name": "opprofff",
@@ -20709,7 +20722,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1593
+      "rank": 1594
     },
     {
       "name": "LichtBach",
@@ -20720,19 +20733,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1594
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1595
@@ -21258,6 +21258,19 @@
       "rank": 1635
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1636
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -21268,7 +21281,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1636
+      "rank": 1637
     },
     {
       "name": "Roquita",
@@ -21281,7 +21294,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1637
+      "rank": 1638
     },
     {
       "name": "tanksword",
@@ -21294,7 +21307,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1638
+      "rank": 1639
     },
     {
       "name": "ConvolutedTubule",
@@ -21307,20 +21320,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1639
+      "rank": 1640
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1640
+      "rank": 1641
     },
     {
       "name": "Xerunt",
@@ -21333,7 +21346,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1641
+      "rank": 1642
     },
     {
       "name": "Kurzgesagt",
@@ -21346,7 +21359,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1642
+      "rank": 1643
     },
     {
       "name": "opprofff",
@@ -21359,7 +21372,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1643
+      "rank": 1644
     },
     {
       "name": "LichtBach",
@@ -21370,19 +21383,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1644
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1645
@@ -21908,6 +21908,19 @@
       "rank": 1685
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1686
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -21918,7 +21931,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1686
+      "rank": 1687
     },
     {
       "name": "Roquita",
@@ -21931,7 +21944,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1687
+      "rank": 1688
     },
     {
       "name": "tanksword",
@@ -21944,7 +21957,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1688
+      "rank": 1689
     },
     {
       "name": "ConvolutedTubule",
@@ -21957,20 +21970,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1689
+      "rank": 1690
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1690
+      "rank": 1691
     },
     {
       "name": "Xerunt",
@@ -21983,7 +21996,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1691
+      "rank": 1692
     },
     {
       "name": "Kurzgesagt",
@@ -21996,7 +22009,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1692
+      "rank": 1693
     },
     {
       "name": "opprofff",
@@ -22009,7 +22022,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1693
+      "rank": 1694
     },
     {
       "name": "LichtBach",
@@ -22020,19 +22033,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1694
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1695
@@ -22558,6 +22558,19 @@
       "rank": 1735
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1736
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -22568,7 +22581,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1736
+      "rank": 1737
     },
     {
       "name": "Roquita",
@@ -22581,7 +22594,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1737
+      "rank": 1738
     },
     {
       "name": "tanksword",
@@ -22594,7 +22607,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1738
+      "rank": 1739
     },
     {
       "name": "ConvolutedTubule",
@@ -22607,20 +22620,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1739
+      "rank": 1740
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1740
+      "rank": 1741
     },
     {
       "name": "Xerunt",
@@ -22633,7 +22646,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1741
+      "rank": 1742
     },
     {
       "name": "Kurzgesagt",
@@ -22646,7 +22659,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1742
+      "rank": 1743
     },
     {
       "name": "opprofff",
@@ -22659,7 +22672,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1743
+      "rank": 1744
     },
     {
       "name": "LichtBach",
@@ -22670,19 +22683,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1744
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1745
@@ -23208,6 +23208,19 @@
       "rank": 1785
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1786
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -23218,7 +23231,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1786
+      "rank": 1787
     },
     {
       "name": "Roquita",
@@ -23231,7 +23244,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1787
+      "rank": 1788
     },
     {
       "name": "tanksword",
@@ -23244,7 +23257,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1788
+      "rank": 1789
     },
     {
       "name": "ConvolutedTubule",
@@ -23257,20 +23270,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1789
+      "rank": 1790
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1790
+      "rank": 1791
     },
     {
       "name": "Xerunt",
@@ -23283,7 +23296,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1791
+      "rank": 1792
     },
     {
       "name": "Kurzgesagt",
@@ -23296,7 +23309,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1792
+      "rank": 1793
     },
     {
       "name": "opprofff",
@@ -23309,7 +23322,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1793
+      "rank": 1794
     },
     {
       "name": "LichtBach",
@@ -23320,19 +23333,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1794
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1795
@@ -23858,6 +23858,19 @@
       "rank": 1835
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1836
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -23868,7 +23881,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1836
+      "rank": 1837
     },
     {
       "name": "Roquita",
@@ -23881,7 +23894,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1837
+      "rank": 1838
     },
     {
       "name": "tanksword",
@@ -23894,7 +23907,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1838
+      "rank": 1839
     },
     {
       "name": "ConvolutedTubule",
@@ -23907,20 +23920,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1839
+      "rank": 1840
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1840
+      "rank": 1841
     },
     {
       "name": "Xerunt",
@@ -23933,7 +23946,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1841
+      "rank": 1842
     },
     {
       "name": "Kurzgesagt",
@@ -23946,7 +23959,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1842
+      "rank": 1843
     },
     {
       "name": "opprofff",
@@ -23959,7 +23972,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1843
+      "rank": 1844
     },
     {
       "name": "LichtBach",
@@ -23970,19 +23983,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1844
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1845
@@ -24508,6 +24508,19 @@
       "rank": 1885
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1886
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -24518,7 +24531,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1886
+      "rank": 1887
     },
     {
       "name": "Roquita",
@@ -24531,7 +24544,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1887
+      "rank": 1888
     },
     {
       "name": "tanksword",
@@ -24544,7 +24557,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1888
+      "rank": 1889
     },
     {
       "name": "ConvolutedTubule",
@@ -24557,20 +24570,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1889
+      "rank": 1890
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1890
+      "rank": 1891
     },
     {
       "name": "Xerunt",
@@ -24583,7 +24596,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1891
+      "rank": 1892
     },
     {
       "name": "Kurzgesagt",
@@ -24596,7 +24609,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1892
+      "rank": 1893
     },
     {
       "name": "opprofff",
@@ -24609,7 +24622,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1893
+      "rank": 1894
     },
     {
       "name": "LichtBach",
@@ -24620,19 +24633,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1894
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1895
@@ -25158,6 +25158,19 @@
       "rank": 1935
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1936
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -25168,7 +25181,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1936
+      "rank": 1937
     },
     {
       "name": "Roquita",
@@ -25181,7 +25194,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1937
+      "rank": 1938
     },
     {
       "name": "tanksword",
@@ -25194,7 +25207,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1938
+      "rank": 1939
     },
     {
       "name": "ConvolutedTubule",
@@ -25207,20 +25220,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1939
+      "rank": 1940
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1940
+      "rank": 1941
     },
     {
       "name": "Xerunt",
@@ -25233,7 +25246,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1941
+      "rank": 1942
     },
     {
       "name": "Kurzgesagt",
@@ -25246,7 +25259,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1942
+      "rank": 1943
     },
     {
       "name": "opprofff",
@@ -25259,7 +25272,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1943
+      "rank": 1944
     },
     {
       "name": "LichtBach",
@@ -25270,19 +25283,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1944
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1945
@@ -25808,6 +25808,19 @@
       "rank": 1985
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1986
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -25818,7 +25831,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1986
+      "rank": 1987
     },
     {
       "name": "Roquita",
@@ -25831,7 +25844,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1987
+      "rank": 1988
     },
     {
       "name": "tanksword",
@@ -25844,7 +25857,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1988
+      "rank": 1989
     },
     {
       "name": "ConvolutedTubule",
@@ -25857,20 +25870,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1989
+      "rank": 1990
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1990
+      "rank": 1991
     },
     {
       "name": "Xerunt",
@@ -25883,7 +25896,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1991
+      "rank": 1992
     },
     {
       "name": "Kurzgesagt",
@@ -25896,7 +25909,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1992
+      "rank": 1993
     },
     {
       "name": "opprofff",
@@ -25909,7 +25922,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1993
+      "rank": 1994
     },
     {
       "name": "LichtBach",
@@ -25920,19 +25933,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1994
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1995
@@ -26458,6 +26458,19 @@
       "rank": 2035
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2036
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -26468,7 +26481,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2036
+      "rank": 2037
     },
     {
       "name": "Roquita",
@@ -26481,7 +26494,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2037
+      "rank": 2038
     },
     {
       "name": "tanksword",
@@ -26494,7 +26507,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2038
+      "rank": 2039
     },
     {
       "name": "ConvolutedTubule",
@@ -26507,20 +26520,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2039
+      "rank": 2040
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2040
+      "rank": 2041
     },
     {
       "name": "Xerunt",
@@ -26533,7 +26546,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2041
+      "rank": 2042
     },
     {
       "name": "Kurzgesagt",
@@ -26546,7 +26559,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2042
+      "rank": 2043
     },
     {
       "name": "opprofff",
@@ -26559,7 +26572,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2043
+      "rank": 2044
     },
     {
       "name": "LichtBach",
@@ -26570,19 +26583,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2044
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2045
@@ -27108,6 +27108,19 @@
       "rank": 2085
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2086
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -27118,7 +27131,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2086
+      "rank": 2087
     },
     {
       "name": "Roquita",
@@ -27131,7 +27144,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2087
+      "rank": 2088
     },
     {
       "name": "tanksword",
@@ -27144,7 +27157,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2088
+      "rank": 2089
     },
     {
       "name": "ConvolutedTubule",
@@ -27157,20 +27170,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2089
+      "rank": 2090
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2090
+      "rank": 2091
     },
     {
       "name": "Xerunt",
@@ -27183,7 +27196,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2091
+      "rank": 2092
     },
     {
       "name": "Kurzgesagt",
@@ -27196,7 +27209,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2092
+      "rank": 2093
     },
     {
       "name": "opprofff",
@@ -27209,7 +27222,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2093
+      "rank": 2094
     },
     {
       "name": "LichtBach",
@@ -27220,19 +27233,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2094
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2095
@@ -27758,6 +27758,19 @@
       "rank": 2135
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2136
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -27768,7 +27781,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2136
+      "rank": 2137
     },
     {
       "name": "Roquita",
@@ -27781,7 +27794,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2137
+      "rank": 2138
     },
     {
       "name": "tanksword",
@@ -27794,7 +27807,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2138
+      "rank": 2139
     },
     {
       "name": "ConvolutedTubule",
@@ -27807,20 +27820,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2139
+      "rank": 2140
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2140
+      "rank": 2141
     },
     {
       "name": "Xerunt",
@@ -27833,7 +27846,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2141
+      "rank": 2142
     },
     {
       "name": "Kurzgesagt",
@@ -27846,7 +27859,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2142
+      "rank": 2143
     },
     {
       "name": "opprofff",
@@ -27859,7 +27872,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2143
+      "rank": 2144
     },
     {
       "name": "LichtBach",
@@ -27870,19 +27883,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2144
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2145
@@ -28408,6 +28408,19 @@
       "rank": 2185
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2186
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -28418,7 +28431,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2186
+      "rank": 2187
     },
     {
       "name": "Roquita",
@@ -28431,7 +28444,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2187
+      "rank": 2188
     },
     {
       "name": "tanksword",
@@ -28444,7 +28457,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2188
+      "rank": 2189
     },
     {
       "name": "ConvolutedTubule",
@@ -28457,20 +28470,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2189
+      "rank": 2190
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2190
+      "rank": 2191
     },
     {
       "name": "Xerunt",
@@ -28483,7 +28496,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2191
+      "rank": 2192
     },
     {
       "name": "Kurzgesagt",
@@ -28496,7 +28509,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2192
+      "rank": 2193
     },
     {
       "name": "opprofff",
@@ -28509,7 +28522,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2193
+      "rank": 2194
     },
     {
       "name": "LichtBach",
@@ -28520,19 +28533,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2194
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2195
@@ -29058,6 +29058,19 @@
       "rank": 2235
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2236
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -29068,7 +29081,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2236
+      "rank": 2237
     },
     {
       "name": "Roquita",
@@ -29081,7 +29094,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2237
+      "rank": 2238
     },
     {
       "name": "tanksword",
@@ -29094,7 +29107,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2238
+      "rank": 2239
     },
     {
       "name": "ConvolutedTubule",
@@ -29107,20 +29120,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2239
+      "rank": 2240
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2240
+      "rank": 2241
     },
     {
       "name": "Xerunt",
@@ -29133,7 +29146,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2241
+      "rank": 2242
     },
     {
       "name": "Kurzgesagt",
@@ -29146,7 +29159,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2242
+      "rank": 2243
     },
     {
       "name": "opprofff",
@@ -29159,7 +29172,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2243
+      "rank": 2244
     },
     {
       "name": "LichtBach",
@@ -29170,19 +29183,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2244
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2245
@@ -29708,6 +29708,19 @@
       "rank": 2285
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2286
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -29718,7 +29731,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2286
+      "rank": 2287
     },
     {
       "name": "Roquita",
@@ -29731,7 +29744,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2287
+      "rank": 2288
     },
     {
       "name": "tanksword",
@@ -29744,7 +29757,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2288
+      "rank": 2289
     },
     {
       "name": "ConvolutedTubule",
@@ -29757,20 +29770,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2289
+      "rank": 2290
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2290
+      "rank": 2291
     },
     {
       "name": "Xerunt",
@@ -29783,7 +29796,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2291
+      "rank": 2292
     },
     {
       "name": "Kurzgesagt",
@@ -29796,7 +29809,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2292
+      "rank": 2293
     },
     {
       "name": "opprofff",
@@ -29809,7 +29822,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2293
+      "rank": 2294
     },
     {
       "name": "LichtBach",
@@ -29820,19 +29833,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2294
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2295
@@ -30358,6 +30358,19 @@
       "rank": 2335
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2336
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -30368,7 +30381,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2336
+      "rank": 2337
     },
     {
       "name": "Roquita",
@@ -30381,7 +30394,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2337
+      "rank": 2338
     },
     {
       "name": "tanksword",
@@ -30394,7 +30407,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2338
+      "rank": 2339
     },
     {
       "name": "ConvolutedTubule",
@@ -30407,20 +30420,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2339
+      "rank": 2340
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2340
+      "rank": 2341
     },
     {
       "name": "Xerunt",
@@ -30433,7 +30446,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2341
+      "rank": 2342
     },
     {
       "name": "Kurzgesagt",
@@ -30446,7 +30459,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2342
+      "rank": 2343
     },
     {
       "name": "opprofff",
@@ -30459,7 +30472,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2343
+      "rank": 2344
     },
     {
       "name": "LichtBach",
@@ -30470,19 +30483,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2344
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2345
@@ -31008,6 +31008,19 @@
       "rank": 2385
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2386
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -31018,7 +31031,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2386
+      "rank": 2387
     },
     {
       "name": "Roquita",
@@ -31031,7 +31044,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2387
+      "rank": 2388
     },
     {
       "name": "tanksword",
@@ -31044,7 +31057,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2388
+      "rank": 2389
     },
     {
       "name": "ConvolutedTubule",
@@ -31057,20 +31070,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2389
+      "rank": 2390
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2390
+      "rank": 2391
     },
     {
       "name": "Xerunt",
@@ -31083,7 +31096,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2391
+      "rank": 2392
     },
     {
       "name": "Kurzgesagt",
@@ -31096,7 +31109,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2392
+      "rank": 2393
     },
     {
       "name": "opprofff",
@@ -31109,7 +31122,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2393
+      "rank": 2394
     },
     {
       "name": "LichtBach",
@@ -31120,19 +31133,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2394
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2395
@@ -31658,6 +31658,19 @@
       "rank": 2435
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2436
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -31668,7 +31681,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2436
+      "rank": 2437
     },
     {
       "name": "Roquita",
@@ -31681,7 +31694,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2437
+      "rank": 2438
     },
     {
       "name": "tanksword",
@@ -31694,7 +31707,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2438
+      "rank": 2439
     },
     {
       "name": "ConvolutedTubule",
@@ -31707,20 +31720,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2439
+      "rank": 2440
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2440
+      "rank": 2441
     },
     {
       "name": "Xerunt",
@@ -31733,7 +31746,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2441
+      "rank": 2442
     },
     {
       "name": "Kurzgesagt",
@@ -31746,7 +31759,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2442
+      "rank": 2443
     },
     {
       "name": "opprofff",
@@ -31759,7 +31772,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2443
+      "rank": 2444
     },
     {
       "name": "LichtBach",
@@ -31770,19 +31783,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2444
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2445
@@ -32308,6 +32308,19 @@
       "rank": 2485
     },
     {
+      "name": "INFlNlTY",
+      "dps": 485,
+      "burst": 389,
+      "ehp": 12108,
+      "score": 1009,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2486
+    },
+    {
       "name": "ElCapitanAmerica",
       "dps": 446,
       "burst": 337,
@@ -32318,7 +32331,7 @@
       "dpst": "SS",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2486
+      "rank": 2487
     },
     {
       "name": "Roquita",
@@ -32331,7 +32344,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2487
+      "rank": 2488
     },
     {
       "name": "tanksword",
@@ -32344,7 +32357,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2488
+      "rank": 2489
     },
     {
       "name": "ConvolutedTubule",
@@ -32357,20 +32370,20 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2489
+      "rank": 2490
     },
     {
       "name": "tony1216",
-      "dps": 498,
-      "burst": 363,
-      "ehp": 12014,
-      "score": 1008.06,
-      "tank": "B",
-      "hybrid": "SS",
+      "dps": 482,
+      "burst": 351,
+      "ehp": 12718,
+      "score": 1008.09,
+      "tank": "B+",
+      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2490
+      "rank": 2491
     },
     {
       "name": "Xerunt",
@@ -32383,7 +32396,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2491
+      "rank": 2492
     },
     {
       "name": "Kurzgesagt",
@@ -32396,7 +32409,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2492
+      "rank": 2493
     },
     {
       "name": "opprofff",
@@ -32409,7 +32422,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2493
+      "rank": 2494
     },
     {
       "name": "LichtBach",
@@ -32420,19 +32433,6 @@
       "tank": "C+",
       "hybrid": "SS",
       "dpst": "A+",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2494
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 480,
-      "burst": 386,
-      "ehp": 11983,
-      "score": 1007.67,
-      "tank": "C+",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2495
