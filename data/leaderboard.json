@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-16T16:30:27.504Z",
+  "fetchedAt": "2026-10-16T20:53:25.625Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65484,6 +65484,19 @@
       "rank": 37
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 38
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -65494,7 +65507,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "NaxiosTrues",
@@ -65507,7 +65520,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "frank01235",
@@ -65520,7 +65533,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Starius",
@@ -65533,7 +65546,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Mecanico",
@@ -65546,7 +65559,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "BIeed",
@@ -65559,7 +65572,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "FrankPE",
@@ -65572,7 +65585,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "BEEENY",
@@ -65585,7 +65598,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "thebiggestbound",
@@ -65594,19 +65607,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 46
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -66134,6 +66134,19 @@
       "rank": 87
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 88
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -66144,7 +66157,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 88
+      "rank": 89
     },
     {
       "name": "NaxiosTrues",
@@ -66157,7 +66170,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 89
+      "rank": 90
     },
     {
       "name": "frank01235",
@@ -66170,7 +66183,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "Starius",
@@ -66183,7 +66196,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "Mecanico",
@@ -66196,7 +66209,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "BIeed",
@@ -66209,7 +66222,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "FrankPE",
@@ -66222,7 +66235,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "BEEENY",
@@ -66235,7 +66248,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 95
+      "rank": 96
     },
     {
       "name": "thebiggestbound",
@@ -66244,19 +66257,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 96
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -66784,6 +66784,19 @@
       "rank": 137
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 138
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -66794,7 +66807,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 138
+      "rank": 139
     },
     {
       "name": "NaxiosTrues",
@@ -66807,7 +66820,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 139
+      "rank": 140
     },
     {
       "name": "frank01235",
@@ -66820,7 +66833,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 140
+      "rank": 141
     },
     {
       "name": "Starius",
@@ -66833,7 +66846,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 141
+      "rank": 142
     },
     {
       "name": "Mecanico",
@@ -66846,7 +66859,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 142
+      "rank": 143
     },
     {
       "name": "BIeed",
@@ -66859,7 +66872,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 143
+      "rank": 144
     },
     {
       "name": "FrankPE",
@@ -66872,7 +66885,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "BEEENY",
@@ -66885,7 +66898,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 145
+      "rank": 146
     },
     {
       "name": "thebiggestbound",
@@ -66894,19 +66907,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 146
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -67434,6 +67434,19 @@
       "rank": 187
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 188
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -67444,7 +67457,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 188
+      "rank": 189
     },
     {
       "name": "NaxiosTrues",
@@ -67457,7 +67470,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 189
+      "rank": 190
     },
     {
       "name": "frank01235",
@@ -67470,7 +67483,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 190
+      "rank": 191
     },
     {
       "name": "Starius",
@@ -67483,7 +67496,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 191
+      "rank": 192
     },
     {
       "name": "Mecanico",
@@ -67496,7 +67509,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 192
+      "rank": 193
     },
     {
       "name": "BIeed",
@@ -67509,7 +67522,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "FrankPE",
@@ -67522,7 +67535,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 194
+      "rank": 195
     },
     {
       "name": "BEEENY",
@@ -67535,7 +67548,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 195
+      "rank": 196
     },
     {
       "name": "thebiggestbound",
@@ -67544,19 +67557,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 196
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -68084,6 +68084,19 @@
       "rank": 237
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 238
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -68094,7 +68107,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 238
+      "rank": 239
     },
     {
       "name": "NaxiosTrues",
@@ -68107,7 +68120,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 239
+      "rank": 240
     },
     {
       "name": "frank01235",
@@ -68120,7 +68133,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 240
+      "rank": 241
     },
     {
       "name": "Starius",
@@ -68133,7 +68146,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 241
+      "rank": 242
     },
     {
       "name": "Mecanico",
@@ -68146,7 +68159,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 242
+      "rank": 243
     },
     {
       "name": "BIeed",
@@ -68159,7 +68172,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 243
+      "rank": 244
     },
     {
       "name": "FrankPE",
@@ -68172,7 +68185,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 244
+      "rank": 245
     },
     {
       "name": "BEEENY",
@@ -68185,7 +68198,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 245
+      "rank": 246
     },
     {
       "name": "thebiggestbound",
@@ -68194,19 +68207,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 246
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -68734,6 +68734,19 @@
       "rank": 287
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 288
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -68744,7 +68757,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 288
+      "rank": 289
     },
     {
       "name": "NaxiosTrues",
@@ -68757,7 +68770,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 289
+      "rank": 290
     },
     {
       "name": "frank01235",
@@ -68770,7 +68783,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 290
+      "rank": 291
     },
     {
       "name": "Starius",
@@ -68783,7 +68796,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 291
+      "rank": 292
     },
     {
       "name": "Mecanico",
@@ -68796,7 +68809,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 292
+      "rank": 293
     },
     {
       "name": "BIeed",
@@ -68809,7 +68822,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 293
+      "rank": 294
     },
     {
       "name": "FrankPE",
@@ -68822,7 +68835,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 294
+      "rank": 295
     },
     {
       "name": "BEEENY",
@@ -68835,7 +68848,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 295
+      "rank": 296
     },
     {
       "name": "thebiggestbound",
@@ -68844,19 +68857,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 296
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -69384,6 +69384,19 @@
       "rank": 337
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 338
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -69394,7 +69407,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 338
+      "rank": 339
     },
     {
       "name": "NaxiosTrues",
@@ -69407,7 +69420,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 339
+      "rank": 340
     },
     {
       "name": "frank01235",
@@ -69420,7 +69433,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 340
+      "rank": 341
     },
     {
       "name": "Starius",
@@ -69433,7 +69446,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 341
+      "rank": 342
     },
     {
       "name": "Mecanico",
@@ -69446,7 +69459,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 342
+      "rank": 343
     },
     {
       "name": "BIeed",
@@ -69459,7 +69472,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 343
+      "rank": 344
     },
     {
       "name": "FrankPE",
@@ -69472,7 +69485,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 344
+      "rank": 345
     },
     {
       "name": "BEEENY",
@@ -69485,7 +69498,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 345
+      "rank": 346
     },
     {
       "name": "thebiggestbound",
@@ -69494,19 +69507,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 346
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -70034,6 +70034,19 @@
       "rank": 387
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 388
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -70044,7 +70057,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 388
+      "rank": 389
     },
     {
       "name": "NaxiosTrues",
@@ -70057,7 +70070,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 389
+      "rank": 390
     },
     {
       "name": "frank01235",
@@ -70070,7 +70083,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 390
+      "rank": 391
     },
     {
       "name": "Starius",
@@ -70083,7 +70096,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 391
+      "rank": 392
     },
     {
       "name": "Mecanico",
@@ -70096,7 +70109,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 392
+      "rank": 393
     },
     {
       "name": "BIeed",
@@ -70109,7 +70122,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 393
+      "rank": 394
     },
     {
       "name": "FrankPE",
@@ -70122,7 +70135,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 394
+      "rank": 395
     },
     {
       "name": "BEEENY",
@@ -70135,7 +70148,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 395
+      "rank": 396
     },
     {
       "name": "thebiggestbound",
@@ -70144,19 +70157,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 396
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -70684,6 +70684,19 @@
       "rank": 437
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 438
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -70694,7 +70707,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 438
+      "rank": 439
     },
     {
       "name": "NaxiosTrues",
@@ -70707,7 +70720,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 439
+      "rank": 440
     },
     {
       "name": "frank01235",
@@ -70720,7 +70733,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 440
+      "rank": 441
     },
     {
       "name": "Starius",
@@ -70733,7 +70746,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 441
+      "rank": 442
     },
     {
       "name": "Mecanico",
@@ -70746,7 +70759,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 442
+      "rank": 443
     },
     {
       "name": "BIeed",
@@ -70759,7 +70772,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 443
+      "rank": 444
     },
     {
       "name": "FrankPE",
@@ -70772,7 +70785,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 444
+      "rank": 445
     },
     {
       "name": "BEEENY",
@@ -70785,7 +70798,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 445
+      "rank": 446
     },
     {
       "name": "thebiggestbound",
@@ -70794,19 +70807,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 446
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -71334,6 +71334,19 @@
       "rank": 487
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 488
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -71344,7 +71357,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 488
+      "rank": 489
     },
     {
       "name": "NaxiosTrues",
@@ -71357,7 +71370,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 489
+      "rank": 490
     },
     {
       "name": "frank01235",
@@ -71370,7 +71383,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 490
+      "rank": 491
     },
     {
       "name": "Starius",
@@ -71383,7 +71396,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 491
+      "rank": 492
     },
     {
       "name": "Mecanico",
@@ -71396,7 +71409,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 492
+      "rank": 493
     },
     {
       "name": "BIeed",
@@ -71409,7 +71422,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 493
+      "rank": 494
     },
     {
       "name": "FrankPE",
@@ -71422,7 +71435,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 494
+      "rank": 495
     },
     {
       "name": "BEEENY",
@@ -71435,7 +71448,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 495
+      "rank": 496
     },
     {
       "name": "thebiggestbound",
@@ -71444,19 +71457,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 496
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -71984,6 +71984,19 @@
       "rank": 537
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 538
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -71994,7 +72007,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 538
+      "rank": 539
     },
     {
       "name": "NaxiosTrues",
@@ -72007,7 +72020,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 539
+      "rank": 540
     },
     {
       "name": "frank01235",
@@ -72020,7 +72033,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 540
+      "rank": 541
     },
     {
       "name": "Starius",
@@ -72033,7 +72046,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 541
+      "rank": 542
     },
     {
       "name": "Mecanico",
@@ -72046,7 +72059,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 542
+      "rank": 543
     },
     {
       "name": "BIeed",
@@ -72059,7 +72072,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 543
+      "rank": 544
     },
     {
       "name": "FrankPE",
@@ -72072,7 +72085,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 544
+      "rank": 545
     },
     {
       "name": "BEEENY",
@@ -72085,7 +72098,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 545
+      "rank": 546
     },
     {
       "name": "thebiggestbound",
@@ -72094,19 +72107,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 546
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -72634,6 +72634,19 @@
       "rank": 587
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 588
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -72644,7 +72657,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 588
+      "rank": 589
     },
     {
       "name": "NaxiosTrues",
@@ -72657,7 +72670,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 589
+      "rank": 590
     },
     {
       "name": "frank01235",
@@ -72670,7 +72683,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 590
+      "rank": 591
     },
     {
       "name": "Starius",
@@ -72683,7 +72696,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 591
+      "rank": 592
     },
     {
       "name": "Mecanico",
@@ -72696,7 +72709,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 592
+      "rank": 593
     },
     {
       "name": "BIeed",
@@ -72709,7 +72722,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 593
+      "rank": 594
     },
     {
       "name": "FrankPE",
@@ -72722,7 +72735,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 594
+      "rank": 595
     },
     {
       "name": "BEEENY",
@@ -72735,7 +72748,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 595
+      "rank": 596
     },
     {
       "name": "thebiggestbound",
@@ -72744,19 +72757,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 596
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -73284,6 +73284,19 @@
       "rank": 637
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 638
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -73294,7 +73307,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 638
+      "rank": 639
     },
     {
       "name": "NaxiosTrues",
@@ -73307,7 +73320,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 639
+      "rank": 640
     },
     {
       "name": "frank01235",
@@ -73320,7 +73333,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 640
+      "rank": 641
     },
     {
       "name": "Starius",
@@ -73333,7 +73346,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 641
+      "rank": 642
     },
     {
       "name": "Mecanico",
@@ -73346,7 +73359,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 642
+      "rank": 643
     },
     {
       "name": "BIeed",
@@ -73359,7 +73372,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 643
+      "rank": 644
     },
     {
       "name": "FrankPE",
@@ -73372,7 +73385,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 644
+      "rank": 645
     },
     {
       "name": "BEEENY",
@@ -73385,7 +73398,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 645
+      "rank": 646
     },
     {
       "name": "thebiggestbound",
@@ -73394,19 +73407,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 646
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -73934,6 +73934,19 @@
       "rank": 687
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 688
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -73944,7 +73957,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 688
+      "rank": 689
     },
     {
       "name": "NaxiosTrues",
@@ -73957,7 +73970,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 689
+      "rank": 690
     },
     {
       "name": "frank01235",
@@ -73970,7 +73983,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 690
+      "rank": 691
     },
     {
       "name": "Starius",
@@ -73983,7 +73996,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 691
+      "rank": 692
     },
     {
       "name": "Mecanico",
@@ -73996,7 +74009,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 692
+      "rank": 693
     },
     {
       "name": "BIeed",
@@ -74009,7 +74022,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 693
+      "rank": 694
     },
     {
       "name": "FrankPE",
@@ -74022,7 +74035,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 694
+      "rank": 695
     },
     {
       "name": "BEEENY",
@@ -74035,7 +74048,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 695
+      "rank": 696
     },
     {
       "name": "thebiggestbound",
@@ -74044,19 +74057,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 696
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -74584,6 +74584,19 @@
       "rank": 737
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 738
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -74594,7 +74607,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 738
+      "rank": 739
     },
     {
       "name": "NaxiosTrues",
@@ -74607,7 +74620,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 739
+      "rank": 740
     },
     {
       "name": "frank01235",
@@ -74620,7 +74633,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 740
+      "rank": 741
     },
     {
       "name": "Starius",
@@ -74633,7 +74646,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 741
+      "rank": 742
     },
     {
       "name": "Mecanico",
@@ -74646,7 +74659,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 742
+      "rank": 743
     },
     {
       "name": "BIeed",
@@ -74659,7 +74672,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 743
+      "rank": 744
     },
     {
       "name": "FrankPE",
@@ -74672,7 +74685,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 744
+      "rank": 745
     },
     {
       "name": "BEEENY",
@@ -74685,7 +74698,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 745
+      "rank": 746
     },
     {
       "name": "thebiggestbound",
@@ -74694,19 +74707,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 746
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -75234,6 +75234,19 @@
       "rank": 787
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 788
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -75244,7 +75257,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 788
+      "rank": 789
     },
     {
       "name": "NaxiosTrues",
@@ -75257,7 +75270,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 789
+      "rank": 790
     },
     {
       "name": "frank01235",
@@ -75270,7 +75283,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 790
+      "rank": 791
     },
     {
       "name": "Starius",
@@ -75283,7 +75296,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 791
+      "rank": 792
     },
     {
       "name": "Mecanico",
@@ -75296,7 +75309,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 792
+      "rank": 793
     },
     {
       "name": "BIeed",
@@ -75309,7 +75322,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 793
+      "rank": 794
     },
     {
       "name": "FrankPE",
@@ -75322,7 +75335,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 794
+      "rank": 795
     },
     {
       "name": "BEEENY",
@@ -75335,7 +75348,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 795
+      "rank": 796
     },
     {
       "name": "thebiggestbound",
@@ -75344,19 +75357,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 796
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -75884,6 +75884,19 @@
       "rank": 837
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 838
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -75894,7 +75907,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 838
+      "rank": 839
     },
     {
       "name": "NaxiosTrues",
@@ -75907,7 +75920,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 839
+      "rank": 840
     },
     {
       "name": "frank01235",
@@ -75920,7 +75933,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 840
+      "rank": 841
     },
     {
       "name": "Starius",
@@ -75933,7 +75946,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 841
+      "rank": 842
     },
     {
       "name": "Mecanico",
@@ -75946,7 +75959,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 842
+      "rank": 843
     },
     {
       "name": "BIeed",
@@ -75959,7 +75972,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 843
+      "rank": 844
     },
     {
       "name": "FrankPE",
@@ -75972,7 +75985,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 844
+      "rank": 845
     },
     {
       "name": "BEEENY",
@@ -75985,7 +75998,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 845
+      "rank": 846
     },
     {
       "name": "thebiggestbound",
@@ -75994,19 +76007,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 846
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -76534,6 +76534,19 @@
       "rank": 887
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 888
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -76544,7 +76557,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 888
+      "rank": 889
     },
     {
       "name": "NaxiosTrues",
@@ -76557,7 +76570,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 889
+      "rank": 890
     },
     {
       "name": "frank01235",
@@ -76570,7 +76583,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 890
+      "rank": 891
     },
     {
       "name": "Starius",
@@ -76583,7 +76596,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 891
+      "rank": 892
     },
     {
       "name": "Mecanico",
@@ -76596,7 +76609,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 892
+      "rank": 893
     },
     {
       "name": "BIeed",
@@ -76609,7 +76622,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 893
+      "rank": 894
     },
     {
       "name": "FrankPE",
@@ -76622,7 +76635,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 894
+      "rank": 895
     },
     {
       "name": "BEEENY",
@@ -76635,7 +76648,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 895
+      "rank": 896
     },
     {
       "name": "thebiggestbound",
@@ -76644,19 +76657,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 896
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -77184,6 +77184,19 @@
       "rank": 937
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 938
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -77194,7 +77207,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 938
+      "rank": 939
     },
     {
       "name": "NaxiosTrues",
@@ -77207,7 +77220,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 939
+      "rank": 940
     },
     {
       "name": "frank01235",
@@ -77220,7 +77233,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 940
+      "rank": 941
     },
     {
       "name": "Starius",
@@ -77233,7 +77246,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 941
+      "rank": 942
     },
     {
       "name": "Mecanico",
@@ -77246,7 +77259,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 942
+      "rank": 943
     },
     {
       "name": "BIeed",
@@ -77259,7 +77272,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 943
+      "rank": 944
     },
     {
       "name": "FrankPE",
@@ -77272,7 +77285,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 944
+      "rank": 945
     },
     {
       "name": "BEEENY",
@@ -77285,7 +77298,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 945
+      "rank": 946
     },
     {
       "name": "thebiggestbound",
@@ -77294,19 +77307,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 946
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -77834,6 +77834,19 @@
       "rank": 987
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 988
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -77844,7 +77857,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 988
+      "rank": 989
     },
     {
       "name": "NaxiosTrues",
@@ -77857,7 +77870,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 989
+      "rank": 990
     },
     {
       "name": "frank01235",
@@ -77870,7 +77883,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 990
+      "rank": 991
     },
     {
       "name": "Starius",
@@ -77883,7 +77896,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 991
+      "rank": 992
     },
     {
       "name": "Mecanico",
@@ -77896,7 +77909,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 992
+      "rank": 993
     },
     {
       "name": "BIeed",
@@ -77909,7 +77922,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 993
+      "rank": 994
     },
     {
       "name": "FrankPE",
@@ -77922,7 +77935,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 994
+      "rank": 995
     },
     {
       "name": "BEEENY",
@@ -77935,7 +77948,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 995
+      "rank": 996
     },
     {
       "name": "thebiggestbound",
@@ -77944,19 +77957,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 996
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -78484,6 +78484,19 @@
       "rank": 1037
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1038
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -78494,7 +78507,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1038
+      "rank": 1039
     },
     {
       "name": "NaxiosTrues",
@@ -78507,7 +78520,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1039
+      "rank": 1040
     },
     {
       "name": "frank01235",
@@ -78520,7 +78533,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1040
+      "rank": 1041
     },
     {
       "name": "Starius",
@@ -78533,7 +78546,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1041
+      "rank": 1042
     },
     {
       "name": "Mecanico",
@@ -78546,7 +78559,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1042
+      "rank": 1043
     },
     {
       "name": "BIeed",
@@ -78559,7 +78572,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1043
+      "rank": 1044
     },
     {
       "name": "FrankPE",
@@ -78572,7 +78585,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1044
+      "rank": 1045
     },
     {
       "name": "BEEENY",
@@ -78585,7 +78598,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1045
+      "rank": 1046
     },
     {
       "name": "thebiggestbound",
@@ -78594,19 +78607,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1046
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -79134,6 +79134,19 @@
       "rank": 1087
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1088
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -79144,7 +79157,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1088
+      "rank": 1089
     },
     {
       "name": "NaxiosTrues",
@@ -79157,7 +79170,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1089
+      "rank": 1090
     },
     {
       "name": "frank01235",
@@ -79170,7 +79183,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1090
+      "rank": 1091
     },
     {
       "name": "Starius",
@@ -79183,7 +79196,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1091
+      "rank": 1092
     },
     {
       "name": "Mecanico",
@@ -79196,7 +79209,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1092
+      "rank": 1093
     },
     {
       "name": "BIeed",
@@ -79209,7 +79222,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1093
+      "rank": 1094
     },
     {
       "name": "FrankPE",
@@ -79222,7 +79235,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1094
+      "rank": 1095
     },
     {
       "name": "BEEENY",
@@ -79235,7 +79248,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1095
+      "rank": 1096
     },
     {
       "name": "thebiggestbound",
@@ -79244,19 +79257,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1096
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -79784,6 +79784,19 @@
       "rank": 1137
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1138
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -79794,7 +79807,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1138
+      "rank": 1139
     },
     {
       "name": "NaxiosTrues",
@@ -79807,7 +79820,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1139
+      "rank": 1140
     },
     {
       "name": "frank01235",
@@ -79820,7 +79833,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1140
+      "rank": 1141
     },
     {
       "name": "Starius",
@@ -79833,7 +79846,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1141
+      "rank": 1142
     },
     {
       "name": "Mecanico",
@@ -79846,7 +79859,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1142
+      "rank": 1143
     },
     {
       "name": "BIeed",
@@ -79859,7 +79872,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1143
+      "rank": 1144
     },
     {
       "name": "FrankPE",
@@ -79872,7 +79885,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1144
+      "rank": 1145
     },
     {
       "name": "BEEENY",
@@ -79885,7 +79898,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1145
+      "rank": 1146
     },
     {
       "name": "thebiggestbound",
@@ -79894,19 +79907,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1146
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -80434,6 +80434,19 @@
       "rank": 1187
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1188
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -80444,7 +80457,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1188
+      "rank": 1189
     },
     {
       "name": "NaxiosTrues",
@@ -80457,7 +80470,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1189
+      "rank": 1190
     },
     {
       "name": "frank01235",
@@ -80470,7 +80483,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1190
+      "rank": 1191
     },
     {
       "name": "Starius",
@@ -80483,7 +80496,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1191
+      "rank": 1192
     },
     {
       "name": "Mecanico",
@@ -80496,7 +80509,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1192
+      "rank": 1193
     },
     {
       "name": "BIeed",
@@ -80509,7 +80522,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1193
+      "rank": 1194
     },
     {
       "name": "FrankPE",
@@ -80522,7 +80535,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1194
+      "rank": 1195
     },
     {
       "name": "BEEENY",
@@ -80535,7 +80548,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1195
+      "rank": 1196
     },
     {
       "name": "thebiggestbound",
@@ -80544,19 +80557,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1196
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -81084,6 +81084,19 @@
       "rank": 1237
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1238
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -81094,7 +81107,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1238
+      "rank": 1239
     },
     {
       "name": "NaxiosTrues",
@@ -81107,7 +81120,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1239
+      "rank": 1240
     },
     {
       "name": "frank01235",
@@ -81120,7 +81133,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1240
+      "rank": 1241
     },
     {
       "name": "Starius",
@@ -81133,7 +81146,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1241
+      "rank": 1242
     },
     {
       "name": "Mecanico",
@@ -81146,7 +81159,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1242
+      "rank": 1243
     },
     {
       "name": "BIeed",
@@ -81159,7 +81172,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1243
+      "rank": 1244
     },
     {
       "name": "FrankPE",
@@ -81172,7 +81185,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1244
+      "rank": 1245
     },
     {
       "name": "BEEENY",
@@ -81185,7 +81198,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1245
+      "rank": 1246
     },
     {
       "name": "thebiggestbound",
@@ -81194,19 +81207,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1246
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -81734,6 +81734,19 @@
       "rank": 1287
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1288
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -81744,7 +81757,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1288
+      "rank": 1289
     },
     {
       "name": "NaxiosTrues",
@@ -81757,7 +81770,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1289
+      "rank": 1290
     },
     {
       "name": "frank01235",
@@ -81770,7 +81783,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1290
+      "rank": 1291
     },
     {
       "name": "Starius",
@@ -81783,7 +81796,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1291
+      "rank": 1292
     },
     {
       "name": "Mecanico",
@@ -81796,7 +81809,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1292
+      "rank": 1293
     },
     {
       "name": "BIeed",
@@ -81809,7 +81822,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1293
+      "rank": 1294
     },
     {
       "name": "FrankPE",
@@ -81822,7 +81835,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1294
+      "rank": 1295
     },
     {
       "name": "BEEENY",
@@ -81835,7 +81848,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1295
+      "rank": 1296
     },
     {
       "name": "thebiggestbound",
@@ -81844,19 +81857,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1296
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -82384,6 +82384,19 @@
       "rank": 1337
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1338
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -82394,7 +82407,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1338
+      "rank": 1339
     },
     {
       "name": "NaxiosTrues",
@@ -82407,7 +82420,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1339
+      "rank": 1340
     },
     {
       "name": "frank01235",
@@ -82420,7 +82433,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1340
+      "rank": 1341
     },
     {
       "name": "Starius",
@@ -82433,7 +82446,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1341
+      "rank": 1342
     },
     {
       "name": "Mecanico",
@@ -82446,7 +82459,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1342
+      "rank": 1343
     },
     {
       "name": "BIeed",
@@ -82459,7 +82472,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1343
+      "rank": 1344
     },
     {
       "name": "FrankPE",
@@ -82472,7 +82485,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1344
+      "rank": 1345
     },
     {
       "name": "BEEENY",
@@ -82485,7 +82498,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1345
+      "rank": 1346
     },
     {
       "name": "thebiggestbound",
@@ -82494,19 +82507,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1346
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -83034,6 +83034,19 @@
       "rank": 1387
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1388
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -83044,7 +83057,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1388
+      "rank": 1389
     },
     {
       "name": "NaxiosTrues",
@@ -83057,7 +83070,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1389
+      "rank": 1390
     },
     {
       "name": "frank01235",
@@ -83070,7 +83083,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1390
+      "rank": 1391
     },
     {
       "name": "Starius",
@@ -83083,7 +83096,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1391
+      "rank": 1392
     },
     {
       "name": "Mecanico",
@@ -83096,7 +83109,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1392
+      "rank": 1393
     },
     {
       "name": "BIeed",
@@ -83109,7 +83122,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1393
+      "rank": 1394
     },
     {
       "name": "FrankPE",
@@ -83122,7 +83135,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1394
+      "rank": 1395
     },
     {
       "name": "BEEENY",
@@ -83135,7 +83148,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1395
+      "rank": 1396
     },
     {
       "name": "thebiggestbound",
@@ -83144,19 +83157,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1396
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -83684,6 +83684,19 @@
       "rank": 1437
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1438
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -83694,7 +83707,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1438
+      "rank": 1439
     },
     {
       "name": "NaxiosTrues",
@@ -83707,7 +83720,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1439
+      "rank": 1440
     },
     {
       "name": "frank01235",
@@ -83720,7 +83733,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1440
+      "rank": 1441
     },
     {
       "name": "Starius",
@@ -83733,7 +83746,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1441
+      "rank": 1442
     },
     {
       "name": "Mecanico",
@@ -83746,7 +83759,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1442
+      "rank": 1443
     },
     {
       "name": "BIeed",
@@ -83759,7 +83772,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1443
+      "rank": 1444
     },
     {
       "name": "FrankPE",
@@ -83772,7 +83785,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1444
+      "rank": 1445
     },
     {
       "name": "BEEENY",
@@ -83785,7 +83798,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1445
+      "rank": 1446
     },
     {
       "name": "thebiggestbound",
@@ -83794,19 +83807,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1446
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -84334,6 +84334,19 @@
       "rank": 1487
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1488
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -84344,7 +84357,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1488
+      "rank": 1489
     },
     {
       "name": "NaxiosTrues",
@@ -84357,7 +84370,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1489
+      "rank": 1490
     },
     {
       "name": "frank01235",
@@ -84370,7 +84383,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1490
+      "rank": 1491
     },
     {
       "name": "Starius",
@@ -84383,7 +84396,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1491
+      "rank": 1492
     },
     {
       "name": "Mecanico",
@@ -84396,7 +84409,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1492
+      "rank": 1493
     },
     {
       "name": "BIeed",
@@ -84409,7 +84422,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1493
+      "rank": 1494
     },
     {
       "name": "FrankPE",
@@ -84422,7 +84435,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1494
+      "rank": 1495
     },
     {
       "name": "BEEENY",
@@ -84435,7 +84448,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1495
+      "rank": 1496
     },
     {
       "name": "thebiggestbound",
@@ -84444,19 +84457,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1496
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -84984,6 +84984,19 @@
       "rank": 1537
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1538
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -84994,7 +85007,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1538
+      "rank": 1539
     },
     {
       "name": "NaxiosTrues",
@@ -85007,7 +85020,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1539
+      "rank": 1540
     },
     {
       "name": "frank01235",
@@ -85020,7 +85033,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1540
+      "rank": 1541
     },
     {
       "name": "Starius",
@@ -85033,7 +85046,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1541
+      "rank": 1542
     },
     {
       "name": "Mecanico",
@@ -85046,7 +85059,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1542
+      "rank": 1543
     },
     {
       "name": "BIeed",
@@ -85059,7 +85072,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1543
+      "rank": 1544
     },
     {
       "name": "FrankPE",
@@ -85072,7 +85085,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1544
+      "rank": 1545
     },
     {
       "name": "BEEENY",
@@ -85085,7 +85098,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1545
+      "rank": 1546
     },
     {
       "name": "thebiggestbound",
@@ -85094,19 +85107,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1546
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -85634,6 +85634,19 @@
       "rank": 1587
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1588
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -85644,7 +85657,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1588
+      "rank": 1589
     },
     {
       "name": "NaxiosTrues",
@@ -85657,7 +85670,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1589
+      "rank": 1590
     },
     {
       "name": "frank01235",
@@ -85670,7 +85683,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1590
+      "rank": 1591
     },
     {
       "name": "Starius",
@@ -85683,7 +85696,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1591
+      "rank": 1592
     },
     {
       "name": "Mecanico",
@@ -85696,7 +85709,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1592
+      "rank": 1593
     },
     {
       "name": "BIeed",
@@ -85709,7 +85722,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1593
+      "rank": 1594
     },
     {
       "name": "FrankPE",
@@ -85722,7 +85735,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1594
+      "rank": 1595
     },
     {
       "name": "BEEENY",
@@ -85735,7 +85748,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1595
+      "rank": 1596
     },
     {
       "name": "thebiggestbound",
@@ -85744,19 +85757,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1596
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -86284,6 +86284,19 @@
       "rank": 1637
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1638
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -86294,7 +86307,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1638
+      "rank": 1639
     },
     {
       "name": "NaxiosTrues",
@@ -86307,7 +86320,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1639
+      "rank": 1640
     },
     {
       "name": "frank01235",
@@ -86320,7 +86333,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1640
+      "rank": 1641
     },
     {
       "name": "Starius",
@@ -86333,7 +86346,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1641
+      "rank": 1642
     },
     {
       "name": "Mecanico",
@@ -86346,7 +86359,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1642
+      "rank": 1643
     },
     {
       "name": "BIeed",
@@ -86359,7 +86372,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1643
+      "rank": 1644
     },
     {
       "name": "FrankPE",
@@ -86372,7 +86385,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1644
+      "rank": 1645
     },
     {
       "name": "BEEENY",
@@ -86385,7 +86398,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1645
+      "rank": 1646
     },
     {
       "name": "thebiggestbound",
@@ -86394,19 +86407,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1646
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -86934,6 +86934,19 @@
       "rank": 1687
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1688
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -86944,7 +86957,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1688
+      "rank": 1689
     },
     {
       "name": "NaxiosTrues",
@@ -86957,7 +86970,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1689
+      "rank": 1690
     },
     {
       "name": "frank01235",
@@ -86970,7 +86983,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1690
+      "rank": 1691
     },
     {
       "name": "Starius",
@@ -86983,7 +86996,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1691
+      "rank": 1692
     },
     {
       "name": "Mecanico",
@@ -86996,7 +87009,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1692
+      "rank": 1693
     },
     {
       "name": "BIeed",
@@ -87009,7 +87022,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1693
+      "rank": 1694
     },
     {
       "name": "FrankPE",
@@ -87022,7 +87035,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1694
+      "rank": 1695
     },
     {
       "name": "BEEENY",
@@ -87035,7 +87048,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1695
+      "rank": 1696
     },
     {
       "name": "thebiggestbound",
@@ -87044,19 +87057,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1696
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -87584,6 +87584,19 @@
       "rank": 1737
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1738
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -87594,7 +87607,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1738
+      "rank": 1739
     },
     {
       "name": "NaxiosTrues",
@@ -87607,7 +87620,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1739
+      "rank": 1740
     },
     {
       "name": "frank01235",
@@ -87620,7 +87633,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1740
+      "rank": 1741
     },
     {
       "name": "Starius",
@@ -87633,7 +87646,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1741
+      "rank": 1742
     },
     {
       "name": "Mecanico",
@@ -87646,7 +87659,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1742
+      "rank": 1743
     },
     {
       "name": "BIeed",
@@ -87659,7 +87672,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1743
+      "rank": 1744
     },
     {
       "name": "FrankPE",
@@ -87672,7 +87685,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1744
+      "rank": 1745
     },
     {
       "name": "BEEENY",
@@ -87685,7 +87698,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1745
+      "rank": 1746
     },
     {
       "name": "thebiggestbound",
@@ -87694,19 +87707,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1746
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -88234,6 +88234,19 @@
       "rank": 1787
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1788
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -88244,7 +88257,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1788
+      "rank": 1789
     },
     {
       "name": "NaxiosTrues",
@@ -88257,7 +88270,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1789
+      "rank": 1790
     },
     {
       "name": "frank01235",
@@ -88270,7 +88283,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1790
+      "rank": 1791
     },
     {
       "name": "Starius",
@@ -88283,7 +88296,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1791
+      "rank": 1792
     },
     {
       "name": "Mecanico",
@@ -88296,7 +88309,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1792
+      "rank": 1793
     },
     {
       "name": "BIeed",
@@ -88309,7 +88322,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1793
+      "rank": 1794
     },
     {
       "name": "FrankPE",
@@ -88322,7 +88335,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1794
+      "rank": 1795
     },
     {
       "name": "BEEENY",
@@ -88335,7 +88348,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1795
+      "rank": 1796
     },
     {
       "name": "thebiggestbound",
@@ -88344,19 +88357,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1796
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -88884,6 +88884,19 @@
       "rank": 1837
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1838
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -88894,7 +88907,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1838
+      "rank": 1839
     },
     {
       "name": "NaxiosTrues",
@@ -88907,7 +88920,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1839
+      "rank": 1840
     },
     {
       "name": "frank01235",
@@ -88920,7 +88933,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1840
+      "rank": 1841
     },
     {
       "name": "Starius",
@@ -88933,7 +88946,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1841
+      "rank": 1842
     },
     {
       "name": "Mecanico",
@@ -88946,7 +88959,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1842
+      "rank": 1843
     },
     {
       "name": "BIeed",
@@ -88959,7 +88972,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1843
+      "rank": 1844
     },
     {
       "name": "FrankPE",
@@ -88972,7 +88985,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1844
+      "rank": 1845
     },
     {
       "name": "BEEENY",
@@ -88985,7 +88998,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1845
+      "rank": 1846
     },
     {
       "name": "thebiggestbound",
@@ -88994,19 +89007,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1846
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -89534,6 +89534,19 @@
       "rank": 1887
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1888
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -89544,7 +89557,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1888
+      "rank": 1889
     },
     {
       "name": "NaxiosTrues",
@@ -89557,7 +89570,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1889
+      "rank": 1890
     },
     {
       "name": "frank01235",
@@ -89570,7 +89583,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1890
+      "rank": 1891
     },
     {
       "name": "Starius",
@@ -89583,7 +89596,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1891
+      "rank": 1892
     },
     {
       "name": "Mecanico",
@@ -89596,7 +89609,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1892
+      "rank": 1893
     },
     {
       "name": "BIeed",
@@ -89609,7 +89622,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1893
+      "rank": 1894
     },
     {
       "name": "FrankPE",
@@ -89622,7 +89635,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1894
+      "rank": 1895
     },
     {
       "name": "BEEENY",
@@ -89635,7 +89648,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1895
+      "rank": 1896
     },
     {
       "name": "thebiggestbound",
@@ -89644,19 +89657,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1896
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -90184,6 +90184,19 @@
       "rank": 1937
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1938
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -90194,7 +90207,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1938
+      "rank": 1939
     },
     {
       "name": "NaxiosTrues",
@@ -90207,7 +90220,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1939
+      "rank": 1940
     },
     {
       "name": "frank01235",
@@ -90220,7 +90233,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1940
+      "rank": 1941
     },
     {
       "name": "Starius",
@@ -90233,7 +90246,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1941
+      "rank": 1942
     },
     {
       "name": "Mecanico",
@@ -90246,7 +90259,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1942
+      "rank": 1943
     },
     {
       "name": "BIeed",
@@ -90259,7 +90272,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1943
+      "rank": 1944
     },
     {
       "name": "FrankPE",
@@ -90272,7 +90285,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1944
+      "rank": 1945
     },
     {
       "name": "BEEENY",
@@ -90285,7 +90298,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1945
+      "rank": 1946
     },
     {
       "name": "thebiggestbound",
@@ -90294,19 +90307,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1946
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -90834,6 +90834,19 @@
       "rank": 1987
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1988
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -90844,7 +90857,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1988
+      "rank": 1989
     },
     {
       "name": "NaxiosTrues",
@@ -90857,7 +90870,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1989
+      "rank": 1990
     },
     {
       "name": "frank01235",
@@ -90870,7 +90883,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1990
+      "rank": 1991
     },
     {
       "name": "Starius",
@@ -90883,7 +90896,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1991
+      "rank": 1992
     },
     {
       "name": "Mecanico",
@@ -90896,7 +90909,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1992
+      "rank": 1993
     },
     {
       "name": "BIeed",
@@ -90909,7 +90922,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1993
+      "rank": 1994
     },
     {
       "name": "FrankPE",
@@ -90922,7 +90935,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1994
+      "rank": 1995
     },
     {
       "name": "BEEENY",
@@ -90935,7 +90948,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1995
+      "rank": 1996
     },
     {
       "name": "thebiggestbound",
@@ -90944,19 +90957,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1996
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -91484,6 +91484,19 @@
       "rank": 2037
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2038
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -91494,7 +91507,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2038
+      "rank": 2039
     },
     {
       "name": "NaxiosTrues",
@@ -91507,7 +91520,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2039
+      "rank": 2040
     },
     {
       "name": "frank01235",
@@ -91520,7 +91533,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2040
+      "rank": 2041
     },
     {
       "name": "Starius",
@@ -91533,7 +91546,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2041
+      "rank": 2042
     },
     {
       "name": "Mecanico",
@@ -91546,7 +91559,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2042
+      "rank": 2043
     },
     {
       "name": "BIeed",
@@ -91559,7 +91572,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2043
+      "rank": 2044
     },
     {
       "name": "FrankPE",
@@ -91572,7 +91585,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2044
+      "rank": 2045
     },
     {
       "name": "BEEENY",
@@ -91585,7 +91598,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2045
+      "rank": 2046
     },
     {
       "name": "thebiggestbound",
@@ -91594,19 +91607,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2046
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -92134,6 +92134,19 @@
       "rank": 2087
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2088
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -92144,7 +92157,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2088
+      "rank": 2089
     },
     {
       "name": "NaxiosTrues",
@@ -92157,7 +92170,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2089
+      "rank": 2090
     },
     {
       "name": "frank01235",
@@ -92170,7 +92183,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2090
+      "rank": 2091
     },
     {
       "name": "Starius",
@@ -92183,7 +92196,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2091
+      "rank": 2092
     },
     {
       "name": "Mecanico",
@@ -92196,7 +92209,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2092
+      "rank": 2093
     },
     {
       "name": "BIeed",
@@ -92209,7 +92222,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2093
+      "rank": 2094
     },
     {
       "name": "FrankPE",
@@ -92222,7 +92235,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2094
+      "rank": 2095
     },
     {
       "name": "BEEENY",
@@ -92235,7 +92248,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2095
+      "rank": 2096
     },
     {
       "name": "thebiggestbound",
@@ -92244,19 +92257,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2096
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -92784,6 +92784,19 @@
       "rank": 2137
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2138
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -92794,7 +92807,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2138
+      "rank": 2139
     },
     {
       "name": "NaxiosTrues",
@@ -92807,7 +92820,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2139
+      "rank": 2140
     },
     {
       "name": "frank01235",
@@ -92820,7 +92833,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2140
+      "rank": 2141
     },
     {
       "name": "Starius",
@@ -92833,7 +92846,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2141
+      "rank": 2142
     },
     {
       "name": "Mecanico",
@@ -92846,7 +92859,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2142
+      "rank": 2143
     },
     {
       "name": "BIeed",
@@ -92859,7 +92872,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2143
+      "rank": 2144
     },
     {
       "name": "FrankPE",
@@ -92872,7 +92885,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2144
+      "rank": 2145
     },
     {
       "name": "BEEENY",
@@ -92885,7 +92898,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2145
+      "rank": 2146
     },
     {
       "name": "thebiggestbound",
@@ -92894,19 +92907,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2146
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -93434,6 +93434,19 @@
       "rank": 2187
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2188
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -93444,7 +93457,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2188
+      "rank": 2189
     },
     {
       "name": "NaxiosTrues",
@@ -93457,7 +93470,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2189
+      "rank": 2190
     },
     {
       "name": "frank01235",
@@ -93470,7 +93483,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2190
+      "rank": 2191
     },
     {
       "name": "Starius",
@@ -93483,7 +93496,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2191
+      "rank": 2192
     },
     {
       "name": "Mecanico",
@@ -93496,7 +93509,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2192
+      "rank": 2193
     },
     {
       "name": "BIeed",
@@ -93509,7 +93522,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2193
+      "rank": 2194
     },
     {
       "name": "FrankPE",
@@ -93522,7 +93535,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2194
+      "rank": 2195
     },
     {
       "name": "BEEENY",
@@ -93535,7 +93548,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2195
+      "rank": 2196
     },
     {
       "name": "thebiggestbound",
@@ -93544,19 +93557,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2196
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -94084,6 +94084,19 @@
       "rank": 2237
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2238
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -94094,7 +94107,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2238
+      "rank": 2239
     },
     {
       "name": "NaxiosTrues",
@@ -94107,7 +94120,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2239
+      "rank": 2240
     },
     {
       "name": "frank01235",
@@ -94120,7 +94133,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2240
+      "rank": 2241
     },
     {
       "name": "Starius",
@@ -94133,7 +94146,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2241
+      "rank": 2242
     },
     {
       "name": "Mecanico",
@@ -94146,7 +94159,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2242
+      "rank": 2243
     },
     {
       "name": "BIeed",
@@ -94159,7 +94172,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2243
+      "rank": 2244
     },
     {
       "name": "FrankPE",
@@ -94172,7 +94185,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2244
+      "rank": 2245
     },
     {
       "name": "BEEENY",
@@ -94185,7 +94198,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2245
+      "rank": 2246
     },
     {
       "name": "thebiggestbound",
@@ -94194,19 +94207,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2246
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -94734,6 +94734,19 @@
       "rank": 2287
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2288
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -94744,7 +94757,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2288
+      "rank": 2289
     },
     {
       "name": "NaxiosTrues",
@@ -94757,7 +94770,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2289
+      "rank": 2290
     },
     {
       "name": "frank01235",
@@ -94770,7 +94783,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2290
+      "rank": 2291
     },
     {
       "name": "Starius",
@@ -94783,7 +94796,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2291
+      "rank": 2292
     },
     {
       "name": "Mecanico",
@@ -94796,7 +94809,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2292
+      "rank": 2293
     },
     {
       "name": "BIeed",
@@ -94809,7 +94822,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2293
+      "rank": 2294
     },
     {
       "name": "FrankPE",
@@ -94822,7 +94835,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2294
+      "rank": 2295
     },
     {
       "name": "BEEENY",
@@ -94835,7 +94848,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2295
+      "rank": 2296
     },
     {
       "name": "thebiggestbound",
@@ -94844,19 +94857,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2296
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -95384,6 +95384,19 @@
       "rank": 2337
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2338
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -95394,7 +95407,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2338
+      "rank": 2339
     },
     {
       "name": "NaxiosTrues",
@@ -95407,7 +95420,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2339
+      "rank": 2340
     },
     {
       "name": "frank01235",
@@ -95420,7 +95433,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2340
+      "rank": 2341
     },
     {
       "name": "Starius",
@@ -95433,7 +95446,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2341
+      "rank": 2342
     },
     {
       "name": "Mecanico",
@@ -95446,7 +95459,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2342
+      "rank": 2343
     },
     {
       "name": "BIeed",
@@ -95459,7 +95472,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2343
+      "rank": 2344
     },
     {
       "name": "FrankPE",
@@ -95472,7 +95485,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2344
+      "rank": 2345
     },
     {
       "name": "BEEENY",
@@ -95485,7 +95498,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2345
+      "rank": 2346
     },
     {
       "name": "thebiggestbound",
@@ -95494,19 +95507,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2346
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -96034,6 +96034,19 @@
       "rank": 2387
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2388
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -96044,7 +96057,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2388
+      "rank": 2389
     },
     {
       "name": "NaxiosTrues",
@@ -96057,7 +96070,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2389
+      "rank": 2390
     },
     {
       "name": "frank01235",
@@ -96070,7 +96083,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2390
+      "rank": 2391
     },
     {
       "name": "Starius",
@@ -96083,7 +96096,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2391
+      "rank": 2392
     },
     {
       "name": "Mecanico",
@@ -96096,7 +96109,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2392
+      "rank": 2393
     },
     {
       "name": "BIeed",
@@ -96109,7 +96122,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2393
+      "rank": 2394
     },
     {
       "name": "FrankPE",
@@ -96122,7 +96135,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2394
+      "rank": 2395
     },
     {
       "name": "BEEENY",
@@ -96135,7 +96148,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2395
+      "rank": 2396
     },
     {
       "name": "thebiggestbound",
@@ -96144,19 +96157,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2396
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -96684,6 +96684,19 @@
       "rank": 2437
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2438
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -96694,7 +96707,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2438
+      "rank": 2439
     },
     {
       "name": "NaxiosTrues",
@@ -96707,7 +96720,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2439
+      "rank": 2440
     },
     {
       "name": "frank01235",
@@ -96720,7 +96733,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2440
+      "rank": 2441
     },
     {
       "name": "Starius",
@@ -96733,7 +96746,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2441
+      "rank": 2442
     },
     {
       "name": "Mecanico",
@@ -96746,7 +96759,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2442
+      "rank": 2443
     },
     {
       "name": "BIeed",
@@ -96759,7 +96772,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2443
+      "rank": 2444
     },
     {
       "name": "FrankPE",
@@ -96772,7 +96785,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2444
+      "rank": 2445
     },
     {
       "name": "BEEENY",
@@ -96785,7 +96798,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2445
+      "rank": 2446
     },
     {
       "name": "thebiggestbound",
@@ -96794,19 +96807,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2446
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
@@ -97334,6 +97334,19 @@
       "rank": 2487
     },
     {
+      "name": "ichimaru",
+      "dps": 563,
+      "burst": 504,
+      "ehp": 9357,
+      "score": 1008.46,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2488
+    },
+    {
       "name": "Troop51",
       "dps": 566,
       "burst": 508,
@@ -97344,7 +97357,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2488
+      "rank": 2489
     },
     {
       "name": "NaxiosTrues",
@@ -97357,7 +97370,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2489
+      "rank": 2490
     },
     {
       "name": "frank01235",
@@ -97370,7 +97383,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2490
+      "rank": 2491
     },
     {
       "name": "Starius",
@@ -97383,7 +97396,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2491
+      "rank": 2492
     },
     {
       "name": "Mecanico",
@@ -97396,7 +97409,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2492
+      "rank": 2493
     },
     {
       "name": "BIeed",
@@ -97409,7 +97422,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2493
+      "rank": 2494
     },
     {
       "name": "FrankPE",
@@ -97422,7 +97435,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2494
+      "rank": 2495
     },
     {
       "name": "BEEENY",
@@ -97435,7 +97448,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2495
+      "rank": 2496
     },
     {
       "name": "thebiggestbound",
@@ -97444,19 +97457,6 @@
       "ehp": 8985,
       "score": 1007.81,
       "tank": "S",
-      "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2496
-    },
-    {
-      "name": "ichimaru",
-      "dps": 558,
-      "burst": 500,
-      "ehp": 9381,
-      "score": 1007.78,
-      "tank": "SS",
       "hybrid": "SS",
       "dpst": "S",
       "overall": "SS",
