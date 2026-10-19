@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-19T12:51:02.750Z",
+  "fetchedAt": "2026-10-19T22:16:24.408Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65354,19 +65354,6 @@
       "rank": 27
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 28
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -65374,6 +65361,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 28
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66004,19 +66004,6 @@
       "rank": 77
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 78
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -66024,6 +66011,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 78
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66654,19 +66654,6 @@
       "rank": 127
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 128
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -66674,6 +66661,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 128
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67304,19 +67304,6 @@
       "rank": 177
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 178
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -67324,6 +67311,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 178
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67954,19 +67954,6 @@
       "rank": 227
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 228
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -67974,6 +67961,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 228
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -68604,19 +68604,6 @@
       "rank": 277
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 278
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -68624,6 +68611,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 278
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69254,19 +69254,6 @@
       "rank": 327
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 328
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -69274,6 +69261,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 328
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69904,19 +69904,6 @@
       "rank": 377
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 378
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -69924,6 +69911,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 378
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -70554,19 +70554,6 @@
       "rank": 427
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 428
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -70574,6 +70561,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 428
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71204,19 +71204,6 @@
       "rank": 477
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 478
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -71224,6 +71211,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 478
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71854,19 +71854,6 @@
       "rank": 527
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 528
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -71874,6 +71861,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 528
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -72504,19 +72504,6 @@
       "rank": 577
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 578
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -72524,6 +72511,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 578
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73154,19 +73154,6 @@
       "rank": 627
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 628
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -73174,6 +73161,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 628
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73804,19 +73804,6 @@
       "rank": 677
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 678
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -73824,6 +73811,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 678
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -74454,19 +74454,6 @@
       "rank": 727
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 728
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -74474,6 +74461,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 728
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75104,19 +75104,6 @@
       "rank": 777
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 778
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -75124,6 +75111,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 778
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75754,19 +75754,6 @@
       "rank": 827
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 828
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -75774,6 +75761,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 828
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -76404,19 +76404,6 @@
       "rank": 877
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 878
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -76424,6 +76411,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 878
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77054,19 +77054,6 @@
       "rank": 927
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 928
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -77074,6 +77061,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 928
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77704,19 +77704,6 @@
       "rank": 977
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 978
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -77724,6 +77711,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 978
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78354,19 +78354,6 @@
       "rank": 1027
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1028
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -78374,6 +78361,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1028
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79004,19 +79004,6 @@
       "rank": 1077
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1078
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -79024,6 +79011,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1078
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79654,19 +79654,6 @@
       "rank": 1127
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1128
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -79674,6 +79661,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1128
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80304,19 +80304,6 @@
       "rank": 1177
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1178
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -80324,6 +80311,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1178
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80954,19 +80954,6 @@
       "rank": 1227
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1228
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -80974,6 +80961,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1228
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -81604,19 +81604,6 @@
       "rank": 1277
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1278
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -81624,6 +81611,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1278
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82254,19 +82254,6 @@
       "rank": 1327
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1328
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -82274,6 +82261,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1328
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82904,19 +82904,6 @@
       "rank": 1377
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1378
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -82924,6 +82911,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1378
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -83554,19 +83554,6 @@
       "rank": 1427
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1428
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -83574,6 +83561,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1428
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84204,19 +84204,6 @@
       "rank": 1477
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1478
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -84224,6 +84211,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1478
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84854,19 +84854,6 @@
       "rank": 1527
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1528
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -84874,6 +84861,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1528
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -85504,19 +85504,6 @@
       "rank": 1577
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1578
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -85524,6 +85511,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1578
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86154,19 +86154,6 @@
       "rank": 1627
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1628
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -86174,6 +86161,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1628
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86804,19 +86804,6 @@
       "rank": 1677
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1678
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -86824,6 +86811,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1678
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -87454,19 +87454,6 @@
       "rank": 1727
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1728
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -87474,6 +87461,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1728
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88104,19 +88104,6 @@
       "rank": 1777
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1778
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -88124,6 +88111,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1778
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88754,19 +88754,6 @@
       "rank": 1827
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1828
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -88774,6 +88761,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1828
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -89404,19 +89404,6 @@
       "rank": 1877
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1878
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -89424,6 +89411,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1878
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90054,19 +90054,6 @@
       "rank": 1927
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1928
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -90074,6 +90061,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1928
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90704,19 +90704,6 @@
       "rank": 1977
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1978
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -90724,6 +90711,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1978
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91354,19 +91354,6 @@
       "rank": 2027
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2028
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -91374,6 +91361,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2028
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92004,19 +92004,6 @@
       "rank": 2077
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2078
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -92024,6 +92011,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2078
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92654,19 +92654,6 @@
       "rank": 2127
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2128
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -92674,6 +92661,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2128
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93304,19 +93304,6 @@
       "rank": 2177
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2178
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -93324,6 +93311,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2178
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93954,19 +93954,6 @@
       "rank": 2227
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2228
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -93974,6 +93961,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2228
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -94604,19 +94604,6 @@
       "rank": 2277
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2278
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -94624,6 +94611,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2278
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95254,19 +95254,6 @@
       "rank": 2327
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2328
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -95274,6 +95261,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2328
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95904,19 +95904,6 @@
       "rank": 2377
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2378
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -95924,6 +95911,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2378
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -96554,19 +96554,6 @@
       "rank": 2427
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2428
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -96574,6 +96561,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2428
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -97204,19 +97204,6 @@
       "rank": 2477
     },
     {
-      "name": "Mecanico",
-      "dps": 571,
-      "burst": 494,
-      "ehp": 9660,
-      "score": 1009.51,
-      "tank": "SS",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2478
-    },
-    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -97224,6 +97211,19 @@
       "score": 1009.35,
       "tank": "S",
       "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2478
+    },
+    {
+      "name": "Mecanico",
+      "dps": 558,
+      "burst": 483,
+      "ehp": 10103,
+      "score": 1009.29,
+      "tank": "SS",
+      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
