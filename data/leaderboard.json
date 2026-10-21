@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-21T04:20:02.855Z",
+  "fetchedAt": "2026-10-21T11:37:09.508Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -98023,6 +98023,19 @@
       "rank": 40
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 41
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -98033,7 +98046,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Healhealhealheal",
@@ -98046,7 +98059,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "UltimoChaman",
@@ -98059,7 +98072,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "iDrugDealer",
@@ -98072,7 +98085,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Axile",
@@ -98085,7 +98098,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Ozphyron",
@@ -98098,7 +98111,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "IceN1ght",
@@ -98111,7 +98124,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "kittenouo",
@@ -98124,7 +98137,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "guest",
@@ -98134,19 +98147,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 49
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -98673,6 +98673,19 @@
       "rank": 90
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 91
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -98683,7 +98696,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 91
+      "rank": 92
     },
     {
       "name": "Healhealhealheal",
@@ -98696,7 +98709,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "UltimoChaman",
@@ -98709,7 +98722,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "iDrugDealer",
@@ -98722,7 +98735,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "Axile",
@@ -98735,7 +98748,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 95
+      "rank": 96
     },
     {
       "name": "Ozphyron",
@@ -98748,7 +98761,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 96
+      "rank": 97
     },
     {
       "name": "IceN1ght",
@@ -98761,7 +98774,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 97
+      "rank": 98
     },
     {
       "name": "kittenouo",
@@ -98774,7 +98787,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 98
+      "rank": 99
     },
     {
       "name": "guest",
@@ -98784,19 +98797,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 99
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -99323,6 +99323,19 @@
       "rank": 140
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 141
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -99333,7 +99346,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 141
+      "rank": 142
     },
     {
       "name": "Healhealhealheal",
@@ -99346,7 +99359,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 142
+      "rank": 143
     },
     {
       "name": "UltimoChaman",
@@ -99359,7 +99372,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 143
+      "rank": 144
     },
     {
       "name": "iDrugDealer",
@@ -99372,7 +99385,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Axile",
@@ -99385,7 +99398,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 145
+      "rank": 146
     },
     {
       "name": "Ozphyron",
@@ -99398,7 +99411,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 146
+      "rank": 147
     },
     {
       "name": "IceN1ght",
@@ -99411,7 +99424,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 147
+      "rank": 148
     },
     {
       "name": "kittenouo",
@@ -99424,7 +99437,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 148
+      "rank": 149
     },
     {
       "name": "guest",
@@ -99434,19 +99447,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 149
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -99973,6 +99973,19 @@
       "rank": 190
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 191
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -99983,7 +99996,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 191
+      "rank": 192
     },
     {
       "name": "Healhealhealheal",
@@ -99996,7 +100009,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 192
+      "rank": 193
     },
     {
       "name": "UltimoChaman",
@@ -100009,7 +100022,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "iDrugDealer",
@@ -100022,7 +100035,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 194
+      "rank": 195
     },
     {
       "name": "Axile",
@@ -100035,7 +100048,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 195
+      "rank": 196
     },
     {
       "name": "Ozphyron",
@@ -100048,7 +100061,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 196
+      "rank": 197
     },
     {
       "name": "IceN1ght",
@@ -100061,7 +100074,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "kittenouo",
@@ -100074,7 +100087,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "guest",
@@ -100084,19 +100097,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 199
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -100623,6 +100623,19 @@
       "rank": 240
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 241
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -100633,7 +100646,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 241
+      "rank": 242
     },
     {
       "name": "Healhealhealheal",
@@ -100646,7 +100659,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 242
+      "rank": 243
     },
     {
       "name": "UltimoChaman",
@@ -100659,7 +100672,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 243
+      "rank": 244
     },
     {
       "name": "iDrugDealer",
@@ -100672,7 +100685,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 244
+      "rank": 245
     },
     {
       "name": "Axile",
@@ -100685,7 +100698,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 245
+      "rank": 246
     },
     {
       "name": "Ozphyron",
@@ -100698,7 +100711,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 246
+      "rank": 247
     },
     {
       "name": "IceN1ght",
@@ -100711,7 +100724,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 247
+      "rank": 248
     },
     {
       "name": "kittenouo",
@@ -100724,7 +100737,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 248
+      "rank": 249
     },
     {
       "name": "guest",
@@ -100734,19 +100747,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 249
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -101273,6 +101273,19 @@
       "rank": 290
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 291
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -101283,7 +101296,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 291
+      "rank": 292
     },
     {
       "name": "Healhealhealheal",
@@ -101296,7 +101309,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 292
+      "rank": 293
     },
     {
       "name": "UltimoChaman",
@@ -101309,7 +101322,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 293
+      "rank": 294
     },
     {
       "name": "iDrugDealer",
@@ -101322,7 +101335,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 294
+      "rank": 295
     },
     {
       "name": "Axile",
@@ -101335,7 +101348,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 295
+      "rank": 296
     },
     {
       "name": "Ozphyron",
@@ -101348,7 +101361,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 296
+      "rank": 297
     },
     {
       "name": "IceN1ght",
@@ -101361,7 +101374,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 297
+      "rank": 298
     },
     {
       "name": "kittenouo",
@@ -101374,7 +101387,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 298
+      "rank": 299
     },
     {
       "name": "guest",
@@ -101384,19 +101397,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 299
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -101923,6 +101923,19 @@
       "rank": 340
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 341
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -101933,7 +101946,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 341
+      "rank": 342
     },
     {
       "name": "Healhealhealheal",
@@ -101946,7 +101959,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 342
+      "rank": 343
     },
     {
       "name": "UltimoChaman",
@@ -101959,7 +101972,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 343
+      "rank": 344
     },
     {
       "name": "iDrugDealer",
@@ -101972,7 +101985,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 344
+      "rank": 345
     },
     {
       "name": "Axile",
@@ -101985,7 +101998,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 345
+      "rank": 346
     },
     {
       "name": "Ozphyron",
@@ -101998,7 +102011,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 346
+      "rank": 347
     },
     {
       "name": "IceN1ght",
@@ -102011,7 +102024,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 347
+      "rank": 348
     },
     {
       "name": "kittenouo",
@@ -102024,7 +102037,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 348
+      "rank": 349
     },
     {
       "name": "guest",
@@ -102034,19 +102047,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 349
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -102573,6 +102573,19 @@
       "rank": 390
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 391
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -102583,7 +102596,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 391
+      "rank": 392
     },
     {
       "name": "Healhealhealheal",
@@ -102596,7 +102609,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 392
+      "rank": 393
     },
     {
       "name": "UltimoChaman",
@@ -102609,7 +102622,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 393
+      "rank": 394
     },
     {
       "name": "iDrugDealer",
@@ -102622,7 +102635,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 394
+      "rank": 395
     },
     {
       "name": "Axile",
@@ -102635,7 +102648,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 395
+      "rank": 396
     },
     {
       "name": "Ozphyron",
@@ -102648,7 +102661,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 396
+      "rank": 397
     },
     {
       "name": "IceN1ght",
@@ -102661,7 +102674,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 397
+      "rank": 398
     },
     {
       "name": "kittenouo",
@@ -102674,7 +102687,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 398
+      "rank": 399
     },
     {
       "name": "guest",
@@ -102684,19 +102697,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 399
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -103223,6 +103223,19 @@
       "rank": 440
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 441
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -103233,7 +103246,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 441
+      "rank": 442
     },
     {
       "name": "Healhealhealheal",
@@ -103246,7 +103259,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 442
+      "rank": 443
     },
     {
       "name": "UltimoChaman",
@@ -103259,7 +103272,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 443
+      "rank": 444
     },
     {
       "name": "iDrugDealer",
@@ -103272,7 +103285,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 444
+      "rank": 445
     },
     {
       "name": "Axile",
@@ -103285,7 +103298,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 445
+      "rank": 446
     },
     {
       "name": "Ozphyron",
@@ -103298,7 +103311,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 446
+      "rank": 447
     },
     {
       "name": "IceN1ght",
@@ -103311,7 +103324,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 447
+      "rank": 448
     },
     {
       "name": "kittenouo",
@@ -103324,7 +103337,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 448
+      "rank": 449
     },
     {
       "name": "guest",
@@ -103334,19 +103347,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 449
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -103873,6 +103873,19 @@
       "rank": 490
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 491
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -103883,7 +103896,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 491
+      "rank": 492
     },
     {
       "name": "Healhealhealheal",
@@ -103896,7 +103909,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 492
+      "rank": 493
     },
     {
       "name": "UltimoChaman",
@@ -103909,7 +103922,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 493
+      "rank": 494
     },
     {
       "name": "iDrugDealer",
@@ -103922,7 +103935,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 494
+      "rank": 495
     },
     {
       "name": "Axile",
@@ -103935,7 +103948,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 495
+      "rank": 496
     },
     {
       "name": "Ozphyron",
@@ -103948,7 +103961,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 496
+      "rank": 497
     },
     {
       "name": "IceN1ght",
@@ -103961,7 +103974,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 497
+      "rank": 498
     },
     {
       "name": "kittenouo",
@@ -103974,7 +103987,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 498
+      "rank": 499
     },
     {
       "name": "guest",
@@ -103984,19 +103997,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 499
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -104523,6 +104523,19 @@
       "rank": 540
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 541
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -104533,7 +104546,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 541
+      "rank": 542
     },
     {
       "name": "Healhealhealheal",
@@ -104546,7 +104559,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 542
+      "rank": 543
     },
     {
       "name": "UltimoChaman",
@@ -104559,7 +104572,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 543
+      "rank": 544
     },
     {
       "name": "iDrugDealer",
@@ -104572,7 +104585,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 544
+      "rank": 545
     },
     {
       "name": "Axile",
@@ -104585,7 +104598,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 545
+      "rank": 546
     },
     {
       "name": "Ozphyron",
@@ -104598,7 +104611,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 546
+      "rank": 547
     },
     {
       "name": "IceN1ght",
@@ -104611,7 +104624,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 547
+      "rank": 548
     },
     {
       "name": "kittenouo",
@@ -104624,7 +104637,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 548
+      "rank": 549
     },
     {
       "name": "guest",
@@ -104634,19 +104647,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 549
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -105173,6 +105173,19 @@
       "rank": 590
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 591
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -105183,7 +105196,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 591
+      "rank": 592
     },
     {
       "name": "Healhealhealheal",
@@ -105196,7 +105209,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 592
+      "rank": 593
     },
     {
       "name": "UltimoChaman",
@@ -105209,7 +105222,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 593
+      "rank": 594
     },
     {
       "name": "iDrugDealer",
@@ -105222,7 +105235,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 594
+      "rank": 595
     },
     {
       "name": "Axile",
@@ -105235,7 +105248,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 595
+      "rank": 596
     },
     {
       "name": "Ozphyron",
@@ -105248,7 +105261,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 596
+      "rank": 597
     },
     {
       "name": "IceN1ght",
@@ -105261,7 +105274,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 597
+      "rank": 598
     },
     {
       "name": "kittenouo",
@@ -105274,7 +105287,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 598
+      "rank": 599
     },
     {
       "name": "guest",
@@ -105284,19 +105297,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 599
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -105823,6 +105823,19 @@
       "rank": 640
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 641
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -105833,7 +105846,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 641
+      "rank": 642
     },
     {
       "name": "Healhealhealheal",
@@ -105846,7 +105859,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 642
+      "rank": 643
     },
     {
       "name": "UltimoChaman",
@@ -105859,7 +105872,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 643
+      "rank": 644
     },
     {
       "name": "iDrugDealer",
@@ -105872,7 +105885,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 644
+      "rank": 645
     },
     {
       "name": "Axile",
@@ -105885,7 +105898,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 645
+      "rank": 646
     },
     {
       "name": "Ozphyron",
@@ -105898,7 +105911,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 646
+      "rank": 647
     },
     {
       "name": "IceN1ght",
@@ -105911,7 +105924,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 647
+      "rank": 648
     },
     {
       "name": "kittenouo",
@@ -105924,7 +105937,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 648
+      "rank": 649
     },
     {
       "name": "guest",
@@ -105934,19 +105947,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 649
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -106473,6 +106473,19 @@
       "rank": 690
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 691
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -106483,7 +106496,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 691
+      "rank": 692
     },
     {
       "name": "Healhealhealheal",
@@ -106496,7 +106509,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 692
+      "rank": 693
     },
     {
       "name": "UltimoChaman",
@@ -106509,7 +106522,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 693
+      "rank": 694
     },
     {
       "name": "iDrugDealer",
@@ -106522,7 +106535,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 694
+      "rank": 695
     },
     {
       "name": "Axile",
@@ -106535,7 +106548,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 695
+      "rank": 696
     },
     {
       "name": "Ozphyron",
@@ -106548,7 +106561,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 696
+      "rank": 697
     },
     {
       "name": "IceN1ght",
@@ -106561,7 +106574,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 697
+      "rank": 698
     },
     {
       "name": "kittenouo",
@@ -106574,7 +106587,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 698
+      "rank": 699
     },
     {
       "name": "guest",
@@ -106584,19 +106597,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 699
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -107123,6 +107123,19 @@
       "rank": 740
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 741
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -107133,7 +107146,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 741
+      "rank": 742
     },
     {
       "name": "Healhealhealheal",
@@ -107146,7 +107159,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 742
+      "rank": 743
     },
     {
       "name": "UltimoChaman",
@@ -107159,7 +107172,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 743
+      "rank": 744
     },
     {
       "name": "iDrugDealer",
@@ -107172,7 +107185,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 744
+      "rank": 745
     },
     {
       "name": "Axile",
@@ -107185,7 +107198,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 745
+      "rank": 746
     },
     {
       "name": "Ozphyron",
@@ -107198,7 +107211,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 746
+      "rank": 747
     },
     {
       "name": "IceN1ght",
@@ -107211,7 +107224,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 747
+      "rank": 748
     },
     {
       "name": "kittenouo",
@@ -107224,7 +107237,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 748
+      "rank": 749
     },
     {
       "name": "guest",
@@ -107234,19 +107247,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 749
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -107773,6 +107773,19 @@
       "rank": 790
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 791
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -107783,7 +107796,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 791
+      "rank": 792
     },
     {
       "name": "Healhealhealheal",
@@ -107796,7 +107809,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 792
+      "rank": 793
     },
     {
       "name": "UltimoChaman",
@@ -107809,7 +107822,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 793
+      "rank": 794
     },
     {
       "name": "iDrugDealer",
@@ -107822,7 +107835,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 794
+      "rank": 795
     },
     {
       "name": "Axile",
@@ -107835,7 +107848,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 795
+      "rank": 796
     },
     {
       "name": "Ozphyron",
@@ -107848,7 +107861,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 796
+      "rank": 797
     },
     {
       "name": "IceN1ght",
@@ -107861,7 +107874,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 797
+      "rank": 798
     },
     {
       "name": "kittenouo",
@@ -107874,7 +107887,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 798
+      "rank": 799
     },
     {
       "name": "guest",
@@ -107884,19 +107897,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 799
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -108423,6 +108423,19 @@
       "rank": 840
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 841
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -108433,7 +108446,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 841
+      "rank": 842
     },
     {
       "name": "Healhealhealheal",
@@ -108446,7 +108459,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 842
+      "rank": 843
     },
     {
       "name": "UltimoChaman",
@@ -108459,7 +108472,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 843
+      "rank": 844
     },
     {
       "name": "iDrugDealer",
@@ -108472,7 +108485,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 844
+      "rank": 845
     },
     {
       "name": "Axile",
@@ -108485,7 +108498,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 845
+      "rank": 846
     },
     {
       "name": "Ozphyron",
@@ -108498,7 +108511,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 846
+      "rank": 847
     },
     {
       "name": "IceN1ght",
@@ -108511,7 +108524,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 847
+      "rank": 848
     },
     {
       "name": "kittenouo",
@@ -108524,7 +108537,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 848
+      "rank": 849
     },
     {
       "name": "guest",
@@ -108534,19 +108547,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 849
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -109073,6 +109073,19 @@
       "rank": 890
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 891
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -109083,7 +109096,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 891
+      "rank": 892
     },
     {
       "name": "Healhealhealheal",
@@ -109096,7 +109109,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 892
+      "rank": 893
     },
     {
       "name": "UltimoChaman",
@@ -109109,7 +109122,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 893
+      "rank": 894
     },
     {
       "name": "iDrugDealer",
@@ -109122,7 +109135,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 894
+      "rank": 895
     },
     {
       "name": "Axile",
@@ -109135,7 +109148,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 895
+      "rank": 896
     },
     {
       "name": "Ozphyron",
@@ -109148,7 +109161,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 896
+      "rank": 897
     },
     {
       "name": "IceN1ght",
@@ -109161,7 +109174,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 897
+      "rank": 898
     },
     {
       "name": "kittenouo",
@@ -109174,7 +109187,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 898
+      "rank": 899
     },
     {
       "name": "guest",
@@ -109184,19 +109197,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 899
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -109723,6 +109723,19 @@
       "rank": 940
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 941
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -109733,7 +109746,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 941
+      "rank": 942
     },
     {
       "name": "Healhealhealheal",
@@ -109746,7 +109759,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 942
+      "rank": 943
     },
     {
       "name": "UltimoChaman",
@@ -109759,7 +109772,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 943
+      "rank": 944
     },
     {
       "name": "iDrugDealer",
@@ -109772,7 +109785,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 944
+      "rank": 945
     },
     {
       "name": "Axile",
@@ -109785,7 +109798,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 945
+      "rank": 946
     },
     {
       "name": "Ozphyron",
@@ -109798,7 +109811,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 946
+      "rank": 947
     },
     {
       "name": "IceN1ght",
@@ -109811,7 +109824,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 947
+      "rank": 948
     },
     {
       "name": "kittenouo",
@@ -109824,7 +109837,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 948
+      "rank": 949
     },
     {
       "name": "guest",
@@ -109834,19 +109847,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 949
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -110373,6 +110373,19 @@
       "rank": 990
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 991
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -110383,7 +110396,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 991
+      "rank": 992
     },
     {
       "name": "Healhealhealheal",
@@ -110396,7 +110409,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 992
+      "rank": 993
     },
     {
       "name": "UltimoChaman",
@@ -110409,7 +110422,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 993
+      "rank": 994
     },
     {
       "name": "iDrugDealer",
@@ -110422,7 +110435,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 994
+      "rank": 995
     },
     {
       "name": "Axile",
@@ -110435,7 +110448,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 995
+      "rank": 996
     },
     {
       "name": "Ozphyron",
@@ -110448,7 +110461,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 996
+      "rank": 997
     },
     {
       "name": "IceN1ght",
@@ -110461,7 +110474,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 997
+      "rank": 998
     },
     {
       "name": "kittenouo",
@@ -110474,7 +110487,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 998
+      "rank": 999
     },
     {
       "name": "guest",
@@ -110484,19 +110497,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 999
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -111023,6 +111023,19 @@
       "rank": 1040
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1041
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -111033,7 +111046,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1041
+      "rank": 1042
     },
     {
       "name": "Healhealhealheal",
@@ -111046,7 +111059,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1042
+      "rank": 1043
     },
     {
       "name": "UltimoChaman",
@@ -111059,7 +111072,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1043
+      "rank": 1044
     },
     {
       "name": "iDrugDealer",
@@ -111072,7 +111085,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1044
+      "rank": 1045
     },
     {
       "name": "Axile",
@@ -111085,7 +111098,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1045
+      "rank": 1046
     },
     {
       "name": "Ozphyron",
@@ -111098,7 +111111,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1046
+      "rank": 1047
     },
     {
       "name": "IceN1ght",
@@ -111111,7 +111124,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1047
+      "rank": 1048
     },
     {
       "name": "kittenouo",
@@ -111124,7 +111137,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1048
+      "rank": 1049
     },
     {
       "name": "guest",
@@ -111134,19 +111147,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1049
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -111673,6 +111673,19 @@
       "rank": 1090
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1091
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -111683,7 +111696,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1091
+      "rank": 1092
     },
     {
       "name": "Healhealhealheal",
@@ -111696,7 +111709,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1092
+      "rank": 1093
     },
     {
       "name": "UltimoChaman",
@@ -111709,7 +111722,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1093
+      "rank": 1094
     },
     {
       "name": "iDrugDealer",
@@ -111722,7 +111735,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1094
+      "rank": 1095
     },
     {
       "name": "Axile",
@@ -111735,7 +111748,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1095
+      "rank": 1096
     },
     {
       "name": "Ozphyron",
@@ -111748,7 +111761,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1096
+      "rank": 1097
     },
     {
       "name": "IceN1ght",
@@ -111761,7 +111774,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1097
+      "rank": 1098
     },
     {
       "name": "kittenouo",
@@ -111774,7 +111787,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1098
+      "rank": 1099
     },
     {
       "name": "guest",
@@ -111784,19 +111797,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1099
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -112323,6 +112323,19 @@
       "rank": 1140
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1141
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -112333,7 +112346,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1141
+      "rank": 1142
     },
     {
       "name": "Healhealhealheal",
@@ -112346,7 +112359,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1142
+      "rank": 1143
     },
     {
       "name": "UltimoChaman",
@@ -112359,7 +112372,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1143
+      "rank": 1144
     },
     {
       "name": "iDrugDealer",
@@ -112372,7 +112385,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1144
+      "rank": 1145
     },
     {
       "name": "Axile",
@@ -112385,7 +112398,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1145
+      "rank": 1146
     },
     {
       "name": "Ozphyron",
@@ -112398,7 +112411,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1146
+      "rank": 1147
     },
     {
       "name": "IceN1ght",
@@ -112411,7 +112424,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1147
+      "rank": 1148
     },
     {
       "name": "kittenouo",
@@ -112424,7 +112437,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1148
+      "rank": 1149
     },
     {
       "name": "guest",
@@ -112434,19 +112447,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1149
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -112973,6 +112973,19 @@
       "rank": 1190
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1191
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -112983,7 +112996,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1191
+      "rank": 1192
     },
     {
       "name": "Healhealhealheal",
@@ -112996,7 +113009,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1192
+      "rank": 1193
     },
     {
       "name": "UltimoChaman",
@@ -113009,7 +113022,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1193
+      "rank": 1194
     },
     {
       "name": "iDrugDealer",
@@ -113022,7 +113035,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1194
+      "rank": 1195
     },
     {
       "name": "Axile",
@@ -113035,7 +113048,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1195
+      "rank": 1196
     },
     {
       "name": "Ozphyron",
@@ -113048,7 +113061,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1196
+      "rank": 1197
     },
     {
       "name": "IceN1ght",
@@ -113061,7 +113074,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1197
+      "rank": 1198
     },
     {
       "name": "kittenouo",
@@ -113074,7 +113087,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1198
+      "rank": 1199
     },
     {
       "name": "guest",
@@ -113084,19 +113097,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1199
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -113623,6 +113623,19 @@
       "rank": 1240
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1241
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -113633,7 +113646,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1241
+      "rank": 1242
     },
     {
       "name": "Healhealhealheal",
@@ -113646,7 +113659,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1242
+      "rank": 1243
     },
     {
       "name": "UltimoChaman",
@@ -113659,7 +113672,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1243
+      "rank": 1244
     },
     {
       "name": "iDrugDealer",
@@ -113672,7 +113685,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1244
+      "rank": 1245
     },
     {
       "name": "Axile",
@@ -113685,7 +113698,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1245
+      "rank": 1246
     },
     {
       "name": "Ozphyron",
@@ -113698,7 +113711,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1246
+      "rank": 1247
     },
     {
       "name": "IceN1ght",
@@ -113711,7 +113724,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1247
+      "rank": 1248
     },
     {
       "name": "kittenouo",
@@ -113724,7 +113737,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1248
+      "rank": 1249
     },
     {
       "name": "guest",
@@ -113734,19 +113747,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1249
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -114273,6 +114273,19 @@
       "rank": 1290
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1291
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -114283,7 +114296,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1291
+      "rank": 1292
     },
     {
       "name": "Healhealhealheal",
@@ -114296,7 +114309,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1292
+      "rank": 1293
     },
     {
       "name": "UltimoChaman",
@@ -114309,7 +114322,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1293
+      "rank": 1294
     },
     {
       "name": "iDrugDealer",
@@ -114322,7 +114335,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1294
+      "rank": 1295
     },
     {
       "name": "Axile",
@@ -114335,7 +114348,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1295
+      "rank": 1296
     },
     {
       "name": "Ozphyron",
@@ -114348,7 +114361,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1296
+      "rank": 1297
     },
     {
       "name": "IceN1ght",
@@ -114361,7 +114374,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1297
+      "rank": 1298
     },
     {
       "name": "kittenouo",
@@ -114374,7 +114387,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1298
+      "rank": 1299
     },
     {
       "name": "guest",
@@ -114384,19 +114397,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1299
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -114923,6 +114923,19 @@
       "rank": 1340
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1341
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -114933,7 +114946,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1341
+      "rank": 1342
     },
     {
       "name": "Healhealhealheal",
@@ -114946,7 +114959,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1342
+      "rank": 1343
     },
     {
       "name": "UltimoChaman",
@@ -114959,7 +114972,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1343
+      "rank": 1344
     },
     {
       "name": "iDrugDealer",
@@ -114972,7 +114985,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1344
+      "rank": 1345
     },
     {
       "name": "Axile",
@@ -114985,7 +114998,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1345
+      "rank": 1346
     },
     {
       "name": "Ozphyron",
@@ -114998,7 +115011,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1346
+      "rank": 1347
     },
     {
       "name": "IceN1ght",
@@ -115011,7 +115024,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1347
+      "rank": 1348
     },
     {
       "name": "kittenouo",
@@ -115024,7 +115037,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1348
+      "rank": 1349
     },
     {
       "name": "guest",
@@ -115034,19 +115047,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1349
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -115573,6 +115573,19 @@
       "rank": 1390
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1391
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -115583,7 +115596,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1391
+      "rank": 1392
     },
     {
       "name": "Healhealhealheal",
@@ -115596,7 +115609,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1392
+      "rank": 1393
     },
     {
       "name": "UltimoChaman",
@@ -115609,7 +115622,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1393
+      "rank": 1394
     },
     {
       "name": "iDrugDealer",
@@ -115622,7 +115635,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1394
+      "rank": 1395
     },
     {
       "name": "Axile",
@@ -115635,7 +115648,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1395
+      "rank": 1396
     },
     {
       "name": "Ozphyron",
@@ -115648,7 +115661,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1396
+      "rank": 1397
     },
     {
       "name": "IceN1ght",
@@ -115661,7 +115674,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1397
+      "rank": 1398
     },
     {
       "name": "kittenouo",
@@ -115674,7 +115687,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1398
+      "rank": 1399
     },
     {
       "name": "guest",
@@ -115684,19 +115697,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1399
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -116223,6 +116223,19 @@
       "rank": 1440
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1441
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -116233,7 +116246,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1441
+      "rank": 1442
     },
     {
       "name": "Healhealhealheal",
@@ -116246,7 +116259,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1442
+      "rank": 1443
     },
     {
       "name": "UltimoChaman",
@@ -116259,7 +116272,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1443
+      "rank": 1444
     },
     {
       "name": "iDrugDealer",
@@ -116272,7 +116285,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1444
+      "rank": 1445
     },
     {
       "name": "Axile",
@@ -116285,7 +116298,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1445
+      "rank": 1446
     },
     {
       "name": "Ozphyron",
@@ -116298,7 +116311,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1446
+      "rank": 1447
     },
     {
       "name": "IceN1ght",
@@ -116311,7 +116324,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1447
+      "rank": 1448
     },
     {
       "name": "kittenouo",
@@ -116324,7 +116337,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1448
+      "rank": 1449
     },
     {
       "name": "guest",
@@ -116334,19 +116347,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1449
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -116873,6 +116873,19 @@
       "rank": 1490
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1491
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -116883,7 +116896,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1491
+      "rank": 1492
     },
     {
       "name": "Healhealhealheal",
@@ -116896,7 +116909,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1492
+      "rank": 1493
     },
     {
       "name": "UltimoChaman",
@@ -116909,7 +116922,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1493
+      "rank": 1494
     },
     {
       "name": "iDrugDealer",
@@ -116922,7 +116935,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1494
+      "rank": 1495
     },
     {
       "name": "Axile",
@@ -116935,7 +116948,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1495
+      "rank": 1496
     },
     {
       "name": "Ozphyron",
@@ -116948,7 +116961,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1496
+      "rank": 1497
     },
     {
       "name": "IceN1ght",
@@ -116961,7 +116974,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1497
+      "rank": 1498
     },
     {
       "name": "kittenouo",
@@ -116974,7 +116987,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1498
+      "rank": 1499
     },
     {
       "name": "guest",
@@ -116984,19 +116997,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1499
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -117523,6 +117523,19 @@
       "rank": 1540
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1541
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -117533,7 +117546,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1541
+      "rank": 1542
     },
     {
       "name": "Healhealhealheal",
@@ -117546,7 +117559,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1542
+      "rank": 1543
     },
     {
       "name": "UltimoChaman",
@@ -117559,7 +117572,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1543
+      "rank": 1544
     },
     {
       "name": "iDrugDealer",
@@ -117572,7 +117585,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1544
+      "rank": 1545
     },
     {
       "name": "Axile",
@@ -117585,7 +117598,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1545
+      "rank": 1546
     },
     {
       "name": "Ozphyron",
@@ -117598,7 +117611,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1546
+      "rank": 1547
     },
     {
       "name": "IceN1ght",
@@ -117611,7 +117624,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1547
+      "rank": 1548
     },
     {
       "name": "kittenouo",
@@ -117624,7 +117637,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1548
+      "rank": 1549
     },
     {
       "name": "guest",
@@ -117634,19 +117647,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1549
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -118173,6 +118173,19 @@
       "rank": 1590
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1591
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -118183,7 +118196,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1591
+      "rank": 1592
     },
     {
       "name": "Healhealhealheal",
@@ -118196,7 +118209,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1592
+      "rank": 1593
     },
     {
       "name": "UltimoChaman",
@@ -118209,7 +118222,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1593
+      "rank": 1594
     },
     {
       "name": "iDrugDealer",
@@ -118222,7 +118235,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1594
+      "rank": 1595
     },
     {
       "name": "Axile",
@@ -118235,7 +118248,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1595
+      "rank": 1596
     },
     {
       "name": "Ozphyron",
@@ -118248,7 +118261,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1596
+      "rank": 1597
     },
     {
       "name": "IceN1ght",
@@ -118261,7 +118274,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1597
+      "rank": 1598
     },
     {
       "name": "kittenouo",
@@ -118274,7 +118287,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1598
+      "rank": 1599
     },
     {
       "name": "guest",
@@ -118284,19 +118297,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1599
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -118823,6 +118823,19 @@
       "rank": 1640
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1641
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -118833,7 +118846,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1641
+      "rank": 1642
     },
     {
       "name": "Healhealhealheal",
@@ -118846,7 +118859,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1642
+      "rank": 1643
     },
     {
       "name": "UltimoChaman",
@@ -118859,7 +118872,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1643
+      "rank": 1644
     },
     {
       "name": "iDrugDealer",
@@ -118872,7 +118885,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1644
+      "rank": 1645
     },
     {
       "name": "Axile",
@@ -118885,7 +118898,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1645
+      "rank": 1646
     },
     {
       "name": "Ozphyron",
@@ -118898,7 +118911,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1646
+      "rank": 1647
     },
     {
       "name": "IceN1ght",
@@ -118911,7 +118924,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1647
+      "rank": 1648
     },
     {
       "name": "kittenouo",
@@ -118924,7 +118937,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1648
+      "rank": 1649
     },
     {
       "name": "guest",
@@ -118934,19 +118947,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1649
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -119473,6 +119473,19 @@
       "rank": 1690
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1691
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -119483,7 +119496,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1691
+      "rank": 1692
     },
     {
       "name": "Healhealhealheal",
@@ -119496,7 +119509,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1692
+      "rank": 1693
     },
     {
       "name": "UltimoChaman",
@@ -119509,7 +119522,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1693
+      "rank": 1694
     },
     {
       "name": "iDrugDealer",
@@ -119522,7 +119535,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1694
+      "rank": 1695
     },
     {
       "name": "Axile",
@@ -119535,7 +119548,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1695
+      "rank": 1696
     },
     {
       "name": "Ozphyron",
@@ -119548,7 +119561,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1696
+      "rank": 1697
     },
     {
       "name": "IceN1ght",
@@ -119561,7 +119574,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1697
+      "rank": 1698
     },
     {
       "name": "kittenouo",
@@ -119574,7 +119587,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1698
+      "rank": 1699
     },
     {
       "name": "guest",
@@ -119584,19 +119597,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1699
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -120123,6 +120123,19 @@
       "rank": 1740
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1741
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -120133,7 +120146,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1741
+      "rank": 1742
     },
     {
       "name": "Healhealhealheal",
@@ -120146,7 +120159,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1742
+      "rank": 1743
     },
     {
       "name": "UltimoChaman",
@@ -120159,7 +120172,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1743
+      "rank": 1744
     },
     {
       "name": "iDrugDealer",
@@ -120172,7 +120185,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1744
+      "rank": 1745
     },
     {
       "name": "Axile",
@@ -120185,7 +120198,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1745
+      "rank": 1746
     },
     {
       "name": "Ozphyron",
@@ -120198,7 +120211,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1746
+      "rank": 1747
     },
     {
       "name": "IceN1ght",
@@ -120211,7 +120224,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1747
+      "rank": 1748
     },
     {
       "name": "kittenouo",
@@ -120224,7 +120237,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1748
+      "rank": 1749
     },
     {
       "name": "guest",
@@ -120234,19 +120247,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1749
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -120773,6 +120773,19 @@
       "rank": 1790
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1791
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -120783,7 +120796,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1791
+      "rank": 1792
     },
     {
       "name": "Healhealhealheal",
@@ -120796,7 +120809,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1792
+      "rank": 1793
     },
     {
       "name": "UltimoChaman",
@@ -120809,7 +120822,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1793
+      "rank": 1794
     },
     {
       "name": "iDrugDealer",
@@ -120822,7 +120835,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1794
+      "rank": 1795
     },
     {
       "name": "Axile",
@@ -120835,7 +120848,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1795
+      "rank": 1796
     },
     {
       "name": "Ozphyron",
@@ -120848,7 +120861,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1796
+      "rank": 1797
     },
     {
       "name": "IceN1ght",
@@ -120861,7 +120874,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1797
+      "rank": 1798
     },
     {
       "name": "kittenouo",
@@ -120874,7 +120887,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1798
+      "rank": 1799
     },
     {
       "name": "guest",
@@ -120884,19 +120897,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1799
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -121423,6 +121423,19 @@
       "rank": 1840
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1841
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -121433,7 +121446,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1841
+      "rank": 1842
     },
     {
       "name": "Healhealhealheal",
@@ -121446,7 +121459,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1842
+      "rank": 1843
     },
     {
       "name": "UltimoChaman",
@@ -121459,7 +121472,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1843
+      "rank": 1844
     },
     {
       "name": "iDrugDealer",
@@ -121472,7 +121485,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1844
+      "rank": 1845
     },
     {
       "name": "Axile",
@@ -121485,7 +121498,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1845
+      "rank": 1846
     },
     {
       "name": "Ozphyron",
@@ -121498,7 +121511,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1846
+      "rank": 1847
     },
     {
       "name": "IceN1ght",
@@ -121511,7 +121524,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1847
+      "rank": 1848
     },
     {
       "name": "kittenouo",
@@ -121524,7 +121537,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1848
+      "rank": 1849
     },
     {
       "name": "guest",
@@ -121534,19 +121547,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1849
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -122073,6 +122073,19 @@
       "rank": 1890
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1891
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -122083,7 +122096,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1891
+      "rank": 1892
     },
     {
       "name": "Healhealhealheal",
@@ -122096,7 +122109,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1892
+      "rank": 1893
     },
     {
       "name": "UltimoChaman",
@@ -122109,7 +122122,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1893
+      "rank": 1894
     },
     {
       "name": "iDrugDealer",
@@ -122122,7 +122135,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1894
+      "rank": 1895
     },
     {
       "name": "Axile",
@@ -122135,7 +122148,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1895
+      "rank": 1896
     },
     {
       "name": "Ozphyron",
@@ -122148,7 +122161,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1896
+      "rank": 1897
     },
     {
       "name": "IceN1ght",
@@ -122161,7 +122174,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1897
+      "rank": 1898
     },
     {
       "name": "kittenouo",
@@ -122174,7 +122187,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1898
+      "rank": 1899
     },
     {
       "name": "guest",
@@ -122184,19 +122197,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1899
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -122723,6 +122723,19 @@
       "rank": 1940
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1941
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -122733,7 +122746,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1941
+      "rank": 1942
     },
     {
       "name": "Healhealhealheal",
@@ -122746,7 +122759,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1942
+      "rank": 1943
     },
     {
       "name": "UltimoChaman",
@@ -122759,7 +122772,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1943
+      "rank": 1944
     },
     {
       "name": "iDrugDealer",
@@ -122772,7 +122785,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1944
+      "rank": 1945
     },
     {
       "name": "Axile",
@@ -122785,7 +122798,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1945
+      "rank": 1946
     },
     {
       "name": "Ozphyron",
@@ -122798,7 +122811,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1946
+      "rank": 1947
     },
     {
       "name": "IceN1ght",
@@ -122811,7 +122824,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1947
+      "rank": 1948
     },
     {
       "name": "kittenouo",
@@ -122824,7 +122837,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1948
+      "rank": 1949
     },
     {
       "name": "guest",
@@ -122834,19 +122847,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1949
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -123373,6 +123373,19 @@
       "rank": 1990
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 1991
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -123383,7 +123396,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1991
+      "rank": 1992
     },
     {
       "name": "Healhealhealheal",
@@ -123396,7 +123409,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1992
+      "rank": 1993
     },
     {
       "name": "UltimoChaman",
@@ -123409,7 +123422,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1993
+      "rank": 1994
     },
     {
       "name": "iDrugDealer",
@@ -123422,7 +123435,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1994
+      "rank": 1995
     },
     {
       "name": "Axile",
@@ -123435,7 +123448,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1995
+      "rank": 1996
     },
     {
       "name": "Ozphyron",
@@ -123448,7 +123461,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1996
+      "rank": 1997
     },
     {
       "name": "IceN1ght",
@@ -123461,7 +123474,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1997
+      "rank": 1998
     },
     {
       "name": "kittenouo",
@@ -123474,7 +123487,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 1998
+      "rank": 1999
     },
     {
       "name": "guest",
@@ -123484,19 +123497,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 1999
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -124023,6 +124023,19 @@
       "rank": 2040
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2041
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -124033,7 +124046,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2041
+      "rank": 2042
     },
     {
       "name": "Healhealhealheal",
@@ -124046,7 +124059,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2042
+      "rank": 2043
     },
     {
       "name": "UltimoChaman",
@@ -124059,7 +124072,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2043
+      "rank": 2044
     },
     {
       "name": "iDrugDealer",
@@ -124072,7 +124085,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2044
+      "rank": 2045
     },
     {
       "name": "Axile",
@@ -124085,7 +124098,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2045
+      "rank": 2046
     },
     {
       "name": "Ozphyron",
@@ -124098,7 +124111,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2046
+      "rank": 2047
     },
     {
       "name": "IceN1ght",
@@ -124111,7 +124124,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2047
+      "rank": 2048
     },
     {
       "name": "kittenouo",
@@ -124124,7 +124137,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2048
+      "rank": 2049
     },
     {
       "name": "guest",
@@ -124134,19 +124147,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2049
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -124673,6 +124673,19 @@
       "rank": 2090
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2091
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -124683,7 +124696,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2091
+      "rank": 2092
     },
     {
       "name": "Healhealhealheal",
@@ -124696,7 +124709,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2092
+      "rank": 2093
     },
     {
       "name": "UltimoChaman",
@@ -124709,7 +124722,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2093
+      "rank": 2094
     },
     {
       "name": "iDrugDealer",
@@ -124722,7 +124735,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2094
+      "rank": 2095
     },
     {
       "name": "Axile",
@@ -124735,7 +124748,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2095
+      "rank": 2096
     },
     {
       "name": "Ozphyron",
@@ -124748,7 +124761,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2096
+      "rank": 2097
     },
     {
       "name": "IceN1ght",
@@ -124761,7 +124774,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2097
+      "rank": 2098
     },
     {
       "name": "kittenouo",
@@ -124774,7 +124787,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2098
+      "rank": 2099
     },
     {
       "name": "guest",
@@ -124784,19 +124797,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2099
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -125323,6 +125323,19 @@
       "rank": 2140
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2141
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -125333,7 +125346,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2141
+      "rank": 2142
     },
     {
       "name": "Healhealhealheal",
@@ -125346,7 +125359,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2142
+      "rank": 2143
     },
     {
       "name": "UltimoChaman",
@@ -125359,7 +125372,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2143
+      "rank": 2144
     },
     {
       "name": "iDrugDealer",
@@ -125372,7 +125385,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2144
+      "rank": 2145
     },
     {
       "name": "Axile",
@@ -125385,7 +125398,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2145
+      "rank": 2146
     },
     {
       "name": "Ozphyron",
@@ -125398,7 +125411,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2146
+      "rank": 2147
     },
     {
       "name": "IceN1ght",
@@ -125411,7 +125424,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2147
+      "rank": 2148
     },
     {
       "name": "kittenouo",
@@ -125424,7 +125437,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2148
+      "rank": 2149
     },
     {
       "name": "guest",
@@ -125434,19 +125447,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2149
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -125973,6 +125973,19 @@
       "rank": 2190
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2191
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -125983,7 +125996,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2191
+      "rank": 2192
     },
     {
       "name": "Healhealhealheal",
@@ -125996,7 +126009,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2192
+      "rank": 2193
     },
     {
       "name": "UltimoChaman",
@@ -126009,7 +126022,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2193
+      "rank": 2194
     },
     {
       "name": "iDrugDealer",
@@ -126022,7 +126035,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2194
+      "rank": 2195
     },
     {
       "name": "Axile",
@@ -126035,7 +126048,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2195
+      "rank": 2196
     },
     {
       "name": "Ozphyron",
@@ -126048,7 +126061,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2196
+      "rank": 2197
     },
     {
       "name": "IceN1ght",
@@ -126061,7 +126074,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2197
+      "rank": 2198
     },
     {
       "name": "kittenouo",
@@ -126074,7 +126087,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2198
+      "rank": 2199
     },
     {
       "name": "guest",
@@ -126084,19 +126097,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2199
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -126623,6 +126623,19 @@
       "rank": 2240
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2241
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -126633,7 +126646,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2241
+      "rank": 2242
     },
     {
       "name": "Healhealhealheal",
@@ -126646,7 +126659,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2242
+      "rank": 2243
     },
     {
       "name": "UltimoChaman",
@@ -126659,7 +126672,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2243
+      "rank": 2244
     },
     {
       "name": "iDrugDealer",
@@ -126672,7 +126685,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2244
+      "rank": 2245
     },
     {
       "name": "Axile",
@@ -126685,7 +126698,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2245
+      "rank": 2246
     },
     {
       "name": "Ozphyron",
@@ -126698,7 +126711,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2246
+      "rank": 2247
     },
     {
       "name": "IceN1ght",
@@ -126711,7 +126724,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2247
+      "rank": 2248
     },
     {
       "name": "kittenouo",
@@ -126724,7 +126737,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2248
+      "rank": 2249
     },
     {
       "name": "guest",
@@ -126734,19 +126747,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2249
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -127273,6 +127273,19 @@
       "rank": 2290
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2291
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -127283,7 +127296,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2291
+      "rank": 2292
     },
     {
       "name": "Healhealhealheal",
@@ -127296,7 +127309,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2292
+      "rank": 2293
     },
     {
       "name": "UltimoChaman",
@@ -127309,7 +127322,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2293
+      "rank": 2294
     },
     {
       "name": "iDrugDealer",
@@ -127322,7 +127335,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2294
+      "rank": 2295
     },
     {
       "name": "Axile",
@@ -127335,7 +127348,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2295
+      "rank": 2296
     },
     {
       "name": "Ozphyron",
@@ -127348,7 +127361,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2296
+      "rank": 2297
     },
     {
       "name": "IceN1ght",
@@ -127361,7 +127374,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2297
+      "rank": 2298
     },
     {
       "name": "kittenouo",
@@ -127374,7 +127387,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2298
+      "rank": 2299
     },
     {
       "name": "guest",
@@ -127384,19 +127397,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2299
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -127923,6 +127923,19 @@
       "rank": 2340
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2341
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -127933,7 +127946,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2341
+      "rank": 2342
     },
     {
       "name": "Healhealhealheal",
@@ -127946,7 +127959,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2342
+      "rank": 2343
     },
     {
       "name": "UltimoChaman",
@@ -127959,7 +127972,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2343
+      "rank": 2344
     },
     {
       "name": "iDrugDealer",
@@ -127972,7 +127985,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2344
+      "rank": 2345
     },
     {
       "name": "Axile",
@@ -127985,7 +127998,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2345
+      "rank": 2346
     },
     {
       "name": "Ozphyron",
@@ -127998,7 +128011,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2346
+      "rank": 2347
     },
     {
       "name": "IceN1ght",
@@ -128011,7 +128024,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2347
+      "rank": 2348
     },
     {
       "name": "kittenouo",
@@ -128024,7 +128037,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2348
+      "rank": 2349
     },
     {
       "name": "guest",
@@ -128034,19 +128047,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2349
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -128573,6 +128573,19 @@
       "rank": 2390
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2391
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -128583,7 +128596,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2391
+      "rank": 2392
     },
     {
       "name": "Healhealhealheal",
@@ -128596,7 +128609,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2392
+      "rank": 2393
     },
     {
       "name": "UltimoChaman",
@@ -128609,7 +128622,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2393
+      "rank": 2394
     },
     {
       "name": "iDrugDealer",
@@ -128622,7 +128635,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2394
+      "rank": 2395
     },
     {
       "name": "Axile",
@@ -128635,7 +128648,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2395
+      "rank": 2396
     },
     {
       "name": "Ozphyron",
@@ -128648,7 +128661,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2396
+      "rank": 2397
     },
     {
       "name": "IceN1ght",
@@ -128661,7 +128674,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2397
+      "rank": 2398
     },
     {
       "name": "kittenouo",
@@ -128674,7 +128687,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2398
+      "rank": 2399
     },
     {
       "name": "guest",
@@ -128684,19 +128697,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2399
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -129223,6 +129223,19 @@
       "rank": 2440
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2441
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -129233,7 +129246,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2441
+      "rank": 2442
     },
     {
       "name": "Healhealhealheal",
@@ -129246,7 +129259,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2442
+      "rank": 2443
     },
     {
       "name": "UltimoChaman",
@@ -129259,7 +129272,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2443
+      "rank": 2444
     },
     {
       "name": "iDrugDealer",
@@ -129272,7 +129285,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2444
+      "rank": 2445
     },
     {
       "name": "Axile",
@@ -129285,7 +129298,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2445
+      "rank": 2446
     },
     {
       "name": "Ozphyron",
@@ -129298,7 +129311,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2446
+      "rank": 2447
     },
     {
       "name": "IceN1ght",
@@ -129311,7 +129324,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2447
+      "rank": 2448
     },
     {
       "name": "kittenouo",
@@ -129324,7 +129337,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2448
+      "rank": 2449
     },
     {
       "name": "guest",
@@ -129334,19 +129347,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2449
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
@@ -129873,6 +129873,19 @@
       "rank": 2490
     },
     {
+      "name": "BvbblyWater",
+      "dps": 575,
+      "burst": 398,
+      "ehp": 9420,
+      "score": 1009.61,
+      "tank": "S",
+      "hybrid": "S",
+      "dpst": "S",
+      "overall": "S",
+      "cls": "shaman",
+      "rank": 2491
+    },
+    {
       "name": "InMyPocket",
       "dps": 559,
       "burst": 424,
@@ -129883,7 +129896,7 @@
       "dpst": "A+",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2491
+      "rank": 2492
     },
     {
       "name": "Healhealhealheal",
@@ -129896,7 +129909,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2492
+      "rank": 2493
     },
     {
       "name": "UltimoChaman",
@@ -129909,7 +129922,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2493
+      "rank": 2494
     },
     {
       "name": "iDrugDealer",
@@ -129922,7 +129935,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2494
+      "rank": 2495
     },
     {
       "name": "Axile",
@@ -129935,7 +129948,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2495
+      "rank": 2496
     },
     {
       "name": "Ozphyron",
@@ -129948,7 +129961,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2496
+      "rank": 2497
     },
     {
       "name": "IceN1ght",
@@ -129961,7 +129974,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2497
+      "rank": 2498
     },
     {
       "name": "kittenouo",
@@ -129974,7 +129987,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
-      "rank": 2498
+      "rank": 2499
     },
     {
       "name": "guest",
@@ -129984,19 +129997,6 @@
       "score": 1008.72,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "S",
-      "cls": "shaman",
-      "rank": 2499
-    },
-    {
-      "name": "192837123987",
-      "dps": 553,
-      "burst": 387,
-      "ehp": 9952,
-      "score": 1008.56,
-      "tank": "S",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "S",
       "cls": "shaman",
