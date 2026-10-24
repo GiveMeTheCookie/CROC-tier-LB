@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-24T04:14:50.999Z",
+  "fetchedAt": "2026-10-24T10:45:31.831Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -289,6 +289,19 @@
       "rank": 22
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 23
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -299,7 +312,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "ClownPiercee",
@@ -312,7 +325,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "Rapier",
@@ -325,7 +338,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "lordwar222",
@@ -338,7 +351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "ChinaJjack",
@@ -351,7 +364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "Whirlwindist",
@@ -364,7 +377,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "CuItist",
@@ -377,7 +390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "TheDani1401",
@@ -385,19 +398,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 30
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -939,6 +939,19 @@
       "rank": 72
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 73
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -949,7 +962,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "ClownPiercee",
@@ -962,7 +975,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "Rapier",
@@ -975,7 +988,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 75
+      "rank": 76
     },
     {
       "name": "lordwar222",
@@ -988,7 +1001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "ChinaJjack",
@@ -1001,7 +1014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "Whirlwindist",
@@ -1014,7 +1027,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "CuItist",
@@ -1027,7 +1040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "TheDani1401",
@@ -1035,19 +1048,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 80
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -1589,6 +1589,19 @@
       "rank": 122
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 123
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -1599,7 +1612,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 123
+      "rank": 124
     },
     {
       "name": "ClownPiercee",
@@ -1612,7 +1625,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 124
+      "rank": 125
     },
     {
       "name": "Rapier",
@@ -1625,7 +1638,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 125
+      "rank": 126
     },
     {
       "name": "lordwar222",
@@ -1638,7 +1651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 126
+      "rank": 127
     },
     {
       "name": "ChinaJjack",
@@ -1651,7 +1664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 127
+      "rank": 128
     },
     {
       "name": "Whirlwindist",
@@ -1664,7 +1677,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 128
+      "rank": 129
     },
     {
       "name": "CuItist",
@@ -1677,7 +1690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 129
+      "rank": 130
     },
     {
       "name": "TheDani1401",
@@ -1685,19 +1698,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 130
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -2239,6 +2239,19 @@
       "rank": 172
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 173
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -2249,7 +2262,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 173
+      "rank": 174
     },
     {
       "name": "ClownPiercee",
@@ -2262,7 +2275,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 174
+      "rank": 175
     },
     {
       "name": "Rapier",
@@ -2275,7 +2288,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 175
+      "rank": 176
     },
     {
       "name": "lordwar222",
@@ -2288,7 +2301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 176
+      "rank": 177
     },
     {
       "name": "ChinaJjack",
@@ -2301,7 +2314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 177
+      "rank": 178
     },
     {
       "name": "Whirlwindist",
@@ -2314,7 +2327,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 178
+      "rank": 179
     },
     {
       "name": "CuItist",
@@ -2327,7 +2340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 179
+      "rank": 180
     },
     {
       "name": "TheDani1401",
@@ -2335,19 +2348,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 180
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -2889,6 +2889,19 @@
       "rank": 222
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 223
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -2899,7 +2912,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 223
+      "rank": 224
     },
     {
       "name": "ClownPiercee",
@@ -2912,7 +2925,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 224
+      "rank": 225
     },
     {
       "name": "Rapier",
@@ -2925,7 +2938,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 225
+      "rank": 226
     },
     {
       "name": "lordwar222",
@@ -2938,7 +2951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 226
+      "rank": 227
     },
     {
       "name": "ChinaJjack",
@@ -2951,7 +2964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 227
+      "rank": 228
     },
     {
       "name": "Whirlwindist",
@@ -2964,7 +2977,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "CuItist",
@@ -2977,7 +2990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "TheDani1401",
@@ -2985,19 +2998,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 230
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -3539,6 +3539,19 @@
       "rank": 272
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 273
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -3549,7 +3562,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 273
+      "rank": 274
     },
     {
       "name": "ClownPiercee",
@@ -3562,7 +3575,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 274
+      "rank": 275
     },
     {
       "name": "Rapier",
@@ -3575,7 +3588,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 275
+      "rank": 276
     },
     {
       "name": "lordwar222",
@@ -3588,7 +3601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 276
+      "rank": 277
     },
     {
       "name": "ChinaJjack",
@@ -3601,7 +3614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 277
+      "rank": 278
     },
     {
       "name": "Whirlwindist",
@@ -3614,7 +3627,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 278
+      "rank": 279
     },
     {
       "name": "CuItist",
@@ -3627,7 +3640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 279
+      "rank": 280
     },
     {
       "name": "TheDani1401",
@@ -3635,19 +3648,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 280
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -4189,6 +4189,19 @@
       "rank": 322
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 323
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -4199,7 +4212,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 323
+      "rank": 324
     },
     {
       "name": "ClownPiercee",
@@ -4212,7 +4225,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 324
+      "rank": 325
     },
     {
       "name": "Rapier",
@@ -4225,7 +4238,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 325
+      "rank": 326
     },
     {
       "name": "lordwar222",
@@ -4238,7 +4251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 326
+      "rank": 327
     },
     {
       "name": "ChinaJjack",
@@ -4251,7 +4264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 327
+      "rank": 328
     },
     {
       "name": "Whirlwindist",
@@ -4264,7 +4277,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 328
+      "rank": 329
     },
     {
       "name": "CuItist",
@@ -4277,7 +4290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 329
+      "rank": 330
     },
     {
       "name": "TheDani1401",
@@ -4285,19 +4298,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 330
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -4839,6 +4839,19 @@
       "rank": 372
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 373
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -4849,7 +4862,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 373
+      "rank": 374
     },
     {
       "name": "ClownPiercee",
@@ -4862,7 +4875,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 374
+      "rank": 375
     },
     {
       "name": "Rapier",
@@ -4875,7 +4888,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 375
+      "rank": 376
     },
     {
       "name": "lordwar222",
@@ -4888,7 +4901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 376
+      "rank": 377
     },
     {
       "name": "ChinaJjack",
@@ -4901,7 +4914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 377
+      "rank": 378
     },
     {
       "name": "Whirlwindist",
@@ -4914,7 +4927,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 378
+      "rank": 379
     },
     {
       "name": "CuItist",
@@ -4927,7 +4940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 379
+      "rank": 380
     },
     {
       "name": "TheDani1401",
@@ -4935,19 +4948,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 380
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -5489,6 +5489,19 @@
       "rank": 422
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 423
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -5499,7 +5512,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 423
+      "rank": 424
     },
     {
       "name": "ClownPiercee",
@@ -5512,7 +5525,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 424
+      "rank": 425
     },
     {
       "name": "Rapier",
@@ -5525,7 +5538,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 425
+      "rank": 426
     },
     {
       "name": "lordwar222",
@@ -5538,7 +5551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 426
+      "rank": 427
     },
     {
       "name": "ChinaJjack",
@@ -5551,7 +5564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 427
+      "rank": 428
     },
     {
       "name": "Whirlwindist",
@@ -5564,7 +5577,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 428
+      "rank": 429
     },
     {
       "name": "CuItist",
@@ -5577,7 +5590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 429
+      "rank": 430
     },
     {
       "name": "TheDani1401",
@@ -5585,19 +5598,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 430
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -6139,6 +6139,19 @@
       "rank": 472
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 473
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -6149,7 +6162,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 473
+      "rank": 474
     },
     {
       "name": "ClownPiercee",
@@ -6162,7 +6175,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 474
+      "rank": 475
     },
     {
       "name": "Rapier",
@@ -6175,7 +6188,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 475
+      "rank": 476
     },
     {
       "name": "lordwar222",
@@ -6188,7 +6201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 476
+      "rank": 477
     },
     {
       "name": "ChinaJjack",
@@ -6201,7 +6214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 477
+      "rank": 478
     },
     {
       "name": "Whirlwindist",
@@ -6214,7 +6227,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 478
+      "rank": 479
     },
     {
       "name": "CuItist",
@@ -6227,7 +6240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 479
+      "rank": 480
     },
     {
       "name": "TheDani1401",
@@ -6235,19 +6248,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 480
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -6789,6 +6789,19 @@
       "rank": 522
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 523
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -6799,7 +6812,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 523
+      "rank": 524
     },
     {
       "name": "ClownPiercee",
@@ -6812,7 +6825,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 524
+      "rank": 525
     },
     {
       "name": "Rapier",
@@ -6825,7 +6838,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 525
+      "rank": 526
     },
     {
       "name": "lordwar222",
@@ -6838,7 +6851,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 526
+      "rank": 527
     },
     {
       "name": "ChinaJjack",
@@ -6851,7 +6864,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 527
+      "rank": 528
     },
     {
       "name": "Whirlwindist",
@@ -6864,7 +6877,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 528
+      "rank": 529
     },
     {
       "name": "CuItist",
@@ -6877,7 +6890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 529
+      "rank": 530
     },
     {
       "name": "TheDani1401",
@@ -6885,19 +6898,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 530
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -7439,6 +7439,19 @@
       "rank": 572
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 573
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -7449,7 +7462,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 573
+      "rank": 574
     },
     {
       "name": "ClownPiercee",
@@ -7462,7 +7475,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 574
+      "rank": 575
     },
     {
       "name": "Rapier",
@@ -7475,7 +7488,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 575
+      "rank": 576
     },
     {
       "name": "lordwar222",
@@ -7488,7 +7501,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 576
+      "rank": 577
     },
     {
       "name": "ChinaJjack",
@@ -7501,7 +7514,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 577
+      "rank": 578
     },
     {
       "name": "Whirlwindist",
@@ -7514,7 +7527,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 578
+      "rank": 579
     },
     {
       "name": "CuItist",
@@ -7527,7 +7540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 579
+      "rank": 580
     },
     {
       "name": "TheDani1401",
@@ -7535,19 +7548,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 580
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -8089,6 +8089,19 @@
       "rank": 622
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 623
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -8099,7 +8112,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 623
+      "rank": 624
     },
     {
       "name": "ClownPiercee",
@@ -8112,7 +8125,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 624
+      "rank": 625
     },
     {
       "name": "Rapier",
@@ -8125,7 +8138,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 625
+      "rank": 626
     },
     {
       "name": "lordwar222",
@@ -8138,7 +8151,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 626
+      "rank": 627
     },
     {
       "name": "ChinaJjack",
@@ -8151,7 +8164,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 627
+      "rank": 628
     },
     {
       "name": "Whirlwindist",
@@ -8164,7 +8177,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 628
+      "rank": 629
     },
     {
       "name": "CuItist",
@@ -8177,7 +8190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 629
+      "rank": 630
     },
     {
       "name": "TheDani1401",
@@ -8185,19 +8198,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 630
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -8739,6 +8739,19 @@
       "rank": 672
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 673
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -8749,7 +8762,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 673
+      "rank": 674
     },
     {
       "name": "ClownPiercee",
@@ -8762,7 +8775,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 674
+      "rank": 675
     },
     {
       "name": "Rapier",
@@ -8775,7 +8788,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 675
+      "rank": 676
     },
     {
       "name": "lordwar222",
@@ -8788,7 +8801,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 676
+      "rank": 677
     },
     {
       "name": "ChinaJjack",
@@ -8801,7 +8814,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 677
+      "rank": 678
     },
     {
       "name": "Whirlwindist",
@@ -8814,7 +8827,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 678
+      "rank": 679
     },
     {
       "name": "CuItist",
@@ -8827,7 +8840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 679
+      "rank": 680
     },
     {
       "name": "TheDani1401",
@@ -8835,19 +8848,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 680
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -9389,6 +9389,19 @@
       "rank": 722
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 723
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -9399,7 +9412,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 723
+      "rank": 724
     },
     {
       "name": "ClownPiercee",
@@ -9412,7 +9425,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 724
+      "rank": 725
     },
     {
       "name": "Rapier",
@@ -9425,7 +9438,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 725
+      "rank": 726
     },
     {
       "name": "lordwar222",
@@ -9438,7 +9451,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 726
+      "rank": 727
     },
     {
       "name": "ChinaJjack",
@@ -9451,7 +9464,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 727
+      "rank": 728
     },
     {
       "name": "Whirlwindist",
@@ -9464,7 +9477,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 728
+      "rank": 729
     },
     {
       "name": "CuItist",
@@ -9477,7 +9490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 729
+      "rank": 730
     },
     {
       "name": "TheDani1401",
@@ -9485,19 +9498,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 730
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -10039,6 +10039,19 @@
       "rank": 772
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 773
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -10049,7 +10062,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 773
+      "rank": 774
     },
     {
       "name": "ClownPiercee",
@@ -10062,7 +10075,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 774
+      "rank": 775
     },
     {
       "name": "Rapier",
@@ -10075,7 +10088,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 775
+      "rank": 776
     },
     {
       "name": "lordwar222",
@@ -10088,7 +10101,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 776
+      "rank": 777
     },
     {
       "name": "ChinaJjack",
@@ -10101,7 +10114,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 777
+      "rank": 778
     },
     {
       "name": "Whirlwindist",
@@ -10114,7 +10127,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 778
+      "rank": 779
     },
     {
       "name": "CuItist",
@@ -10127,7 +10140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 779
+      "rank": 780
     },
     {
       "name": "TheDani1401",
@@ -10135,19 +10148,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 780
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -10689,6 +10689,19 @@
       "rank": 822
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 823
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -10699,7 +10712,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 823
+      "rank": 824
     },
     {
       "name": "ClownPiercee",
@@ -10712,7 +10725,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 824
+      "rank": 825
     },
     {
       "name": "Rapier",
@@ -10725,7 +10738,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 825
+      "rank": 826
     },
     {
       "name": "lordwar222",
@@ -10738,7 +10751,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 826
+      "rank": 827
     },
     {
       "name": "ChinaJjack",
@@ -10751,7 +10764,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 827
+      "rank": 828
     },
     {
       "name": "Whirlwindist",
@@ -10764,7 +10777,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 828
+      "rank": 829
     },
     {
       "name": "CuItist",
@@ -10777,7 +10790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 829
+      "rank": 830
     },
     {
       "name": "TheDani1401",
@@ -10785,19 +10798,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 830
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -11339,6 +11339,19 @@
       "rank": 872
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 873
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -11349,7 +11362,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 873
+      "rank": 874
     },
     {
       "name": "ClownPiercee",
@@ -11362,7 +11375,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 874
+      "rank": 875
     },
     {
       "name": "Rapier",
@@ -11375,7 +11388,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 875
+      "rank": 876
     },
     {
       "name": "lordwar222",
@@ -11388,7 +11401,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 876
+      "rank": 877
     },
     {
       "name": "ChinaJjack",
@@ -11401,7 +11414,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 877
+      "rank": 878
     },
     {
       "name": "Whirlwindist",
@@ -11414,7 +11427,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 878
+      "rank": 879
     },
     {
       "name": "CuItist",
@@ -11427,7 +11440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 879
+      "rank": 880
     },
     {
       "name": "TheDani1401",
@@ -11435,19 +11448,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 880
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -11989,6 +11989,19 @@
       "rank": 922
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 923
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -11999,7 +12012,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 923
+      "rank": 924
     },
     {
       "name": "ClownPiercee",
@@ -12012,7 +12025,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 924
+      "rank": 925
     },
     {
       "name": "Rapier",
@@ -12025,7 +12038,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 925
+      "rank": 926
     },
     {
       "name": "lordwar222",
@@ -12038,7 +12051,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 926
+      "rank": 927
     },
     {
       "name": "ChinaJjack",
@@ -12051,7 +12064,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 927
+      "rank": 928
     },
     {
       "name": "Whirlwindist",
@@ -12064,7 +12077,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 928
+      "rank": 929
     },
     {
       "name": "CuItist",
@@ -12077,7 +12090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 929
+      "rank": 930
     },
     {
       "name": "TheDani1401",
@@ -12085,19 +12098,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 930
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -12639,6 +12639,19 @@
       "rank": 972
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 973
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -12649,7 +12662,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 973
+      "rank": 974
     },
     {
       "name": "ClownPiercee",
@@ -12662,7 +12675,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 974
+      "rank": 975
     },
     {
       "name": "Rapier",
@@ -12675,7 +12688,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 975
+      "rank": 976
     },
     {
       "name": "lordwar222",
@@ -12688,7 +12701,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 976
+      "rank": 977
     },
     {
       "name": "ChinaJjack",
@@ -12701,7 +12714,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 977
+      "rank": 978
     },
     {
       "name": "Whirlwindist",
@@ -12714,7 +12727,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 978
+      "rank": 979
     },
     {
       "name": "CuItist",
@@ -12727,7 +12740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 979
+      "rank": 980
     },
     {
       "name": "TheDani1401",
@@ -12735,19 +12748,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 980
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -13289,6 +13289,19 @@
       "rank": 1022
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1023
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -13299,7 +13312,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1023
+      "rank": 1024
     },
     {
       "name": "ClownPiercee",
@@ -13312,7 +13325,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1024
+      "rank": 1025
     },
     {
       "name": "Rapier",
@@ -13325,7 +13338,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1025
+      "rank": 1026
     },
     {
       "name": "lordwar222",
@@ -13338,7 +13351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1026
+      "rank": 1027
     },
     {
       "name": "ChinaJjack",
@@ -13351,7 +13364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1027
+      "rank": 1028
     },
     {
       "name": "Whirlwindist",
@@ -13364,7 +13377,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1028
+      "rank": 1029
     },
     {
       "name": "CuItist",
@@ -13377,7 +13390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1029
+      "rank": 1030
     },
     {
       "name": "TheDani1401",
@@ -13385,19 +13398,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1030
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -13939,6 +13939,19 @@
       "rank": 1072
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1073
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -13949,7 +13962,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1073
+      "rank": 1074
     },
     {
       "name": "ClownPiercee",
@@ -13962,7 +13975,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1074
+      "rank": 1075
     },
     {
       "name": "Rapier",
@@ -13975,7 +13988,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1075
+      "rank": 1076
     },
     {
       "name": "lordwar222",
@@ -13988,7 +14001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1076
+      "rank": 1077
     },
     {
       "name": "ChinaJjack",
@@ -14001,7 +14014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1077
+      "rank": 1078
     },
     {
       "name": "Whirlwindist",
@@ -14014,7 +14027,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1078
+      "rank": 1079
     },
     {
       "name": "CuItist",
@@ -14027,7 +14040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1079
+      "rank": 1080
     },
     {
       "name": "TheDani1401",
@@ -14035,19 +14048,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1080
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -14589,6 +14589,19 @@
       "rank": 1122
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1123
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -14599,7 +14612,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1123
+      "rank": 1124
     },
     {
       "name": "ClownPiercee",
@@ -14612,7 +14625,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1124
+      "rank": 1125
     },
     {
       "name": "Rapier",
@@ -14625,7 +14638,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1125
+      "rank": 1126
     },
     {
       "name": "lordwar222",
@@ -14638,7 +14651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1126
+      "rank": 1127
     },
     {
       "name": "ChinaJjack",
@@ -14651,7 +14664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1127
+      "rank": 1128
     },
     {
       "name": "Whirlwindist",
@@ -14664,7 +14677,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1128
+      "rank": 1129
     },
     {
       "name": "CuItist",
@@ -14677,7 +14690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1129
+      "rank": 1130
     },
     {
       "name": "TheDani1401",
@@ -14685,19 +14698,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1130
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -15239,6 +15239,19 @@
       "rank": 1172
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1173
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -15249,7 +15262,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1173
+      "rank": 1174
     },
     {
       "name": "ClownPiercee",
@@ -15262,7 +15275,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1174
+      "rank": 1175
     },
     {
       "name": "Rapier",
@@ -15275,7 +15288,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1175
+      "rank": 1176
     },
     {
       "name": "lordwar222",
@@ -15288,7 +15301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1176
+      "rank": 1177
     },
     {
       "name": "ChinaJjack",
@@ -15301,7 +15314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1177
+      "rank": 1178
     },
     {
       "name": "Whirlwindist",
@@ -15314,7 +15327,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1178
+      "rank": 1179
     },
     {
       "name": "CuItist",
@@ -15327,7 +15340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1179
+      "rank": 1180
     },
     {
       "name": "TheDani1401",
@@ -15335,19 +15348,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1180
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -15889,6 +15889,19 @@
       "rank": 1222
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1223
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -15899,7 +15912,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1223
+      "rank": 1224
     },
     {
       "name": "ClownPiercee",
@@ -15912,7 +15925,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1224
+      "rank": 1225
     },
     {
       "name": "Rapier",
@@ -15925,7 +15938,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1225
+      "rank": 1226
     },
     {
       "name": "lordwar222",
@@ -15938,7 +15951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1226
+      "rank": 1227
     },
     {
       "name": "ChinaJjack",
@@ -15951,7 +15964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1227
+      "rank": 1228
     },
     {
       "name": "Whirlwindist",
@@ -15964,7 +15977,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1228
+      "rank": 1229
     },
     {
       "name": "CuItist",
@@ -15977,7 +15990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1229
+      "rank": 1230
     },
     {
       "name": "TheDani1401",
@@ -15985,19 +15998,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1230
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -16539,6 +16539,19 @@
       "rank": 1272
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1273
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -16549,7 +16562,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1273
+      "rank": 1274
     },
     {
       "name": "ClownPiercee",
@@ -16562,7 +16575,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1274
+      "rank": 1275
     },
     {
       "name": "Rapier",
@@ -16575,7 +16588,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1275
+      "rank": 1276
     },
     {
       "name": "lordwar222",
@@ -16588,7 +16601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1276
+      "rank": 1277
     },
     {
       "name": "ChinaJjack",
@@ -16601,7 +16614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1277
+      "rank": 1278
     },
     {
       "name": "Whirlwindist",
@@ -16614,7 +16627,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1278
+      "rank": 1279
     },
     {
       "name": "CuItist",
@@ -16627,7 +16640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1279
+      "rank": 1280
     },
     {
       "name": "TheDani1401",
@@ -16635,19 +16648,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1280
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -17189,6 +17189,19 @@
       "rank": 1322
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1323
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -17199,7 +17212,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1323
+      "rank": 1324
     },
     {
       "name": "ClownPiercee",
@@ -17212,7 +17225,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1324
+      "rank": 1325
     },
     {
       "name": "Rapier",
@@ -17225,7 +17238,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1325
+      "rank": 1326
     },
     {
       "name": "lordwar222",
@@ -17238,7 +17251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1326
+      "rank": 1327
     },
     {
       "name": "ChinaJjack",
@@ -17251,7 +17264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1327
+      "rank": 1328
     },
     {
       "name": "Whirlwindist",
@@ -17264,7 +17277,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1328
+      "rank": 1329
     },
     {
       "name": "CuItist",
@@ -17277,7 +17290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1329
+      "rank": 1330
     },
     {
       "name": "TheDani1401",
@@ -17285,19 +17298,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1330
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -17839,6 +17839,19 @@
       "rank": 1372
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1373
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -17849,7 +17862,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1373
+      "rank": 1374
     },
     {
       "name": "ClownPiercee",
@@ -17862,7 +17875,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1374
+      "rank": 1375
     },
     {
       "name": "Rapier",
@@ -17875,7 +17888,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1375
+      "rank": 1376
     },
     {
       "name": "lordwar222",
@@ -17888,7 +17901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1376
+      "rank": 1377
     },
     {
       "name": "ChinaJjack",
@@ -17901,7 +17914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1377
+      "rank": 1378
     },
     {
       "name": "Whirlwindist",
@@ -17914,7 +17927,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1378
+      "rank": 1379
     },
     {
       "name": "CuItist",
@@ -17927,7 +17940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1379
+      "rank": 1380
     },
     {
       "name": "TheDani1401",
@@ -17935,19 +17948,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1380
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -18489,6 +18489,19 @@
       "rank": 1422
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1423
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -18499,7 +18512,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1423
+      "rank": 1424
     },
     {
       "name": "ClownPiercee",
@@ -18512,7 +18525,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1424
+      "rank": 1425
     },
     {
       "name": "Rapier",
@@ -18525,7 +18538,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1425
+      "rank": 1426
     },
     {
       "name": "lordwar222",
@@ -18538,7 +18551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1426
+      "rank": 1427
     },
     {
       "name": "ChinaJjack",
@@ -18551,7 +18564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1427
+      "rank": 1428
     },
     {
       "name": "Whirlwindist",
@@ -18564,7 +18577,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1428
+      "rank": 1429
     },
     {
       "name": "CuItist",
@@ -18577,7 +18590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1429
+      "rank": 1430
     },
     {
       "name": "TheDani1401",
@@ -18585,19 +18598,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1430
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -19139,6 +19139,19 @@
       "rank": 1472
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1473
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -19149,7 +19162,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1473
+      "rank": 1474
     },
     {
       "name": "ClownPiercee",
@@ -19162,7 +19175,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1474
+      "rank": 1475
     },
     {
       "name": "Rapier",
@@ -19175,7 +19188,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1475
+      "rank": 1476
     },
     {
       "name": "lordwar222",
@@ -19188,7 +19201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1476
+      "rank": 1477
     },
     {
       "name": "ChinaJjack",
@@ -19201,7 +19214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1477
+      "rank": 1478
     },
     {
       "name": "Whirlwindist",
@@ -19214,7 +19227,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1478
+      "rank": 1479
     },
     {
       "name": "CuItist",
@@ -19227,7 +19240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1479
+      "rank": 1480
     },
     {
       "name": "TheDani1401",
@@ -19235,19 +19248,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1480
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -19789,6 +19789,19 @@
       "rank": 1522
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1523
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -19799,7 +19812,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1523
+      "rank": 1524
     },
     {
       "name": "ClownPiercee",
@@ -19812,7 +19825,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1524
+      "rank": 1525
     },
     {
       "name": "Rapier",
@@ -19825,7 +19838,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1525
+      "rank": 1526
     },
     {
       "name": "lordwar222",
@@ -19838,7 +19851,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1526
+      "rank": 1527
     },
     {
       "name": "ChinaJjack",
@@ -19851,7 +19864,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1527
+      "rank": 1528
     },
     {
       "name": "Whirlwindist",
@@ -19864,7 +19877,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1528
+      "rank": 1529
     },
     {
       "name": "CuItist",
@@ -19877,7 +19890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1529
+      "rank": 1530
     },
     {
       "name": "TheDani1401",
@@ -19885,19 +19898,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1530
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -20439,6 +20439,19 @@
       "rank": 1572
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1573
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -20449,7 +20462,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1573
+      "rank": 1574
     },
     {
       "name": "ClownPiercee",
@@ -20462,7 +20475,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1574
+      "rank": 1575
     },
     {
       "name": "Rapier",
@@ -20475,7 +20488,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1575
+      "rank": 1576
     },
     {
       "name": "lordwar222",
@@ -20488,7 +20501,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1576
+      "rank": 1577
     },
     {
       "name": "ChinaJjack",
@@ -20501,7 +20514,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1577
+      "rank": 1578
     },
     {
       "name": "Whirlwindist",
@@ -20514,7 +20527,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1578
+      "rank": 1579
     },
     {
       "name": "CuItist",
@@ -20527,7 +20540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1579
+      "rank": 1580
     },
     {
       "name": "TheDani1401",
@@ -20535,19 +20548,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1580
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -21089,6 +21089,19 @@
       "rank": 1622
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1623
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -21099,7 +21112,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1623
+      "rank": 1624
     },
     {
       "name": "ClownPiercee",
@@ -21112,7 +21125,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1624
+      "rank": 1625
     },
     {
       "name": "Rapier",
@@ -21125,7 +21138,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1625
+      "rank": 1626
     },
     {
       "name": "lordwar222",
@@ -21138,7 +21151,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1626
+      "rank": 1627
     },
     {
       "name": "ChinaJjack",
@@ -21151,7 +21164,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1627
+      "rank": 1628
     },
     {
       "name": "Whirlwindist",
@@ -21164,7 +21177,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1628
+      "rank": 1629
     },
     {
       "name": "CuItist",
@@ -21177,7 +21190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1629
+      "rank": 1630
     },
     {
       "name": "TheDani1401",
@@ -21185,19 +21198,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1630
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -21739,6 +21739,19 @@
       "rank": 1672
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1673
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -21749,7 +21762,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1673
+      "rank": 1674
     },
     {
       "name": "ClownPiercee",
@@ -21762,7 +21775,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1674
+      "rank": 1675
     },
     {
       "name": "Rapier",
@@ -21775,7 +21788,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1675
+      "rank": 1676
     },
     {
       "name": "lordwar222",
@@ -21788,7 +21801,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1676
+      "rank": 1677
     },
     {
       "name": "ChinaJjack",
@@ -21801,7 +21814,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1677
+      "rank": 1678
     },
     {
       "name": "Whirlwindist",
@@ -21814,7 +21827,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1678
+      "rank": 1679
     },
     {
       "name": "CuItist",
@@ -21827,7 +21840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1679
+      "rank": 1680
     },
     {
       "name": "TheDani1401",
@@ -21835,19 +21848,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1680
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -22389,6 +22389,19 @@
       "rank": 1722
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1723
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -22399,7 +22412,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1723
+      "rank": 1724
     },
     {
       "name": "ClownPiercee",
@@ -22412,7 +22425,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1724
+      "rank": 1725
     },
     {
       "name": "Rapier",
@@ -22425,7 +22438,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1725
+      "rank": 1726
     },
     {
       "name": "lordwar222",
@@ -22438,7 +22451,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1726
+      "rank": 1727
     },
     {
       "name": "ChinaJjack",
@@ -22451,7 +22464,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1727
+      "rank": 1728
     },
     {
       "name": "Whirlwindist",
@@ -22464,7 +22477,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1728
+      "rank": 1729
     },
     {
       "name": "CuItist",
@@ -22477,7 +22490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1729
+      "rank": 1730
     },
     {
       "name": "TheDani1401",
@@ -22485,19 +22498,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1730
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -23039,6 +23039,19 @@
       "rank": 1772
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1773
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -23049,7 +23062,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1773
+      "rank": 1774
     },
     {
       "name": "ClownPiercee",
@@ -23062,7 +23075,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1774
+      "rank": 1775
     },
     {
       "name": "Rapier",
@@ -23075,7 +23088,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1775
+      "rank": 1776
     },
     {
       "name": "lordwar222",
@@ -23088,7 +23101,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1776
+      "rank": 1777
     },
     {
       "name": "ChinaJjack",
@@ -23101,7 +23114,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1777
+      "rank": 1778
     },
     {
       "name": "Whirlwindist",
@@ -23114,7 +23127,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1778
+      "rank": 1779
     },
     {
       "name": "CuItist",
@@ -23127,7 +23140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1779
+      "rank": 1780
     },
     {
       "name": "TheDani1401",
@@ -23135,19 +23148,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1780
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -23689,6 +23689,19 @@
       "rank": 1822
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1823
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -23699,7 +23712,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1823
+      "rank": 1824
     },
     {
       "name": "ClownPiercee",
@@ -23712,7 +23725,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1824
+      "rank": 1825
     },
     {
       "name": "Rapier",
@@ -23725,7 +23738,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1825
+      "rank": 1826
     },
     {
       "name": "lordwar222",
@@ -23738,7 +23751,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1826
+      "rank": 1827
     },
     {
       "name": "ChinaJjack",
@@ -23751,7 +23764,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1827
+      "rank": 1828
     },
     {
       "name": "Whirlwindist",
@@ -23764,7 +23777,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1828
+      "rank": 1829
     },
     {
       "name": "CuItist",
@@ -23777,7 +23790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1829
+      "rank": 1830
     },
     {
       "name": "TheDani1401",
@@ -23785,19 +23798,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1830
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -24339,6 +24339,19 @@
       "rank": 1872
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1873
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -24349,7 +24362,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1873
+      "rank": 1874
     },
     {
       "name": "ClownPiercee",
@@ -24362,7 +24375,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1874
+      "rank": 1875
     },
     {
       "name": "Rapier",
@@ -24375,7 +24388,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1875
+      "rank": 1876
     },
     {
       "name": "lordwar222",
@@ -24388,7 +24401,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1876
+      "rank": 1877
     },
     {
       "name": "ChinaJjack",
@@ -24401,7 +24414,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1877
+      "rank": 1878
     },
     {
       "name": "Whirlwindist",
@@ -24414,7 +24427,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1878
+      "rank": 1879
     },
     {
       "name": "CuItist",
@@ -24427,7 +24440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1879
+      "rank": 1880
     },
     {
       "name": "TheDani1401",
@@ -24435,19 +24448,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1880
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -24989,6 +24989,19 @@
       "rank": 1922
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1923
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -24999,7 +25012,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1923
+      "rank": 1924
     },
     {
       "name": "ClownPiercee",
@@ -25012,7 +25025,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1924
+      "rank": 1925
     },
     {
       "name": "Rapier",
@@ -25025,7 +25038,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1925
+      "rank": 1926
     },
     {
       "name": "lordwar222",
@@ -25038,7 +25051,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1926
+      "rank": 1927
     },
     {
       "name": "ChinaJjack",
@@ -25051,7 +25064,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1927
+      "rank": 1928
     },
     {
       "name": "Whirlwindist",
@@ -25064,7 +25077,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1928
+      "rank": 1929
     },
     {
       "name": "CuItist",
@@ -25077,7 +25090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1929
+      "rank": 1930
     },
     {
       "name": "TheDani1401",
@@ -25085,19 +25098,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1930
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -25639,6 +25639,19 @@
       "rank": 1972
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1973
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -25649,7 +25662,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1973
+      "rank": 1974
     },
     {
       "name": "ClownPiercee",
@@ -25662,7 +25675,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1974
+      "rank": 1975
     },
     {
       "name": "Rapier",
@@ -25675,7 +25688,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1975
+      "rank": 1976
     },
     {
       "name": "lordwar222",
@@ -25688,7 +25701,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1976
+      "rank": 1977
     },
     {
       "name": "ChinaJjack",
@@ -25701,7 +25714,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1977
+      "rank": 1978
     },
     {
       "name": "Whirlwindist",
@@ -25714,7 +25727,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1978
+      "rank": 1979
     },
     {
       "name": "CuItist",
@@ -25727,7 +25740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1979
+      "rank": 1980
     },
     {
       "name": "TheDani1401",
@@ -25735,19 +25748,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1980
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -26289,6 +26289,19 @@
       "rank": 2022
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2023
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -26299,7 +26312,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2023
+      "rank": 2024
     },
     {
       "name": "ClownPiercee",
@@ -26312,7 +26325,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2024
+      "rank": 2025
     },
     {
       "name": "Rapier",
@@ -26325,7 +26338,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2025
+      "rank": 2026
     },
     {
       "name": "lordwar222",
@@ -26338,7 +26351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2026
+      "rank": 2027
     },
     {
       "name": "ChinaJjack",
@@ -26351,7 +26364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2027
+      "rank": 2028
     },
     {
       "name": "Whirlwindist",
@@ -26364,7 +26377,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2028
+      "rank": 2029
     },
     {
       "name": "CuItist",
@@ -26377,7 +26390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2029
+      "rank": 2030
     },
     {
       "name": "TheDani1401",
@@ -26385,19 +26398,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2030
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -26939,6 +26939,19 @@
       "rank": 2072
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2073
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -26949,7 +26962,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2073
+      "rank": 2074
     },
     {
       "name": "ClownPiercee",
@@ -26962,7 +26975,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2074
+      "rank": 2075
     },
     {
       "name": "Rapier",
@@ -26975,7 +26988,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2075
+      "rank": 2076
     },
     {
       "name": "lordwar222",
@@ -26988,7 +27001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2076
+      "rank": 2077
     },
     {
       "name": "ChinaJjack",
@@ -27001,7 +27014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2077
+      "rank": 2078
     },
     {
       "name": "Whirlwindist",
@@ -27014,7 +27027,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2078
+      "rank": 2079
     },
     {
       "name": "CuItist",
@@ -27027,7 +27040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2079
+      "rank": 2080
     },
     {
       "name": "TheDani1401",
@@ -27035,19 +27048,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2080
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -27589,6 +27589,19 @@
       "rank": 2122
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2123
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -27599,7 +27612,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2123
+      "rank": 2124
     },
     {
       "name": "ClownPiercee",
@@ -27612,7 +27625,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2124
+      "rank": 2125
     },
     {
       "name": "Rapier",
@@ -27625,7 +27638,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2125
+      "rank": 2126
     },
     {
       "name": "lordwar222",
@@ -27638,7 +27651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2126
+      "rank": 2127
     },
     {
       "name": "ChinaJjack",
@@ -27651,7 +27664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2127
+      "rank": 2128
     },
     {
       "name": "Whirlwindist",
@@ -27664,7 +27677,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2128
+      "rank": 2129
     },
     {
       "name": "CuItist",
@@ -27677,7 +27690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2129
+      "rank": 2130
     },
     {
       "name": "TheDani1401",
@@ -27685,19 +27698,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2130
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -28239,6 +28239,19 @@
       "rank": 2172
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2173
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -28249,7 +28262,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2173
+      "rank": 2174
     },
     {
       "name": "ClownPiercee",
@@ -28262,7 +28275,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2174
+      "rank": 2175
     },
     {
       "name": "Rapier",
@@ -28275,7 +28288,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2175
+      "rank": 2176
     },
     {
       "name": "lordwar222",
@@ -28288,7 +28301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2176
+      "rank": 2177
     },
     {
       "name": "ChinaJjack",
@@ -28301,7 +28314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2177
+      "rank": 2178
     },
     {
       "name": "Whirlwindist",
@@ -28314,7 +28327,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2178
+      "rank": 2179
     },
     {
       "name": "CuItist",
@@ -28327,7 +28340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2179
+      "rank": 2180
     },
     {
       "name": "TheDani1401",
@@ -28335,19 +28348,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2180
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -28889,6 +28889,19 @@
       "rank": 2222
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2223
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -28899,7 +28912,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2223
+      "rank": 2224
     },
     {
       "name": "ClownPiercee",
@@ -28912,7 +28925,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2224
+      "rank": 2225
     },
     {
       "name": "Rapier",
@@ -28925,7 +28938,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2225
+      "rank": 2226
     },
     {
       "name": "lordwar222",
@@ -28938,7 +28951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2226
+      "rank": 2227
     },
     {
       "name": "ChinaJjack",
@@ -28951,7 +28964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2227
+      "rank": 2228
     },
     {
       "name": "Whirlwindist",
@@ -28964,7 +28977,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2228
+      "rank": 2229
     },
     {
       "name": "CuItist",
@@ -28977,7 +28990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2229
+      "rank": 2230
     },
     {
       "name": "TheDani1401",
@@ -28985,19 +28998,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2230
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -29539,6 +29539,19 @@
       "rank": 2272
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2273
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -29549,7 +29562,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2273
+      "rank": 2274
     },
     {
       "name": "ClownPiercee",
@@ -29562,7 +29575,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2274
+      "rank": 2275
     },
     {
       "name": "Rapier",
@@ -29575,7 +29588,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2275
+      "rank": 2276
     },
     {
       "name": "lordwar222",
@@ -29588,7 +29601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2276
+      "rank": 2277
     },
     {
       "name": "ChinaJjack",
@@ -29601,7 +29614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2277
+      "rank": 2278
     },
     {
       "name": "Whirlwindist",
@@ -29614,7 +29627,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2278
+      "rank": 2279
     },
     {
       "name": "CuItist",
@@ -29627,7 +29640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2279
+      "rank": 2280
     },
     {
       "name": "TheDani1401",
@@ -29635,19 +29648,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2280
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -30189,6 +30189,19 @@
       "rank": 2322
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2323
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -30199,7 +30212,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2323
+      "rank": 2324
     },
     {
       "name": "ClownPiercee",
@@ -30212,7 +30225,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2324
+      "rank": 2325
     },
     {
       "name": "Rapier",
@@ -30225,7 +30238,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2325
+      "rank": 2326
     },
     {
       "name": "lordwar222",
@@ -30238,7 +30251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2326
+      "rank": 2327
     },
     {
       "name": "ChinaJjack",
@@ -30251,7 +30264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2327
+      "rank": 2328
     },
     {
       "name": "Whirlwindist",
@@ -30264,7 +30277,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2328
+      "rank": 2329
     },
     {
       "name": "CuItist",
@@ -30277,7 +30290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2329
+      "rank": 2330
     },
     {
       "name": "TheDani1401",
@@ -30285,19 +30298,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2330
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -30839,6 +30839,19 @@
       "rank": 2372
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2373
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -30849,7 +30862,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2373
+      "rank": 2374
     },
     {
       "name": "ClownPiercee",
@@ -30862,7 +30875,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2374
+      "rank": 2375
     },
     {
       "name": "Rapier",
@@ -30875,7 +30888,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2375
+      "rank": 2376
     },
     {
       "name": "lordwar222",
@@ -30888,7 +30901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2376
+      "rank": 2377
     },
     {
       "name": "ChinaJjack",
@@ -30901,7 +30914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2377
+      "rank": 2378
     },
     {
       "name": "Whirlwindist",
@@ -30914,7 +30927,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2378
+      "rank": 2379
     },
     {
       "name": "CuItist",
@@ -30927,7 +30940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2379
+      "rank": 2380
     },
     {
       "name": "TheDani1401",
@@ -30935,19 +30948,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2380
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -31489,6 +31489,19 @@
       "rank": 2422
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2423
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -31499,7 +31512,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2423
+      "rank": 2424
     },
     {
       "name": "ClownPiercee",
@@ -31512,7 +31525,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2424
+      "rank": 2425
     },
     {
       "name": "Rapier",
@@ -31525,7 +31538,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2425
+      "rank": 2426
     },
     {
       "name": "lordwar222",
@@ -31538,7 +31551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2426
+      "rank": 2427
     },
     {
       "name": "ChinaJjack",
@@ -31551,7 +31564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2427
+      "rank": 2428
     },
     {
       "name": "Whirlwindist",
@@ -31564,7 +31577,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2428
+      "rank": 2429
     },
     {
       "name": "CuItist",
@@ -31577,7 +31590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2429
+      "rank": 2430
     },
     {
       "name": "TheDani1401",
@@ -31585,19 +31598,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2430
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
@@ -32139,6 +32139,19 @@
       "rank": 2472
     },
     {
+      "name": "illaoi0901",
+      "dps": 499,
+      "burst": 373,
+      "ehp": 12522,
+      "score": 1011.23,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2473
+    },
+    {
       "name": "messerschmidt",
       "dps": 491,
       "burst": 377,
@@ -32149,7 +32162,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2473
+      "rank": 2474
     },
     {
       "name": "ClownPiercee",
@@ -32162,7 +32175,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2474
+      "rank": 2475
     },
     {
       "name": "Rapier",
@@ -32175,7 +32188,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2475
+      "rank": 2476
     },
     {
       "name": "lordwar222",
@@ -32188,7 +32201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2476
+      "rank": 2477
     },
     {
       "name": "ChinaJjack",
@@ -32201,7 +32214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2477
+      "rank": 2478
     },
     {
       "name": "Whirlwindist",
@@ -32214,7 +32227,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2478
+      "rank": 2479
     },
     {
       "name": "CuItist",
@@ -32227,7 +32240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2479
+      "rank": 2480
     },
     {
       "name": "TheDani1401",
@@ -32235,19 +32248,6 @@
       "burst": 355,
       "ehp": 14106,
       "score": 1010.33,
-      "tank": "B+",
-      "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2480
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 485,
-      "burst": 363,
-      "ehp": 13092,
-      "score": 1010.3,
       "tank": "B+",
       "hybrid": "SS",
       "dpst": "SS",
