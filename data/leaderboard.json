@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-26T22:45:15.035Z",
+  "fetchedAt": "2026-10-27T04:47:33.512Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -97711,6 +97711,19 @@
       "rank": 16
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 17
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -97721,7 +97734,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "Quillen",
@@ -97734,7 +97747,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "pooyo",
@@ -97747,7 +97760,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 19
+      "rank": 20
     },
     {
       "name": "AncientRecaII",
@@ -97760,7 +97773,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "xXxDARKxXx",
@@ -97773,7 +97786,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "AugustusS",
@@ -97786,7 +97799,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "ttuB",
@@ -97799,7 +97812,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "Whir",
@@ -97812,7 +97825,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 24
+      "rank": 25
     },
     {
       "name": "GhostIing",
@@ -97825,7 +97838,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "LePolandV2",
@@ -97838,7 +97851,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Kiyuchi",
@@ -97851,7 +97864,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "Roloid",
@@ -97864,7 +97877,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "LoRemipsumdolor",
@@ -97877,7 +97890,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "Goldmare",
@@ -97890,7 +97903,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "Cyclones",
@@ -97903,7 +97916,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Oakmane",
@@ -97913,19 +97926,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 32
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -98361,6 +98361,19 @@
       "rank": 66
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 67
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -98371,7 +98384,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 67
+      "rank": 68
     },
     {
       "name": "Quillen",
@@ -98384,7 +98397,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 68
+      "rank": 69
     },
     {
       "name": "pooyo",
@@ -98397,7 +98410,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 69
+      "rank": 70
     },
     {
       "name": "AncientRecaII",
@@ -98410,7 +98423,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 70
+      "rank": 71
     },
     {
       "name": "xXxDARKxXx",
@@ -98423,7 +98436,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 71
+      "rank": 72
     },
     {
       "name": "AugustusS",
@@ -98436,7 +98449,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "ttuB",
@@ -98449,7 +98462,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 73
+      "rank": 74
     },
     {
       "name": "Whir",
@@ -98462,7 +98475,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 74
+      "rank": 75
     },
     {
       "name": "GhostIing",
@@ -98475,7 +98488,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 75
+      "rank": 76
     },
     {
       "name": "LePolandV2",
@@ -98488,7 +98501,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "Kiyuchi",
@@ -98501,7 +98514,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "Roloid",
@@ -98514,7 +98527,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "LoRemipsumdolor",
@@ -98527,7 +98540,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "Goldmare",
@@ -98540,7 +98553,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "Cyclones",
@@ -98553,7 +98566,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 81
+      "rank": 82
     },
     {
       "name": "Oakmane",
@@ -98563,19 +98576,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 82
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -99011,6 +99011,19 @@
       "rank": 116
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 117
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -99021,7 +99034,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 117
+      "rank": 118
     },
     {
       "name": "Quillen",
@@ -99034,7 +99047,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 118
+      "rank": 119
     },
     {
       "name": "pooyo",
@@ -99047,7 +99060,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 119
+      "rank": 120
     },
     {
       "name": "AncientRecaII",
@@ -99060,7 +99073,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "xXxDARKxXx",
@@ -99073,7 +99086,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 121
+      "rank": 122
     },
     {
       "name": "AugustusS",
@@ -99086,7 +99099,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 122
+      "rank": 123
     },
     {
       "name": "ttuB",
@@ -99099,7 +99112,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 123
+      "rank": 124
     },
     {
       "name": "Whir",
@@ -99112,7 +99125,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 124
+      "rank": 125
     },
     {
       "name": "GhostIing",
@@ -99125,7 +99138,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 125
+      "rank": 126
     },
     {
       "name": "LePolandV2",
@@ -99138,7 +99151,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 126
+      "rank": 127
     },
     {
       "name": "Kiyuchi",
@@ -99151,7 +99164,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 127
+      "rank": 128
     },
     {
       "name": "Roloid",
@@ -99164,7 +99177,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 128
+      "rank": 129
     },
     {
       "name": "LoRemipsumdolor",
@@ -99177,7 +99190,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 129
+      "rank": 130
     },
     {
       "name": "Goldmare",
@@ -99190,7 +99203,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 130
+      "rank": 131
     },
     {
       "name": "Cyclones",
@@ -99203,7 +99216,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 131
+      "rank": 132
     },
     {
       "name": "Oakmane",
@@ -99213,19 +99226,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 132
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -99661,6 +99661,19 @@
       "rank": 166
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 167
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -99671,7 +99684,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Quillen",
@@ -99684,7 +99697,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 168
+      "rank": 169
     },
     {
       "name": "pooyo",
@@ -99697,7 +99710,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "AncientRecaII",
@@ -99710,7 +99723,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "xXxDARKxXx",
@@ -99723,7 +99736,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 171
+      "rank": 172
     },
     {
       "name": "AugustusS",
@@ -99736,7 +99749,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 172
+      "rank": 173
     },
     {
       "name": "ttuB",
@@ -99749,7 +99762,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 173
+      "rank": 174
     },
     {
       "name": "Whir",
@@ -99762,7 +99775,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 174
+      "rank": 175
     },
     {
       "name": "GhostIing",
@@ -99775,7 +99788,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 175
+      "rank": 176
     },
     {
       "name": "LePolandV2",
@@ -99788,7 +99801,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 176
+      "rank": 177
     },
     {
       "name": "Kiyuchi",
@@ -99801,7 +99814,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 177
+      "rank": 178
     },
     {
       "name": "Roloid",
@@ -99814,7 +99827,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 178
+      "rank": 179
     },
     {
       "name": "LoRemipsumdolor",
@@ -99827,7 +99840,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 179
+      "rank": 180
     },
     {
       "name": "Goldmare",
@@ -99840,7 +99853,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 180
+      "rank": 181
     },
     {
       "name": "Cyclones",
@@ -99853,7 +99866,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 181
+      "rank": 182
     },
     {
       "name": "Oakmane",
@@ -99863,19 +99876,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 182
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -100311,6 +100311,19 @@
       "rank": 216
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 217
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -100321,7 +100334,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 217
+      "rank": 218
     },
     {
       "name": "Quillen",
@@ -100334,7 +100347,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 218
+      "rank": 219
     },
     {
       "name": "pooyo",
@@ -100347,7 +100360,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 219
+      "rank": 220
     },
     {
       "name": "AncientRecaII",
@@ -100360,7 +100373,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 220
+      "rank": 221
     },
     {
       "name": "xXxDARKxXx",
@@ -100373,7 +100386,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 221
+      "rank": 222
     },
     {
       "name": "AugustusS",
@@ -100386,7 +100399,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 222
+      "rank": 223
     },
     {
       "name": "ttuB",
@@ -100399,7 +100412,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 223
+      "rank": 224
     },
     {
       "name": "Whir",
@@ -100412,7 +100425,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 224
+      "rank": 225
     },
     {
       "name": "GhostIing",
@@ -100425,7 +100438,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 225
+      "rank": 226
     },
     {
       "name": "LePolandV2",
@@ -100438,7 +100451,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 226
+      "rank": 227
     },
     {
       "name": "Kiyuchi",
@@ -100451,7 +100464,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 227
+      "rank": 228
     },
     {
       "name": "Roloid",
@@ -100464,7 +100477,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "LoRemipsumdolor",
@@ -100477,7 +100490,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "Goldmare",
@@ -100490,7 +100503,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "Cyclones",
@@ -100503,7 +100516,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 231
+      "rank": 232
     },
     {
       "name": "Oakmane",
@@ -100513,19 +100526,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 232
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -100961,6 +100961,19 @@
       "rank": 266
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 267
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -100971,7 +100984,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 267
+      "rank": 268
     },
     {
       "name": "Quillen",
@@ -100984,7 +100997,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 268
+      "rank": 269
     },
     {
       "name": "pooyo",
@@ -100997,7 +101010,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 269
+      "rank": 270
     },
     {
       "name": "AncientRecaII",
@@ -101010,7 +101023,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 270
+      "rank": 271
     },
     {
       "name": "xXxDARKxXx",
@@ -101023,7 +101036,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 271
+      "rank": 272
     },
     {
       "name": "AugustusS",
@@ -101036,7 +101049,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 272
+      "rank": 273
     },
     {
       "name": "ttuB",
@@ -101049,7 +101062,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 273
+      "rank": 274
     },
     {
       "name": "Whir",
@@ -101062,7 +101075,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 274
+      "rank": 275
     },
     {
       "name": "GhostIing",
@@ -101075,7 +101088,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 275
+      "rank": 276
     },
     {
       "name": "LePolandV2",
@@ -101088,7 +101101,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 276
+      "rank": 277
     },
     {
       "name": "Kiyuchi",
@@ -101101,7 +101114,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 277
+      "rank": 278
     },
     {
       "name": "Roloid",
@@ -101114,7 +101127,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 278
+      "rank": 279
     },
     {
       "name": "LoRemipsumdolor",
@@ -101127,7 +101140,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 279
+      "rank": 280
     },
     {
       "name": "Goldmare",
@@ -101140,7 +101153,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 280
+      "rank": 281
     },
     {
       "name": "Cyclones",
@@ -101153,7 +101166,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 281
+      "rank": 282
     },
     {
       "name": "Oakmane",
@@ -101163,19 +101176,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 282
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -101611,6 +101611,19 @@
       "rank": 316
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 317
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -101621,7 +101634,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 317
+      "rank": 318
     },
     {
       "name": "Quillen",
@@ -101634,7 +101647,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 318
+      "rank": 319
     },
     {
       "name": "pooyo",
@@ -101647,7 +101660,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 319
+      "rank": 320
     },
     {
       "name": "AncientRecaII",
@@ -101660,7 +101673,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 320
+      "rank": 321
     },
     {
       "name": "xXxDARKxXx",
@@ -101673,7 +101686,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 321
+      "rank": 322
     },
     {
       "name": "AugustusS",
@@ -101686,7 +101699,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 322
+      "rank": 323
     },
     {
       "name": "ttuB",
@@ -101699,7 +101712,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 323
+      "rank": 324
     },
     {
       "name": "Whir",
@@ -101712,7 +101725,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 324
+      "rank": 325
     },
     {
       "name": "GhostIing",
@@ -101725,7 +101738,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 325
+      "rank": 326
     },
     {
       "name": "LePolandV2",
@@ -101738,7 +101751,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 326
+      "rank": 327
     },
     {
       "name": "Kiyuchi",
@@ -101751,7 +101764,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 327
+      "rank": 328
     },
     {
       "name": "Roloid",
@@ -101764,7 +101777,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 328
+      "rank": 329
     },
     {
       "name": "LoRemipsumdolor",
@@ -101777,7 +101790,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 329
+      "rank": 330
     },
     {
       "name": "Goldmare",
@@ -101790,7 +101803,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 330
+      "rank": 331
     },
     {
       "name": "Cyclones",
@@ -101803,7 +101816,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 331
+      "rank": 332
     },
     {
       "name": "Oakmane",
@@ -101813,19 +101826,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 332
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -102261,6 +102261,19 @@
       "rank": 366
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 367
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -102271,7 +102284,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 367
+      "rank": 368
     },
     {
       "name": "Quillen",
@@ -102284,7 +102297,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 368
+      "rank": 369
     },
     {
       "name": "pooyo",
@@ -102297,7 +102310,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 369
+      "rank": 370
     },
     {
       "name": "AncientRecaII",
@@ -102310,7 +102323,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 370
+      "rank": 371
     },
     {
       "name": "xXxDARKxXx",
@@ -102323,7 +102336,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 371
+      "rank": 372
     },
     {
       "name": "AugustusS",
@@ -102336,7 +102349,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 372
+      "rank": 373
     },
     {
       "name": "ttuB",
@@ -102349,7 +102362,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 373
+      "rank": 374
     },
     {
       "name": "Whir",
@@ -102362,7 +102375,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 374
+      "rank": 375
     },
     {
       "name": "GhostIing",
@@ -102375,7 +102388,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 375
+      "rank": 376
     },
     {
       "name": "LePolandV2",
@@ -102388,7 +102401,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 376
+      "rank": 377
     },
     {
       "name": "Kiyuchi",
@@ -102401,7 +102414,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 377
+      "rank": 378
     },
     {
       "name": "Roloid",
@@ -102414,7 +102427,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 378
+      "rank": 379
     },
     {
       "name": "LoRemipsumdolor",
@@ -102427,7 +102440,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 379
+      "rank": 380
     },
     {
       "name": "Goldmare",
@@ -102440,7 +102453,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 380
+      "rank": 381
     },
     {
       "name": "Cyclones",
@@ -102453,7 +102466,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 381
+      "rank": 382
     },
     {
       "name": "Oakmane",
@@ -102463,19 +102476,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 382
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -102911,6 +102911,19 @@
       "rank": 416
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 417
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -102921,7 +102934,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 417
+      "rank": 418
     },
     {
       "name": "Quillen",
@@ -102934,7 +102947,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 418
+      "rank": 419
     },
     {
       "name": "pooyo",
@@ -102947,7 +102960,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 419
+      "rank": 420
     },
     {
       "name": "AncientRecaII",
@@ -102960,7 +102973,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 420
+      "rank": 421
     },
     {
       "name": "xXxDARKxXx",
@@ -102973,7 +102986,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 421
+      "rank": 422
     },
     {
       "name": "AugustusS",
@@ -102986,7 +102999,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 422
+      "rank": 423
     },
     {
       "name": "ttuB",
@@ -102999,7 +103012,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 423
+      "rank": 424
     },
     {
       "name": "Whir",
@@ -103012,7 +103025,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 424
+      "rank": 425
     },
     {
       "name": "GhostIing",
@@ -103025,7 +103038,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 425
+      "rank": 426
     },
     {
       "name": "LePolandV2",
@@ -103038,7 +103051,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 426
+      "rank": 427
     },
     {
       "name": "Kiyuchi",
@@ -103051,7 +103064,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 427
+      "rank": 428
     },
     {
       "name": "Roloid",
@@ -103064,7 +103077,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 428
+      "rank": 429
     },
     {
       "name": "LoRemipsumdolor",
@@ -103077,7 +103090,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 429
+      "rank": 430
     },
     {
       "name": "Goldmare",
@@ -103090,7 +103103,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 430
+      "rank": 431
     },
     {
       "name": "Cyclones",
@@ -103103,7 +103116,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 431
+      "rank": 432
     },
     {
       "name": "Oakmane",
@@ -103113,19 +103126,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 432
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -103561,6 +103561,19 @@
       "rank": 466
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 467
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -103571,7 +103584,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 467
+      "rank": 468
     },
     {
       "name": "Quillen",
@@ -103584,7 +103597,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 468
+      "rank": 469
     },
     {
       "name": "pooyo",
@@ -103597,7 +103610,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 469
+      "rank": 470
     },
     {
       "name": "AncientRecaII",
@@ -103610,7 +103623,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 470
+      "rank": 471
     },
     {
       "name": "xXxDARKxXx",
@@ -103623,7 +103636,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 471
+      "rank": 472
     },
     {
       "name": "AugustusS",
@@ -103636,7 +103649,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 472
+      "rank": 473
     },
     {
       "name": "ttuB",
@@ -103649,7 +103662,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 473
+      "rank": 474
     },
     {
       "name": "Whir",
@@ -103662,7 +103675,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 474
+      "rank": 475
     },
     {
       "name": "GhostIing",
@@ -103675,7 +103688,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 475
+      "rank": 476
     },
     {
       "name": "LePolandV2",
@@ -103688,7 +103701,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 476
+      "rank": 477
     },
     {
       "name": "Kiyuchi",
@@ -103701,7 +103714,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 477
+      "rank": 478
     },
     {
       "name": "Roloid",
@@ -103714,7 +103727,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 478
+      "rank": 479
     },
     {
       "name": "LoRemipsumdolor",
@@ -103727,7 +103740,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 479
+      "rank": 480
     },
     {
       "name": "Goldmare",
@@ -103740,7 +103753,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 480
+      "rank": 481
     },
     {
       "name": "Cyclones",
@@ -103753,7 +103766,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 481
+      "rank": 482
     },
     {
       "name": "Oakmane",
@@ -103763,19 +103776,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 482
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -104211,6 +104211,19 @@
       "rank": 516
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 517
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -104221,7 +104234,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 517
+      "rank": 518
     },
     {
       "name": "Quillen",
@@ -104234,7 +104247,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 518
+      "rank": 519
     },
     {
       "name": "pooyo",
@@ -104247,7 +104260,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 519
+      "rank": 520
     },
     {
       "name": "AncientRecaII",
@@ -104260,7 +104273,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 520
+      "rank": 521
     },
     {
       "name": "xXxDARKxXx",
@@ -104273,7 +104286,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 521
+      "rank": 522
     },
     {
       "name": "AugustusS",
@@ -104286,7 +104299,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 522
+      "rank": 523
     },
     {
       "name": "ttuB",
@@ -104299,7 +104312,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 523
+      "rank": 524
     },
     {
       "name": "Whir",
@@ -104312,7 +104325,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 524
+      "rank": 525
     },
     {
       "name": "GhostIing",
@@ -104325,7 +104338,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 525
+      "rank": 526
     },
     {
       "name": "LePolandV2",
@@ -104338,7 +104351,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 526
+      "rank": 527
     },
     {
       "name": "Kiyuchi",
@@ -104351,7 +104364,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 527
+      "rank": 528
     },
     {
       "name": "Roloid",
@@ -104364,7 +104377,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 528
+      "rank": 529
     },
     {
       "name": "LoRemipsumdolor",
@@ -104377,7 +104390,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 529
+      "rank": 530
     },
     {
       "name": "Goldmare",
@@ -104390,7 +104403,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 530
+      "rank": 531
     },
     {
       "name": "Cyclones",
@@ -104403,7 +104416,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 531
+      "rank": 532
     },
     {
       "name": "Oakmane",
@@ -104413,19 +104426,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 532
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -104861,6 +104861,19 @@
       "rank": 566
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 567
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -104871,7 +104884,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 567
+      "rank": 568
     },
     {
       "name": "Quillen",
@@ -104884,7 +104897,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 568
+      "rank": 569
     },
     {
       "name": "pooyo",
@@ -104897,7 +104910,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 569
+      "rank": 570
     },
     {
       "name": "AncientRecaII",
@@ -104910,7 +104923,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 570
+      "rank": 571
     },
     {
       "name": "xXxDARKxXx",
@@ -104923,7 +104936,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 571
+      "rank": 572
     },
     {
       "name": "AugustusS",
@@ -104936,7 +104949,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 572
+      "rank": 573
     },
     {
       "name": "ttuB",
@@ -104949,7 +104962,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 573
+      "rank": 574
     },
     {
       "name": "Whir",
@@ -104962,7 +104975,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 574
+      "rank": 575
     },
     {
       "name": "GhostIing",
@@ -104975,7 +104988,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 575
+      "rank": 576
     },
     {
       "name": "LePolandV2",
@@ -104988,7 +105001,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 576
+      "rank": 577
     },
     {
       "name": "Kiyuchi",
@@ -105001,7 +105014,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 577
+      "rank": 578
     },
     {
       "name": "Roloid",
@@ -105014,7 +105027,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 578
+      "rank": 579
     },
     {
       "name": "LoRemipsumdolor",
@@ -105027,7 +105040,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 579
+      "rank": 580
     },
     {
       "name": "Goldmare",
@@ -105040,7 +105053,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 580
+      "rank": 581
     },
     {
       "name": "Cyclones",
@@ -105053,7 +105066,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 581
+      "rank": 582
     },
     {
       "name": "Oakmane",
@@ -105063,19 +105076,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 582
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -105511,6 +105511,19 @@
       "rank": 616
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 617
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -105521,7 +105534,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 617
+      "rank": 618
     },
     {
       "name": "Quillen",
@@ -105534,7 +105547,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 618
+      "rank": 619
     },
     {
       "name": "pooyo",
@@ -105547,7 +105560,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 619
+      "rank": 620
     },
     {
       "name": "AncientRecaII",
@@ -105560,7 +105573,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 620
+      "rank": 621
     },
     {
       "name": "xXxDARKxXx",
@@ -105573,7 +105586,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 621
+      "rank": 622
     },
     {
       "name": "AugustusS",
@@ -105586,7 +105599,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 622
+      "rank": 623
     },
     {
       "name": "ttuB",
@@ -105599,7 +105612,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 623
+      "rank": 624
     },
     {
       "name": "Whir",
@@ -105612,7 +105625,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 624
+      "rank": 625
     },
     {
       "name": "GhostIing",
@@ -105625,7 +105638,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 625
+      "rank": 626
     },
     {
       "name": "LePolandV2",
@@ -105638,7 +105651,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 626
+      "rank": 627
     },
     {
       "name": "Kiyuchi",
@@ -105651,7 +105664,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 627
+      "rank": 628
     },
     {
       "name": "Roloid",
@@ -105664,7 +105677,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 628
+      "rank": 629
     },
     {
       "name": "LoRemipsumdolor",
@@ -105677,7 +105690,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 629
+      "rank": 630
     },
     {
       "name": "Goldmare",
@@ -105690,7 +105703,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 630
+      "rank": 631
     },
     {
       "name": "Cyclones",
@@ -105703,7 +105716,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 631
+      "rank": 632
     },
     {
       "name": "Oakmane",
@@ -105713,19 +105726,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 632
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -106161,6 +106161,19 @@
       "rank": 666
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 667
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -106171,7 +106184,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 667
+      "rank": 668
     },
     {
       "name": "Quillen",
@@ -106184,7 +106197,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 668
+      "rank": 669
     },
     {
       "name": "pooyo",
@@ -106197,7 +106210,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 669
+      "rank": 670
     },
     {
       "name": "AncientRecaII",
@@ -106210,7 +106223,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 670
+      "rank": 671
     },
     {
       "name": "xXxDARKxXx",
@@ -106223,7 +106236,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 671
+      "rank": 672
     },
     {
       "name": "AugustusS",
@@ -106236,7 +106249,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 672
+      "rank": 673
     },
     {
       "name": "ttuB",
@@ -106249,7 +106262,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 673
+      "rank": 674
     },
     {
       "name": "Whir",
@@ -106262,7 +106275,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 674
+      "rank": 675
     },
     {
       "name": "GhostIing",
@@ -106275,7 +106288,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 675
+      "rank": 676
     },
     {
       "name": "LePolandV2",
@@ -106288,7 +106301,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 676
+      "rank": 677
     },
     {
       "name": "Kiyuchi",
@@ -106301,7 +106314,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 677
+      "rank": 678
     },
     {
       "name": "Roloid",
@@ -106314,7 +106327,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 678
+      "rank": 679
     },
     {
       "name": "LoRemipsumdolor",
@@ -106327,7 +106340,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 679
+      "rank": 680
     },
     {
       "name": "Goldmare",
@@ -106340,7 +106353,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 680
+      "rank": 681
     },
     {
       "name": "Cyclones",
@@ -106353,7 +106366,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 681
+      "rank": 682
     },
     {
       "name": "Oakmane",
@@ -106363,19 +106376,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 682
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -106811,6 +106811,19 @@
       "rank": 716
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 717
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -106821,7 +106834,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 717
+      "rank": 718
     },
     {
       "name": "Quillen",
@@ -106834,7 +106847,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 718
+      "rank": 719
     },
     {
       "name": "pooyo",
@@ -106847,7 +106860,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 719
+      "rank": 720
     },
     {
       "name": "AncientRecaII",
@@ -106860,7 +106873,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 720
+      "rank": 721
     },
     {
       "name": "xXxDARKxXx",
@@ -106873,7 +106886,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 721
+      "rank": 722
     },
     {
       "name": "AugustusS",
@@ -106886,7 +106899,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 722
+      "rank": 723
     },
     {
       "name": "ttuB",
@@ -106899,7 +106912,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 723
+      "rank": 724
     },
     {
       "name": "Whir",
@@ -106912,7 +106925,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 724
+      "rank": 725
     },
     {
       "name": "GhostIing",
@@ -106925,7 +106938,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 725
+      "rank": 726
     },
     {
       "name": "LePolandV2",
@@ -106938,7 +106951,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 726
+      "rank": 727
     },
     {
       "name": "Kiyuchi",
@@ -106951,7 +106964,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 727
+      "rank": 728
     },
     {
       "name": "Roloid",
@@ -106964,7 +106977,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 728
+      "rank": 729
     },
     {
       "name": "LoRemipsumdolor",
@@ -106977,7 +106990,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 729
+      "rank": 730
     },
     {
       "name": "Goldmare",
@@ -106990,7 +107003,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 730
+      "rank": 731
     },
     {
       "name": "Cyclones",
@@ -107003,7 +107016,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 731
+      "rank": 732
     },
     {
       "name": "Oakmane",
@@ -107013,19 +107026,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 732
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -107461,6 +107461,19 @@
       "rank": 766
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 767
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -107471,7 +107484,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 767
+      "rank": 768
     },
     {
       "name": "Quillen",
@@ -107484,7 +107497,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 768
+      "rank": 769
     },
     {
       "name": "pooyo",
@@ -107497,7 +107510,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 769
+      "rank": 770
     },
     {
       "name": "AncientRecaII",
@@ -107510,7 +107523,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 770
+      "rank": 771
     },
     {
       "name": "xXxDARKxXx",
@@ -107523,7 +107536,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 771
+      "rank": 772
     },
     {
       "name": "AugustusS",
@@ -107536,7 +107549,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 772
+      "rank": 773
     },
     {
       "name": "ttuB",
@@ -107549,7 +107562,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 773
+      "rank": 774
     },
     {
       "name": "Whir",
@@ -107562,7 +107575,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 774
+      "rank": 775
     },
     {
       "name": "GhostIing",
@@ -107575,7 +107588,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 775
+      "rank": 776
     },
     {
       "name": "LePolandV2",
@@ -107588,7 +107601,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 776
+      "rank": 777
     },
     {
       "name": "Kiyuchi",
@@ -107601,7 +107614,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 777
+      "rank": 778
     },
     {
       "name": "Roloid",
@@ -107614,7 +107627,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 778
+      "rank": 779
     },
     {
       "name": "LoRemipsumdolor",
@@ -107627,7 +107640,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 779
+      "rank": 780
     },
     {
       "name": "Goldmare",
@@ -107640,7 +107653,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 780
+      "rank": 781
     },
     {
       "name": "Cyclones",
@@ -107653,7 +107666,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 781
+      "rank": 782
     },
     {
       "name": "Oakmane",
@@ -107663,19 +107676,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 782
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -108111,6 +108111,19 @@
       "rank": 816
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 817
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -108121,7 +108134,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 817
+      "rank": 818
     },
     {
       "name": "Quillen",
@@ -108134,7 +108147,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 818
+      "rank": 819
     },
     {
       "name": "pooyo",
@@ -108147,7 +108160,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 819
+      "rank": 820
     },
     {
       "name": "AncientRecaII",
@@ -108160,7 +108173,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 820
+      "rank": 821
     },
     {
       "name": "xXxDARKxXx",
@@ -108173,7 +108186,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 821
+      "rank": 822
     },
     {
       "name": "AugustusS",
@@ -108186,7 +108199,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 822
+      "rank": 823
     },
     {
       "name": "ttuB",
@@ -108199,7 +108212,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 823
+      "rank": 824
     },
     {
       "name": "Whir",
@@ -108212,7 +108225,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 824
+      "rank": 825
     },
     {
       "name": "GhostIing",
@@ -108225,7 +108238,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 825
+      "rank": 826
     },
     {
       "name": "LePolandV2",
@@ -108238,7 +108251,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 826
+      "rank": 827
     },
     {
       "name": "Kiyuchi",
@@ -108251,7 +108264,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 827
+      "rank": 828
     },
     {
       "name": "Roloid",
@@ -108264,7 +108277,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 828
+      "rank": 829
     },
     {
       "name": "LoRemipsumdolor",
@@ -108277,7 +108290,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 829
+      "rank": 830
     },
     {
       "name": "Goldmare",
@@ -108290,7 +108303,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 830
+      "rank": 831
     },
     {
       "name": "Cyclones",
@@ -108303,7 +108316,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 831
+      "rank": 832
     },
     {
       "name": "Oakmane",
@@ -108313,19 +108326,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 832
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -108761,6 +108761,19 @@
       "rank": 866
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 867
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -108771,7 +108784,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 867
+      "rank": 868
     },
     {
       "name": "Quillen",
@@ -108784,7 +108797,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 868
+      "rank": 869
     },
     {
       "name": "pooyo",
@@ -108797,7 +108810,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 869
+      "rank": 870
     },
     {
       "name": "AncientRecaII",
@@ -108810,7 +108823,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 870
+      "rank": 871
     },
     {
       "name": "xXxDARKxXx",
@@ -108823,7 +108836,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 871
+      "rank": 872
     },
     {
       "name": "AugustusS",
@@ -108836,7 +108849,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 872
+      "rank": 873
     },
     {
       "name": "ttuB",
@@ -108849,7 +108862,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 873
+      "rank": 874
     },
     {
       "name": "Whir",
@@ -108862,7 +108875,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 874
+      "rank": 875
     },
     {
       "name": "GhostIing",
@@ -108875,7 +108888,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 875
+      "rank": 876
     },
     {
       "name": "LePolandV2",
@@ -108888,7 +108901,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 876
+      "rank": 877
     },
     {
       "name": "Kiyuchi",
@@ -108901,7 +108914,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 877
+      "rank": 878
     },
     {
       "name": "Roloid",
@@ -108914,7 +108927,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 878
+      "rank": 879
     },
     {
       "name": "LoRemipsumdolor",
@@ -108927,7 +108940,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 879
+      "rank": 880
     },
     {
       "name": "Goldmare",
@@ -108940,7 +108953,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 880
+      "rank": 881
     },
     {
       "name": "Cyclones",
@@ -108953,7 +108966,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 881
+      "rank": 882
     },
     {
       "name": "Oakmane",
@@ -108963,19 +108976,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 882
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -109411,6 +109411,19 @@
       "rank": 916
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 917
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -109421,7 +109434,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 917
+      "rank": 918
     },
     {
       "name": "Quillen",
@@ -109434,7 +109447,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 918
+      "rank": 919
     },
     {
       "name": "pooyo",
@@ -109447,7 +109460,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 919
+      "rank": 920
     },
     {
       "name": "AncientRecaII",
@@ -109460,7 +109473,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 920
+      "rank": 921
     },
     {
       "name": "xXxDARKxXx",
@@ -109473,7 +109486,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 921
+      "rank": 922
     },
     {
       "name": "AugustusS",
@@ -109486,7 +109499,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 922
+      "rank": 923
     },
     {
       "name": "ttuB",
@@ -109499,7 +109512,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 923
+      "rank": 924
     },
     {
       "name": "Whir",
@@ -109512,7 +109525,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 924
+      "rank": 925
     },
     {
       "name": "GhostIing",
@@ -109525,7 +109538,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 925
+      "rank": 926
     },
     {
       "name": "LePolandV2",
@@ -109538,7 +109551,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 926
+      "rank": 927
     },
     {
       "name": "Kiyuchi",
@@ -109551,7 +109564,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 927
+      "rank": 928
     },
     {
       "name": "Roloid",
@@ -109564,7 +109577,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 928
+      "rank": 929
     },
     {
       "name": "LoRemipsumdolor",
@@ -109577,7 +109590,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 929
+      "rank": 930
     },
     {
       "name": "Goldmare",
@@ -109590,7 +109603,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 930
+      "rank": 931
     },
     {
       "name": "Cyclones",
@@ -109603,7 +109616,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 931
+      "rank": 932
     },
     {
       "name": "Oakmane",
@@ -109613,19 +109626,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 932
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -110061,6 +110061,19 @@
       "rank": 966
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 967
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -110071,7 +110084,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 967
+      "rank": 968
     },
     {
       "name": "Quillen",
@@ -110084,7 +110097,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 968
+      "rank": 969
     },
     {
       "name": "pooyo",
@@ -110097,7 +110110,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 969
+      "rank": 970
     },
     {
       "name": "AncientRecaII",
@@ -110110,7 +110123,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 970
+      "rank": 971
     },
     {
       "name": "xXxDARKxXx",
@@ -110123,7 +110136,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 971
+      "rank": 972
     },
     {
       "name": "AugustusS",
@@ -110136,7 +110149,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 972
+      "rank": 973
     },
     {
       "name": "ttuB",
@@ -110149,7 +110162,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 973
+      "rank": 974
     },
     {
       "name": "Whir",
@@ -110162,7 +110175,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 974
+      "rank": 975
     },
     {
       "name": "GhostIing",
@@ -110175,7 +110188,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 975
+      "rank": 976
     },
     {
       "name": "LePolandV2",
@@ -110188,7 +110201,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 976
+      "rank": 977
     },
     {
       "name": "Kiyuchi",
@@ -110201,7 +110214,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 977
+      "rank": 978
     },
     {
       "name": "Roloid",
@@ -110214,7 +110227,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 978
+      "rank": 979
     },
     {
       "name": "LoRemipsumdolor",
@@ -110227,7 +110240,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 979
+      "rank": 980
     },
     {
       "name": "Goldmare",
@@ -110240,7 +110253,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 980
+      "rank": 981
     },
     {
       "name": "Cyclones",
@@ -110253,7 +110266,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 981
+      "rank": 982
     },
     {
       "name": "Oakmane",
@@ -110263,19 +110276,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 982
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -110711,6 +110711,19 @@
       "rank": 1016
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1017
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -110721,7 +110734,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1017
+      "rank": 1018
     },
     {
       "name": "Quillen",
@@ -110734,7 +110747,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1018
+      "rank": 1019
     },
     {
       "name": "pooyo",
@@ -110747,7 +110760,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1019
+      "rank": 1020
     },
     {
       "name": "AncientRecaII",
@@ -110760,7 +110773,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1020
+      "rank": 1021
     },
     {
       "name": "xXxDARKxXx",
@@ -110773,7 +110786,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1021
+      "rank": 1022
     },
     {
       "name": "AugustusS",
@@ -110786,7 +110799,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1022
+      "rank": 1023
     },
     {
       "name": "ttuB",
@@ -110799,7 +110812,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1023
+      "rank": 1024
     },
     {
       "name": "Whir",
@@ -110812,7 +110825,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1024
+      "rank": 1025
     },
     {
       "name": "GhostIing",
@@ -110825,7 +110838,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1025
+      "rank": 1026
     },
     {
       "name": "LePolandV2",
@@ -110838,7 +110851,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1026
+      "rank": 1027
     },
     {
       "name": "Kiyuchi",
@@ -110851,7 +110864,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1027
+      "rank": 1028
     },
     {
       "name": "Roloid",
@@ -110864,7 +110877,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1028
+      "rank": 1029
     },
     {
       "name": "LoRemipsumdolor",
@@ -110877,7 +110890,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1029
+      "rank": 1030
     },
     {
       "name": "Goldmare",
@@ -110890,7 +110903,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1030
+      "rank": 1031
     },
     {
       "name": "Cyclones",
@@ -110903,7 +110916,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1031
+      "rank": 1032
     },
     {
       "name": "Oakmane",
@@ -110913,19 +110926,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1032
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -111361,6 +111361,19 @@
       "rank": 1066
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1067
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -111371,7 +111384,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1067
+      "rank": 1068
     },
     {
       "name": "Quillen",
@@ -111384,7 +111397,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1068
+      "rank": 1069
     },
     {
       "name": "pooyo",
@@ -111397,7 +111410,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1069
+      "rank": 1070
     },
     {
       "name": "AncientRecaII",
@@ -111410,7 +111423,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1070
+      "rank": 1071
     },
     {
       "name": "xXxDARKxXx",
@@ -111423,7 +111436,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1071
+      "rank": 1072
     },
     {
       "name": "AugustusS",
@@ -111436,7 +111449,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1072
+      "rank": 1073
     },
     {
       "name": "ttuB",
@@ -111449,7 +111462,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1073
+      "rank": 1074
     },
     {
       "name": "Whir",
@@ -111462,7 +111475,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1074
+      "rank": 1075
     },
     {
       "name": "GhostIing",
@@ -111475,7 +111488,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1075
+      "rank": 1076
     },
     {
       "name": "LePolandV2",
@@ -111488,7 +111501,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1076
+      "rank": 1077
     },
     {
       "name": "Kiyuchi",
@@ -111501,7 +111514,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1077
+      "rank": 1078
     },
     {
       "name": "Roloid",
@@ -111514,7 +111527,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1078
+      "rank": 1079
     },
     {
       "name": "LoRemipsumdolor",
@@ -111527,7 +111540,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1079
+      "rank": 1080
     },
     {
       "name": "Goldmare",
@@ -111540,7 +111553,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1080
+      "rank": 1081
     },
     {
       "name": "Cyclones",
@@ -111553,7 +111566,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1081
+      "rank": 1082
     },
     {
       "name": "Oakmane",
@@ -111563,19 +111576,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1082
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -112011,6 +112011,19 @@
       "rank": 1116
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1117
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -112021,7 +112034,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1117
+      "rank": 1118
     },
     {
       "name": "Quillen",
@@ -112034,7 +112047,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1118
+      "rank": 1119
     },
     {
       "name": "pooyo",
@@ -112047,7 +112060,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1119
+      "rank": 1120
     },
     {
       "name": "AncientRecaII",
@@ -112060,7 +112073,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1120
+      "rank": 1121
     },
     {
       "name": "xXxDARKxXx",
@@ -112073,7 +112086,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1121
+      "rank": 1122
     },
     {
       "name": "AugustusS",
@@ -112086,7 +112099,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1122
+      "rank": 1123
     },
     {
       "name": "ttuB",
@@ -112099,7 +112112,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1123
+      "rank": 1124
     },
     {
       "name": "Whir",
@@ -112112,7 +112125,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1124
+      "rank": 1125
     },
     {
       "name": "GhostIing",
@@ -112125,7 +112138,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1125
+      "rank": 1126
     },
     {
       "name": "LePolandV2",
@@ -112138,7 +112151,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1126
+      "rank": 1127
     },
     {
       "name": "Kiyuchi",
@@ -112151,7 +112164,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1127
+      "rank": 1128
     },
     {
       "name": "Roloid",
@@ -112164,7 +112177,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1128
+      "rank": 1129
     },
     {
       "name": "LoRemipsumdolor",
@@ -112177,7 +112190,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1129
+      "rank": 1130
     },
     {
       "name": "Goldmare",
@@ -112190,7 +112203,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1130
+      "rank": 1131
     },
     {
       "name": "Cyclones",
@@ -112203,7 +112216,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1131
+      "rank": 1132
     },
     {
       "name": "Oakmane",
@@ -112213,19 +112226,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1132
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -112661,6 +112661,19 @@
       "rank": 1166
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1167
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -112671,7 +112684,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1167
+      "rank": 1168
     },
     {
       "name": "Quillen",
@@ -112684,7 +112697,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1168
+      "rank": 1169
     },
     {
       "name": "pooyo",
@@ -112697,7 +112710,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1169
+      "rank": 1170
     },
     {
       "name": "AncientRecaII",
@@ -112710,7 +112723,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1170
+      "rank": 1171
     },
     {
       "name": "xXxDARKxXx",
@@ -112723,7 +112736,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1171
+      "rank": 1172
     },
     {
       "name": "AugustusS",
@@ -112736,7 +112749,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1172
+      "rank": 1173
     },
     {
       "name": "ttuB",
@@ -112749,7 +112762,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1173
+      "rank": 1174
     },
     {
       "name": "Whir",
@@ -112762,7 +112775,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1174
+      "rank": 1175
     },
     {
       "name": "GhostIing",
@@ -112775,7 +112788,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1175
+      "rank": 1176
     },
     {
       "name": "LePolandV2",
@@ -112788,7 +112801,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1176
+      "rank": 1177
     },
     {
       "name": "Kiyuchi",
@@ -112801,7 +112814,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1177
+      "rank": 1178
     },
     {
       "name": "Roloid",
@@ -112814,7 +112827,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1178
+      "rank": 1179
     },
     {
       "name": "LoRemipsumdolor",
@@ -112827,7 +112840,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1179
+      "rank": 1180
     },
     {
       "name": "Goldmare",
@@ -112840,7 +112853,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1180
+      "rank": 1181
     },
     {
       "name": "Cyclones",
@@ -112853,7 +112866,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1181
+      "rank": 1182
     },
     {
       "name": "Oakmane",
@@ -112863,19 +112876,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1182
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -113311,6 +113311,19 @@
       "rank": 1216
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1217
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -113321,7 +113334,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1217
+      "rank": 1218
     },
     {
       "name": "Quillen",
@@ -113334,7 +113347,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1218
+      "rank": 1219
     },
     {
       "name": "pooyo",
@@ -113347,7 +113360,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1219
+      "rank": 1220
     },
     {
       "name": "AncientRecaII",
@@ -113360,7 +113373,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1220
+      "rank": 1221
     },
     {
       "name": "xXxDARKxXx",
@@ -113373,7 +113386,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1221
+      "rank": 1222
     },
     {
       "name": "AugustusS",
@@ -113386,7 +113399,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1222
+      "rank": 1223
     },
     {
       "name": "ttuB",
@@ -113399,7 +113412,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1223
+      "rank": 1224
     },
     {
       "name": "Whir",
@@ -113412,7 +113425,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1224
+      "rank": 1225
     },
     {
       "name": "GhostIing",
@@ -113425,7 +113438,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1225
+      "rank": 1226
     },
     {
       "name": "LePolandV2",
@@ -113438,7 +113451,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1226
+      "rank": 1227
     },
     {
       "name": "Kiyuchi",
@@ -113451,7 +113464,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1227
+      "rank": 1228
     },
     {
       "name": "Roloid",
@@ -113464,7 +113477,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1228
+      "rank": 1229
     },
     {
       "name": "LoRemipsumdolor",
@@ -113477,7 +113490,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1229
+      "rank": 1230
     },
     {
       "name": "Goldmare",
@@ -113490,7 +113503,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1230
+      "rank": 1231
     },
     {
       "name": "Cyclones",
@@ -113503,7 +113516,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1231
+      "rank": 1232
     },
     {
       "name": "Oakmane",
@@ -113513,19 +113526,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1232
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -113961,6 +113961,19 @@
       "rank": 1266
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1267
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -113971,7 +113984,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1267
+      "rank": 1268
     },
     {
       "name": "Quillen",
@@ -113984,7 +113997,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1268
+      "rank": 1269
     },
     {
       "name": "pooyo",
@@ -113997,7 +114010,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1269
+      "rank": 1270
     },
     {
       "name": "AncientRecaII",
@@ -114010,7 +114023,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1270
+      "rank": 1271
     },
     {
       "name": "xXxDARKxXx",
@@ -114023,7 +114036,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1271
+      "rank": 1272
     },
     {
       "name": "AugustusS",
@@ -114036,7 +114049,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1272
+      "rank": 1273
     },
     {
       "name": "ttuB",
@@ -114049,7 +114062,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1273
+      "rank": 1274
     },
     {
       "name": "Whir",
@@ -114062,7 +114075,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1274
+      "rank": 1275
     },
     {
       "name": "GhostIing",
@@ -114075,7 +114088,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1275
+      "rank": 1276
     },
     {
       "name": "LePolandV2",
@@ -114088,7 +114101,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1276
+      "rank": 1277
     },
     {
       "name": "Kiyuchi",
@@ -114101,7 +114114,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1277
+      "rank": 1278
     },
     {
       "name": "Roloid",
@@ -114114,7 +114127,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1278
+      "rank": 1279
     },
     {
       "name": "LoRemipsumdolor",
@@ -114127,7 +114140,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1279
+      "rank": 1280
     },
     {
       "name": "Goldmare",
@@ -114140,7 +114153,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1280
+      "rank": 1281
     },
     {
       "name": "Cyclones",
@@ -114153,7 +114166,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1281
+      "rank": 1282
     },
     {
       "name": "Oakmane",
@@ -114163,19 +114176,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1282
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -114611,6 +114611,19 @@
       "rank": 1316
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1317
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -114621,7 +114634,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1317
+      "rank": 1318
     },
     {
       "name": "Quillen",
@@ -114634,7 +114647,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1318
+      "rank": 1319
     },
     {
       "name": "pooyo",
@@ -114647,7 +114660,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1319
+      "rank": 1320
     },
     {
       "name": "AncientRecaII",
@@ -114660,7 +114673,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1320
+      "rank": 1321
     },
     {
       "name": "xXxDARKxXx",
@@ -114673,7 +114686,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1321
+      "rank": 1322
     },
     {
       "name": "AugustusS",
@@ -114686,7 +114699,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1322
+      "rank": 1323
     },
     {
       "name": "ttuB",
@@ -114699,7 +114712,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1323
+      "rank": 1324
     },
     {
       "name": "Whir",
@@ -114712,7 +114725,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1324
+      "rank": 1325
     },
     {
       "name": "GhostIing",
@@ -114725,7 +114738,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1325
+      "rank": 1326
     },
     {
       "name": "LePolandV2",
@@ -114738,7 +114751,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1326
+      "rank": 1327
     },
     {
       "name": "Kiyuchi",
@@ -114751,7 +114764,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1327
+      "rank": 1328
     },
     {
       "name": "Roloid",
@@ -114764,7 +114777,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1328
+      "rank": 1329
     },
     {
       "name": "LoRemipsumdolor",
@@ -114777,7 +114790,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1329
+      "rank": 1330
     },
     {
       "name": "Goldmare",
@@ -114790,7 +114803,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1330
+      "rank": 1331
     },
     {
       "name": "Cyclones",
@@ -114803,7 +114816,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1331
+      "rank": 1332
     },
     {
       "name": "Oakmane",
@@ -114813,19 +114826,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1332
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -115261,6 +115261,19 @@
       "rank": 1366
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1367
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -115271,7 +115284,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1367
+      "rank": 1368
     },
     {
       "name": "Quillen",
@@ -115284,7 +115297,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1368
+      "rank": 1369
     },
     {
       "name": "pooyo",
@@ -115297,7 +115310,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1369
+      "rank": 1370
     },
     {
       "name": "AncientRecaII",
@@ -115310,7 +115323,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1370
+      "rank": 1371
     },
     {
       "name": "xXxDARKxXx",
@@ -115323,7 +115336,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1371
+      "rank": 1372
     },
     {
       "name": "AugustusS",
@@ -115336,7 +115349,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1372
+      "rank": 1373
     },
     {
       "name": "ttuB",
@@ -115349,7 +115362,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1373
+      "rank": 1374
     },
     {
       "name": "Whir",
@@ -115362,7 +115375,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1374
+      "rank": 1375
     },
     {
       "name": "GhostIing",
@@ -115375,7 +115388,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1375
+      "rank": 1376
     },
     {
       "name": "LePolandV2",
@@ -115388,7 +115401,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1376
+      "rank": 1377
     },
     {
       "name": "Kiyuchi",
@@ -115401,7 +115414,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1377
+      "rank": 1378
     },
     {
       "name": "Roloid",
@@ -115414,7 +115427,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1378
+      "rank": 1379
     },
     {
       "name": "LoRemipsumdolor",
@@ -115427,7 +115440,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1379
+      "rank": 1380
     },
     {
       "name": "Goldmare",
@@ -115440,7 +115453,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1380
+      "rank": 1381
     },
     {
       "name": "Cyclones",
@@ -115453,7 +115466,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1381
+      "rank": 1382
     },
     {
       "name": "Oakmane",
@@ -115463,19 +115476,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1382
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -115911,6 +115911,19 @@
       "rank": 1416
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1417
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -115921,7 +115934,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1417
+      "rank": 1418
     },
     {
       "name": "Quillen",
@@ -115934,7 +115947,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1418
+      "rank": 1419
     },
     {
       "name": "pooyo",
@@ -115947,7 +115960,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1419
+      "rank": 1420
     },
     {
       "name": "AncientRecaII",
@@ -115960,7 +115973,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1420
+      "rank": 1421
     },
     {
       "name": "xXxDARKxXx",
@@ -115973,7 +115986,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1421
+      "rank": 1422
     },
     {
       "name": "AugustusS",
@@ -115986,7 +115999,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1422
+      "rank": 1423
     },
     {
       "name": "ttuB",
@@ -115999,7 +116012,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1423
+      "rank": 1424
     },
     {
       "name": "Whir",
@@ -116012,7 +116025,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1424
+      "rank": 1425
     },
     {
       "name": "GhostIing",
@@ -116025,7 +116038,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1425
+      "rank": 1426
     },
     {
       "name": "LePolandV2",
@@ -116038,7 +116051,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1426
+      "rank": 1427
     },
     {
       "name": "Kiyuchi",
@@ -116051,7 +116064,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1427
+      "rank": 1428
     },
     {
       "name": "Roloid",
@@ -116064,7 +116077,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1428
+      "rank": 1429
     },
     {
       "name": "LoRemipsumdolor",
@@ -116077,7 +116090,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1429
+      "rank": 1430
     },
     {
       "name": "Goldmare",
@@ -116090,7 +116103,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1430
+      "rank": 1431
     },
     {
       "name": "Cyclones",
@@ -116103,7 +116116,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1431
+      "rank": 1432
     },
     {
       "name": "Oakmane",
@@ -116113,19 +116126,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1432
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -116561,6 +116561,19 @@
       "rank": 1466
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1467
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -116571,7 +116584,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1467
+      "rank": 1468
     },
     {
       "name": "Quillen",
@@ -116584,7 +116597,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1468
+      "rank": 1469
     },
     {
       "name": "pooyo",
@@ -116597,7 +116610,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1469
+      "rank": 1470
     },
     {
       "name": "AncientRecaII",
@@ -116610,7 +116623,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1470
+      "rank": 1471
     },
     {
       "name": "xXxDARKxXx",
@@ -116623,7 +116636,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1471
+      "rank": 1472
     },
     {
       "name": "AugustusS",
@@ -116636,7 +116649,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1472
+      "rank": 1473
     },
     {
       "name": "ttuB",
@@ -116649,7 +116662,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1473
+      "rank": 1474
     },
     {
       "name": "Whir",
@@ -116662,7 +116675,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1474
+      "rank": 1475
     },
     {
       "name": "GhostIing",
@@ -116675,7 +116688,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1475
+      "rank": 1476
     },
     {
       "name": "LePolandV2",
@@ -116688,7 +116701,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1476
+      "rank": 1477
     },
     {
       "name": "Kiyuchi",
@@ -116701,7 +116714,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1477
+      "rank": 1478
     },
     {
       "name": "Roloid",
@@ -116714,7 +116727,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1478
+      "rank": 1479
     },
     {
       "name": "LoRemipsumdolor",
@@ -116727,7 +116740,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1479
+      "rank": 1480
     },
     {
       "name": "Goldmare",
@@ -116740,7 +116753,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1480
+      "rank": 1481
     },
     {
       "name": "Cyclones",
@@ -116753,7 +116766,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1481
+      "rank": 1482
     },
     {
       "name": "Oakmane",
@@ -116763,19 +116776,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1482
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -117211,6 +117211,19 @@
       "rank": 1516
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1517
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -117221,7 +117234,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1517
+      "rank": 1518
     },
     {
       "name": "Quillen",
@@ -117234,7 +117247,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1518
+      "rank": 1519
     },
     {
       "name": "pooyo",
@@ -117247,7 +117260,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1519
+      "rank": 1520
     },
     {
       "name": "AncientRecaII",
@@ -117260,7 +117273,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1520
+      "rank": 1521
     },
     {
       "name": "xXxDARKxXx",
@@ -117273,7 +117286,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1521
+      "rank": 1522
     },
     {
       "name": "AugustusS",
@@ -117286,7 +117299,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1522
+      "rank": 1523
     },
     {
       "name": "ttuB",
@@ -117299,7 +117312,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1523
+      "rank": 1524
     },
     {
       "name": "Whir",
@@ -117312,7 +117325,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1524
+      "rank": 1525
     },
     {
       "name": "GhostIing",
@@ -117325,7 +117338,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1525
+      "rank": 1526
     },
     {
       "name": "LePolandV2",
@@ -117338,7 +117351,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1526
+      "rank": 1527
     },
     {
       "name": "Kiyuchi",
@@ -117351,7 +117364,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1527
+      "rank": 1528
     },
     {
       "name": "Roloid",
@@ -117364,7 +117377,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1528
+      "rank": 1529
     },
     {
       "name": "LoRemipsumdolor",
@@ -117377,7 +117390,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1529
+      "rank": 1530
     },
     {
       "name": "Goldmare",
@@ -117390,7 +117403,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1530
+      "rank": 1531
     },
     {
       "name": "Cyclones",
@@ -117403,7 +117416,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1531
+      "rank": 1532
     },
     {
       "name": "Oakmane",
@@ -117413,19 +117426,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1532
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -117861,6 +117861,19 @@
       "rank": 1566
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1567
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -117871,7 +117884,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1567
+      "rank": 1568
     },
     {
       "name": "Quillen",
@@ -117884,7 +117897,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1568
+      "rank": 1569
     },
     {
       "name": "pooyo",
@@ -117897,7 +117910,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1569
+      "rank": 1570
     },
     {
       "name": "AncientRecaII",
@@ -117910,7 +117923,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1570
+      "rank": 1571
     },
     {
       "name": "xXxDARKxXx",
@@ -117923,7 +117936,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1571
+      "rank": 1572
     },
     {
       "name": "AugustusS",
@@ -117936,7 +117949,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1572
+      "rank": 1573
     },
     {
       "name": "ttuB",
@@ -117949,7 +117962,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1573
+      "rank": 1574
     },
     {
       "name": "Whir",
@@ -117962,7 +117975,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1574
+      "rank": 1575
     },
     {
       "name": "GhostIing",
@@ -117975,7 +117988,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1575
+      "rank": 1576
     },
     {
       "name": "LePolandV2",
@@ -117988,7 +118001,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1576
+      "rank": 1577
     },
     {
       "name": "Kiyuchi",
@@ -118001,7 +118014,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1577
+      "rank": 1578
     },
     {
       "name": "Roloid",
@@ -118014,7 +118027,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1578
+      "rank": 1579
     },
     {
       "name": "LoRemipsumdolor",
@@ -118027,7 +118040,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1579
+      "rank": 1580
     },
     {
       "name": "Goldmare",
@@ -118040,7 +118053,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1580
+      "rank": 1581
     },
     {
       "name": "Cyclones",
@@ -118053,7 +118066,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1581
+      "rank": 1582
     },
     {
       "name": "Oakmane",
@@ -118063,19 +118076,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1582
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -118511,6 +118511,19 @@
       "rank": 1616
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1617
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -118521,7 +118534,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1617
+      "rank": 1618
     },
     {
       "name": "Quillen",
@@ -118534,7 +118547,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1618
+      "rank": 1619
     },
     {
       "name": "pooyo",
@@ -118547,7 +118560,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1619
+      "rank": 1620
     },
     {
       "name": "AncientRecaII",
@@ -118560,7 +118573,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1620
+      "rank": 1621
     },
     {
       "name": "xXxDARKxXx",
@@ -118573,7 +118586,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1621
+      "rank": 1622
     },
     {
       "name": "AugustusS",
@@ -118586,7 +118599,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1622
+      "rank": 1623
     },
     {
       "name": "ttuB",
@@ -118599,7 +118612,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1623
+      "rank": 1624
     },
     {
       "name": "Whir",
@@ -118612,7 +118625,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1624
+      "rank": 1625
     },
     {
       "name": "GhostIing",
@@ -118625,7 +118638,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1625
+      "rank": 1626
     },
     {
       "name": "LePolandV2",
@@ -118638,7 +118651,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1626
+      "rank": 1627
     },
     {
       "name": "Kiyuchi",
@@ -118651,7 +118664,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1627
+      "rank": 1628
     },
     {
       "name": "Roloid",
@@ -118664,7 +118677,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1628
+      "rank": 1629
     },
     {
       "name": "LoRemipsumdolor",
@@ -118677,7 +118690,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1629
+      "rank": 1630
     },
     {
       "name": "Goldmare",
@@ -118690,7 +118703,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1630
+      "rank": 1631
     },
     {
       "name": "Cyclones",
@@ -118703,7 +118716,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1631
+      "rank": 1632
     },
     {
       "name": "Oakmane",
@@ -118713,19 +118726,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1632
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -119161,6 +119161,19 @@
       "rank": 1666
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1667
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -119171,7 +119184,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1667
+      "rank": 1668
     },
     {
       "name": "Quillen",
@@ -119184,7 +119197,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1668
+      "rank": 1669
     },
     {
       "name": "pooyo",
@@ -119197,7 +119210,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1669
+      "rank": 1670
     },
     {
       "name": "AncientRecaII",
@@ -119210,7 +119223,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1670
+      "rank": 1671
     },
     {
       "name": "xXxDARKxXx",
@@ -119223,7 +119236,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1671
+      "rank": 1672
     },
     {
       "name": "AugustusS",
@@ -119236,7 +119249,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1672
+      "rank": 1673
     },
     {
       "name": "ttuB",
@@ -119249,7 +119262,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1673
+      "rank": 1674
     },
     {
       "name": "Whir",
@@ -119262,7 +119275,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1674
+      "rank": 1675
     },
     {
       "name": "GhostIing",
@@ -119275,7 +119288,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1675
+      "rank": 1676
     },
     {
       "name": "LePolandV2",
@@ -119288,7 +119301,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1676
+      "rank": 1677
     },
     {
       "name": "Kiyuchi",
@@ -119301,7 +119314,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1677
+      "rank": 1678
     },
     {
       "name": "Roloid",
@@ -119314,7 +119327,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1678
+      "rank": 1679
     },
     {
       "name": "LoRemipsumdolor",
@@ -119327,7 +119340,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1679
+      "rank": 1680
     },
     {
       "name": "Goldmare",
@@ -119340,7 +119353,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1680
+      "rank": 1681
     },
     {
       "name": "Cyclones",
@@ -119353,7 +119366,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1681
+      "rank": 1682
     },
     {
       "name": "Oakmane",
@@ -119363,19 +119376,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1682
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -119811,6 +119811,19 @@
       "rank": 1716
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1717
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -119821,7 +119834,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1717
+      "rank": 1718
     },
     {
       "name": "Quillen",
@@ -119834,7 +119847,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1718
+      "rank": 1719
     },
     {
       "name": "pooyo",
@@ -119847,7 +119860,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1719
+      "rank": 1720
     },
     {
       "name": "AncientRecaII",
@@ -119860,7 +119873,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1720
+      "rank": 1721
     },
     {
       "name": "xXxDARKxXx",
@@ -119873,7 +119886,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1721
+      "rank": 1722
     },
     {
       "name": "AugustusS",
@@ -119886,7 +119899,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1722
+      "rank": 1723
     },
     {
       "name": "ttuB",
@@ -119899,7 +119912,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1723
+      "rank": 1724
     },
     {
       "name": "Whir",
@@ -119912,7 +119925,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1724
+      "rank": 1725
     },
     {
       "name": "GhostIing",
@@ -119925,7 +119938,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1725
+      "rank": 1726
     },
     {
       "name": "LePolandV2",
@@ -119938,7 +119951,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1726
+      "rank": 1727
     },
     {
       "name": "Kiyuchi",
@@ -119951,7 +119964,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1727
+      "rank": 1728
     },
     {
       "name": "Roloid",
@@ -119964,7 +119977,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1728
+      "rank": 1729
     },
     {
       "name": "LoRemipsumdolor",
@@ -119977,7 +119990,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1729
+      "rank": 1730
     },
     {
       "name": "Goldmare",
@@ -119990,7 +120003,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1730
+      "rank": 1731
     },
     {
       "name": "Cyclones",
@@ -120003,7 +120016,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1731
+      "rank": 1732
     },
     {
       "name": "Oakmane",
@@ -120013,19 +120026,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1732
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -120461,6 +120461,19 @@
       "rank": 1766
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1767
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -120471,7 +120484,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1767
+      "rank": 1768
     },
     {
       "name": "Quillen",
@@ -120484,7 +120497,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1768
+      "rank": 1769
     },
     {
       "name": "pooyo",
@@ -120497,7 +120510,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1769
+      "rank": 1770
     },
     {
       "name": "AncientRecaII",
@@ -120510,7 +120523,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1770
+      "rank": 1771
     },
     {
       "name": "xXxDARKxXx",
@@ -120523,7 +120536,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1771
+      "rank": 1772
     },
     {
       "name": "AugustusS",
@@ -120536,7 +120549,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1772
+      "rank": 1773
     },
     {
       "name": "ttuB",
@@ -120549,7 +120562,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1773
+      "rank": 1774
     },
     {
       "name": "Whir",
@@ -120562,7 +120575,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1774
+      "rank": 1775
     },
     {
       "name": "GhostIing",
@@ -120575,7 +120588,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1775
+      "rank": 1776
     },
     {
       "name": "LePolandV2",
@@ -120588,7 +120601,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1776
+      "rank": 1777
     },
     {
       "name": "Kiyuchi",
@@ -120601,7 +120614,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1777
+      "rank": 1778
     },
     {
       "name": "Roloid",
@@ -120614,7 +120627,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1778
+      "rank": 1779
     },
     {
       "name": "LoRemipsumdolor",
@@ -120627,7 +120640,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1779
+      "rank": 1780
     },
     {
       "name": "Goldmare",
@@ -120640,7 +120653,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1780
+      "rank": 1781
     },
     {
       "name": "Cyclones",
@@ -120653,7 +120666,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1781
+      "rank": 1782
     },
     {
       "name": "Oakmane",
@@ -120663,19 +120676,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1782
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -121111,6 +121111,19 @@
       "rank": 1816
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1817
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -121121,7 +121134,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1817
+      "rank": 1818
     },
     {
       "name": "Quillen",
@@ -121134,7 +121147,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1818
+      "rank": 1819
     },
     {
       "name": "pooyo",
@@ -121147,7 +121160,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1819
+      "rank": 1820
     },
     {
       "name": "AncientRecaII",
@@ -121160,7 +121173,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1820
+      "rank": 1821
     },
     {
       "name": "xXxDARKxXx",
@@ -121173,7 +121186,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1821
+      "rank": 1822
     },
     {
       "name": "AugustusS",
@@ -121186,7 +121199,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1822
+      "rank": 1823
     },
     {
       "name": "ttuB",
@@ -121199,7 +121212,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1823
+      "rank": 1824
     },
     {
       "name": "Whir",
@@ -121212,7 +121225,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1824
+      "rank": 1825
     },
     {
       "name": "GhostIing",
@@ -121225,7 +121238,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1825
+      "rank": 1826
     },
     {
       "name": "LePolandV2",
@@ -121238,7 +121251,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1826
+      "rank": 1827
     },
     {
       "name": "Kiyuchi",
@@ -121251,7 +121264,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1827
+      "rank": 1828
     },
     {
       "name": "Roloid",
@@ -121264,7 +121277,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1828
+      "rank": 1829
     },
     {
       "name": "LoRemipsumdolor",
@@ -121277,7 +121290,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1829
+      "rank": 1830
     },
     {
       "name": "Goldmare",
@@ -121290,7 +121303,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1830
+      "rank": 1831
     },
     {
       "name": "Cyclones",
@@ -121303,7 +121316,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1831
+      "rank": 1832
     },
     {
       "name": "Oakmane",
@@ -121313,19 +121326,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1832
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -121761,6 +121761,19 @@
       "rank": 1866
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1867
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -121771,7 +121784,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1867
+      "rank": 1868
     },
     {
       "name": "Quillen",
@@ -121784,7 +121797,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1868
+      "rank": 1869
     },
     {
       "name": "pooyo",
@@ -121797,7 +121810,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1869
+      "rank": 1870
     },
     {
       "name": "AncientRecaII",
@@ -121810,7 +121823,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1870
+      "rank": 1871
     },
     {
       "name": "xXxDARKxXx",
@@ -121823,7 +121836,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1871
+      "rank": 1872
     },
     {
       "name": "AugustusS",
@@ -121836,7 +121849,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1872
+      "rank": 1873
     },
     {
       "name": "ttuB",
@@ -121849,7 +121862,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1873
+      "rank": 1874
     },
     {
       "name": "Whir",
@@ -121862,7 +121875,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1874
+      "rank": 1875
     },
     {
       "name": "GhostIing",
@@ -121875,7 +121888,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1875
+      "rank": 1876
     },
     {
       "name": "LePolandV2",
@@ -121888,7 +121901,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1876
+      "rank": 1877
     },
     {
       "name": "Kiyuchi",
@@ -121901,7 +121914,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1877
+      "rank": 1878
     },
     {
       "name": "Roloid",
@@ -121914,7 +121927,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1878
+      "rank": 1879
     },
     {
       "name": "LoRemipsumdolor",
@@ -121927,7 +121940,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1879
+      "rank": 1880
     },
     {
       "name": "Goldmare",
@@ -121940,7 +121953,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1880
+      "rank": 1881
     },
     {
       "name": "Cyclones",
@@ -121953,7 +121966,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1881
+      "rank": 1882
     },
     {
       "name": "Oakmane",
@@ -121963,19 +121976,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1882
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -122411,6 +122411,19 @@
       "rank": 1916
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1917
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -122421,7 +122434,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1917
+      "rank": 1918
     },
     {
       "name": "Quillen",
@@ -122434,7 +122447,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1918
+      "rank": 1919
     },
     {
       "name": "pooyo",
@@ -122447,7 +122460,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1919
+      "rank": 1920
     },
     {
       "name": "AncientRecaII",
@@ -122460,7 +122473,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1920
+      "rank": 1921
     },
     {
       "name": "xXxDARKxXx",
@@ -122473,7 +122486,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1921
+      "rank": 1922
     },
     {
       "name": "AugustusS",
@@ -122486,7 +122499,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1922
+      "rank": 1923
     },
     {
       "name": "ttuB",
@@ -122499,7 +122512,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1923
+      "rank": 1924
     },
     {
       "name": "Whir",
@@ -122512,7 +122525,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1924
+      "rank": 1925
     },
     {
       "name": "GhostIing",
@@ -122525,7 +122538,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1925
+      "rank": 1926
     },
     {
       "name": "LePolandV2",
@@ -122538,7 +122551,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1926
+      "rank": 1927
     },
     {
       "name": "Kiyuchi",
@@ -122551,7 +122564,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1927
+      "rank": 1928
     },
     {
       "name": "Roloid",
@@ -122564,7 +122577,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1928
+      "rank": 1929
     },
     {
       "name": "LoRemipsumdolor",
@@ -122577,7 +122590,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1929
+      "rank": 1930
     },
     {
       "name": "Goldmare",
@@ -122590,7 +122603,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1930
+      "rank": 1931
     },
     {
       "name": "Cyclones",
@@ -122603,7 +122616,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1931
+      "rank": 1932
     },
     {
       "name": "Oakmane",
@@ -122613,19 +122626,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1932
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -123061,6 +123061,19 @@
       "rank": 1966
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 1967
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -123071,7 +123084,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1967
+      "rank": 1968
     },
     {
       "name": "Quillen",
@@ -123084,7 +123097,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1968
+      "rank": 1969
     },
     {
       "name": "pooyo",
@@ -123097,7 +123110,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1969
+      "rank": 1970
     },
     {
       "name": "AncientRecaII",
@@ -123110,7 +123123,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1970
+      "rank": 1971
     },
     {
       "name": "xXxDARKxXx",
@@ -123123,7 +123136,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1971
+      "rank": 1972
     },
     {
       "name": "AugustusS",
@@ -123136,7 +123149,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1972
+      "rank": 1973
     },
     {
       "name": "ttuB",
@@ -123149,7 +123162,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1973
+      "rank": 1974
     },
     {
       "name": "Whir",
@@ -123162,7 +123175,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1974
+      "rank": 1975
     },
     {
       "name": "GhostIing",
@@ -123175,7 +123188,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1975
+      "rank": 1976
     },
     {
       "name": "LePolandV2",
@@ -123188,7 +123201,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1976
+      "rank": 1977
     },
     {
       "name": "Kiyuchi",
@@ -123201,7 +123214,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1977
+      "rank": 1978
     },
     {
       "name": "Roloid",
@@ -123214,7 +123227,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1978
+      "rank": 1979
     },
     {
       "name": "LoRemipsumdolor",
@@ -123227,7 +123240,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1979
+      "rank": 1980
     },
     {
       "name": "Goldmare",
@@ -123240,7 +123253,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1980
+      "rank": 1981
     },
     {
       "name": "Cyclones",
@@ -123253,7 +123266,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 1981
+      "rank": 1982
     },
     {
       "name": "Oakmane",
@@ -123263,19 +123276,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 1982
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -123711,6 +123711,19 @@
       "rank": 2016
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2017
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -123721,7 +123734,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2017
+      "rank": 2018
     },
     {
       "name": "Quillen",
@@ -123734,7 +123747,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2018
+      "rank": 2019
     },
     {
       "name": "pooyo",
@@ -123747,7 +123760,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2019
+      "rank": 2020
     },
     {
       "name": "AncientRecaII",
@@ -123760,7 +123773,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2020
+      "rank": 2021
     },
     {
       "name": "xXxDARKxXx",
@@ -123773,7 +123786,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2021
+      "rank": 2022
     },
     {
       "name": "AugustusS",
@@ -123786,7 +123799,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2022
+      "rank": 2023
     },
     {
       "name": "ttuB",
@@ -123799,7 +123812,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2023
+      "rank": 2024
     },
     {
       "name": "Whir",
@@ -123812,7 +123825,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2024
+      "rank": 2025
     },
     {
       "name": "GhostIing",
@@ -123825,7 +123838,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2025
+      "rank": 2026
     },
     {
       "name": "LePolandV2",
@@ -123838,7 +123851,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2026
+      "rank": 2027
     },
     {
       "name": "Kiyuchi",
@@ -123851,7 +123864,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2027
+      "rank": 2028
     },
     {
       "name": "Roloid",
@@ -123864,7 +123877,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2028
+      "rank": 2029
     },
     {
       "name": "LoRemipsumdolor",
@@ -123877,7 +123890,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2029
+      "rank": 2030
     },
     {
       "name": "Goldmare",
@@ -123890,7 +123903,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2030
+      "rank": 2031
     },
     {
       "name": "Cyclones",
@@ -123903,7 +123916,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2031
+      "rank": 2032
     },
     {
       "name": "Oakmane",
@@ -123913,19 +123926,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2032
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -124361,6 +124361,19 @@
       "rank": 2066
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2067
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -124371,7 +124384,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2067
+      "rank": 2068
     },
     {
       "name": "Quillen",
@@ -124384,7 +124397,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2068
+      "rank": 2069
     },
     {
       "name": "pooyo",
@@ -124397,7 +124410,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2069
+      "rank": 2070
     },
     {
       "name": "AncientRecaII",
@@ -124410,7 +124423,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2070
+      "rank": 2071
     },
     {
       "name": "xXxDARKxXx",
@@ -124423,7 +124436,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2071
+      "rank": 2072
     },
     {
       "name": "AugustusS",
@@ -124436,7 +124449,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2072
+      "rank": 2073
     },
     {
       "name": "ttuB",
@@ -124449,7 +124462,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2073
+      "rank": 2074
     },
     {
       "name": "Whir",
@@ -124462,7 +124475,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2074
+      "rank": 2075
     },
     {
       "name": "GhostIing",
@@ -124475,7 +124488,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2075
+      "rank": 2076
     },
     {
       "name": "LePolandV2",
@@ -124488,7 +124501,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2076
+      "rank": 2077
     },
     {
       "name": "Kiyuchi",
@@ -124501,7 +124514,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2077
+      "rank": 2078
     },
     {
       "name": "Roloid",
@@ -124514,7 +124527,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2078
+      "rank": 2079
     },
     {
       "name": "LoRemipsumdolor",
@@ -124527,7 +124540,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2079
+      "rank": 2080
     },
     {
       "name": "Goldmare",
@@ -124540,7 +124553,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2080
+      "rank": 2081
     },
     {
       "name": "Cyclones",
@@ -124553,7 +124566,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2081
+      "rank": 2082
     },
     {
       "name": "Oakmane",
@@ -124563,19 +124576,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2082
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -125011,6 +125011,19 @@
       "rank": 2116
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2117
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -125021,7 +125034,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2117
+      "rank": 2118
     },
     {
       "name": "Quillen",
@@ -125034,7 +125047,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2118
+      "rank": 2119
     },
     {
       "name": "pooyo",
@@ -125047,7 +125060,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2119
+      "rank": 2120
     },
     {
       "name": "AncientRecaII",
@@ -125060,7 +125073,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2120
+      "rank": 2121
     },
     {
       "name": "xXxDARKxXx",
@@ -125073,7 +125086,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2121
+      "rank": 2122
     },
     {
       "name": "AugustusS",
@@ -125086,7 +125099,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2122
+      "rank": 2123
     },
     {
       "name": "ttuB",
@@ -125099,7 +125112,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2123
+      "rank": 2124
     },
     {
       "name": "Whir",
@@ -125112,7 +125125,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2124
+      "rank": 2125
     },
     {
       "name": "GhostIing",
@@ -125125,7 +125138,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2125
+      "rank": 2126
     },
     {
       "name": "LePolandV2",
@@ -125138,7 +125151,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2126
+      "rank": 2127
     },
     {
       "name": "Kiyuchi",
@@ -125151,7 +125164,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2127
+      "rank": 2128
     },
     {
       "name": "Roloid",
@@ -125164,7 +125177,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2128
+      "rank": 2129
     },
     {
       "name": "LoRemipsumdolor",
@@ -125177,7 +125190,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2129
+      "rank": 2130
     },
     {
       "name": "Goldmare",
@@ -125190,7 +125203,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2130
+      "rank": 2131
     },
     {
       "name": "Cyclones",
@@ -125203,7 +125216,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2131
+      "rank": 2132
     },
     {
       "name": "Oakmane",
@@ -125213,19 +125226,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2132
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -125661,6 +125661,19 @@
       "rank": 2166
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2167
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -125671,7 +125684,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2167
+      "rank": 2168
     },
     {
       "name": "Quillen",
@@ -125684,7 +125697,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2168
+      "rank": 2169
     },
     {
       "name": "pooyo",
@@ -125697,7 +125710,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2169
+      "rank": 2170
     },
     {
       "name": "AncientRecaII",
@@ -125710,7 +125723,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2170
+      "rank": 2171
     },
     {
       "name": "xXxDARKxXx",
@@ -125723,7 +125736,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2171
+      "rank": 2172
     },
     {
       "name": "AugustusS",
@@ -125736,7 +125749,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2172
+      "rank": 2173
     },
     {
       "name": "ttuB",
@@ -125749,7 +125762,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2173
+      "rank": 2174
     },
     {
       "name": "Whir",
@@ -125762,7 +125775,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2174
+      "rank": 2175
     },
     {
       "name": "GhostIing",
@@ -125775,7 +125788,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2175
+      "rank": 2176
     },
     {
       "name": "LePolandV2",
@@ -125788,7 +125801,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2176
+      "rank": 2177
     },
     {
       "name": "Kiyuchi",
@@ -125801,7 +125814,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2177
+      "rank": 2178
     },
     {
       "name": "Roloid",
@@ -125814,7 +125827,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2178
+      "rank": 2179
     },
     {
       "name": "LoRemipsumdolor",
@@ -125827,7 +125840,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2179
+      "rank": 2180
     },
     {
       "name": "Goldmare",
@@ -125840,7 +125853,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2180
+      "rank": 2181
     },
     {
       "name": "Cyclones",
@@ -125853,7 +125866,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2181
+      "rank": 2182
     },
     {
       "name": "Oakmane",
@@ -125863,19 +125876,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2182
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -126311,6 +126311,19 @@
       "rank": 2216
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2217
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -126321,7 +126334,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2217
+      "rank": 2218
     },
     {
       "name": "Quillen",
@@ -126334,7 +126347,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2218
+      "rank": 2219
     },
     {
       "name": "pooyo",
@@ -126347,7 +126360,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2219
+      "rank": 2220
     },
     {
       "name": "AncientRecaII",
@@ -126360,7 +126373,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2220
+      "rank": 2221
     },
     {
       "name": "xXxDARKxXx",
@@ -126373,7 +126386,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2221
+      "rank": 2222
     },
     {
       "name": "AugustusS",
@@ -126386,7 +126399,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2222
+      "rank": 2223
     },
     {
       "name": "ttuB",
@@ -126399,7 +126412,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2223
+      "rank": 2224
     },
     {
       "name": "Whir",
@@ -126412,7 +126425,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2224
+      "rank": 2225
     },
     {
       "name": "GhostIing",
@@ -126425,7 +126438,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2225
+      "rank": 2226
     },
     {
       "name": "LePolandV2",
@@ -126438,7 +126451,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2226
+      "rank": 2227
     },
     {
       "name": "Kiyuchi",
@@ -126451,7 +126464,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2227
+      "rank": 2228
     },
     {
       "name": "Roloid",
@@ -126464,7 +126477,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2228
+      "rank": 2229
     },
     {
       "name": "LoRemipsumdolor",
@@ -126477,7 +126490,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2229
+      "rank": 2230
     },
     {
       "name": "Goldmare",
@@ -126490,7 +126503,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2230
+      "rank": 2231
     },
     {
       "name": "Cyclones",
@@ -126503,7 +126516,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2231
+      "rank": 2232
     },
     {
       "name": "Oakmane",
@@ -126513,19 +126526,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2232
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -126961,6 +126961,19 @@
       "rank": 2266
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2267
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -126971,7 +126984,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2267
+      "rank": 2268
     },
     {
       "name": "Quillen",
@@ -126984,7 +126997,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2268
+      "rank": 2269
     },
     {
       "name": "pooyo",
@@ -126997,7 +127010,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2269
+      "rank": 2270
     },
     {
       "name": "AncientRecaII",
@@ -127010,7 +127023,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2270
+      "rank": 2271
     },
     {
       "name": "xXxDARKxXx",
@@ -127023,7 +127036,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2271
+      "rank": 2272
     },
     {
       "name": "AugustusS",
@@ -127036,7 +127049,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2272
+      "rank": 2273
     },
     {
       "name": "ttuB",
@@ -127049,7 +127062,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2273
+      "rank": 2274
     },
     {
       "name": "Whir",
@@ -127062,7 +127075,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2274
+      "rank": 2275
     },
     {
       "name": "GhostIing",
@@ -127075,7 +127088,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2275
+      "rank": 2276
     },
     {
       "name": "LePolandV2",
@@ -127088,7 +127101,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2276
+      "rank": 2277
     },
     {
       "name": "Kiyuchi",
@@ -127101,7 +127114,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2277
+      "rank": 2278
     },
     {
       "name": "Roloid",
@@ -127114,7 +127127,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2278
+      "rank": 2279
     },
     {
       "name": "LoRemipsumdolor",
@@ -127127,7 +127140,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2279
+      "rank": 2280
     },
     {
       "name": "Goldmare",
@@ -127140,7 +127153,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2280
+      "rank": 2281
     },
     {
       "name": "Cyclones",
@@ -127153,7 +127166,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2281
+      "rank": 2282
     },
     {
       "name": "Oakmane",
@@ -127163,19 +127176,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2282
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -127611,6 +127611,19 @@
       "rank": 2316
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2317
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -127621,7 +127634,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2317
+      "rank": 2318
     },
     {
       "name": "Quillen",
@@ -127634,7 +127647,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2318
+      "rank": 2319
     },
     {
       "name": "pooyo",
@@ -127647,7 +127660,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2319
+      "rank": 2320
     },
     {
       "name": "AncientRecaII",
@@ -127660,7 +127673,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2320
+      "rank": 2321
     },
     {
       "name": "xXxDARKxXx",
@@ -127673,7 +127686,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2321
+      "rank": 2322
     },
     {
       "name": "AugustusS",
@@ -127686,7 +127699,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2322
+      "rank": 2323
     },
     {
       "name": "ttuB",
@@ -127699,7 +127712,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2323
+      "rank": 2324
     },
     {
       "name": "Whir",
@@ -127712,7 +127725,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2324
+      "rank": 2325
     },
     {
       "name": "GhostIing",
@@ -127725,7 +127738,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2325
+      "rank": 2326
     },
     {
       "name": "LePolandV2",
@@ -127738,7 +127751,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2326
+      "rank": 2327
     },
     {
       "name": "Kiyuchi",
@@ -127751,7 +127764,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2327
+      "rank": 2328
     },
     {
       "name": "Roloid",
@@ -127764,7 +127777,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2328
+      "rank": 2329
     },
     {
       "name": "LoRemipsumdolor",
@@ -127777,7 +127790,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2329
+      "rank": 2330
     },
     {
       "name": "Goldmare",
@@ -127790,7 +127803,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2330
+      "rank": 2331
     },
     {
       "name": "Cyclones",
@@ -127803,7 +127816,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2331
+      "rank": 2332
     },
     {
       "name": "Oakmane",
@@ -127813,19 +127826,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2332
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -128261,6 +128261,19 @@
       "rank": 2366
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2367
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -128271,7 +128284,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2367
+      "rank": 2368
     },
     {
       "name": "Quillen",
@@ -128284,7 +128297,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2368
+      "rank": 2369
     },
     {
       "name": "pooyo",
@@ -128297,7 +128310,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2369
+      "rank": 2370
     },
     {
       "name": "AncientRecaII",
@@ -128310,7 +128323,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2370
+      "rank": 2371
     },
     {
       "name": "xXxDARKxXx",
@@ -128323,7 +128336,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2371
+      "rank": 2372
     },
     {
       "name": "AugustusS",
@@ -128336,7 +128349,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2372
+      "rank": 2373
     },
     {
       "name": "ttuB",
@@ -128349,7 +128362,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2373
+      "rank": 2374
     },
     {
       "name": "Whir",
@@ -128362,7 +128375,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2374
+      "rank": 2375
     },
     {
       "name": "GhostIing",
@@ -128375,7 +128388,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2375
+      "rank": 2376
     },
     {
       "name": "LePolandV2",
@@ -128388,7 +128401,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2376
+      "rank": 2377
     },
     {
       "name": "Kiyuchi",
@@ -128401,7 +128414,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2377
+      "rank": 2378
     },
     {
       "name": "Roloid",
@@ -128414,7 +128427,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2378
+      "rank": 2379
     },
     {
       "name": "LoRemipsumdolor",
@@ -128427,7 +128440,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2379
+      "rank": 2380
     },
     {
       "name": "Goldmare",
@@ -128440,7 +128453,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2380
+      "rank": 2381
     },
     {
       "name": "Cyclones",
@@ -128453,7 +128466,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2381
+      "rank": 2382
     },
     {
       "name": "Oakmane",
@@ -128463,19 +128476,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2382
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -128911,6 +128911,19 @@
       "rank": 2416
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2417
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -128921,7 +128934,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2417
+      "rank": 2418
     },
     {
       "name": "Quillen",
@@ -128934,7 +128947,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2418
+      "rank": 2419
     },
     {
       "name": "pooyo",
@@ -128947,7 +128960,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2419
+      "rank": 2420
     },
     {
       "name": "AncientRecaII",
@@ -128960,7 +128973,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2420
+      "rank": 2421
     },
     {
       "name": "xXxDARKxXx",
@@ -128973,7 +128986,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2421
+      "rank": 2422
     },
     {
       "name": "AugustusS",
@@ -128986,7 +128999,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2422
+      "rank": 2423
     },
     {
       "name": "ttuB",
@@ -128999,7 +129012,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2423
+      "rank": 2424
     },
     {
       "name": "Whir",
@@ -129012,7 +129025,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2424
+      "rank": 2425
     },
     {
       "name": "GhostIing",
@@ -129025,7 +129038,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2425
+      "rank": 2426
     },
     {
       "name": "LePolandV2",
@@ -129038,7 +129051,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2426
+      "rank": 2427
     },
     {
       "name": "Kiyuchi",
@@ -129051,7 +129064,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2427
+      "rank": 2428
     },
     {
       "name": "Roloid",
@@ -129064,7 +129077,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2428
+      "rank": 2429
     },
     {
       "name": "LoRemipsumdolor",
@@ -129077,7 +129090,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2429
+      "rank": 2430
     },
     {
       "name": "Goldmare",
@@ -129090,7 +129103,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2430
+      "rank": 2431
     },
     {
       "name": "Cyclones",
@@ -129103,7 +129116,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2431
+      "rank": 2432
     },
     {
       "name": "Oakmane",
@@ -129113,19 +129126,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2432
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
@@ -129561,6 +129561,19 @@
       "rank": 2466
     },
     {
+      "name": "Zzzephyrus",
+      "dps": 589,
+      "burst": 408,
+      "ehp": 9650,
+      "score": 1011.62,
+      "tank": "S",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "shaman",
+      "rank": 2467
+    },
+    {
       "name": "Matlock",
       "dps": 573,
       "burst": 387,
@@ -129571,7 +129584,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2467
+      "rank": 2468
     },
     {
       "name": "Quillen",
@@ -129584,7 +129597,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2468
+      "rank": 2469
     },
     {
       "name": "pooyo",
@@ -129597,7 +129610,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2469
+      "rank": 2470
     },
     {
       "name": "AncientRecaII",
@@ -129610,7 +129623,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2470
+      "rank": 2471
     },
     {
       "name": "xXxDARKxXx",
@@ -129623,7 +129636,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2471
+      "rank": 2472
     },
     {
       "name": "AugustusS",
@@ -129636,7 +129649,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2472
+      "rank": 2473
     },
     {
       "name": "ttuB",
@@ -129649,7 +129662,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2473
+      "rank": 2474
     },
     {
       "name": "Whir",
@@ -129662,7 +129675,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2474
+      "rank": 2475
     },
     {
       "name": "GhostIing",
@@ -129675,7 +129688,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2475
+      "rank": 2476
     },
     {
       "name": "LePolandV2",
@@ -129688,7 +129701,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2476
+      "rank": 2477
     },
     {
       "name": "Kiyuchi",
@@ -129701,7 +129714,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2477
+      "rank": 2478
     },
     {
       "name": "Roloid",
@@ -129714,7 +129727,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2478
+      "rank": 2479
     },
     {
       "name": "LoRemipsumdolor",
@@ -129727,7 +129740,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2479
+      "rank": 2480
     },
     {
       "name": "Goldmare",
@@ -129740,7 +129753,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2480
+      "rank": 2481
     },
     {
       "name": "Cyclones",
@@ -129753,7 +129766,7 @@
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
-      "rank": 2481
+      "rank": 2482
     },
     {
       "name": "Oakmane",
@@ -129763,19 +129776,6 @@
       "score": 1010.1,
       "tank": "A+",
       "hybrid": "SS",
-      "dpst": "S",
-      "overall": "SS",
-      "cls": "shaman",
-      "rank": 2482
-    },
-    {
-      "name": "Zzzephyrus",
-      "dps": 554,
-      "burst": 386,
-      "ehp": 10308,
-      "score": 1010.02,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "S",
       "overall": "SS",
       "cls": "shaman",
