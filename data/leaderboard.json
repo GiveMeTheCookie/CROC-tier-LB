@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-28T12:36:37.266Z",
+  "fetchedAt": "2026-10-28T22:29:39.140Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65328,6 +65328,19 @@
       "rank": 25
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 26
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -65338,7 +65351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Poor",
@@ -65351,7 +65364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "Kanemi",
@@ -65364,7 +65377,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "ArcherOPP",
@@ -65377,7 +65390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "Ve1iona3",
@@ -65390,7 +65403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "AUseLessArcher",
@@ -65403,7 +65416,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Xee",
@@ -65416,7 +65429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "butterfIy",
@@ -65426,19 +65439,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 33
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -65978,6 +65978,19 @@
       "rank": 75
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 76
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -65988,7 +66001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 76
+      "rank": 77
     },
     {
       "name": "Poor",
@@ -66001,7 +66014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 77
+      "rank": 78
     },
     {
       "name": "Kanemi",
@@ -66014,7 +66027,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 78
+      "rank": 79
     },
     {
       "name": "ArcherOPP",
@@ -66027,7 +66040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "Ve1iona3",
@@ -66040,7 +66053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "AUseLessArcher",
@@ -66053,7 +66066,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 81
+      "rank": 82
     },
     {
       "name": "Xee",
@@ -66066,7 +66079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 82
+      "rank": 83
     },
     {
       "name": "butterfIy",
@@ -66076,19 +66089,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 83
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66628,6 +66628,19 @@
       "rank": 125
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 126
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -66638,7 +66651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 126
+      "rank": 127
     },
     {
       "name": "Poor",
@@ -66651,7 +66664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 127
+      "rank": 128
     },
     {
       "name": "Kanemi",
@@ -66664,7 +66677,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 128
+      "rank": 129
     },
     {
       "name": "ArcherOPP",
@@ -66677,7 +66690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 129
+      "rank": 130
     },
     {
       "name": "Ve1iona3",
@@ -66690,7 +66703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 130
+      "rank": 131
     },
     {
       "name": "AUseLessArcher",
@@ -66703,7 +66716,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 131
+      "rank": 132
     },
     {
       "name": "Xee",
@@ -66716,7 +66729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 132
+      "rank": 133
     },
     {
       "name": "butterfIy",
@@ -66726,19 +66739,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 133
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67278,6 +67278,19 @@
       "rank": 175
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 176
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -67288,7 +67301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 176
+      "rank": 177
     },
     {
       "name": "Poor",
@@ -67301,7 +67314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 177
+      "rank": 178
     },
     {
       "name": "Kanemi",
@@ -67314,7 +67327,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 178
+      "rank": 179
     },
     {
       "name": "ArcherOPP",
@@ -67327,7 +67340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 179
+      "rank": 180
     },
     {
       "name": "Ve1iona3",
@@ -67340,7 +67353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 180
+      "rank": 181
     },
     {
       "name": "AUseLessArcher",
@@ -67353,7 +67366,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 181
+      "rank": 182
     },
     {
       "name": "Xee",
@@ -67366,7 +67379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 182
+      "rank": 183
     },
     {
       "name": "butterfIy",
@@ -67376,19 +67389,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 183
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67928,6 +67928,19 @@
       "rank": 225
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 226
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -67938,7 +67951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 226
+      "rank": 227
     },
     {
       "name": "Poor",
@@ -67951,7 +67964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 227
+      "rank": 228
     },
     {
       "name": "Kanemi",
@@ -67964,7 +67977,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "ArcherOPP",
@@ -67977,7 +67990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "Ve1iona3",
@@ -67990,7 +68003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "AUseLessArcher",
@@ -68003,7 +68016,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 231
+      "rank": 232
     },
     {
       "name": "Xee",
@@ -68016,7 +68029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 232
+      "rank": 233
     },
     {
       "name": "butterfIy",
@@ -68026,19 +68039,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 233
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -68578,6 +68578,19 @@
       "rank": 275
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 276
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -68588,7 +68601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 276
+      "rank": 277
     },
     {
       "name": "Poor",
@@ -68601,7 +68614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 277
+      "rank": 278
     },
     {
       "name": "Kanemi",
@@ -68614,7 +68627,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 278
+      "rank": 279
     },
     {
       "name": "ArcherOPP",
@@ -68627,7 +68640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 279
+      "rank": 280
     },
     {
       "name": "Ve1iona3",
@@ -68640,7 +68653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 280
+      "rank": 281
     },
     {
       "name": "AUseLessArcher",
@@ -68653,7 +68666,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 281
+      "rank": 282
     },
     {
       "name": "Xee",
@@ -68666,7 +68679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 282
+      "rank": 283
     },
     {
       "name": "butterfIy",
@@ -68676,19 +68689,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 283
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69228,6 +69228,19 @@
       "rank": 325
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 326
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -69238,7 +69251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 326
+      "rank": 327
     },
     {
       "name": "Poor",
@@ -69251,7 +69264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 327
+      "rank": 328
     },
     {
       "name": "Kanemi",
@@ -69264,7 +69277,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 328
+      "rank": 329
     },
     {
       "name": "ArcherOPP",
@@ -69277,7 +69290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 329
+      "rank": 330
     },
     {
       "name": "Ve1iona3",
@@ -69290,7 +69303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 330
+      "rank": 331
     },
     {
       "name": "AUseLessArcher",
@@ -69303,7 +69316,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 331
+      "rank": 332
     },
     {
       "name": "Xee",
@@ -69316,7 +69329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 332
+      "rank": 333
     },
     {
       "name": "butterfIy",
@@ -69326,19 +69339,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 333
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69878,6 +69878,19 @@
       "rank": 375
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 376
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -69888,7 +69901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 376
+      "rank": 377
     },
     {
       "name": "Poor",
@@ -69901,7 +69914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 377
+      "rank": 378
     },
     {
       "name": "Kanemi",
@@ -69914,7 +69927,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 378
+      "rank": 379
     },
     {
       "name": "ArcherOPP",
@@ -69927,7 +69940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 379
+      "rank": 380
     },
     {
       "name": "Ve1iona3",
@@ -69940,7 +69953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 380
+      "rank": 381
     },
     {
       "name": "AUseLessArcher",
@@ -69953,7 +69966,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 381
+      "rank": 382
     },
     {
       "name": "Xee",
@@ -69966,7 +69979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 382
+      "rank": 383
     },
     {
       "name": "butterfIy",
@@ -69976,19 +69989,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 383
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -70528,6 +70528,19 @@
       "rank": 425
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 426
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -70538,7 +70551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 426
+      "rank": 427
     },
     {
       "name": "Poor",
@@ -70551,7 +70564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 427
+      "rank": 428
     },
     {
       "name": "Kanemi",
@@ -70564,7 +70577,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 428
+      "rank": 429
     },
     {
       "name": "ArcherOPP",
@@ -70577,7 +70590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 429
+      "rank": 430
     },
     {
       "name": "Ve1iona3",
@@ -70590,7 +70603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 430
+      "rank": 431
     },
     {
       "name": "AUseLessArcher",
@@ -70603,7 +70616,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 431
+      "rank": 432
     },
     {
       "name": "Xee",
@@ -70616,7 +70629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 432
+      "rank": 433
     },
     {
       "name": "butterfIy",
@@ -70626,19 +70639,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 433
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71178,6 +71178,19 @@
       "rank": 475
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 476
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -71188,7 +71201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 476
+      "rank": 477
     },
     {
       "name": "Poor",
@@ -71201,7 +71214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 477
+      "rank": 478
     },
     {
       "name": "Kanemi",
@@ -71214,7 +71227,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 478
+      "rank": 479
     },
     {
       "name": "ArcherOPP",
@@ -71227,7 +71240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 479
+      "rank": 480
     },
     {
       "name": "Ve1iona3",
@@ -71240,7 +71253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 480
+      "rank": 481
     },
     {
       "name": "AUseLessArcher",
@@ -71253,7 +71266,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 481
+      "rank": 482
     },
     {
       "name": "Xee",
@@ -71266,7 +71279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 482
+      "rank": 483
     },
     {
       "name": "butterfIy",
@@ -71276,19 +71289,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 483
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71828,6 +71828,19 @@
       "rank": 525
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 526
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -71838,7 +71851,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 526
+      "rank": 527
     },
     {
       "name": "Poor",
@@ -71851,7 +71864,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 527
+      "rank": 528
     },
     {
       "name": "Kanemi",
@@ -71864,7 +71877,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 528
+      "rank": 529
     },
     {
       "name": "ArcherOPP",
@@ -71877,7 +71890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 529
+      "rank": 530
     },
     {
       "name": "Ve1iona3",
@@ -71890,7 +71903,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 530
+      "rank": 531
     },
     {
       "name": "AUseLessArcher",
@@ -71903,7 +71916,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 531
+      "rank": 532
     },
     {
       "name": "Xee",
@@ -71916,7 +71929,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 532
+      "rank": 533
     },
     {
       "name": "butterfIy",
@@ -71926,19 +71939,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 533
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -72478,6 +72478,19 @@
       "rank": 575
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 576
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -72488,7 +72501,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 576
+      "rank": 577
     },
     {
       "name": "Poor",
@@ -72501,7 +72514,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 577
+      "rank": 578
     },
     {
       "name": "Kanemi",
@@ -72514,7 +72527,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 578
+      "rank": 579
     },
     {
       "name": "ArcherOPP",
@@ -72527,7 +72540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 579
+      "rank": 580
     },
     {
       "name": "Ve1iona3",
@@ -72540,7 +72553,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 580
+      "rank": 581
     },
     {
       "name": "AUseLessArcher",
@@ -72553,7 +72566,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 581
+      "rank": 582
     },
     {
       "name": "Xee",
@@ -72566,7 +72579,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 582
+      "rank": 583
     },
     {
       "name": "butterfIy",
@@ -72576,19 +72589,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 583
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73128,6 +73128,19 @@
       "rank": 625
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 626
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -73138,7 +73151,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 626
+      "rank": 627
     },
     {
       "name": "Poor",
@@ -73151,7 +73164,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 627
+      "rank": 628
     },
     {
       "name": "Kanemi",
@@ -73164,7 +73177,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 628
+      "rank": 629
     },
     {
       "name": "ArcherOPP",
@@ -73177,7 +73190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 629
+      "rank": 630
     },
     {
       "name": "Ve1iona3",
@@ -73190,7 +73203,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 630
+      "rank": 631
     },
     {
       "name": "AUseLessArcher",
@@ -73203,7 +73216,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 631
+      "rank": 632
     },
     {
       "name": "Xee",
@@ -73216,7 +73229,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 632
+      "rank": 633
     },
     {
       "name": "butterfIy",
@@ -73226,19 +73239,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 633
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73778,6 +73778,19 @@
       "rank": 675
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 676
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -73788,7 +73801,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 676
+      "rank": 677
     },
     {
       "name": "Poor",
@@ -73801,7 +73814,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 677
+      "rank": 678
     },
     {
       "name": "Kanemi",
@@ -73814,7 +73827,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 678
+      "rank": 679
     },
     {
       "name": "ArcherOPP",
@@ -73827,7 +73840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 679
+      "rank": 680
     },
     {
       "name": "Ve1iona3",
@@ -73840,7 +73853,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 680
+      "rank": 681
     },
     {
       "name": "AUseLessArcher",
@@ -73853,7 +73866,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 681
+      "rank": 682
     },
     {
       "name": "Xee",
@@ -73866,7 +73879,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 682
+      "rank": 683
     },
     {
       "name": "butterfIy",
@@ -73876,19 +73889,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 683
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -74428,6 +74428,19 @@
       "rank": 725
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 726
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -74438,7 +74451,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 726
+      "rank": 727
     },
     {
       "name": "Poor",
@@ -74451,7 +74464,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 727
+      "rank": 728
     },
     {
       "name": "Kanemi",
@@ -74464,7 +74477,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 728
+      "rank": 729
     },
     {
       "name": "ArcherOPP",
@@ -74477,7 +74490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 729
+      "rank": 730
     },
     {
       "name": "Ve1iona3",
@@ -74490,7 +74503,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 730
+      "rank": 731
     },
     {
       "name": "AUseLessArcher",
@@ -74503,7 +74516,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 731
+      "rank": 732
     },
     {
       "name": "Xee",
@@ -74516,7 +74529,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 732
+      "rank": 733
     },
     {
       "name": "butterfIy",
@@ -74526,19 +74539,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 733
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75078,6 +75078,19 @@
       "rank": 775
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 776
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -75088,7 +75101,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 776
+      "rank": 777
     },
     {
       "name": "Poor",
@@ -75101,7 +75114,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 777
+      "rank": 778
     },
     {
       "name": "Kanemi",
@@ -75114,7 +75127,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 778
+      "rank": 779
     },
     {
       "name": "ArcherOPP",
@@ -75127,7 +75140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 779
+      "rank": 780
     },
     {
       "name": "Ve1iona3",
@@ -75140,7 +75153,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 780
+      "rank": 781
     },
     {
       "name": "AUseLessArcher",
@@ -75153,7 +75166,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 781
+      "rank": 782
     },
     {
       "name": "Xee",
@@ -75166,7 +75179,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 782
+      "rank": 783
     },
     {
       "name": "butterfIy",
@@ -75176,19 +75189,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 783
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75728,6 +75728,19 @@
       "rank": 825
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 826
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -75738,7 +75751,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 826
+      "rank": 827
     },
     {
       "name": "Poor",
@@ -75751,7 +75764,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 827
+      "rank": 828
     },
     {
       "name": "Kanemi",
@@ -75764,7 +75777,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 828
+      "rank": 829
     },
     {
       "name": "ArcherOPP",
@@ -75777,7 +75790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 829
+      "rank": 830
     },
     {
       "name": "Ve1iona3",
@@ -75790,7 +75803,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 830
+      "rank": 831
     },
     {
       "name": "AUseLessArcher",
@@ -75803,7 +75816,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 831
+      "rank": 832
     },
     {
       "name": "Xee",
@@ -75816,7 +75829,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 832
+      "rank": 833
     },
     {
       "name": "butterfIy",
@@ -75826,19 +75839,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 833
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -76378,6 +76378,19 @@
       "rank": 875
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 876
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -76388,7 +76401,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 876
+      "rank": 877
     },
     {
       "name": "Poor",
@@ -76401,7 +76414,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 877
+      "rank": 878
     },
     {
       "name": "Kanemi",
@@ -76414,7 +76427,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 878
+      "rank": 879
     },
     {
       "name": "ArcherOPP",
@@ -76427,7 +76440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 879
+      "rank": 880
     },
     {
       "name": "Ve1iona3",
@@ -76440,7 +76453,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 880
+      "rank": 881
     },
     {
       "name": "AUseLessArcher",
@@ -76453,7 +76466,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 881
+      "rank": 882
     },
     {
       "name": "Xee",
@@ -76466,7 +76479,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 882
+      "rank": 883
     },
     {
       "name": "butterfIy",
@@ -76476,19 +76489,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 883
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77028,6 +77028,19 @@
       "rank": 925
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 926
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -77038,7 +77051,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 926
+      "rank": 927
     },
     {
       "name": "Poor",
@@ -77051,7 +77064,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 927
+      "rank": 928
     },
     {
       "name": "Kanemi",
@@ -77064,7 +77077,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 928
+      "rank": 929
     },
     {
       "name": "ArcherOPP",
@@ -77077,7 +77090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 929
+      "rank": 930
     },
     {
       "name": "Ve1iona3",
@@ -77090,7 +77103,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 930
+      "rank": 931
     },
     {
       "name": "AUseLessArcher",
@@ -77103,7 +77116,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 931
+      "rank": 932
     },
     {
       "name": "Xee",
@@ -77116,7 +77129,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 932
+      "rank": 933
     },
     {
       "name": "butterfIy",
@@ -77126,19 +77139,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 933
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77678,6 +77678,19 @@
       "rank": 975
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 976
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -77688,7 +77701,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 976
+      "rank": 977
     },
     {
       "name": "Poor",
@@ -77701,7 +77714,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 977
+      "rank": 978
     },
     {
       "name": "Kanemi",
@@ -77714,7 +77727,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 978
+      "rank": 979
     },
     {
       "name": "ArcherOPP",
@@ -77727,7 +77740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 979
+      "rank": 980
     },
     {
       "name": "Ve1iona3",
@@ -77740,7 +77753,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 980
+      "rank": 981
     },
     {
       "name": "AUseLessArcher",
@@ -77753,7 +77766,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 981
+      "rank": 982
     },
     {
       "name": "Xee",
@@ -77766,7 +77779,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 982
+      "rank": 983
     },
     {
       "name": "butterfIy",
@@ -77776,19 +77789,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 983
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78328,6 +78328,19 @@
       "rank": 1025
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1026
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -78338,7 +78351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1026
+      "rank": 1027
     },
     {
       "name": "Poor",
@@ -78351,7 +78364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1027
+      "rank": 1028
     },
     {
       "name": "Kanemi",
@@ -78364,7 +78377,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1028
+      "rank": 1029
     },
     {
       "name": "ArcherOPP",
@@ -78377,7 +78390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1029
+      "rank": 1030
     },
     {
       "name": "Ve1iona3",
@@ -78390,7 +78403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1030
+      "rank": 1031
     },
     {
       "name": "AUseLessArcher",
@@ -78403,7 +78416,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1031
+      "rank": 1032
     },
     {
       "name": "Xee",
@@ -78416,7 +78429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1032
+      "rank": 1033
     },
     {
       "name": "butterfIy",
@@ -78426,19 +78439,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1033
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78978,6 +78978,19 @@
       "rank": 1075
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1076
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -78988,7 +79001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1076
+      "rank": 1077
     },
     {
       "name": "Poor",
@@ -79001,7 +79014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1077
+      "rank": 1078
     },
     {
       "name": "Kanemi",
@@ -79014,7 +79027,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1078
+      "rank": 1079
     },
     {
       "name": "ArcherOPP",
@@ -79027,7 +79040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1079
+      "rank": 1080
     },
     {
       "name": "Ve1iona3",
@@ -79040,7 +79053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1080
+      "rank": 1081
     },
     {
       "name": "AUseLessArcher",
@@ -79053,7 +79066,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1081
+      "rank": 1082
     },
     {
       "name": "Xee",
@@ -79066,7 +79079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1082
+      "rank": 1083
     },
     {
       "name": "butterfIy",
@@ -79076,19 +79089,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1083
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79628,6 +79628,19 @@
       "rank": 1125
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1126
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -79638,7 +79651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1126
+      "rank": 1127
     },
     {
       "name": "Poor",
@@ -79651,7 +79664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1127
+      "rank": 1128
     },
     {
       "name": "Kanemi",
@@ -79664,7 +79677,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1128
+      "rank": 1129
     },
     {
       "name": "ArcherOPP",
@@ -79677,7 +79690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1129
+      "rank": 1130
     },
     {
       "name": "Ve1iona3",
@@ -79690,7 +79703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1130
+      "rank": 1131
     },
     {
       "name": "AUseLessArcher",
@@ -79703,7 +79716,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1131
+      "rank": 1132
     },
     {
       "name": "Xee",
@@ -79716,7 +79729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1132
+      "rank": 1133
     },
     {
       "name": "butterfIy",
@@ -79726,19 +79739,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1133
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80278,6 +80278,19 @@
       "rank": 1175
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1176
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -80288,7 +80301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1176
+      "rank": 1177
     },
     {
       "name": "Poor",
@@ -80301,7 +80314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1177
+      "rank": 1178
     },
     {
       "name": "Kanemi",
@@ -80314,7 +80327,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1178
+      "rank": 1179
     },
     {
       "name": "ArcherOPP",
@@ -80327,7 +80340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1179
+      "rank": 1180
     },
     {
       "name": "Ve1iona3",
@@ -80340,7 +80353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1180
+      "rank": 1181
     },
     {
       "name": "AUseLessArcher",
@@ -80353,7 +80366,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1181
+      "rank": 1182
     },
     {
       "name": "Xee",
@@ -80366,7 +80379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1182
+      "rank": 1183
     },
     {
       "name": "butterfIy",
@@ -80376,19 +80389,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1183
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80928,6 +80928,19 @@
       "rank": 1225
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1226
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -80938,7 +80951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1226
+      "rank": 1227
     },
     {
       "name": "Poor",
@@ -80951,7 +80964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1227
+      "rank": 1228
     },
     {
       "name": "Kanemi",
@@ -80964,7 +80977,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1228
+      "rank": 1229
     },
     {
       "name": "ArcherOPP",
@@ -80977,7 +80990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1229
+      "rank": 1230
     },
     {
       "name": "Ve1iona3",
@@ -80990,7 +81003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1230
+      "rank": 1231
     },
     {
       "name": "AUseLessArcher",
@@ -81003,7 +81016,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1231
+      "rank": 1232
     },
     {
       "name": "Xee",
@@ -81016,7 +81029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1232
+      "rank": 1233
     },
     {
       "name": "butterfIy",
@@ -81026,19 +81039,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1233
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -81578,6 +81578,19 @@
       "rank": 1275
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1276
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -81588,7 +81601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1276
+      "rank": 1277
     },
     {
       "name": "Poor",
@@ -81601,7 +81614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1277
+      "rank": 1278
     },
     {
       "name": "Kanemi",
@@ -81614,7 +81627,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1278
+      "rank": 1279
     },
     {
       "name": "ArcherOPP",
@@ -81627,7 +81640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1279
+      "rank": 1280
     },
     {
       "name": "Ve1iona3",
@@ -81640,7 +81653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1280
+      "rank": 1281
     },
     {
       "name": "AUseLessArcher",
@@ -81653,7 +81666,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1281
+      "rank": 1282
     },
     {
       "name": "Xee",
@@ -81666,7 +81679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1282
+      "rank": 1283
     },
     {
       "name": "butterfIy",
@@ -81676,19 +81689,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1283
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82228,6 +82228,19 @@
       "rank": 1325
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1326
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -82238,7 +82251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1326
+      "rank": 1327
     },
     {
       "name": "Poor",
@@ -82251,7 +82264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1327
+      "rank": 1328
     },
     {
       "name": "Kanemi",
@@ -82264,7 +82277,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1328
+      "rank": 1329
     },
     {
       "name": "ArcherOPP",
@@ -82277,7 +82290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1329
+      "rank": 1330
     },
     {
       "name": "Ve1iona3",
@@ -82290,7 +82303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1330
+      "rank": 1331
     },
     {
       "name": "AUseLessArcher",
@@ -82303,7 +82316,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1331
+      "rank": 1332
     },
     {
       "name": "Xee",
@@ -82316,7 +82329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1332
+      "rank": 1333
     },
     {
       "name": "butterfIy",
@@ -82326,19 +82339,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1333
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82878,6 +82878,19 @@
       "rank": 1375
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1376
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -82888,7 +82901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1376
+      "rank": 1377
     },
     {
       "name": "Poor",
@@ -82901,7 +82914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1377
+      "rank": 1378
     },
     {
       "name": "Kanemi",
@@ -82914,7 +82927,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1378
+      "rank": 1379
     },
     {
       "name": "ArcherOPP",
@@ -82927,7 +82940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1379
+      "rank": 1380
     },
     {
       "name": "Ve1iona3",
@@ -82940,7 +82953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1380
+      "rank": 1381
     },
     {
       "name": "AUseLessArcher",
@@ -82953,7 +82966,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1381
+      "rank": 1382
     },
     {
       "name": "Xee",
@@ -82966,7 +82979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1382
+      "rank": 1383
     },
     {
       "name": "butterfIy",
@@ -82976,19 +82989,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1383
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -83528,6 +83528,19 @@
       "rank": 1425
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1426
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -83538,7 +83551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1426
+      "rank": 1427
     },
     {
       "name": "Poor",
@@ -83551,7 +83564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1427
+      "rank": 1428
     },
     {
       "name": "Kanemi",
@@ -83564,7 +83577,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1428
+      "rank": 1429
     },
     {
       "name": "ArcherOPP",
@@ -83577,7 +83590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1429
+      "rank": 1430
     },
     {
       "name": "Ve1iona3",
@@ -83590,7 +83603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1430
+      "rank": 1431
     },
     {
       "name": "AUseLessArcher",
@@ -83603,7 +83616,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1431
+      "rank": 1432
     },
     {
       "name": "Xee",
@@ -83616,7 +83629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1432
+      "rank": 1433
     },
     {
       "name": "butterfIy",
@@ -83626,19 +83639,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1433
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84178,6 +84178,19 @@
       "rank": 1475
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1476
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -84188,7 +84201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1476
+      "rank": 1477
     },
     {
       "name": "Poor",
@@ -84201,7 +84214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1477
+      "rank": 1478
     },
     {
       "name": "Kanemi",
@@ -84214,7 +84227,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1478
+      "rank": 1479
     },
     {
       "name": "ArcherOPP",
@@ -84227,7 +84240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1479
+      "rank": 1480
     },
     {
       "name": "Ve1iona3",
@@ -84240,7 +84253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1480
+      "rank": 1481
     },
     {
       "name": "AUseLessArcher",
@@ -84253,7 +84266,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1481
+      "rank": 1482
     },
     {
       "name": "Xee",
@@ -84266,7 +84279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1482
+      "rank": 1483
     },
     {
       "name": "butterfIy",
@@ -84276,19 +84289,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1483
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84828,6 +84828,19 @@
       "rank": 1525
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1526
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -84838,7 +84851,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1526
+      "rank": 1527
     },
     {
       "name": "Poor",
@@ -84851,7 +84864,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1527
+      "rank": 1528
     },
     {
       "name": "Kanemi",
@@ -84864,7 +84877,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1528
+      "rank": 1529
     },
     {
       "name": "ArcherOPP",
@@ -84877,7 +84890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1529
+      "rank": 1530
     },
     {
       "name": "Ve1iona3",
@@ -84890,7 +84903,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1530
+      "rank": 1531
     },
     {
       "name": "AUseLessArcher",
@@ -84903,7 +84916,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1531
+      "rank": 1532
     },
     {
       "name": "Xee",
@@ -84916,7 +84929,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1532
+      "rank": 1533
     },
     {
       "name": "butterfIy",
@@ -84926,19 +84939,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1533
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -85478,6 +85478,19 @@
       "rank": 1575
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1576
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -85488,7 +85501,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1576
+      "rank": 1577
     },
     {
       "name": "Poor",
@@ -85501,7 +85514,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1577
+      "rank": 1578
     },
     {
       "name": "Kanemi",
@@ -85514,7 +85527,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1578
+      "rank": 1579
     },
     {
       "name": "ArcherOPP",
@@ -85527,7 +85540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1579
+      "rank": 1580
     },
     {
       "name": "Ve1iona3",
@@ -85540,7 +85553,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1580
+      "rank": 1581
     },
     {
       "name": "AUseLessArcher",
@@ -85553,7 +85566,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1581
+      "rank": 1582
     },
     {
       "name": "Xee",
@@ -85566,7 +85579,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1582
+      "rank": 1583
     },
     {
       "name": "butterfIy",
@@ -85576,19 +85589,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1583
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86128,6 +86128,19 @@
       "rank": 1625
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1626
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -86138,7 +86151,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1626
+      "rank": 1627
     },
     {
       "name": "Poor",
@@ -86151,7 +86164,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1627
+      "rank": 1628
     },
     {
       "name": "Kanemi",
@@ -86164,7 +86177,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1628
+      "rank": 1629
     },
     {
       "name": "ArcherOPP",
@@ -86177,7 +86190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1629
+      "rank": 1630
     },
     {
       "name": "Ve1iona3",
@@ -86190,7 +86203,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1630
+      "rank": 1631
     },
     {
       "name": "AUseLessArcher",
@@ -86203,7 +86216,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1631
+      "rank": 1632
     },
     {
       "name": "Xee",
@@ -86216,7 +86229,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1632
+      "rank": 1633
     },
     {
       "name": "butterfIy",
@@ -86226,19 +86239,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1633
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86778,6 +86778,19 @@
       "rank": 1675
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1676
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -86788,7 +86801,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1676
+      "rank": 1677
     },
     {
       "name": "Poor",
@@ -86801,7 +86814,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1677
+      "rank": 1678
     },
     {
       "name": "Kanemi",
@@ -86814,7 +86827,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1678
+      "rank": 1679
     },
     {
       "name": "ArcherOPP",
@@ -86827,7 +86840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1679
+      "rank": 1680
     },
     {
       "name": "Ve1iona3",
@@ -86840,7 +86853,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1680
+      "rank": 1681
     },
     {
       "name": "AUseLessArcher",
@@ -86853,7 +86866,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1681
+      "rank": 1682
     },
     {
       "name": "Xee",
@@ -86866,7 +86879,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1682
+      "rank": 1683
     },
     {
       "name": "butterfIy",
@@ -86876,19 +86889,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1683
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -87428,6 +87428,19 @@
       "rank": 1725
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1726
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -87438,7 +87451,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1726
+      "rank": 1727
     },
     {
       "name": "Poor",
@@ -87451,7 +87464,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1727
+      "rank": 1728
     },
     {
       "name": "Kanemi",
@@ -87464,7 +87477,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1728
+      "rank": 1729
     },
     {
       "name": "ArcherOPP",
@@ -87477,7 +87490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1729
+      "rank": 1730
     },
     {
       "name": "Ve1iona3",
@@ -87490,7 +87503,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1730
+      "rank": 1731
     },
     {
       "name": "AUseLessArcher",
@@ -87503,7 +87516,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1731
+      "rank": 1732
     },
     {
       "name": "Xee",
@@ -87516,7 +87529,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1732
+      "rank": 1733
     },
     {
       "name": "butterfIy",
@@ -87526,19 +87539,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1733
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88078,6 +88078,19 @@
       "rank": 1775
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1776
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -88088,7 +88101,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1776
+      "rank": 1777
     },
     {
       "name": "Poor",
@@ -88101,7 +88114,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1777
+      "rank": 1778
     },
     {
       "name": "Kanemi",
@@ -88114,7 +88127,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1778
+      "rank": 1779
     },
     {
       "name": "ArcherOPP",
@@ -88127,7 +88140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1779
+      "rank": 1780
     },
     {
       "name": "Ve1iona3",
@@ -88140,7 +88153,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1780
+      "rank": 1781
     },
     {
       "name": "AUseLessArcher",
@@ -88153,7 +88166,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1781
+      "rank": 1782
     },
     {
       "name": "Xee",
@@ -88166,7 +88179,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1782
+      "rank": 1783
     },
     {
       "name": "butterfIy",
@@ -88176,19 +88189,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1783
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88728,6 +88728,19 @@
       "rank": 1825
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1826
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -88738,7 +88751,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1826
+      "rank": 1827
     },
     {
       "name": "Poor",
@@ -88751,7 +88764,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1827
+      "rank": 1828
     },
     {
       "name": "Kanemi",
@@ -88764,7 +88777,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1828
+      "rank": 1829
     },
     {
       "name": "ArcherOPP",
@@ -88777,7 +88790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1829
+      "rank": 1830
     },
     {
       "name": "Ve1iona3",
@@ -88790,7 +88803,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1830
+      "rank": 1831
     },
     {
       "name": "AUseLessArcher",
@@ -88803,7 +88816,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1831
+      "rank": 1832
     },
     {
       "name": "Xee",
@@ -88816,7 +88829,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1832
+      "rank": 1833
     },
     {
       "name": "butterfIy",
@@ -88826,19 +88839,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1833
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -89378,6 +89378,19 @@
       "rank": 1875
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1876
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -89388,7 +89401,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1876
+      "rank": 1877
     },
     {
       "name": "Poor",
@@ -89401,7 +89414,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1877
+      "rank": 1878
     },
     {
       "name": "Kanemi",
@@ -89414,7 +89427,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1878
+      "rank": 1879
     },
     {
       "name": "ArcherOPP",
@@ -89427,7 +89440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1879
+      "rank": 1880
     },
     {
       "name": "Ve1iona3",
@@ -89440,7 +89453,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1880
+      "rank": 1881
     },
     {
       "name": "AUseLessArcher",
@@ -89453,7 +89466,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1881
+      "rank": 1882
     },
     {
       "name": "Xee",
@@ -89466,7 +89479,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1882
+      "rank": 1883
     },
     {
       "name": "butterfIy",
@@ -89476,19 +89489,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1883
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90028,6 +90028,19 @@
       "rank": 1925
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1926
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -90038,7 +90051,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1926
+      "rank": 1927
     },
     {
       "name": "Poor",
@@ -90051,7 +90064,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1927
+      "rank": 1928
     },
     {
       "name": "Kanemi",
@@ -90064,7 +90077,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1928
+      "rank": 1929
     },
     {
       "name": "ArcherOPP",
@@ -90077,7 +90090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1929
+      "rank": 1930
     },
     {
       "name": "Ve1iona3",
@@ -90090,7 +90103,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1930
+      "rank": 1931
     },
     {
       "name": "AUseLessArcher",
@@ -90103,7 +90116,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1931
+      "rank": 1932
     },
     {
       "name": "Xee",
@@ -90116,7 +90129,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1932
+      "rank": 1933
     },
     {
       "name": "butterfIy",
@@ -90126,19 +90139,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1933
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90678,6 +90678,19 @@
       "rank": 1975
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1976
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -90688,7 +90701,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1976
+      "rank": 1977
     },
     {
       "name": "Poor",
@@ -90701,7 +90714,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1977
+      "rank": 1978
     },
     {
       "name": "Kanemi",
@@ -90714,7 +90727,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1978
+      "rank": 1979
     },
     {
       "name": "ArcherOPP",
@@ -90727,7 +90740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1979
+      "rank": 1980
     },
     {
       "name": "Ve1iona3",
@@ -90740,7 +90753,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1980
+      "rank": 1981
     },
     {
       "name": "AUseLessArcher",
@@ -90753,7 +90766,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1981
+      "rank": 1982
     },
     {
       "name": "Xee",
@@ -90766,7 +90779,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1982
+      "rank": 1983
     },
     {
       "name": "butterfIy",
@@ -90776,19 +90789,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1983
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91328,6 +91328,19 @@
       "rank": 2025
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2026
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -91338,7 +91351,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2026
+      "rank": 2027
     },
     {
       "name": "Poor",
@@ -91351,7 +91364,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2027
+      "rank": 2028
     },
     {
       "name": "Kanemi",
@@ -91364,7 +91377,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2028
+      "rank": 2029
     },
     {
       "name": "ArcherOPP",
@@ -91377,7 +91390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2029
+      "rank": 2030
     },
     {
       "name": "Ve1iona3",
@@ -91390,7 +91403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2030
+      "rank": 2031
     },
     {
       "name": "AUseLessArcher",
@@ -91403,7 +91416,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2031
+      "rank": 2032
     },
     {
       "name": "Xee",
@@ -91416,7 +91429,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2032
+      "rank": 2033
     },
     {
       "name": "butterfIy",
@@ -91426,19 +91439,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2033
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91978,6 +91978,19 @@
       "rank": 2075
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2076
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -91988,7 +92001,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2076
+      "rank": 2077
     },
     {
       "name": "Poor",
@@ -92001,7 +92014,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2077
+      "rank": 2078
     },
     {
       "name": "Kanemi",
@@ -92014,7 +92027,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2078
+      "rank": 2079
     },
     {
       "name": "ArcherOPP",
@@ -92027,7 +92040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2079
+      "rank": 2080
     },
     {
       "name": "Ve1iona3",
@@ -92040,7 +92053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2080
+      "rank": 2081
     },
     {
       "name": "AUseLessArcher",
@@ -92053,7 +92066,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2081
+      "rank": 2082
     },
     {
       "name": "Xee",
@@ -92066,7 +92079,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2082
+      "rank": 2083
     },
     {
       "name": "butterfIy",
@@ -92076,19 +92089,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2083
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92628,6 +92628,19 @@
       "rank": 2125
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2126
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -92638,7 +92651,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2126
+      "rank": 2127
     },
     {
       "name": "Poor",
@@ -92651,7 +92664,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2127
+      "rank": 2128
     },
     {
       "name": "Kanemi",
@@ -92664,7 +92677,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2128
+      "rank": 2129
     },
     {
       "name": "ArcherOPP",
@@ -92677,7 +92690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2129
+      "rank": 2130
     },
     {
       "name": "Ve1iona3",
@@ -92690,7 +92703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2130
+      "rank": 2131
     },
     {
       "name": "AUseLessArcher",
@@ -92703,7 +92716,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2131
+      "rank": 2132
     },
     {
       "name": "Xee",
@@ -92716,7 +92729,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2132
+      "rank": 2133
     },
     {
       "name": "butterfIy",
@@ -92726,19 +92739,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2133
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93278,6 +93278,19 @@
       "rank": 2175
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2176
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -93288,7 +93301,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2176
+      "rank": 2177
     },
     {
       "name": "Poor",
@@ -93301,7 +93314,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2177
+      "rank": 2178
     },
     {
       "name": "Kanemi",
@@ -93314,7 +93327,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2178
+      "rank": 2179
     },
     {
       "name": "ArcherOPP",
@@ -93327,7 +93340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2179
+      "rank": 2180
     },
     {
       "name": "Ve1iona3",
@@ -93340,7 +93353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2180
+      "rank": 2181
     },
     {
       "name": "AUseLessArcher",
@@ -93353,7 +93366,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2181
+      "rank": 2182
     },
     {
       "name": "Xee",
@@ -93366,7 +93379,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2182
+      "rank": 2183
     },
     {
       "name": "butterfIy",
@@ -93376,19 +93389,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2183
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93928,6 +93928,19 @@
       "rank": 2225
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2226
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -93938,7 +93951,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2226
+      "rank": 2227
     },
     {
       "name": "Poor",
@@ -93951,7 +93964,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2227
+      "rank": 2228
     },
     {
       "name": "Kanemi",
@@ -93964,7 +93977,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2228
+      "rank": 2229
     },
     {
       "name": "ArcherOPP",
@@ -93977,7 +93990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2229
+      "rank": 2230
     },
     {
       "name": "Ve1iona3",
@@ -93990,7 +94003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2230
+      "rank": 2231
     },
     {
       "name": "AUseLessArcher",
@@ -94003,7 +94016,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2231
+      "rank": 2232
     },
     {
       "name": "Xee",
@@ -94016,7 +94029,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2232
+      "rank": 2233
     },
     {
       "name": "butterfIy",
@@ -94026,19 +94039,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2233
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -94578,6 +94578,19 @@
       "rank": 2275
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2276
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -94588,7 +94601,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2276
+      "rank": 2277
     },
     {
       "name": "Poor",
@@ -94601,7 +94614,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2277
+      "rank": 2278
     },
     {
       "name": "Kanemi",
@@ -94614,7 +94627,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2278
+      "rank": 2279
     },
     {
       "name": "ArcherOPP",
@@ -94627,7 +94640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2279
+      "rank": 2280
     },
     {
       "name": "Ve1iona3",
@@ -94640,7 +94653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2280
+      "rank": 2281
     },
     {
       "name": "AUseLessArcher",
@@ -94653,7 +94666,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2281
+      "rank": 2282
     },
     {
       "name": "Xee",
@@ -94666,7 +94679,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2282
+      "rank": 2283
     },
     {
       "name": "butterfIy",
@@ -94676,19 +94689,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2283
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95228,6 +95228,19 @@
       "rank": 2325
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2326
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -95238,7 +95251,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2326
+      "rank": 2327
     },
     {
       "name": "Poor",
@@ -95251,7 +95264,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2327
+      "rank": 2328
     },
     {
       "name": "Kanemi",
@@ -95264,7 +95277,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2328
+      "rank": 2329
     },
     {
       "name": "ArcherOPP",
@@ -95277,7 +95290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2329
+      "rank": 2330
     },
     {
       "name": "Ve1iona3",
@@ -95290,7 +95303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2330
+      "rank": 2331
     },
     {
       "name": "AUseLessArcher",
@@ -95303,7 +95316,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2331
+      "rank": 2332
     },
     {
       "name": "Xee",
@@ -95316,7 +95329,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2332
+      "rank": 2333
     },
     {
       "name": "butterfIy",
@@ -95326,19 +95339,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2333
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95878,6 +95878,19 @@
       "rank": 2375
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2376
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -95888,7 +95901,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2376
+      "rank": 2377
     },
     {
       "name": "Poor",
@@ -95901,7 +95914,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2377
+      "rank": 2378
     },
     {
       "name": "Kanemi",
@@ -95914,7 +95927,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2378
+      "rank": 2379
     },
     {
       "name": "ArcherOPP",
@@ -95927,7 +95940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2379
+      "rank": 2380
     },
     {
       "name": "Ve1iona3",
@@ -95940,7 +95953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2380
+      "rank": 2381
     },
     {
       "name": "AUseLessArcher",
@@ -95953,7 +95966,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2381
+      "rank": 2382
     },
     {
       "name": "Xee",
@@ -95966,7 +95979,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2382
+      "rank": 2383
     },
     {
       "name": "butterfIy",
@@ -95976,19 +95989,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2383
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -96528,6 +96528,19 @@
       "rank": 2425
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2426
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -96538,7 +96551,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2426
+      "rank": 2427
     },
     {
       "name": "Poor",
@@ -96551,7 +96564,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2427
+      "rank": 2428
     },
     {
       "name": "Kanemi",
@@ -96564,7 +96577,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2428
+      "rank": 2429
     },
     {
       "name": "ArcherOPP",
@@ -96577,7 +96590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2429
+      "rank": 2430
     },
     {
       "name": "Ve1iona3",
@@ -96590,7 +96603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2430
+      "rank": 2431
     },
     {
       "name": "AUseLessArcher",
@@ -96603,7 +96616,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2431
+      "rank": 2432
     },
     {
       "name": "Xee",
@@ -96616,7 +96629,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2432
+      "rank": 2433
     },
     {
       "name": "butterfIy",
@@ -96626,19 +96639,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2433
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -97178,6 +97178,19 @@
       "rank": 2475
     },
     {
+      "name": "Mecanico",
+      "dps": 570,
+      "burst": 493,
+      "ehp": 9713,
+      "score": 1009.68,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2476
+    },
+    {
       "name": "shutiao2",
       "dps": 604,
       "burst": 520,
@@ -97188,7 +97201,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2476
+      "rank": 2477
     },
     {
       "name": "Poor",
@@ -97201,7 +97214,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2477
+      "rank": 2478
     },
     {
       "name": "Kanemi",
@@ -97214,7 +97227,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2478
+      "rank": 2479
     },
     {
       "name": "ArcherOPP",
@@ -97227,7 +97240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2479
+      "rank": 2480
     },
     {
       "name": "Ve1iona3",
@@ -97240,7 +97253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2480
+      "rank": 2481
     },
     {
       "name": "AUseLessArcher",
@@ -97253,7 +97266,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2481
+      "rank": 2482
     },
     {
       "name": "Xee",
@@ -97266,7 +97279,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2482
+      "rank": 2483
     },
     {
       "name": "butterfIy",
@@ -97276,19 +97289,6 @@
       "score": 1009.07,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2483
-    },
-    {
-      "name": "Mecanico",
-      "dps": 563,
-      "burst": 466,
-      "ehp": 10271,
-      "score": 1008.75,
-      "tank": "SS",
-      "hybrid": "S",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
