@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-27T22:05:12.416Z",
+  "fetchedAt": "2026-10-28T05:13:45.905Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -97503,6 +97503,19 @@
       "rank": 2500
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -97513,7 +97526,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "KonGCH",
@@ -97523,19 +97536,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -97966,7 +97966,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 36
     },
@@ -97979,7 +97979,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 37
     },
@@ -98153,6 +98153,19 @@
       "rank": 50
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 51
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -98163,7 +98176,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "KonGCH",
@@ -98173,19 +98186,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 52
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -98616,7 +98616,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 86
     },
@@ -98629,7 +98629,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 87
     },
@@ -98803,6 +98803,19 @@
       "rank": 100
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 101
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -98813,7 +98826,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 101
+      "rank": 102
     },
     {
       "name": "KonGCH",
@@ -98823,19 +98836,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 102
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -99266,7 +99266,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 136
     },
@@ -99279,7 +99279,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 137
     },
@@ -99453,6 +99453,19 @@
       "rank": 150
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 151
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -99463,7 +99476,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 151
+      "rank": 152
     },
     {
       "name": "KonGCH",
@@ -99473,19 +99486,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 152
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -99916,7 +99916,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 186
     },
@@ -99929,7 +99929,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 187
     },
@@ -100103,6 +100103,19 @@
       "rank": 200
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 201
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -100113,7 +100126,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 201
+      "rank": 202
     },
     {
       "name": "KonGCH",
@@ -100123,19 +100136,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 202
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -100566,7 +100566,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 236
     },
@@ -100579,7 +100579,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 237
     },
@@ -100753,6 +100753,19 @@
       "rank": 250
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 251
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -100763,7 +100776,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 251
+      "rank": 252
     },
     {
       "name": "KonGCH",
@@ -100773,19 +100786,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 252
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -101216,7 +101216,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 286
     },
@@ -101229,7 +101229,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 287
     },
@@ -101403,6 +101403,19 @@
       "rank": 300
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 301
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -101413,7 +101426,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 301
+      "rank": 302
     },
     {
       "name": "KonGCH",
@@ -101423,19 +101436,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 302
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -101866,7 +101866,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 336
     },
@@ -101879,7 +101879,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 337
     },
@@ -102053,6 +102053,19 @@
       "rank": 350
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 351
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -102063,7 +102076,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 351
+      "rank": 352
     },
     {
       "name": "KonGCH",
@@ -102073,19 +102086,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 352
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -102516,7 +102516,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 386
     },
@@ -102529,7 +102529,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 387
     },
@@ -102703,6 +102703,19 @@
       "rank": 400
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 401
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -102713,7 +102726,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 401
+      "rank": 402
     },
     {
       "name": "KonGCH",
@@ -102723,19 +102736,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 402
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -103166,7 +103166,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 436
     },
@@ -103179,7 +103179,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 437
     },
@@ -103353,6 +103353,19 @@
       "rank": 450
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 451
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -103363,7 +103376,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 451
+      "rank": 452
     },
     {
       "name": "KonGCH",
@@ -103373,19 +103386,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 452
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -103816,7 +103816,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 486
     },
@@ -103829,7 +103829,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 487
     },
@@ -104003,6 +104003,19 @@
       "rank": 500
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 501
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -104013,7 +104026,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 501
+      "rank": 502
     },
     {
       "name": "KonGCH",
@@ -104023,19 +104036,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 502
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -104466,7 +104466,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 536
     },
@@ -104479,7 +104479,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 537
     },
@@ -104653,6 +104653,19 @@
       "rank": 550
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 551
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -104663,7 +104676,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 551
+      "rank": 552
     },
     {
       "name": "KonGCH",
@@ -104673,19 +104686,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 552
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -105116,7 +105116,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 586
     },
@@ -105129,7 +105129,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 587
     },
@@ -105303,6 +105303,19 @@
       "rank": 600
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 601
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -105313,7 +105326,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 601
+      "rank": 602
     },
     {
       "name": "KonGCH",
@@ -105323,19 +105336,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 602
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -105766,7 +105766,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 636
     },
@@ -105779,7 +105779,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 637
     },
@@ -105953,6 +105953,19 @@
       "rank": 650
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 651
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -105963,7 +105976,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 651
+      "rank": 652
     },
     {
       "name": "KonGCH",
@@ -105973,19 +105986,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 652
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -106416,7 +106416,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 686
     },
@@ -106429,7 +106429,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 687
     },
@@ -106603,6 +106603,19 @@
       "rank": 700
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 701
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -106613,7 +106626,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 701
+      "rank": 702
     },
     {
       "name": "KonGCH",
@@ -106623,19 +106636,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 702
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -107066,7 +107066,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 736
     },
@@ -107079,7 +107079,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 737
     },
@@ -107253,6 +107253,19 @@
       "rank": 750
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 751
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -107263,7 +107276,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 751
+      "rank": 752
     },
     {
       "name": "KonGCH",
@@ -107273,19 +107286,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 752
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -107716,7 +107716,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 786
     },
@@ -107729,7 +107729,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 787
     },
@@ -107903,6 +107903,19 @@
       "rank": 800
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 801
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -107913,7 +107926,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 801
+      "rank": 802
     },
     {
       "name": "KonGCH",
@@ -107923,19 +107936,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 802
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -108366,7 +108366,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 836
     },
@@ -108379,7 +108379,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 837
     },
@@ -108553,6 +108553,19 @@
       "rank": 850
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 851
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -108563,7 +108576,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 851
+      "rank": 852
     },
     {
       "name": "KonGCH",
@@ -108573,19 +108586,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 852
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -109016,7 +109016,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 886
     },
@@ -109029,7 +109029,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 887
     },
@@ -109203,6 +109203,19 @@
       "rank": 900
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 901
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -109213,7 +109226,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 901
+      "rank": 902
     },
     {
       "name": "KonGCH",
@@ -109223,19 +109236,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 902
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -109666,7 +109666,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 936
     },
@@ -109679,7 +109679,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 937
     },
@@ -109853,6 +109853,19 @@
       "rank": 950
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 951
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -109863,7 +109876,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 951
+      "rank": 952
     },
     {
       "name": "KonGCH",
@@ -109873,19 +109886,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 952
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -110316,7 +110316,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 986
     },
@@ -110329,7 +110329,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 987
     },
@@ -110503,6 +110503,19 @@
       "rank": 1000
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1001
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -110513,7 +110526,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1001
+      "rank": 1002
     },
     {
       "name": "KonGCH",
@@ -110523,19 +110536,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1002
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -110966,7 +110966,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1036
     },
@@ -110979,7 +110979,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1037
     },
@@ -111153,6 +111153,19 @@
       "rank": 1050
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1051
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -111163,7 +111176,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1051
+      "rank": 1052
     },
     {
       "name": "KonGCH",
@@ -111173,19 +111186,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1052
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -111616,7 +111616,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1086
     },
@@ -111629,7 +111629,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1087
     },
@@ -111803,6 +111803,19 @@
       "rank": 1100
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1101
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -111813,7 +111826,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1101
+      "rank": 1102
     },
     {
       "name": "KonGCH",
@@ -111823,19 +111836,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1102
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -112266,7 +112266,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1136
     },
@@ -112279,7 +112279,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1137
     },
@@ -112453,6 +112453,19 @@
       "rank": 1150
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1151
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -112463,7 +112476,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1151
+      "rank": 1152
     },
     {
       "name": "KonGCH",
@@ -112473,19 +112486,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1152
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -112916,7 +112916,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1186
     },
@@ -112929,7 +112929,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1187
     },
@@ -113103,6 +113103,19 @@
       "rank": 1200
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1201
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -113113,7 +113126,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1201
+      "rank": 1202
     },
     {
       "name": "KonGCH",
@@ -113123,19 +113136,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1202
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -113566,7 +113566,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1236
     },
@@ -113579,7 +113579,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1237
     },
@@ -113753,6 +113753,19 @@
       "rank": 1250
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1251
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -113763,7 +113776,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1251
+      "rank": 1252
     },
     {
       "name": "KonGCH",
@@ -113773,19 +113786,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1252
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -114216,7 +114216,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1286
     },
@@ -114229,7 +114229,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1287
     },
@@ -114403,6 +114403,19 @@
       "rank": 1300
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1301
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -114413,7 +114426,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1301
+      "rank": 1302
     },
     {
       "name": "KonGCH",
@@ -114423,19 +114436,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1302
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -114866,7 +114866,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1336
     },
@@ -114879,7 +114879,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1337
     },
@@ -115053,6 +115053,19 @@
       "rank": 1350
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1351
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -115063,7 +115076,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1351
+      "rank": 1352
     },
     {
       "name": "KonGCH",
@@ -115073,19 +115086,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1352
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -115516,7 +115516,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1386
     },
@@ -115529,7 +115529,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1387
     },
@@ -115703,6 +115703,19 @@
       "rank": 1400
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1401
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -115713,7 +115726,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1401
+      "rank": 1402
     },
     {
       "name": "KonGCH",
@@ -115723,19 +115736,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1402
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -116166,7 +116166,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1436
     },
@@ -116179,7 +116179,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1437
     },
@@ -116353,6 +116353,19 @@
       "rank": 1450
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1451
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -116363,7 +116376,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1451
+      "rank": 1452
     },
     {
       "name": "KonGCH",
@@ -116373,19 +116386,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1452
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -116816,7 +116816,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1486
     },
@@ -116829,7 +116829,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1487
     },
@@ -117003,6 +117003,19 @@
       "rank": 1500
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1501
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -117013,7 +117026,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1501
+      "rank": 1502
     },
     {
       "name": "KonGCH",
@@ -117023,19 +117036,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1502
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -117466,7 +117466,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1536
     },
@@ -117479,7 +117479,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1537
     },
@@ -117653,6 +117653,19 @@
       "rank": 1550
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1551
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -117663,7 +117676,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1551
+      "rank": 1552
     },
     {
       "name": "KonGCH",
@@ -117673,19 +117686,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1552
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -118116,7 +118116,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1586
     },
@@ -118129,7 +118129,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1587
     },
@@ -118303,6 +118303,19 @@
       "rank": 1600
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1601
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -118313,7 +118326,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1601
+      "rank": 1602
     },
     {
       "name": "KonGCH",
@@ -118323,19 +118336,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1602
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -118766,7 +118766,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1636
     },
@@ -118779,7 +118779,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1637
     },
@@ -118953,6 +118953,19 @@
       "rank": 1650
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1651
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -118963,7 +118976,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1651
+      "rank": 1652
     },
     {
       "name": "KonGCH",
@@ -118973,19 +118986,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1652
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -119416,7 +119416,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1686
     },
@@ -119429,7 +119429,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1687
     },
@@ -119603,6 +119603,19 @@
       "rank": 1700
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1701
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -119613,7 +119626,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1701
+      "rank": 1702
     },
     {
       "name": "KonGCH",
@@ -119623,19 +119636,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1702
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -120066,7 +120066,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1736
     },
@@ -120079,7 +120079,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1737
     },
@@ -120253,6 +120253,19 @@
       "rank": 1750
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1751
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -120263,7 +120276,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1751
+      "rank": 1752
     },
     {
       "name": "KonGCH",
@@ -120273,19 +120286,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1752
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -120716,7 +120716,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1786
     },
@@ -120729,7 +120729,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1787
     },
@@ -120903,6 +120903,19 @@
       "rank": 1800
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1801
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -120913,7 +120926,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1801
+      "rank": 1802
     },
     {
       "name": "KonGCH",
@@ -120923,19 +120936,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1802
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -121366,7 +121366,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1836
     },
@@ -121379,7 +121379,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1837
     },
@@ -121553,6 +121553,19 @@
       "rank": 1850
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1851
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -121563,7 +121576,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1851
+      "rank": 1852
     },
     {
       "name": "KonGCH",
@@ -121573,19 +121586,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1852
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -122016,7 +122016,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1886
     },
@@ -122029,7 +122029,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1887
     },
@@ -122203,6 +122203,19 @@
       "rank": 1900
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1901
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -122213,7 +122226,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1901
+      "rank": 1902
     },
     {
       "name": "KonGCH",
@@ -122223,19 +122236,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1902
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -122666,7 +122666,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1936
     },
@@ -122679,7 +122679,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1937
     },
@@ -122853,6 +122853,19 @@
       "rank": 1950
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 1951
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -122863,7 +122876,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 1951
+      "rank": 1952
     },
     {
       "name": "KonGCH",
@@ -122873,19 +122886,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 1952
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -123316,7 +123316,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1986
     },
@@ -123329,7 +123329,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 1987
     },
@@ -123503,6 +123503,19 @@
       "rank": 2000
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2001
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -123513,7 +123526,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2001
+      "rank": 2002
     },
     {
       "name": "KonGCH",
@@ -123523,19 +123536,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2002
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -123966,7 +123966,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2036
     },
@@ -123979,7 +123979,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2037
     },
@@ -124153,6 +124153,19 @@
       "rank": 2050
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2051
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -124163,7 +124176,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2051
+      "rank": 2052
     },
     {
       "name": "KonGCH",
@@ -124173,19 +124186,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2052
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -124616,7 +124616,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2086
     },
@@ -124629,7 +124629,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2087
     },
@@ -124803,6 +124803,19 @@
       "rank": 2100
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2101
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -124813,7 +124826,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2101
+      "rank": 2102
     },
     {
       "name": "KonGCH",
@@ -124823,19 +124836,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2102
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -125266,7 +125266,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2136
     },
@@ -125279,7 +125279,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2137
     },
@@ -125453,6 +125453,19 @@
       "rank": 2150
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2151
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -125463,7 +125476,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2151
+      "rank": 2152
     },
     {
       "name": "KonGCH",
@@ -125473,19 +125486,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2152
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -125916,7 +125916,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2186
     },
@@ -125929,7 +125929,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2187
     },
@@ -126103,6 +126103,19 @@
       "rank": 2200
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2201
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -126113,7 +126126,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2201
+      "rank": 2202
     },
     {
       "name": "KonGCH",
@@ -126123,19 +126136,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2202
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -126566,7 +126566,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2236
     },
@@ -126579,7 +126579,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2237
     },
@@ -126753,6 +126753,19 @@
       "rank": 2250
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2251
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -126763,7 +126776,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2251
+      "rank": 2252
     },
     {
       "name": "KonGCH",
@@ -126773,19 +126786,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2252
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -127216,7 +127216,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2286
     },
@@ -127229,7 +127229,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2287
     },
@@ -127403,6 +127403,19 @@
       "rank": 2300
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2301
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -127413,7 +127426,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2301
+      "rank": 2302
     },
     {
       "name": "KonGCH",
@@ -127423,19 +127436,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2302
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -127866,7 +127866,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2336
     },
@@ -127879,7 +127879,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2337
     },
@@ -128053,6 +128053,19 @@
       "rank": 2350
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2351
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -128063,7 +128076,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2351
+      "rank": 2352
     },
     {
       "name": "KonGCH",
@@ -128073,19 +128086,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2352
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -128516,7 +128516,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2386
     },
@@ -128529,7 +128529,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2387
     },
@@ -128703,6 +128703,19 @@
       "rank": 2400
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2401
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -128713,7 +128726,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2401
+      "rank": 2402
     },
     {
       "name": "KonGCH",
@@ -128723,19 +128736,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2402
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -129166,7 +129166,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2436
     },
@@ -129179,7 +129179,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2437
     },
@@ -129353,6 +129353,19 @@
       "rank": 2450
     },
     {
+      "name": "MimirsGrace",
+      "dps": 615,
+      "burst": 413,
+      "ehp": 9562,
+      "score": 1014.95,
+      "tank": "SS",
+      "hybrid": "SSS",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "shaman",
+      "rank": 2451
+    },
+    {
       "name": "HorrorsOfWar",
       "dps": 599,
       "burst": 399,
@@ -129363,7 +129376,7 @@
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
-      "rank": 2451
+      "rank": 2452
     },
     {
       "name": "KonGCH",
@@ -129373,19 +129386,6 @@
       "score": 1014.81,
       "tank": "SSS",
       "hybrid": "SS",
-      "dpst": "SSS",
-      "overall": "SSS",
-      "cls": "shaman",
-      "rank": 2452
-    },
-    {
-      "name": "MimirsGrace",
-      "dps": 615,
-      "burst": 413,
-      "ehp": 9587,
-      "score": 1014.75,
-      "tank": "SS",
-      "hybrid": "SSS",
       "dpst": "SSS",
       "overall": "SSS",
       "cls": "shaman",
@@ -129816,7 +129816,7 @@
       "tank": "A+",
       "hybrid": "SS",
       "dpst": "SS",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2486
     },
@@ -129829,7 +129829,7 @@
       "tank": "S",
       "hybrid": "S",
       "dpst": "S",
-      "overall": "SS",
+      "overall": "S",
       "cls": "shaman",
       "rank": 2487
     },
