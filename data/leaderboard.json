@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-30T12:38:47.638Z",
+  "fetchedAt": "2026-10-30T22:12:33.835Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -250,6 +250,19 @@
       "rank": 19
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 20
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -260,7 +273,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "nickeIodeon",
@@ -273,7 +286,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "tony1216",
@@ -284,19 +297,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 22
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 23
@@ -900,6 +900,19 @@
       "rank": 69
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 70
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -910,7 +923,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 70
+      "rank": 71
     },
     {
       "name": "nickeIodeon",
@@ -923,7 +936,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 71
+      "rank": 72
     },
     {
       "name": "tony1216",
@@ -934,19 +947,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 72
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 73
@@ -1550,6 +1550,19 @@
       "rank": 119
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 120
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -1560,7 +1573,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "nickeIodeon",
@@ -1573,7 +1586,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 121
+      "rank": 122
     },
     {
       "name": "tony1216",
@@ -1584,19 +1597,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 122
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 123
@@ -2200,6 +2200,19 @@
       "rank": 169
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 170
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -2210,7 +2223,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "nickeIodeon",
@@ -2223,7 +2236,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 171
+      "rank": 172
     },
     {
       "name": "tony1216",
@@ -2234,19 +2247,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 172
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 173
@@ -2850,6 +2850,19 @@
       "rank": 219
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 220
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -2860,7 +2873,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 220
+      "rank": 221
     },
     {
       "name": "nickeIodeon",
@@ -2873,7 +2886,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 221
+      "rank": 222
     },
     {
       "name": "tony1216",
@@ -2884,19 +2897,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 222
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 223
@@ -3500,6 +3500,19 @@
       "rank": 269
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 270
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -3510,7 +3523,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 270
+      "rank": 271
     },
     {
       "name": "nickeIodeon",
@@ -3523,7 +3536,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 271
+      "rank": 272
     },
     {
       "name": "tony1216",
@@ -3534,19 +3547,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 272
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 273
@@ -4150,6 +4150,19 @@
       "rank": 319
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 320
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -4160,7 +4173,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 320
+      "rank": 321
     },
     {
       "name": "nickeIodeon",
@@ -4173,7 +4186,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 321
+      "rank": 322
     },
     {
       "name": "tony1216",
@@ -4184,19 +4197,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 322
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 323
@@ -4800,6 +4800,19 @@
       "rank": 369
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 370
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -4810,7 +4823,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 370
+      "rank": 371
     },
     {
       "name": "nickeIodeon",
@@ -4823,7 +4836,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 371
+      "rank": 372
     },
     {
       "name": "tony1216",
@@ -4834,19 +4847,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 372
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 373
@@ -5450,6 +5450,19 @@
       "rank": 419
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 420
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -5460,7 +5473,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 420
+      "rank": 421
     },
     {
       "name": "nickeIodeon",
@@ -5473,7 +5486,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 421
+      "rank": 422
     },
     {
       "name": "tony1216",
@@ -5484,19 +5497,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 422
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 423
@@ -6100,6 +6100,19 @@
       "rank": 469
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 470
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -6110,7 +6123,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 470
+      "rank": 471
     },
     {
       "name": "nickeIodeon",
@@ -6123,7 +6136,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 471
+      "rank": 472
     },
     {
       "name": "tony1216",
@@ -6134,19 +6147,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 472
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 473
@@ -6750,6 +6750,19 @@
       "rank": 519
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 520
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -6760,7 +6773,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 520
+      "rank": 521
     },
     {
       "name": "nickeIodeon",
@@ -6773,7 +6786,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 521
+      "rank": 522
     },
     {
       "name": "tony1216",
@@ -6784,19 +6797,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 522
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 523
@@ -7400,6 +7400,19 @@
       "rank": 569
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 570
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -7410,7 +7423,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 570
+      "rank": 571
     },
     {
       "name": "nickeIodeon",
@@ -7423,7 +7436,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 571
+      "rank": 572
     },
     {
       "name": "tony1216",
@@ -7434,19 +7447,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 572
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 573
@@ -8050,6 +8050,19 @@
       "rank": 619
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 620
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -8060,7 +8073,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 620
+      "rank": 621
     },
     {
       "name": "nickeIodeon",
@@ -8073,7 +8086,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 621
+      "rank": 622
     },
     {
       "name": "tony1216",
@@ -8084,19 +8097,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 622
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 623
@@ -8700,6 +8700,19 @@
       "rank": 669
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 670
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -8710,7 +8723,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 670
+      "rank": 671
     },
     {
       "name": "nickeIodeon",
@@ -8723,7 +8736,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 671
+      "rank": 672
     },
     {
       "name": "tony1216",
@@ -8734,19 +8747,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 672
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 673
@@ -9350,6 +9350,19 @@
       "rank": 719
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 720
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -9360,7 +9373,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 720
+      "rank": 721
     },
     {
       "name": "nickeIodeon",
@@ -9373,7 +9386,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 721
+      "rank": 722
     },
     {
       "name": "tony1216",
@@ -9384,19 +9397,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 722
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 723
@@ -10000,6 +10000,19 @@
       "rank": 769
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 770
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -10010,7 +10023,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 770
+      "rank": 771
     },
     {
       "name": "nickeIodeon",
@@ -10023,7 +10036,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 771
+      "rank": 772
     },
     {
       "name": "tony1216",
@@ -10034,19 +10047,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 772
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 773
@@ -10650,6 +10650,19 @@
       "rank": 819
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 820
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -10660,7 +10673,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 820
+      "rank": 821
     },
     {
       "name": "nickeIodeon",
@@ -10673,7 +10686,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 821
+      "rank": 822
     },
     {
       "name": "tony1216",
@@ -10684,19 +10697,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 822
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 823
@@ -11300,6 +11300,19 @@
       "rank": 869
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 870
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -11310,7 +11323,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 870
+      "rank": 871
     },
     {
       "name": "nickeIodeon",
@@ -11323,7 +11336,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 871
+      "rank": 872
     },
     {
       "name": "tony1216",
@@ -11334,19 +11347,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 872
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 873
@@ -11950,6 +11950,19 @@
       "rank": 919
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 920
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -11960,7 +11973,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 920
+      "rank": 921
     },
     {
       "name": "nickeIodeon",
@@ -11973,7 +11986,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 921
+      "rank": 922
     },
     {
       "name": "tony1216",
@@ -11984,19 +11997,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 922
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 923
@@ -12600,6 +12600,19 @@
       "rank": 969
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 970
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -12610,7 +12623,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 970
+      "rank": 971
     },
     {
       "name": "nickeIodeon",
@@ -12623,7 +12636,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 971
+      "rank": 972
     },
     {
       "name": "tony1216",
@@ -12634,19 +12647,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 972
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 973
@@ -13250,6 +13250,19 @@
       "rank": 1019
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1020
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -13260,7 +13273,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1020
+      "rank": 1021
     },
     {
       "name": "nickeIodeon",
@@ -13273,7 +13286,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1021
+      "rank": 1022
     },
     {
       "name": "tony1216",
@@ -13284,19 +13297,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1022
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1023
@@ -13900,6 +13900,19 @@
       "rank": 1069
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1070
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -13910,7 +13923,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1070
+      "rank": 1071
     },
     {
       "name": "nickeIodeon",
@@ -13923,7 +13936,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1071
+      "rank": 1072
     },
     {
       "name": "tony1216",
@@ -13934,19 +13947,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1072
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1073
@@ -14550,6 +14550,19 @@
       "rank": 1119
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1120
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -14560,7 +14573,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1120
+      "rank": 1121
     },
     {
       "name": "nickeIodeon",
@@ -14573,7 +14586,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1121
+      "rank": 1122
     },
     {
       "name": "tony1216",
@@ -14584,19 +14597,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1122
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1123
@@ -15200,6 +15200,19 @@
       "rank": 1169
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1170
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -15210,7 +15223,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1170
+      "rank": 1171
     },
     {
       "name": "nickeIodeon",
@@ -15223,7 +15236,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1171
+      "rank": 1172
     },
     {
       "name": "tony1216",
@@ -15234,19 +15247,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1172
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1173
@@ -15850,6 +15850,19 @@
       "rank": 1219
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1220
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -15860,7 +15873,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1220
+      "rank": 1221
     },
     {
       "name": "nickeIodeon",
@@ -15873,7 +15886,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1221
+      "rank": 1222
     },
     {
       "name": "tony1216",
@@ -15884,19 +15897,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1222
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1223
@@ -16500,6 +16500,19 @@
       "rank": 1269
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1270
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -16510,7 +16523,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1270
+      "rank": 1271
     },
     {
       "name": "nickeIodeon",
@@ -16523,7 +16536,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1271
+      "rank": 1272
     },
     {
       "name": "tony1216",
@@ -16534,19 +16547,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1272
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1273
@@ -17150,6 +17150,19 @@
       "rank": 1319
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1320
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -17160,7 +17173,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1320
+      "rank": 1321
     },
     {
       "name": "nickeIodeon",
@@ -17173,7 +17186,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1321
+      "rank": 1322
     },
     {
       "name": "tony1216",
@@ -17184,19 +17197,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1322
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1323
@@ -17800,6 +17800,19 @@
       "rank": 1369
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1370
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -17810,7 +17823,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1370
+      "rank": 1371
     },
     {
       "name": "nickeIodeon",
@@ -17823,7 +17836,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1371
+      "rank": 1372
     },
     {
       "name": "tony1216",
@@ -17834,19 +17847,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1372
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1373
@@ -18450,6 +18450,19 @@
       "rank": 1419
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1420
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -18460,7 +18473,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1420
+      "rank": 1421
     },
     {
       "name": "nickeIodeon",
@@ -18473,7 +18486,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1421
+      "rank": 1422
     },
     {
       "name": "tony1216",
@@ -18484,19 +18497,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1422
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1423
@@ -19100,6 +19100,19 @@
       "rank": 1469
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1470
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -19110,7 +19123,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1470
+      "rank": 1471
     },
     {
       "name": "nickeIodeon",
@@ -19123,7 +19136,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1471
+      "rank": 1472
     },
     {
       "name": "tony1216",
@@ -19134,19 +19147,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1472
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1473
@@ -19750,6 +19750,19 @@
       "rank": 1519
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1520
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -19760,7 +19773,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1520
+      "rank": 1521
     },
     {
       "name": "nickeIodeon",
@@ -19773,7 +19786,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1521
+      "rank": 1522
     },
     {
       "name": "tony1216",
@@ -19784,19 +19797,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1522
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1523
@@ -20400,6 +20400,19 @@
       "rank": 1569
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1570
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -20410,7 +20423,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1570
+      "rank": 1571
     },
     {
       "name": "nickeIodeon",
@@ -20423,7 +20436,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1571
+      "rank": 1572
     },
     {
       "name": "tony1216",
@@ -20434,19 +20447,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1572
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1573
@@ -21050,6 +21050,19 @@
       "rank": 1619
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1620
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -21060,7 +21073,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1620
+      "rank": 1621
     },
     {
       "name": "nickeIodeon",
@@ -21073,7 +21086,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1621
+      "rank": 1622
     },
     {
       "name": "tony1216",
@@ -21084,19 +21097,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1622
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1623
@@ -21700,6 +21700,19 @@
       "rank": 1669
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1670
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -21710,7 +21723,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1670
+      "rank": 1671
     },
     {
       "name": "nickeIodeon",
@@ -21723,7 +21736,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1671
+      "rank": 1672
     },
     {
       "name": "tony1216",
@@ -21734,19 +21747,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1672
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1673
@@ -22350,6 +22350,19 @@
       "rank": 1719
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1720
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -22360,7 +22373,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1720
+      "rank": 1721
     },
     {
       "name": "nickeIodeon",
@@ -22373,7 +22386,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1721
+      "rank": 1722
     },
     {
       "name": "tony1216",
@@ -22384,19 +22397,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1722
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1723
@@ -23000,6 +23000,19 @@
       "rank": 1769
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1770
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -23010,7 +23023,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1770
+      "rank": 1771
     },
     {
       "name": "nickeIodeon",
@@ -23023,7 +23036,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1771
+      "rank": 1772
     },
     {
       "name": "tony1216",
@@ -23034,19 +23047,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1772
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1773
@@ -23650,6 +23650,19 @@
       "rank": 1819
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1820
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -23660,7 +23673,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1820
+      "rank": 1821
     },
     {
       "name": "nickeIodeon",
@@ -23673,7 +23686,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1821
+      "rank": 1822
     },
     {
       "name": "tony1216",
@@ -23684,19 +23697,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1822
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1823
@@ -24300,6 +24300,19 @@
       "rank": 1869
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1870
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -24310,7 +24323,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1870
+      "rank": 1871
     },
     {
       "name": "nickeIodeon",
@@ -24323,7 +24336,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1871
+      "rank": 1872
     },
     {
       "name": "tony1216",
@@ -24334,19 +24347,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1872
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1873
@@ -24950,6 +24950,19 @@
       "rank": 1919
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1920
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -24960,7 +24973,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1920
+      "rank": 1921
     },
     {
       "name": "nickeIodeon",
@@ -24973,7 +24986,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1921
+      "rank": 1922
     },
     {
       "name": "tony1216",
@@ -24984,19 +24997,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1922
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1923
@@ -25600,6 +25600,19 @@
       "rank": 1969
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 1970
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -25610,7 +25623,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1970
+      "rank": 1971
     },
     {
       "name": "nickeIodeon",
@@ -25623,7 +25636,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 1971
+      "rank": 1972
     },
     {
       "name": "tony1216",
@@ -25634,19 +25647,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 1972
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 1973
@@ -26250,6 +26250,19 @@
       "rank": 2019
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2020
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -26260,7 +26273,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2020
+      "rank": 2021
     },
     {
       "name": "nickeIodeon",
@@ -26273,7 +26286,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2021
+      "rank": 2022
     },
     {
       "name": "tony1216",
@@ -26284,19 +26297,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2022
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2023
@@ -26900,6 +26900,19 @@
       "rank": 2069
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2070
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -26910,7 +26923,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2070
+      "rank": 2071
     },
     {
       "name": "nickeIodeon",
@@ -26923,7 +26936,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2071
+      "rank": 2072
     },
     {
       "name": "tony1216",
@@ -26934,19 +26947,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2072
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2073
@@ -27550,6 +27550,19 @@
       "rank": 2119
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2120
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -27560,7 +27573,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2120
+      "rank": 2121
     },
     {
       "name": "nickeIodeon",
@@ -27573,7 +27586,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2121
+      "rank": 2122
     },
     {
       "name": "tony1216",
@@ -27584,19 +27597,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2122
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2123
@@ -28200,6 +28200,19 @@
       "rank": 2169
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2170
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -28210,7 +28223,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2170
+      "rank": 2171
     },
     {
       "name": "nickeIodeon",
@@ -28223,7 +28236,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2171
+      "rank": 2172
     },
     {
       "name": "tony1216",
@@ -28234,19 +28247,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2172
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2173
@@ -28850,6 +28850,19 @@
       "rank": 2219
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2220
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -28860,7 +28873,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2220
+      "rank": 2221
     },
     {
       "name": "nickeIodeon",
@@ -28873,7 +28886,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2221
+      "rank": 2222
     },
     {
       "name": "tony1216",
@@ -28884,19 +28897,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2222
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2223
@@ -29500,6 +29500,19 @@
       "rank": 2269
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2270
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -29510,7 +29523,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2270
+      "rank": 2271
     },
     {
       "name": "nickeIodeon",
@@ -29523,7 +29536,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2271
+      "rank": 2272
     },
     {
       "name": "tony1216",
@@ -29534,19 +29547,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2272
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2273
@@ -30150,6 +30150,19 @@
       "rank": 2319
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2320
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -30160,7 +30173,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2320
+      "rank": 2321
     },
     {
       "name": "nickeIodeon",
@@ -30173,7 +30186,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2321
+      "rank": 2322
     },
     {
       "name": "tony1216",
@@ -30184,19 +30197,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2322
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2323
@@ -30800,6 +30800,19 @@
       "rank": 2369
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2370
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -30810,7 +30823,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2370
+      "rank": 2371
     },
     {
       "name": "nickeIodeon",
@@ -30823,7 +30836,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2371
+      "rank": 2372
     },
     {
       "name": "tony1216",
@@ -30834,19 +30847,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2372
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2373
@@ -31450,6 +31450,19 @@
       "rank": 2419
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2420
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -31460,7 +31473,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2420
+      "rank": 2421
     },
     {
       "name": "nickeIodeon",
@@ -31473,7 +31486,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2421
+      "rank": 2422
     },
     {
       "name": "tony1216",
@@ -31484,19 +31497,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2422
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2423
@@ -32100,6 +32100,19 @@
       "rank": 2469
     },
     {
+      "name": "illaoi0901",
+      "dps": 495,
+      "burst": 382,
+      "ehp": 12605,
+      "score": 1011.58,
+      "tank": "B",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "warrior",
+      "rank": 2470
+    },
+    {
       "name": "LimitedJ",
       "dps": 479,
       "burst": 360,
@@ -32110,7 +32123,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2470
+      "rank": 2471
     },
     {
       "name": "nickeIodeon",
@@ -32123,7 +32136,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
-      "rank": 2471
+      "rank": 2472
     },
     {
       "name": "tony1216",
@@ -32134,19 +32147,6 @@
       "tank": "B",
       "hybrid": "SS",
       "dpst": "S",
-      "overall": "SS",
-      "cls": "warrior",
-      "rank": 2472
-    },
-    {
-      "name": "illaoi0901",
-      "dps": 499,
-      "burst": 373,
-      "ehp": 12522,
-      "score": 1011.23,
-      "tank": "B",
-      "hybrid": "SS",
-      "dpst": "SS",
       "overall": "SS",
       "cls": "warrior",
       "rank": 2473
