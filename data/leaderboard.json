@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-10-31T21:20:54.187Z",
+  "fetchedAt": "2026-11-01T05:40:23.696Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65367,6 +65367,19 @@
       "rank": 28
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 29
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -65377,7 +65390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "ArcherOPP",
@@ -65390,7 +65403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "Ve1iona3",
@@ -65400,19 +65413,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 31
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66017,6 +66017,19 @@
       "rank": 78
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 79
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -66027,7 +66040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 79
+      "rank": 80
     },
     {
       "name": "ArcherOPP",
@@ -66040,7 +66053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 80
+      "rank": 81
     },
     {
       "name": "Ve1iona3",
@@ -66050,19 +66063,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 81
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66667,6 +66667,19 @@
       "rank": 128
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 129
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -66677,7 +66690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 129
+      "rank": 130
     },
     {
       "name": "ArcherOPP",
@@ -66690,7 +66703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 130
+      "rank": 131
     },
     {
       "name": "Ve1iona3",
@@ -66700,19 +66713,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 131
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67317,6 +67317,19 @@
       "rank": 178
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 179
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -67327,7 +67340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 179
+      "rank": 180
     },
     {
       "name": "ArcherOPP",
@@ -67340,7 +67353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 180
+      "rank": 181
     },
     {
       "name": "Ve1iona3",
@@ -67350,19 +67363,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 181
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67967,6 +67967,19 @@
       "rank": 228
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 229
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -67977,7 +67990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "ArcherOPP",
@@ -67990,7 +68003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "Ve1iona3",
@@ -68000,19 +68013,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 231
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -68617,6 +68617,19 @@
       "rank": 278
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 279
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -68627,7 +68640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 279
+      "rank": 280
     },
     {
       "name": "ArcherOPP",
@@ -68640,7 +68653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 280
+      "rank": 281
     },
     {
       "name": "Ve1iona3",
@@ -68650,19 +68663,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 281
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69267,6 +69267,19 @@
       "rank": 328
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 329
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -69277,7 +69290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 329
+      "rank": 330
     },
     {
       "name": "ArcherOPP",
@@ -69290,7 +69303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 330
+      "rank": 331
     },
     {
       "name": "Ve1iona3",
@@ -69300,19 +69313,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 331
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69917,6 +69917,19 @@
       "rank": 378
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 379
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -69927,7 +69940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 379
+      "rank": 380
     },
     {
       "name": "ArcherOPP",
@@ -69940,7 +69953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 380
+      "rank": 381
     },
     {
       "name": "Ve1iona3",
@@ -69950,19 +69963,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 381
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -70567,6 +70567,19 @@
       "rank": 428
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 429
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -70577,7 +70590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 429
+      "rank": 430
     },
     {
       "name": "ArcherOPP",
@@ -70590,7 +70603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 430
+      "rank": 431
     },
     {
       "name": "Ve1iona3",
@@ -70600,19 +70613,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 431
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71217,6 +71217,19 @@
       "rank": 478
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 479
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -71227,7 +71240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 479
+      "rank": 480
     },
     {
       "name": "ArcherOPP",
@@ -71240,7 +71253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 480
+      "rank": 481
     },
     {
       "name": "Ve1iona3",
@@ -71250,19 +71263,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 481
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71867,6 +71867,19 @@
       "rank": 528
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 529
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -71877,7 +71890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 529
+      "rank": 530
     },
     {
       "name": "ArcherOPP",
@@ -71890,7 +71903,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 530
+      "rank": 531
     },
     {
       "name": "Ve1iona3",
@@ -71900,19 +71913,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 531
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -72517,6 +72517,19 @@
       "rank": 578
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 579
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -72527,7 +72540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 579
+      "rank": 580
     },
     {
       "name": "ArcherOPP",
@@ -72540,7 +72553,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 580
+      "rank": 581
     },
     {
       "name": "Ve1iona3",
@@ -72550,19 +72563,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 581
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73167,6 +73167,19 @@
       "rank": 628
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 629
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -73177,7 +73190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 629
+      "rank": 630
     },
     {
       "name": "ArcherOPP",
@@ -73190,7 +73203,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 630
+      "rank": 631
     },
     {
       "name": "Ve1iona3",
@@ -73200,19 +73213,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 631
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73817,6 +73817,19 @@
       "rank": 678
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 679
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -73827,7 +73840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 679
+      "rank": 680
     },
     {
       "name": "ArcherOPP",
@@ -73840,7 +73853,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 680
+      "rank": 681
     },
     {
       "name": "Ve1iona3",
@@ -73850,19 +73863,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 681
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -74467,6 +74467,19 @@
       "rank": 728
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 729
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -74477,7 +74490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 729
+      "rank": 730
     },
     {
       "name": "ArcherOPP",
@@ -74490,7 +74503,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 730
+      "rank": 731
     },
     {
       "name": "Ve1iona3",
@@ -74500,19 +74513,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 731
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75117,6 +75117,19 @@
       "rank": 778
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 779
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -75127,7 +75140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 779
+      "rank": 780
     },
     {
       "name": "ArcherOPP",
@@ -75140,7 +75153,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 780
+      "rank": 781
     },
     {
       "name": "Ve1iona3",
@@ -75150,19 +75163,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 781
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75767,6 +75767,19 @@
       "rank": 828
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 829
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -75777,7 +75790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 829
+      "rank": 830
     },
     {
       "name": "ArcherOPP",
@@ -75790,7 +75803,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 830
+      "rank": 831
     },
     {
       "name": "Ve1iona3",
@@ -75800,19 +75813,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 831
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -76417,6 +76417,19 @@
       "rank": 878
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 879
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -76427,7 +76440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 879
+      "rank": 880
     },
     {
       "name": "ArcherOPP",
@@ -76440,7 +76453,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 880
+      "rank": 881
     },
     {
       "name": "Ve1iona3",
@@ -76450,19 +76463,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 881
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77067,6 +77067,19 @@
       "rank": 928
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 929
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -77077,7 +77090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 929
+      "rank": 930
     },
     {
       "name": "ArcherOPP",
@@ -77090,7 +77103,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 930
+      "rank": 931
     },
     {
       "name": "Ve1iona3",
@@ -77100,19 +77113,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 931
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77717,6 +77717,19 @@
       "rank": 978
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 979
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -77727,7 +77740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 979
+      "rank": 980
     },
     {
       "name": "ArcherOPP",
@@ -77740,7 +77753,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 980
+      "rank": 981
     },
     {
       "name": "Ve1iona3",
@@ -77750,19 +77763,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 981
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78367,6 +78367,19 @@
       "rank": 1028
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1029
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -78377,7 +78390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1029
+      "rank": 1030
     },
     {
       "name": "ArcherOPP",
@@ -78390,7 +78403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1030
+      "rank": 1031
     },
     {
       "name": "Ve1iona3",
@@ -78400,19 +78413,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1031
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79017,6 +79017,19 @@
       "rank": 1078
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1079
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -79027,7 +79040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1079
+      "rank": 1080
     },
     {
       "name": "ArcherOPP",
@@ -79040,7 +79053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1080
+      "rank": 1081
     },
     {
       "name": "Ve1iona3",
@@ -79050,19 +79063,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1081
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79667,6 +79667,19 @@
       "rank": 1128
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1129
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -79677,7 +79690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1129
+      "rank": 1130
     },
     {
       "name": "ArcherOPP",
@@ -79690,7 +79703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1130
+      "rank": 1131
     },
     {
       "name": "Ve1iona3",
@@ -79700,19 +79713,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1131
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80317,6 +80317,19 @@
       "rank": 1178
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1179
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -80327,7 +80340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1179
+      "rank": 1180
     },
     {
       "name": "ArcherOPP",
@@ -80340,7 +80353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1180
+      "rank": 1181
     },
     {
       "name": "Ve1iona3",
@@ -80350,19 +80363,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1181
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80967,6 +80967,19 @@
       "rank": 1228
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1229
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -80977,7 +80990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1229
+      "rank": 1230
     },
     {
       "name": "ArcherOPP",
@@ -80990,7 +81003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1230
+      "rank": 1231
     },
     {
       "name": "Ve1iona3",
@@ -81000,19 +81013,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1231
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -81617,6 +81617,19 @@
       "rank": 1278
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1279
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -81627,7 +81640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1279
+      "rank": 1280
     },
     {
       "name": "ArcherOPP",
@@ -81640,7 +81653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1280
+      "rank": 1281
     },
     {
       "name": "Ve1iona3",
@@ -81650,19 +81663,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1281
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82267,6 +82267,19 @@
       "rank": 1328
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1329
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -82277,7 +82290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1329
+      "rank": 1330
     },
     {
       "name": "ArcherOPP",
@@ -82290,7 +82303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1330
+      "rank": 1331
     },
     {
       "name": "Ve1iona3",
@@ -82300,19 +82313,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1331
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82917,6 +82917,19 @@
       "rank": 1378
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1379
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -82927,7 +82940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1379
+      "rank": 1380
     },
     {
       "name": "ArcherOPP",
@@ -82940,7 +82953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1380
+      "rank": 1381
     },
     {
       "name": "Ve1iona3",
@@ -82950,19 +82963,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1381
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -83567,6 +83567,19 @@
       "rank": 1428
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1429
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -83577,7 +83590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1429
+      "rank": 1430
     },
     {
       "name": "ArcherOPP",
@@ -83590,7 +83603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1430
+      "rank": 1431
     },
     {
       "name": "Ve1iona3",
@@ -83600,19 +83613,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1431
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84217,6 +84217,19 @@
       "rank": 1478
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1479
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -84227,7 +84240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1479
+      "rank": 1480
     },
     {
       "name": "ArcherOPP",
@@ -84240,7 +84253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1480
+      "rank": 1481
     },
     {
       "name": "Ve1iona3",
@@ -84250,19 +84263,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1481
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84867,6 +84867,19 @@
       "rank": 1528
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1529
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -84877,7 +84890,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1529
+      "rank": 1530
     },
     {
       "name": "ArcherOPP",
@@ -84890,7 +84903,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1530
+      "rank": 1531
     },
     {
       "name": "Ve1iona3",
@@ -84900,19 +84913,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1531
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -85517,6 +85517,19 @@
       "rank": 1578
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1579
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -85527,7 +85540,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1579
+      "rank": 1580
     },
     {
       "name": "ArcherOPP",
@@ -85540,7 +85553,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1580
+      "rank": 1581
     },
     {
       "name": "Ve1iona3",
@@ -85550,19 +85563,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1581
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86167,6 +86167,19 @@
       "rank": 1628
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1629
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -86177,7 +86190,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1629
+      "rank": 1630
     },
     {
       "name": "ArcherOPP",
@@ -86190,7 +86203,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1630
+      "rank": 1631
     },
     {
       "name": "Ve1iona3",
@@ -86200,19 +86213,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1631
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86817,6 +86817,19 @@
       "rank": 1678
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1679
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -86827,7 +86840,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1679
+      "rank": 1680
     },
     {
       "name": "ArcherOPP",
@@ -86840,7 +86853,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1680
+      "rank": 1681
     },
     {
       "name": "Ve1iona3",
@@ -86850,19 +86863,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1681
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -87467,6 +87467,19 @@
       "rank": 1728
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1729
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -87477,7 +87490,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1729
+      "rank": 1730
     },
     {
       "name": "ArcherOPP",
@@ -87490,7 +87503,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1730
+      "rank": 1731
     },
     {
       "name": "Ve1iona3",
@@ -87500,19 +87513,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1731
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88117,6 +88117,19 @@
       "rank": 1778
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1779
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -88127,7 +88140,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1779
+      "rank": 1780
     },
     {
       "name": "ArcherOPP",
@@ -88140,7 +88153,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1780
+      "rank": 1781
     },
     {
       "name": "Ve1iona3",
@@ -88150,19 +88163,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1781
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88767,6 +88767,19 @@
       "rank": 1828
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1829
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -88777,7 +88790,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1829
+      "rank": 1830
     },
     {
       "name": "ArcherOPP",
@@ -88790,7 +88803,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1830
+      "rank": 1831
     },
     {
       "name": "Ve1iona3",
@@ -88800,19 +88813,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1831
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -89417,6 +89417,19 @@
       "rank": 1878
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1879
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -89427,7 +89440,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1879
+      "rank": 1880
     },
     {
       "name": "ArcherOPP",
@@ -89440,7 +89453,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1880
+      "rank": 1881
     },
     {
       "name": "Ve1iona3",
@@ -89450,19 +89463,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1881
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90067,6 +90067,19 @@
       "rank": 1928
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1929
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -90077,7 +90090,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1929
+      "rank": 1930
     },
     {
       "name": "ArcherOPP",
@@ -90090,7 +90103,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1930
+      "rank": 1931
     },
     {
       "name": "Ve1iona3",
@@ -90100,19 +90113,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1931
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90717,6 +90717,19 @@
       "rank": 1978
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1979
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -90727,7 +90740,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1979
+      "rank": 1980
     },
     {
       "name": "ArcherOPP",
@@ -90740,7 +90753,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 1980
+      "rank": 1981
     },
     {
       "name": "Ve1iona3",
@@ -90750,19 +90763,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1981
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91367,6 +91367,19 @@
       "rank": 2028
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2029
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -91377,7 +91390,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2029
+      "rank": 2030
     },
     {
       "name": "ArcherOPP",
@@ -91390,7 +91403,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2030
+      "rank": 2031
     },
     {
       "name": "Ve1iona3",
@@ -91400,19 +91413,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2031
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92017,6 +92017,19 @@
       "rank": 2078
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2079
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -92027,7 +92040,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2079
+      "rank": 2080
     },
     {
       "name": "ArcherOPP",
@@ -92040,7 +92053,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2080
+      "rank": 2081
     },
     {
       "name": "Ve1iona3",
@@ -92050,19 +92063,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2081
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92667,6 +92667,19 @@
       "rank": 2128
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2129
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -92677,7 +92690,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2129
+      "rank": 2130
     },
     {
       "name": "ArcherOPP",
@@ -92690,7 +92703,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2130
+      "rank": 2131
     },
     {
       "name": "Ve1iona3",
@@ -92700,19 +92713,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2131
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93317,6 +93317,19 @@
       "rank": 2178
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2179
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -93327,7 +93340,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2179
+      "rank": 2180
     },
     {
       "name": "ArcherOPP",
@@ -93340,7 +93353,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2180
+      "rank": 2181
     },
     {
       "name": "Ve1iona3",
@@ -93350,19 +93363,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2181
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93967,6 +93967,19 @@
       "rank": 2228
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2229
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -93977,7 +93990,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2229
+      "rank": 2230
     },
     {
       "name": "ArcherOPP",
@@ -93990,7 +94003,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2230
+      "rank": 2231
     },
     {
       "name": "Ve1iona3",
@@ -94000,19 +94013,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2231
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -94617,6 +94617,19 @@
       "rank": 2278
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2279
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -94627,7 +94640,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2279
+      "rank": 2280
     },
     {
       "name": "ArcherOPP",
@@ -94640,7 +94653,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2280
+      "rank": 2281
     },
     {
       "name": "Ve1iona3",
@@ -94650,19 +94663,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2281
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95267,6 +95267,19 @@
       "rank": 2328
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2329
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -95277,7 +95290,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2329
+      "rank": 2330
     },
     {
       "name": "ArcherOPP",
@@ -95290,7 +95303,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2330
+      "rank": 2331
     },
     {
       "name": "Ve1iona3",
@@ -95300,19 +95313,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2331
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95917,6 +95917,19 @@
       "rank": 2378
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2379
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -95927,7 +95940,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2379
+      "rank": 2380
     },
     {
       "name": "ArcherOPP",
@@ -95940,7 +95953,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2380
+      "rank": 2381
     },
     {
       "name": "Ve1iona3",
@@ -95950,19 +95963,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2381
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -96567,6 +96567,19 @@
       "rank": 2428
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2429
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -96577,7 +96590,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2429
+      "rank": 2430
     },
     {
       "name": "ArcherOPP",
@@ -96590,7 +96603,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2430
+      "rank": 2431
     },
     {
       "name": "Ve1iona3",
@@ -96600,19 +96613,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2431
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -97217,6 +97217,19 @@
       "rank": 2478
     },
     {
+      "name": "AUseLessArcher",
+      "dps": 605,
+      "burst": 503,
+      "ehp": 8834,
+      "score": 1009.47,
+      "tank": "S",
+      "hybrid": "SSS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2479
+    },
+    {
       "name": "Kanemi",
       "dps": 631,
       "burst": 488,
@@ -97227,7 +97240,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2479
+      "rank": 2480
     },
     {
       "name": "ArcherOPP",
@@ -97240,7 +97253,7 @@
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
-      "rank": 2480
+      "rank": 2481
     },
     {
       "name": "Ve1iona3",
@@ -97250,19 +97263,6 @@
       "score": 1009.27,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2481
-    },
-    {
-      "name": "AUseLessArcher",
-      "dps": 612,
-      "burst": 492,
-      "ehp": 8873,
-      "score": 1009.24,
-      "tank": "S",
-      "hybrid": "SSS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
