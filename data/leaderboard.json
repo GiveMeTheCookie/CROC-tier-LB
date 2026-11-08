@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-11-08T13:10:19.010Z",
+  "fetchedAt": "2026-11-08T21:57:54.502Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -32516,6 +32516,19 @@
       "rank": 1
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -32523,10 +32536,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "shuoqian2008",
@@ -32539,7 +32552,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Arkaaa",
@@ -32552,7 +32565,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "Velin",
@@ -32565,7 +32578,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "jumpstyl3",
@@ -32578,7 +32591,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "ChillingK",
@@ -32591,7 +32604,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "shutiao",
@@ -32604,7 +32617,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "badabomchik",
@@ -32615,20 +32628,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 9
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 10
     },
@@ -32641,7 +32641,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 11
     },
@@ -33166,6 +33166,19 @@
       "rank": 51
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 52
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -33173,10 +33186,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "shuoqian2008",
@@ -33189,7 +33202,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 53
+      "rank": 54
     },
     {
       "name": "Arkaaa",
@@ -33202,7 +33215,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Velin",
@@ -33215,7 +33228,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 55
+      "rank": 56
     },
     {
       "name": "jumpstyl3",
@@ -33228,7 +33241,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 56
+      "rank": 57
     },
     {
       "name": "ChillingK",
@@ -33241,7 +33254,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 57
+      "rank": 58
     },
     {
       "name": "shutiao",
@@ -33254,7 +33267,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "badabomchik",
@@ -33265,20 +33278,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 59
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 60
     },
@@ -33291,7 +33291,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 61
     },
@@ -33816,6 +33816,19 @@
       "rank": 101
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 102
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -33823,10 +33836,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 102
+      "rank": 103
     },
     {
       "name": "shuoqian2008",
@@ -33839,7 +33852,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 103
+      "rank": 104
     },
     {
       "name": "Arkaaa",
@@ -33852,7 +33865,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 104
+      "rank": 105
     },
     {
       "name": "Velin",
@@ -33865,7 +33878,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 105
+      "rank": 106
     },
     {
       "name": "jumpstyl3",
@@ -33878,7 +33891,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 106
+      "rank": 107
     },
     {
       "name": "ChillingK",
@@ -33891,7 +33904,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 107
+      "rank": 108
     },
     {
       "name": "shutiao",
@@ -33904,7 +33917,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 108
+      "rank": 109
     },
     {
       "name": "badabomchik",
@@ -33915,20 +33928,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 109
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 110
     },
@@ -33941,7 +33941,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 111
     },
@@ -34466,6 +34466,19 @@
       "rank": 151
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 152
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -34473,10 +34486,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 152
+      "rank": 153
     },
     {
       "name": "shuoqian2008",
@@ -34489,7 +34502,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 153
+      "rank": 154
     },
     {
       "name": "Arkaaa",
@@ -34502,7 +34515,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 154
+      "rank": 155
     },
     {
       "name": "Velin",
@@ -34515,7 +34528,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 155
+      "rank": 156
     },
     {
       "name": "jumpstyl3",
@@ -34528,7 +34541,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 156
+      "rank": 157
     },
     {
       "name": "ChillingK",
@@ -34541,7 +34554,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 157
+      "rank": 158
     },
     {
       "name": "shutiao",
@@ -34554,7 +34567,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 158
+      "rank": 159
     },
     {
       "name": "badabomchik",
@@ -34565,20 +34578,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 159
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 160
     },
@@ -34591,7 +34591,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 161
     },
@@ -35116,6 +35116,19 @@
       "rank": 201
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 202
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -35123,10 +35136,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 202
+      "rank": 203
     },
     {
       "name": "shuoqian2008",
@@ -35139,7 +35152,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 203
+      "rank": 204
     },
     {
       "name": "Arkaaa",
@@ -35152,7 +35165,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 204
+      "rank": 205
     },
     {
       "name": "Velin",
@@ -35165,7 +35178,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 205
+      "rank": 206
     },
     {
       "name": "jumpstyl3",
@@ -35178,7 +35191,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 206
+      "rank": 207
     },
     {
       "name": "ChillingK",
@@ -35191,7 +35204,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 207
+      "rank": 208
     },
     {
       "name": "shutiao",
@@ -35204,7 +35217,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 208
+      "rank": 209
     },
     {
       "name": "badabomchik",
@@ -35215,20 +35228,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 209
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 210
     },
@@ -35241,7 +35241,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 211
     },
@@ -35766,6 +35766,19 @@
       "rank": 251
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 252
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -35773,10 +35786,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 252
+      "rank": 253
     },
     {
       "name": "shuoqian2008",
@@ -35789,7 +35802,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 253
+      "rank": 254
     },
     {
       "name": "Arkaaa",
@@ -35802,7 +35815,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 254
+      "rank": 255
     },
     {
       "name": "Velin",
@@ -35815,7 +35828,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 255
+      "rank": 256
     },
     {
       "name": "jumpstyl3",
@@ -35828,7 +35841,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 256
+      "rank": 257
     },
     {
       "name": "ChillingK",
@@ -35841,7 +35854,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 257
+      "rank": 258
     },
     {
       "name": "shutiao",
@@ -35854,7 +35867,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 258
+      "rank": 259
     },
     {
       "name": "badabomchik",
@@ -35865,20 +35878,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 259
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 260
     },
@@ -35891,7 +35891,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 261
     },
@@ -36416,6 +36416,19 @@
       "rank": 301
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 302
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -36423,10 +36436,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 302
+      "rank": 303
     },
     {
       "name": "shuoqian2008",
@@ -36439,7 +36452,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 303
+      "rank": 304
     },
     {
       "name": "Arkaaa",
@@ -36452,7 +36465,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 304
+      "rank": 305
     },
     {
       "name": "Velin",
@@ -36465,7 +36478,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 305
+      "rank": 306
     },
     {
       "name": "jumpstyl3",
@@ -36478,7 +36491,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 306
+      "rank": 307
     },
     {
       "name": "ChillingK",
@@ -36491,7 +36504,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 307
+      "rank": 308
     },
     {
       "name": "shutiao",
@@ -36504,7 +36517,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 308
+      "rank": 309
     },
     {
       "name": "badabomchik",
@@ -36515,20 +36528,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 309
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 310
     },
@@ -36541,7 +36541,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 311
     },
@@ -37066,6 +37066,19 @@
       "rank": 351
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 352
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -37073,10 +37086,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 352
+      "rank": 353
     },
     {
       "name": "shuoqian2008",
@@ -37089,7 +37102,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 353
+      "rank": 354
     },
     {
       "name": "Arkaaa",
@@ -37102,7 +37115,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 354
+      "rank": 355
     },
     {
       "name": "Velin",
@@ -37115,7 +37128,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 355
+      "rank": 356
     },
     {
       "name": "jumpstyl3",
@@ -37128,7 +37141,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 356
+      "rank": 357
     },
     {
       "name": "ChillingK",
@@ -37141,7 +37154,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 357
+      "rank": 358
     },
     {
       "name": "shutiao",
@@ -37154,7 +37167,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 358
+      "rank": 359
     },
     {
       "name": "badabomchik",
@@ -37165,20 +37178,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 359
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 360
     },
@@ -37191,7 +37191,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 361
     },
@@ -37716,6 +37716,19 @@
       "rank": 401
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 402
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -37723,10 +37736,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 402
+      "rank": 403
     },
     {
       "name": "shuoqian2008",
@@ -37739,7 +37752,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 403
+      "rank": 404
     },
     {
       "name": "Arkaaa",
@@ -37752,7 +37765,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 404
+      "rank": 405
     },
     {
       "name": "Velin",
@@ -37765,7 +37778,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 405
+      "rank": 406
     },
     {
       "name": "jumpstyl3",
@@ -37778,7 +37791,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 406
+      "rank": 407
     },
     {
       "name": "ChillingK",
@@ -37791,7 +37804,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 407
+      "rank": 408
     },
     {
       "name": "shutiao",
@@ -37804,7 +37817,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 408
+      "rank": 409
     },
     {
       "name": "badabomchik",
@@ -37815,20 +37828,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 409
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 410
     },
@@ -37841,7 +37841,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 411
     },
@@ -38366,6 +38366,19 @@
       "rank": 451
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 452
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -38373,10 +38386,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 452
+      "rank": 453
     },
     {
       "name": "shuoqian2008",
@@ -38389,7 +38402,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 453
+      "rank": 454
     },
     {
       "name": "Arkaaa",
@@ -38402,7 +38415,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 454
+      "rank": 455
     },
     {
       "name": "Velin",
@@ -38415,7 +38428,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 455
+      "rank": 456
     },
     {
       "name": "jumpstyl3",
@@ -38428,7 +38441,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 456
+      "rank": 457
     },
     {
       "name": "ChillingK",
@@ -38441,7 +38454,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 457
+      "rank": 458
     },
     {
       "name": "shutiao",
@@ -38454,7 +38467,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 458
+      "rank": 459
     },
     {
       "name": "badabomchik",
@@ -38465,20 +38478,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 459
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 460
     },
@@ -38491,7 +38491,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 461
     },
@@ -39016,6 +39016,19 @@
       "rank": 501
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 502
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -39023,10 +39036,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 502
+      "rank": 503
     },
     {
       "name": "shuoqian2008",
@@ -39039,7 +39052,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 503
+      "rank": 504
     },
     {
       "name": "Arkaaa",
@@ -39052,7 +39065,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 504
+      "rank": 505
     },
     {
       "name": "Velin",
@@ -39065,7 +39078,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 505
+      "rank": 506
     },
     {
       "name": "jumpstyl3",
@@ -39078,7 +39091,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 506
+      "rank": 507
     },
     {
       "name": "ChillingK",
@@ -39091,7 +39104,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 507
+      "rank": 508
     },
     {
       "name": "shutiao",
@@ -39104,7 +39117,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 508
+      "rank": 509
     },
     {
       "name": "badabomchik",
@@ -39115,20 +39128,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 509
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 510
     },
@@ -39141,7 +39141,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 511
     },
@@ -39666,6 +39666,19 @@
       "rank": 551
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 552
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -39673,10 +39686,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 552
+      "rank": 553
     },
     {
       "name": "shuoqian2008",
@@ -39689,7 +39702,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 553
+      "rank": 554
     },
     {
       "name": "Arkaaa",
@@ -39702,7 +39715,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 554
+      "rank": 555
     },
     {
       "name": "Velin",
@@ -39715,7 +39728,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 555
+      "rank": 556
     },
     {
       "name": "jumpstyl3",
@@ -39728,7 +39741,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 556
+      "rank": 557
     },
     {
       "name": "ChillingK",
@@ -39741,7 +39754,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 557
+      "rank": 558
     },
     {
       "name": "shutiao",
@@ -39754,7 +39767,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 558
+      "rank": 559
     },
     {
       "name": "badabomchik",
@@ -39765,20 +39778,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 559
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 560
     },
@@ -39791,7 +39791,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 561
     },
@@ -40316,6 +40316,19 @@
       "rank": 601
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 602
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -40323,10 +40336,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 602
+      "rank": 603
     },
     {
       "name": "shuoqian2008",
@@ -40339,7 +40352,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 603
+      "rank": 604
     },
     {
       "name": "Arkaaa",
@@ -40352,7 +40365,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 604
+      "rank": 605
     },
     {
       "name": "Velin",
@@ -40365,7 +40378,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 605
+      "rank": 606
     },
     {
       "name": "jumpstyl3",
@@ -40378,7 +40391,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 606
+      "rank": 607
     },
     {
       "name": "ChillingK",
@@ -40391,7 +40404,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 607
+      "rank": 608
     },
     {
       "name": "shutiao",
@@ -40404,7 +40417,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 608
+      "rank": 609
     },
     {
       "name": "badabomchik",
@@ -40415,20 +40428,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 609
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 610
     },
@@ -40441,7 +40441,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 611
     },
@@ -40966,6 +40966,19 @@
       "rank": 651
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 652
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -40973,10 +40986,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 652
+      "rank": 653
     },
     {
       "name": "shuoqian2008",
@@ -40989,7 +41002,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 653
+      "rank": 654
     },
     {
       "name": "Arkaaa",
@@ -41002,7 +41015,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 654
+      "rank": 655
     },
     {
       "name": "Velin",
@@ -41015,7 +41028,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 655
+      "rank": 656
     },
     {
       "name": "jumpstyl3",
@@ -41028,7 +41041,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 656
+      "rank": 657
     },
     {
       "name": "ChillingK",
@@ -41041,7 +41054,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 657
+      "rank": 658
     },
     {
       "name": "shutiao",
@@ -41054,7 +41067,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 658
+      "rank": 659
     },
     {
       "name": "badabomchik",
@@ -41065,20 +41078,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 659
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 660
     },
@@ -41091,7 +41091,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 661
     },
@@ -41616,6 +41616,19 @@
       "rank": 701
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 702
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -41623,10 +41636,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 702
+      "rank": 703
     },
     {
       "name": "shuoqian2008",
@@ -41639,7 +41652,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 703
+      "rank": 704
     },
     {
       "name": "Arkaaa",
@@ -41652,7 +41665,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 704
+      "rank": 705
     },
     {
       "name": "Velin",
@@ -41665,7 +41678,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 705
+      "rank": 706
     },
     {
       "name": "jumpstyl3",
@@ -41678,7 +41691,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 706
+      "rank": 707
     },
     {
       "name": "ChillingK",
@@ -41691,7 +41704,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 707
+      "rank": 708
     },
     {
       "name": "shutiao",
@@ -41704,7 +41717,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 708
+      "rank": 709
     },
     {
       "name": "badabomchik",
@@ -41715,20 +41728,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 709
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 710
     },
@@ -41741,7 +41741,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 711
     },
@@ -42266,6 +42266,19 @@
       "rank": 751
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 752
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -42273,10 +42286,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 752
+      "rank": 753
     },
     {
       "name": "shuoqian2008",
@@ -42289,7 +42302,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 753
+      "rank": 754
     },
     {
       "name": "Arkaaa",
@@ -42302,7 +42315,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 754
+      "rank": 755
     },
     {
       "name": "Velin",
@@ -42315,7 +42328,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 755
+      "rank": 756
     },
     {
       "name": "jumpstyl3",
@@ -42328,7 +42341,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 756
+      "rank": 757
     },
     {
       "name": "ChillingK",
@@ -42341,7 +42354,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 757
+      "rank": 758
     },
     {
       "name": "shutiao",
@@ -42354,7 +42367,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 758
+      "rank": 759
     },
     {
       "name": "badabomchik",
@@ -42365,20 +42378,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 759
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 760
     },
@@ -42391,7 +42391,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 761
     },
@@ -42916,6 +42916,19 @@
       "rank": 801
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 802
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -42923,10 +42936,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 802
+      "rank": 803
     },
     {
       "name": "shuoqian2008",
@@ -42939,7 +42952,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 803
+      "rank": 804
     },
     {
       "name": "Arkaaa",
@@ -42952,7 +42965,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 804
+      "rank": 805
     },
     {
       "name": "Velin",
@@ -42965,7 +42978,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 805
+      "rank": 806
     },
     {
       "name": "jumpstyl3",
@@ -42978,7 +42991,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 806
+      "rank": 807
     },
     {
       "name": "ChillingK",
@@ -42991,7 +43004,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 807
+      "rank": 808
     },
     {
       "name": "shutiao",
@@ -43004,7 +43017,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 808
+      "rank": 809
     },
     {
       "name": "badabomchik",
@@ -43015,20 +43028,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 809
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 810
     },
@@ -43041,7 +43041,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 811
     },
@@ -43566,6 +43566,19 @@
       "rank": 851
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 852
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -43573,10 +43586,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 852
+      "rank": 853
     },
     {
       "name": "shuoqian2008",
@@ -43589,7 +43602,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 853
+      "rank": 854
     },
     {
       "name": "Arkaaa",
@@ -43602,7 +43615,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 854
+      "rank": 855
     },
     {
       "name": "Velin",
@@ -43615,7 +43628,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 855
+      "rank": 856
     },
     {
       "name": "jumpstyl3",
@@ -43628,7 +43641,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 856
+      "rank": 857
     },
     {
       "name": "ChillingK",
@@ -43641,7 +43654,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 857
+      "rank": 858
     },
     {
       "name": "shutiao",
@@ -43654,7 +43667,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 858
+      "rank": 859
     },
     {
       "name": "badabomchik",
@@ -43665,20 +43678,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 859
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 860
     },
@@ -43691,7 +43691,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 861
     },
@@ -44216,6 +44216,19 @@
       "rank": 901
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 902
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -44223,10 +44236,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 902
+      "rank": 903
     },
     {
       "name": "shuoqian2008",
@@ -44239,7 +44252,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 903
+      "rank": 904
     },
     {
       "name": "Arkaaa",
@@ -44252,7 +44265,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 904
+      "rank": 905
     },
     {
       "name": "Velin",
@@ -44265,7 +44278,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 905
+      "rank": 906
     },
     {
       "name": "jumpstyl3",
@@ -44278,7 +44291,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 906
+      "rank": 907
     },
     {
       "name": "ChillingK",
@@ -44291,7 +44304,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 907
+      "rank": 908
     },
     {
       "name": "shutiao",
@@ -44304,7 +44317,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 908
+      "rank": 909
     },
     {
       "name": "badabomchik",
@@ -44315,20 +44328,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 909
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 910
     },
@@ -44341,7 +44341,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 911
     },
@@ -44866,6 +44866,19 @@
       "rank": 951
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 952
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -44873,10 +44886,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 952
+      "rank": 953
     },
     {
       "name": "shuoqian2008",
@@ -44889,7 +44902,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 953
+      "rank": 954
     },
     {
       "name": "Arkaaa",
@@ -44902,7 +44915,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 954
+      "rank": 955
     },
     {
       "name": "Velin",
@@ -44915,7 +44928,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 955
+      "rank": 956
     },
     {
       "name": "jumpstyl3",
@@ -44928,7 +44941,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 956
+      "rank": 957
     },
     {
       "name": "ChillingK",
@@ -44941,7 +44954,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 957
+      "rank": 958
     },
     {
       "name": "shutiao",
@@ -44954,7 +44967,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 958
+      "rank": 959
     },
     {
       "name": "badabomchik",
@@ -44965,20 +44978,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 959
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 960
     },
@@ -44991,7 +44991,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 961
     },
@@ -45516,6 +45516,19 @@
       "rank": 1001
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1002
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -45523,10 +45536,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1002
+      "rank": 1003
     },
     {
       "name": "shuoqian2008",
@@ -45539,7 +45552,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1003
+      "rank": 1004
     },
     {
       "name": "Arkaaa",
@@ -45552,7 +45565,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1004
+      "rank": 1005
     },
     {
       "name": "Velin",
@@ -45565,7 +45578,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1005
+      "rank": 1006
     },
     {
       "name": "jumpstyl3",
@@ -45578,7 +45591,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1006
+      "rank": 1007
     },
     {
       "name": "ChillingK",
@@ -45591,7 +45604,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1007
+      "rank": 1008
     },
     {
       "name": "shutiao",
@@ -45604,7 +45617,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1008
+      "rank": 1009
     },
     {
       "name": "badabomchik",
@@ -45615,20 +45628,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1009
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1010
     },
@@ -45641,7 +45641,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1011
     },
@@ -46166,6 +46166,19 @@
       "rank": 1051
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1052
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -46173,10 +46186,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1052
+      "rank": 1053
     },
     {
       "name": "shuoqian2008",
@@ -46189,7 +46202,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1053
+      "rank": 1054
     },
     {
       "name": "Arkaaa",
@@ -46202,7 +46215,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1054
+      "rank": 1055
     },
     {
       "name": "Velin",
@@ -46215,7 +46228,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1055
+      "rank": 1056
     },
     {
       "name": "jumpstyl3",
@@ -46228,7 +46241,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1056
+      "rank": 1057
     },
     {
       "name": "ChillingK",
@@ -46241,7 +46254,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1057
+      "rank": 1058
     },
     {
       "name": "shutiao",
@@ -46254,7 +46267,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1058
+      "rank": 1059
     },
     {
       "name": "badabomchik",
@@ -46265,20 +46278,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1059
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1060
     },
@@ -46291,7 +46291,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1061
     },
@@ -46816,6 +46816,19 @@
       "rank": 1101
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1102
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -46823,10 +46836,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1102
+      "rank": 1103
     },
     {
       "name": "shuoqian2008",
@@ -46839,7 +46852,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1103
+      "rank": 1104
     },
     {
       "name": "Arkaaa",
@@ -46852,7 +46865,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1104
+      "rank": 1105
     },
     {
       "name": "Velin",
@@ -46865,7 +46878,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1105
+      "rank": 1106
     },
     {
       "name": "jumpstyl3",
@@ -46878,7 +46891,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1106
+      "rank": 1107
     },
     {
       "name": "ChillingK",
@@ -46891,7 +46904,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1107
+      "rank": 1108
     },
     {
       "name": "shutiao",
@@ -46904,7 +46917,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1108
+      "rank": 1109
     },
     {
       "name": "badabomchik",
@@ -46915,20 +46928,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1109
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1110
     },
@@ -46941,7 +46941,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1111
     },
@@ -47466,6 +47466,19 @@
       "rank": 1151
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1152
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -47473,10 +47486,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1152
+      "rank": 1153
     },
     {
       "name": "shuoqian2008",
@@ -47489,7 +47502,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1153
+      "rank": 1154
     },
     {
       "name": "Arkaaa",
@@ -47502,7 +47515,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1154
+      "rank": 1155
     },
     {
       "name": "Velin",
@@ -47515,7 +47528,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1155
+      "rank": 1156
     },
     {
       "name": "jumpstyl3",
@@ -47528,7 +47541,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1156
+      "rank": 1157
     },
     {
       "name": "ChillingK",
@@ -47541,7 +47554,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1157
+      "rank": 1158
     },
     {
       "name": "shutiao",
@@ -47554,7 +47567,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1158
+      "rank": 1159
     },
     {
       "name": "badabomchik",
@@ -47565,20 +47578,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1159
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1160
     },
@@ -47591,7 +47591,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1161
     },
@@ -48116,6 +48116,19 @@
       "rank": 1201
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1202
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -48123,10 +48136,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1202
+      "rank": 1203
     },
     {
       "name": "shuoqian2008",
@@ -48139,7 +48152,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1203
+      "rank": 1204
     },
     {
       "name": "Arkaaa",
@@ -48152,7 +48165,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1204
+      "rank": 1205
     },
     {
       "name": "Velin",
@@ -48165,7 +48178,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1205
+      "rank": 1206
     },
     {
       "name": "jumpstyl3",
@@ -48178,7 +48191,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1206
+      "rank": 1207
     },
     {
       "name": "ChillingK",
@@ -48191,7 +48204,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1207
+      "rank": 1208
     },
     {
       "name": "shutiao",
@@ -48204,7 +48217,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1208
+      "rank": 1209
     },
     {
       "name": "badabomchik",
@@ -48215,20 +48228,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1209
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1210
     },
@@ -48241,7 +48241,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1211
     },
@@ -48766,6 +48766,19 @@
       "rank": 1251
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1252
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -48773,10 +48786,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1252
+      "rank": 1253
     },
     {
       "name": "shuoqian2008",
@@ -48789,7 +48802,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1253
+      "rank": 1254
     },
     {
       "name": "Arkaaa",
@@ -48802,7 +48815,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1254
+      "rank": 1255
     },
     {
       "name": "Velin",
@@ -48815,7 +48828,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1255
+      "rank": 1256
     },
     {
       "name": "jumpstyl3",
@@ -48828,7 +48841,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1256
+      "rank": 1257
     },
     {
       "name": "ChillingK",
@@ -48841,7 +48854,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1257
+      "rank": 1258
     },
     {
       "name": "shutiao",
@@ -48854,7 +48867,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1258
+      "rank": 1259
     },
     {
       "name": "badabomchik",
@@ -48865,20 +48878,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1259
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1260
     },
@@ -48891,7 +48891,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1261
     },
@@ -49416,6 +49416,19 @@
       "rank": 1301
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1302
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -49423,10 +49436,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1302
+      "rank": 1303
     },
     {
       "name": "shuoqian2008",
@@ -49439,7 +49452,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1303
+      "rank": 1304
     },
     {
       "name": "Arkaaa",
@@ -49452,7 +49465,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1304
+      "rank": 1305
     },
     {
       "name": "Velin",
@@ -49465,7 +49478,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1305
+      "rank": 1306
     },
     {
       "name": "jumpstyl3",
@@ -49478,7 +49491,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1306
+      "rank": 1307
     },
     {
       "name": "ChillingK",
@@ -49491,7 +49504,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1307
+      "rank": 1308
     },
     {
       "name": "shutiao",
@@ -49504,7 +49517,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1308
+      "rank": 1309
     },
     {
       "name": "badabomchik",
@@ -49515,20 +49528,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1309
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1310
     },
@@ -49541,7 +49541,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1311
     },
@@ -50066,6 +50066,19 @@
       "rank": 1351
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1352
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -50073,10 +50086,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1352
+      "rank": 1353
     },
     {
       "name": "shuoqian2008",
@@ -50089,7 +50102,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1353
+      "rank": 1354
     },
     {
       "name": "Arkaaa",
@@ -50102,7 +50115,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1354
+      "rank": 1355
     },
     {
       "name": "Velin",
@@ -50115,7 +50128,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1355
+      "rank": 1356
     },
     {
       "name": "jumpstyl3",
@@ -50128,7 +50141,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1356
+      "rank": 1357
     },
     {
       "name": "ChillingK",
@@ -50141,7 +50154,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1357
+      "rank": 1358
     },
     {
       "name": "shutiao",
@@ -50154,7 +50167,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1358
+      "rank": 1359
     },
     {
       "name": "badabomchik",
@@ -50165,20 +50178,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1359
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1360
     },
@@ -50191,7 +50191,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1361
     },
@@ -50716,6 +50716,19 @@
       "rank": 1401
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1402
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -50723,10 +50736,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1402
+      "rank": 1403
     },
     {
       "name": "shuoqian2008",
@@ -50739,7 +50752,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1403
+      "rank": 1404
     },
     {
       "name": "Arkaaa",
@@ -50752,7 +50765,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1404
+      "rank": 1405
     },
     {
       "name": "Velin",
@@ -50765,7 +50778,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1405
+      "rank": 1406
     },
     {
       "name": "jumpstyl3",
@@ -50778,7 +50791,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1406
+      "rank": 1407
     },
     {
       "name": "ChillingK",
@@ -50791,7 +50804,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1407
+      "rank": 1408
     },
     {
       "name": "shutiao",
@@ -50804,7 +50817,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1408
+      "rank": 1409
     },
     {
       "name": "badabomchik",
@@ -50815,20 +50828,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1409
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1410
     },
@@ -50841,7 +50841,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1411
     },
@@ -51366,6 +51366,19 @@
       "rank": 1451
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1452
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -51373,10 +51386,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1452
+      "rank": 1453
     },
     {
       "name": "shuoqian2008",
@@ -51389,7 +51402,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1453
+      "rank": 1454
     },
     {
       "name": "Arkaaa",
@@ -51402,7 +51415,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1454
+      "rank": 1455
     },
     {
       "name": "Velin",
@@ -51415,7 +51428,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1455
+      "rank": 1456
     },
     {
       "name": "jumpstyl3",
@@ -51428,7 +51441,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1456
+      "rank": 1457
     },
     {
       "name": "ChillingK",
@@ -51441,7 +51454,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1457
+      "rank": 1458
     },
     {
       "name": "shutiao",
@@ -51454,7 +51467,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1458
+      "rank": 1459
     },
     {
       "name": "badabomchik",
@@ -51465,20 +51478,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1459
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1460
     },
@@ -51491,7 +51491,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1461
     },
@@ -52016,6 +52016,19 @@
       "rank": 1501
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1502
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -52023,10 +52036,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1502
+      "rank": 1503
     },
     {
       "name": "shuoqian2008",
@@ -52039,7 +52052,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1503
+      "rank": 1504
     },
     {
       "name": "Arkaaa",
@@ -52052,7 +52065,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1504
+      "rank": 1505
     },
     {
       "name": "Velin",
@@ -52065,7 +52078,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1505
+      "rank": 1506
     },
     {
       "name": "jumpstyl3",
@@ -52078,7 +52091,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1506
+      "rank": 1507
     },
     {
       "name": "ChillingK",
@@ -52091,7 +52104,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1507
+      "rank": 1508
     },
     {
       "name": "shutiao",
@@ -52104,7 +52117,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1508
+      "rank": 1509
     },
     {
       "name": "badabomchik",
@@ -52115,20 +52128,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1509
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1510
     },
@@ -52141,7 +52141,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1511
     },
@@ -52666,6 +52666,19 @@
       "rank": 1551
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1552
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -52673,10 +52686,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1552
+      "rank": 1553
     },
     {
       "name": "shuoqian2008",
@@ -52689,7 +52702,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1553
+      "rank": 1554
     },
     {
       "name": "Arkaaa",
@@ -52702,7 +52715,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1554
+      "rank": 1555
     },
     {
       "name": "Velin",
@@ -52715,7 +52728,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1555
+      "rank": 1556
     },
     {
       "name": "jumpstyl3",
@@ -52728,7 +52741,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1556
+      "rank": 1557
     },
     {
       "name": "ChillingK",
@@ -52741,7 +52754,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1557
+      "rank": 1558
     },
     {
       "name": "shutiao",
@@ -52754,7 +52767,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1558
+      "rank": 1559
     },
     {
       "name": "badabomchik",
@@ -52765,20 +52778,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1559
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1560
     },
@@ -52791,7 +52791,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1561
     },
@@ -53316,6 +53316,19 @@
       "rank": 1601
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1602
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -53323,10 +53336,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1602
+      "rank": 1603
     },
     {
       "name": "shuoqian2008",
@@ -53339,7 +53352,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1603
+      "rank": 1604
     },
     {
       "name": "Arkaaa",
@@ -53352,7 +53365,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1604
+      "rank": 1605
     },
     {
       "name": "Velin",
@@ -53365,7 +53378,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1605
+      "rank": 1606
     },
     {
       "name": "jumpstyl3",
@@ -53378,7 +53391,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1606
+      "rank": 1607
     },
     {
       "name": "ChillingK",
@@ -53391,7 +53404,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1607
+      "rank": 1608
     },
     {
       "name": "shutiao",
@@ -53404,7 +53417,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1608
+      "rank": 1609
     },
     {
       "name": "badabomchik",
@@ -53415,20 +53428,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1609
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1610
     },
@@ -53441,7 +53441,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1611
     },
@@ -53966,6 +53966,19 @@
       "rank": 1651
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1652
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -53973,10 +53986,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1652
+      "rank": 1653
     },
     {
       "name": "shuoqian2008",
@@ -53989,7 +54002,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1653
+      "rank": 1654
     },
     {
       "name": "Arkaaa",
@@ -54002,7 +54015,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1654
+      "rank": 1655
     },
     {
       "name": "Velin",
@@ -54015,7 +54028,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1655
+      "rank": 1656
     },
     {
       "name": "jumpstyl3",
@@ -54028,7 +54041,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1656
+      "rank": 1657
     },
     {
       "name": "ChillingK",
@@ -54041,7 +54054,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1657
+      "rank": 1658
     },
     {
       "name": "shutiao",
@@ -54054,7 +54067,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1658
+      "rank": 1659
     },
     {
       "name": "badabomchik",
@@ -54065,20 +54078,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1659
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1660
     },
@@ -54091,7 +54091,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1661
     },
@@ -54616,6 +54616,19 @@
       "rank": 1701
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1702
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -54623,10 +54636,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1702
+      "rank": 1703
     },
     {
       "name": "shuoqian2008",
@@ -54639,7 +54652,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1703
+      "rank": 1704
     },
     {
       "name": "Arkaaa",
@@ -54652,7 +54665,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1704
+      "rank": 1705
     },
     {
       "name": "Velin",
@@ -54665,7 +54678,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1705
+      "rank": 1706
     },
     {
       "name": "jumpstyl3",
@@ -54678,7 +54691,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1706
+      "rank": 1707
     },
     {
       "name": "ChillingK",
@@ -54691,7 +54704,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1707
+      "rank": 1708
     },
     {
       "name": "shutiao",
@@ -54704,7 +54717,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1708
+      "rank": 1709
     },
     {
       "name": "badabomchik",
@@ -54715,20 +54728,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1709
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1710
     },
@@ -54741,7 +54741,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1711
     },
@@ -55266,6 +55266,19 @@
       "rank": 1751
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1752
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -55273,10 +55286,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1752
+      "rank": 1753
     },
     {
       "name": "shuoqian2008",
@@ -55289,7 +55302,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1753
+      "rank": 1754
     },
     {
       "name": "Arkaaa",
@@ -55302,7 +55315,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1754
+      "rank": 1755
     },
     {
       "name": "Velin",
@@ -55315,7 +55328,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1755
+      "rank": 1756
     },
     {
       "name": "jumpstyl3",
@@ -55328,7 +55341,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1756
+      "rank": 1757
     },
     {
       "name": "ChillingK",
@@ -55341,7 +55354,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1757
+      "rank": 1758
     },
     {
       "name": "shutiao",
@@ -55354,7 +55367,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1758
+      "rank": 1759
     },
     {
       "name": "badabomchik",
@@ -55365,20 +55378,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1759
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1760
     },
@@ -55391,7 +55391,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1761
     },
@@ -55916,6 +55916,19 @@
       "rank": 1801
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1802
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -55923,10 +55936,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1802
+      "rank": 1803
     },
     {
       "name": "shuoqian2008",
@@ -55939,7 +55952,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1803
+      "rank": 1804
     },
     {
       "name": "Arkaaa",
@@ -55952,7 +55965,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1804
+      "rank": 1805
     },
     {
       "name": "Velin",
@@ -55965,7 +55978,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1805
+      "rank": 1806
     },
     {
       "name": "jumpstyl3",
@@ -55978,7 +55991,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1806
+      "rank": 1807
     },
     {
       "name": "ChillingK",
@@ -55991,7 +56004,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1807
+      "rank": 1808
     },
     {
       "name": "shutiao",
@@ -56004,7 +56017,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1808
+      "rank": 1809
     },
     {
       "name": "badabomchik",
@@ -56015,20 +56028,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1809
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1810
     },
@@ -56041,7 +56041,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1811
     },
@@ -56566,6 +56566,19 @@
       "rank": 1851
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1852
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -56573,10 +56586,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1852
+      "rank": 1853
     },
     {
       "name": "shuoqian2008",
@@ -56589,7 +56602,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1853
+      "rank": 1854
     },
     {
       "name": "Arkaaa",
@@ -56602,7 +56615,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1854
+      "rank": 1855
     },
     {
       "name": "Velin",
@@ -56615,7 +56628,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1855
+      "rank": 1856
     },
     {
       "name": "jumpstyl3",
@@ -56628,7 +56641,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1856
+      "rank": 1857
     },
     {
       "name": "ChillingK",
@@ -56641,7 +56654,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1857
+      "rank": 1858
     },
     {
       "name": "shutiao",
@@ -56654,7 +56667,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1858
+      "rank": 1859
     },
     {
       "name": "badabomchik",
@@ -56665,20 +56678,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1859
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1860
     },
@@ -56691,7 +56691,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1861
     },
@@ -57216,6 +57216,19 @@
       "rank": 1901
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1902
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -57223,10 +57236,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1902
+      "rank": 1903
     },
     {
       "name": "shuoqian2008",
@@ -57239,7 +57252,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1903
+      "rank": 1904
     },
     {
       "name": "Arkaaa",
@@ -57252,7 +57265,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1904
+      "rank": 1905
     },
     {
       "name": "Velin",
@@ -57265,7 +57278,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1905
+      "rank": 1906
     },
     {
       "name": "jumpstyl3",
@@ -57278,7 +57291,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1906
+      "rank": 1907
     },
     {
       "name": "ChillingK",
@@ -57291,7 +57304,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1907
+      "rank": 1908
     },
     {
       "name": "shutiao",
@@ -57304,7 +57317,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1908
+      "rank": 1909
     },
     {
       "name": "badabomchik",
@@ -57315,20 +57328,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1909
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1910
     },
@@ -57341,7 +57341,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1911
     },
@@ -57866,6 +57866,19 @@
       "rank": 1951
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 1952
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -57873,10 +57886,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1952
+      "rank": 1953
     },
     {
       "name": "shuoqian2008",
@@ -57889,7 +57902,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1953
+      "rank": 1954
     },
     {
       "name": "Arkaaa",
@@ -57902,7 +57915,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1954
+      "rank": 1955
     },
     {
       "name": "Velin",
@@ -57915,7 +57928,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1955
+      "rank": 1956
     },
     {
       "name": "jumpstyl3",
@@ -57928,7 +57941,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1956
+      "rank": 1957
     },
     {
       "name": "ChillingK",
@@ -57941,7 +57954,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1957
+      "rank": 1958
     },
     {
       "name": "shutiao",
@@ -57954,7 +57967,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 1958
+      "rank": 1959
     },
     {
       "name": "badabomchik",
@@ -57965,20 +57978,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 1959
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1960
     },
@@ -57991,7 +57991,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 1961
     },
@@ -58516,6 +58516,19 @@
       "rank": 2001
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2002
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -58523,10 +58536,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2002
+      "rank": 2003
     },
     {
       "name": "shuoqian2008",
@@ -58539,7 +58552,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2003
+      "rank": 2004
     },
     {
       "name": "Arkaaa",
@@ -58552,7 +58565,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2004
+      "rank": 2005
     },
     {
       "name": "Velin",
@@ -58565,7 +58578,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2005
+      "rank": 2006
     },
     {
       "name": "jumpstyl3",
@@ -58578,7 +58591,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2006
+      "rank": 2007
     },
     {
       "name": "ChillingK",
@@ -58591,7 +58604,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2007
+      "rank": 2008
     },
     {
       "name": "shutiao",
@@ -58604,7 +58617,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2008
+      "rank": 2009
     },
     {
       "name": "badabomchik",
@@ -58615,20 +58628,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2009
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2010
     },
@@ -58641,7 +58641,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2011
     },
@@ -59166,6 +59166,19 @@
       "rank": 2051
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2052
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -59173,10 +59186,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2052
+      "rank": 2053
     },
     {
       "name": "shuoqian2008",
@@ -59189,7 +59202,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2053
+      "rank": 2054
     },
     {
       "name": "Arkaaa",
@@ -59202,7 +59215,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2054
+      "rank": 2055
     },
     {
       "name": "Velin",
@@ -59215,7 +59228,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2055
+      "rank": 2056
     },
     {
       "name": "jumpstyl3",
@@ -59228,7 +59241,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2056
+      "rank": 2057
     },
     {
       "name": "ChillingK",
@@ -59241,7 +59254,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2057
+      "rank": 2058
     },
     {
       "name": "shutiao",
@@ -59254,7 +59267,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2058
+      "rank": 2059
     },
     {
       "name": "badabomchik",
@@ -59265,20 +59278,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2059
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2060
     },
@@ -59291,7 +59291,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2061
     },
@@ -59816,6 +59816,19 @@
       "rank": 2101
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2102
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -59823,10 +59836,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2102
+      "rank": 2103
     },
     {
       "name": "shuoqian2008",
@@ -59839,7 +59852,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2103
+      "rank": 2104
     },
     {
       "name": "Arkaaa",
@@ -59852,7 +59865,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2104
+      "rank": 2105
     },
     {
       "name": "Velin",
@@ -59865,7 +59878,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2105
+      "rank": 2106
     },
     {
       "name": "jumpstyl3",
@@ -59878,7 +59891,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2106
+      "rank": 2107
     },
     {
       "name": "ChillingK",
@@ -59891,7 +59904,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2107
+      "rank": 2108
     },
     {
       "name": "shutiao",
@@ -59904,7 +59917,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2108
+      "rank": 2109
     },
     {
       "name": "badabomchik",
@@ -59915,20 +59928,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2109
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2110
     },
@@ -59941,7 +59941,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2111
     },
@@ -60466,6 +60466,19 @@
       "rank": 2151
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2152
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -60473,10 +60486,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2152
+      "rank": 2153
     },
     {
       "name": "shuoqian2008",
@@ -60489,7 +60502,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2153
+      "rank": 2154
     },
     {
       "name": "Arkaaa",
@@ -60502,7 +60515,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2154
+      "rank": 2155
     },
     {
       "name": "Velin",
@@ -60515,7 +60528,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2155
+      "rank": 2156
     },
     {
       "name": "jumpstyl3",
@@ -60528,7 +60541,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2156
+      "rank": 2157
     },
     {
       "name": "ChillingK",
@@ -60541,7 +60554,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2157
+      "rank": 2158
     },
     {
       "name": "shutiao",
@@ -60554,7 +60567,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2158
+      "rank": 2159
     },
     {
       "name": "badabomchik",
@@ -60565,20 +60578,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2159
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2160
     },
@@ -60591,7 +60591,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2161
     },
@@ -61116,6 +61116,19 @@
       "rank": 2201
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2202
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -61123,10 +61136,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2202
+      "rank": 2203
     },
     {
       "name": "shuoqian2008",
@@ -61139,7 +61152,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2203
+      "rank": 2204
     },
     {
       "name": "Arkaaa",
@@ -61152,7 +61165,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2204
+      "rank": 2205
     },
     {
       "name": "Velin",
@@ -61165,7 +61178,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2205
+      "rank": 2206
     },
     {
       "name": "jumpstyl3",
@@ -61178,7 +61191,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2206
+      "rank": 2207
     },
     {
       "name": "ChillingK",
@@ -61191,7 +61204,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2207
+      "rank": 2208
     },
     {
       "name": "shutiao",
@@ -61204,7 +61217,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2208
+      "rank": 2209
     },
     {
       "name": "badabomchik",
@@ -61215,20 +61228,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2209
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2210
     },
@@ -61241,7 +61241,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2211
     },
@@ -61766,6 +61766,19 @@
       "rank": 2251
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2252
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -61773,10 +61786,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2252
+      "rank": 2253
     },
     {
       "name": "shuoqian2008",
@@ -61789,7 +61802,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2253
+      "rank": 2254
     },
     {
       "name": "Arkaaa",
@@ -61802,7 +61815,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2254
+      "rank": 2255
     },
     {
       "name": "Velin",
@@ -61815,7 +61828,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2255
+      "rank": 2256
     },
     {
       "name": "jumpstyl3",
@@ -61828,7 +61841,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2256
+      "rank": 2257
     },
     {
       "name": "ChillingK",
@@ -61841,7 +61854,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2257
+      "rank": 2258
     },
     {
       "name": "shutiao",
@@ -61854,7 +61867,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2258
+      "rank": 2259
     },
     {
       "name": "badabomchik",
@@ -61865,20 +61878,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2259
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2260
     },
@@ -61891,7 +61891,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2261
     },
@@ -62416,6 +62416,19 @@
       "rank": 2301
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2302
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -62423,10 +62436,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2302
+      "rank": 2303
     },
     {
       "name": "shuoqian2008",
@@ -62439,7 +62452,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2303
+      "rank": 2304
     },
     {
       "name": "Arkaaa",
@@ -62452,7 +62465,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2304
+      "rank": 2305
     },
     {
       "name": "Velin",
@@ -62465,7 +62478,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2305
+      "rank": 2306
     },
     {
       "name": "jumpstyl3",
@@ -62478,7 +62491,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2306
+      "rank": 2307
     },
     {
       "name": "ChillingK",
@@ -62491,7 +62504,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2307
+      "rank": 2308
     },
     {
       "name": "shutiao",
@@ -62504,7 +62517,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2308
+      "rank": 2309
     },
     {
       "name": "badabomchik",
@@ -62515,20 +62528,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2309
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2310
     },
@@ -62541,7 +62541,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2311
     },
@@ -63066,6 +63066,19 @@
       "rank": 2351
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2352
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -63073,10 +63086,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2352
+      "rank": 2353
     },
     {
       "name": "shuoqian2008",
@@ -63089,7 +63102,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2353
+      "rank": 2354
     },
     {
       "name": "Arkaaa",
@@ -63102,7 +63115,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2354
+      "rank": 2355
     },
     {
       "name": "Velin",
@@ -63115,7 +63128,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2355
+      "rank": 2356
     },
     {
       "name": "jumpstyl3",
@@ -63128,7 +63141,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2356
+      "rank": 2357
     },
     {
       "name": "ChillingK",
@@ -63141,7 +63154,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2357
+      "rank": 2358
     },
     {
       "name": "shutiao",
@@ -63154,7 +63167,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2358
+      "rank": 2359
     },
     {
       "name": "badabomchik",
@@ -63165,20 +63178,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2359
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2360
     },
@@ -63191,7 +63191,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2361
     },
@@ -63716,6 +63716,19 @@
       "rank": 2401
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2402
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -63723,10 +63736,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2402
+      "rank": 2403
     },
     {
       "name": "shuoqian2008",
@@ -63739,7 +63752,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2403
+      "rank": 2404
     },
     {
       "name": "Arkaaa",
@@ -63752,7 +63765,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2404
+      "rank": 2405
     },
     {
       "name": "Velin",
@@ -63765,7 +63778,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2405
+      "rank": 2406
     },
     {
       "name": "jumpstyl3",
@@ -63778,7 +63791,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2406
+      "rank": 2407
     },
     {
       "name": "ChillingK",
@@ -63791,7 +63804,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2407
+      "rank": 2408
     },
     {
       "name": "shutiao",
@@ -63804,7 +63817,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2408
+      "rank": 2409
     },
     {
       "name": "badabomchik",
@@ -63815,20 +63828,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2409
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2410
     },
@@ -63841,7 +63841,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2411
     },
@@ -64366,6 +64366,19 @@
       "rank": 2451
     },
     {
+      "name": "AuroraMi",
+      "dps": 634,
+      "burst": 509,
+      "ehp": 9447,
+      "score": 1011.06,
+      "tank": "SS",
+      "hybrid": "S",
+      "dpst": "SSS",
+      "overall": "SSS",
+      "cls": "mage",
+      "rank": 2452
+    },
+    {
       "name": "Zeviii",
       "dps": 647,
       "burst": 504,
@@ -64373,10 +64386,10 @@
       "score": 1010.88,
       "tank": "SS",
       "hybrid": "SS",
-      "dpst": "SSS",
+      "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2452
+      "rank": 2453
     },
     {
       "name": "shuoqian2008",
@@ -64389,7 +64402,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2453
+      "rank": 2454
     },
     {
       "name": "Arkaaa",
@@ -64402,7 +64415,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2454
+      "rank": 2455
     },
     {
       "name": "Velin",
@@ -64415,7 +64428,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2455
+      "rank": 2456
     },
     {
       "name": "jumpstyl3",
@@ -64428,7 +64441,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2456
+      "rank": 2457
     },
     {
       "name": "ChillingK",
@@ -64441,7 +64454,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2457
+      "rank": 2458
     },
     {
       "name": "shutiao",
@@ -64454,7 +64467,7 @@
       "dpst": "SS",
       "overall": "SSS",
       "cls": "mage",
-      "rank": 2458
+      "rank": 2459
     },
     {
       "name": "badabomchik",
@@ -64465,20 +64478,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
-      "cls": "mage",
-      "rank": 2459
-    },
-    {
-      "name": "AuroraMi",
-      "dps": 635,
-      "burst": 503,
-      "ehp": 9123,
-      "score": 1009.09,
-      "tank": "SS",
-      "hybrid": "S",
-      "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2460
     },
@@ -64491,7 +64491,7 @@
       "tank": "SS",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "SSS",
+      "overall": "SS",
       "cls": "mage",
       "rank": 2461
     },
