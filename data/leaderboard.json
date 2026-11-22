@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-11-22T06:15:02.432Z",
+  "fetchedAt": "2026-11-22T19:25:18.023Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -445,6 +445,19 @@
       "rank": 34
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 35
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -455,7 +468,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "Bennni",
@@ -468,7 +481,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "SpaceCreated",
@@ -479,19 +492,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 37
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 38
@@ -1095,6 +1095,19 @@
       "rank": 84
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 85
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -1105,7 +1118,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 85
+      "rank": 86
     },
     {
       "name": "Bennni",
@@ -1118,7 +1131,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 86
+      "rank": 87
     },
     {
       "name": "SpaceCreated",
@@ -1129,19 +1142,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 87
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 88
@@ -1745,6 +1745,19 @@
       "rank": 134
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 135
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -1755,7 +1768,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 135
+      "rank": 136
     },
     {
       "name": "Bennni",
@@ -1768,7 +1781,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 136
+      "rank": 137
     },
     {
       "name": "SpaceCreated",
@@ -1779,19 +1792,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 137
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 138
@@ -2395,6 +2395,19 @@
       "rank": 184
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 185
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -2405,7 +2418,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 185
+      "rank": 186
     },
     {
       "name": "Bennni",
@@ -2418,7 +2431,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 186
+      "rank": 187
     },
     {
       "name": "SpaceCreated",
@@ -2429,19 +2442,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 187
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 188
@@ -3045,6 +3045,19 @@
       "rank": 234
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 235
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -3055,7 +3068,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 235
+      "rank": 236
     },
     {
       "name": "Bennni",
@@ -3068,7 +3081,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 236
+      "rank": 237
     },
     {
       "name": "SpaceCreated",
@@ -3079,19 +3092,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 237
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 238
@@ -3695,6 +3695,19 @@
       "rank": 284
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 285
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -3705,7 +3718,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 285
+      "rank": 286
     },
     {
       "name": "Bennni",
@@ -3718,7 +3731,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 286
+      "rank": 287
     },
     {
       "name": "SpaceCreated",
@@ -3729,19 +3742,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 287
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 288
@@ -4345,6 +4345,19 @@
       "rank": 334
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 335
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -4355,7 +4368,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 335
+      "rank": 336
     },
     {
       "name": "Bennni",
@@ -4368,7 +4381,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 336
+      "rank": 337
     },
     {
       "name": "SpaceCreated",
@@ -4379,19 +4392,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 337
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 338
@@ -4995,6 +4995,19 @@
       "rank": 384
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 385
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -5005,7 +5018,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 385
+      "rank": 386
     },
     {
       "name": "Bennni",
@@ -5018,7 +5031,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 386
+      "rank": 387
     },
     {
       "name": "SpaceCreated",
@@ -5029,19 +5042,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 387
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 388
@@ -5645,6 +5645,19 @@
       "rank": 434
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 435
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -5655,7 +5668,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 435
+      "rank": 436
     },
     {
       "name": "Bennni",
@@ -5668,7 +5681,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 436
+      "rank": 437
     },
     {
       "name": "SpaceCreated",
@@ -5679,19 +5692,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 437
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 438
@@ -6295,6 +6295,19 @@
       "rank": 484
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 485
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -6305,7 +6318,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 485
+      "rank": 486
     },
     {
       "name": "Bennni",
@@ -6318,7 +6331,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 486
+      "rank": 487
     },
     {
       "name": "SpaceCreated",
@@ -6329,19 +6342,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 487
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 488
@@ -6945,6 +6945,19 @@
       "rank": 534
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 535
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -6955,7 +6968,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 535
+      "rank": 536
     },
     {
       "name": "Bennni",
@@ -6968,7 +6981,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 536
+      "rank": 537
     },
     {
       "name": "SpaceCreated",
@@ -6979,19 +6992,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 537
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 538
@@ -7595,6 +7595,19 @@
       "rank": 584
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 585
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -7605,7 +7618,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 585
+      "rank": 586
     },
     {
       "name": "Bennni",
@@ -7618,7 +7631,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 586
+      "rank": 587
     },
     {
       "name": "SpaceCreated",
@@ -7629,19 +7642,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 587
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 588
@@ -8245,6 +8245,19 @@
       "rank": 634
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 635
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -8255,7 +8268,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 635
+      "rank": 636
     },
     {
       "name": "Bennni",
@@ -8268,7 +8281,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 636
+      "rank": 637
     },
     {
       "name": "SpaceCreated",
@@ -8279,19 +8292,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 637
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 638
@@ -8895,6 +8895,19 @@
       "rank": 684
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 685
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -8905,7 +8918,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 685
+      "rank": 686
     },
     {
       "name": "Bennni",
@@ -8918,7 +8931,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 686
+      "rank": 687
     },
     {
       "name": "SpaceCreated",
@@ -8929,19 +8942,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 687
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 688
@@ -9545,6 +9545,19 @@
       "rank": 734
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 735
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -9555,7 +9568,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 735
+      "rank": 736
     },
     {
       "name": "Bennni",
@@ -9568,7 +9581,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 736
+      "rank": 737
     },
     {
       "name": "SpaceCreated",
@@ -9579,19 +9592,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 737
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 738
@@ -10195,6 +10195,19 @@
       "rank": 784
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 785
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -10205,7 +10218,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 785
+      "rank": 786
     },
     {
       "name": "Bennni",
@@ -10218,7 +10231,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 786
+      "rank": 787
     },
     {
       "name": "SpaceCreated",
@@ -10229,19 +10242,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 787
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 788
@@ -10845,6 +10845,19 @@
       "rank": 834
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 835
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -10855,7 +10868,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 835
+      "rank": 836
     },
     {
       "name": "Bennni",
@@ -10868,7 +10881,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 836
+      "rank": 837
     },
     {
       "name": "SpaceCreated",
@@ -10879,19 +10892,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 837
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 838
@@ -11495,6 +11495,19 @@
       "rank": 884
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 885
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -11505,7 +11518,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 885
+      "rank": 886
     },
     {
       "name": "Bennni",
@@ -11518,7 +11531,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 886
+      "rank": 887
     },
     {
       "name": "SpaceCreated",
@@ -11529,19 +11542,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 887
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 888
@@ -12145,6 +12145,19 @@
       "rank": 934
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 935
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -12155,7 +12168,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 935
+      "rank": 936
     },
     {
       "name": "Bennni",
@@ -12168,7 +12181,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 936
+      "rank": 937
     },
     {
       "name": "SpaceCreated",
@@ -12179,19 +12192,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 937
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 938
@@ -12795,6 +12795,19 @@
       "rank": 984
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 985
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -12805,7 +12818,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 985
+      "rank": 986
     },
     {
       "name": "Bennni",
@@ -12818,7 +12831,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 986
+      "rank": 987
     },
     {
       "name": "SpaceCreated",
@@ -12829,19 +12842,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 987
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 988
@@ -13445,6 +13445,19 @@
       "rank": 1034
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1035
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -13455,7 +13468,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1035
+      "rank": 1036
     },
     {
       "name": "Bennni",
@@ -13468,7 +13481,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1036
+      "rank": 1037
     },
     {
       "name": "SpaceCreated",
@@ -13479,19 +13492,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1037
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1038
@@ -14095,6 +14095,19 @@
       "rank": 1084
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1085
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -14105,7 +14118,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1085
+      "rank": 1086
     },
     {
       "name": "Bennni",
@@ -14118,7 +14131,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1086
+      "rank": 1087
     },
     {
       "name": "SpaceCreated",
@@ -14129,19 +14142,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1087
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1088
@@ -14745,6 +14745,19 @@
       "rank": 1134
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1135
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -14755,7 +14768,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1135
+      "rank": 1136
     },
     {
       "name": "Bennni",
@@ -14768,7 +14781,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1136
+      "rank": 1137
     },
     {
       "name": "SpaceCreated",
@@ -14779,19 +14792,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1137
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1138
@@ -15395,6 +15395,19 @@
       "rank": 1184
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1185
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -15405,7 +15418,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1185
+      "rank": 1186
     },
     {
       "name": "Bennni",
@@ -15418,7 +15431,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1186
+      "rank": 1187
     },
     {
       "name": "SpaceCreated",
@@ -15429,19 +15442,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1187
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1188
@@ -16045,6 +16045,19 @@
       "rank": 1234
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1235
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -16055,7 +16068,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1235
+      "rank": 1236
     },
     {
       "name": "Bennni",
@@ -16068,7 +16081,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1236
+      "rank": 1237
     },
     {
       "name": "SpaceCreated",
@@ -16079,19 +16092,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1237
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1238
@@ -16695,6 +16695,19 @@
       "rank": 1284
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1285
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -16705,7 +16718,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1285
+      "rank": 1286
     },
     {
       "name": "Bennni",
@@ -16718,7 +16731,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1286
+      "rank": 1287
     },
     {
       "name": "SpaceCreated",
@@ -16729,19 +16742,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1287
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1288
@@ -17345,6 +17345,19 @@
       "rank": 1334
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1335
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -17355,7 +17368,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1335
+      "rank": 1336
     },
     {
       "name": "Bennni",
@@ -17368,7 +17381,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1336
+      "rank": 1337
     },
     {
       "name": "SpaceCreated",
@@ -17379,19 +17392,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1337
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1338
@@ -17995,6 +17995,19 @@
       "rank": 1384
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1385
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -18005,7 +18018,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1385
+      "rank": 1386
     },
     {
       "name": "Bennni",
@@ -18018,7 +18031,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1386
+      "rank": 1387
     },
     {
       "name": "SpaceCreated",
@@ -18029,19 +18042,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1387
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1388
@@ -18645,6 +18645,19 @@
       "rank": 1434
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1435
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -18655,7 +18668,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1435
+      "rank": 1436
     },
     {
       "name": "Bennni",
@@ -18668,7 +18681,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1436
+      "rank": 1437
     },
     {
       "name": "SpaceCreated",
@@ -18679,19 +18692,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1437
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1438
@@ -19295,6 +19295,19 @@
       "rank": 1484
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1485
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -19305,7 +19318,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1485
+      "rank": 1486
     },
     {
       "name": "Bennni",
@@ -19318,7 +19331,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1486
+      "rank": 1487
     },
     {
       "name": "SpaceCreated",
@@ -19329,19 +19342,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1487
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1488
@@ -19945,6 +19945,19 @@
       "rank": 1534
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1535
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -19955,7 +19968,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1535
+      "rank": 1536
     },
     {
       "name": "Bennni",
@@ -19968,7 +19981,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1536
+      "rank": 1537
     },
     {
       "name": "SpaceCreated",
@@ -19979,19 +19992,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1537
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1538
@@ -20595,6 +20595,19 @@
       "rank": 1584
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1585
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -20605,7 +20618,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1585
+      "rank": 1586
     },
     {
       "name": "Bennni",
@@ -20618,7 +20631,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1586
+      "rank": 1587
     },
     {
       "name": "SpaceCreated",
@@ -20629,19 +20642,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1587
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1588
@@ -21245,6 +21245,19 @@
       "rank": 1634
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1635
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -21255,7 +21268,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1635
+      "rank": 1636
     },
     {
       "name": "Bennni",
@@ -21268,7 +21281,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1636
+      "rank": 1637
     },
     {
       "name": "SpaceCreated",
@@ -21279,19 +21292,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1637
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1638
@@ -21895,6 +21895,19 @@
       "rank": 1684
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1685
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -21905,7 +21918,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1685
+      "rank": 1686
     },
     {
       "name": "Bennni",
@@ -21918,7 +21931,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1686
+      "rank": 1687
     },
     {
       "name": "SpaceCreated",
@@ -21929,19 +21942,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1687
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1688
@@ -22545,6 +22545,19 @@
       "rank": 1734
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1735
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -22555,7 +22568,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1735
+      "rank": 1736
     },
     {
       "name": "Bennni",
@@ -22568,7 +22581,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1736
+      "rank": 1737
     },
     {
       "name": "SpaceCreated",
@@ -22579,19 +22592,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1737
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1738
@@ -23195,6 +23195,19 @@
       "rank": 1784
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1785
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -23205,7 +23218,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1785
+      "rank": 1786
     },
     {
       "name": "Bennni",
@@ -23218,7 +23231,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1786
+      "rank": 1787
     },
     {
       "name": "SpaceCreated",
@@ -23229,19 +23242,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1787
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1788
@@ -23845,6 +23845,19 @@
       "rank": 1834
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1835
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -23855,7 +23868,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1835
+      "rank": 1836
     },
     {
       "name": "Bennni",
@@ -23868,7 +23881,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1836
+      "rank": 1837
     },
     {
       "name": "SpaceCreated",
@@ -23879,19 +23892,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1837
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1838
@@ -24495,6 +24495,19 @@
       "rank": 1884
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1885
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -24505,7 +24518,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1885
+      "rank": 1886
     },
     {
       "name": "Bennni",
@@ -24518,7 +24531,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1886
+      "rank": 1887
     },
     {
       "name": "SpaceCreated",
@@ -24529,19 +24542,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1887
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1888
@@ -25145,6 +25145,19 @@
       "rank": 1934
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1935
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -25155,7 +25168,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1935
+      "rank": 1936
     },
     {
       "name": "Bennni",
@@ -25168,7 +25181,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1936
+      "rank": 1937
     },
     {
       "name": "SpaceCreated",
@@ -25179,19 +25192,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1937
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1938
@@ -25795,6 +25795,19 @@
       "rank": 1984
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 1985
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -25805,7 +25818,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1985
+      "rank": 1986
     },
     {
       "name": "Bennni",
@@ -25818,7 +25831,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 1986
+      "rank": 1987
     },
     {
       "name": "SpaceCreated",
@@ -25829,19 +25842,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 1987
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 1988
@@ -26445,6 +26445,19 @@
       "rank": 2034
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2035
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -26455,7 +26468,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2035
+      "rank": 2036
     },
     {
       "name": "Bennni",
@@ -26468,7 +26481,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2036
+      "rank": 2037
     },
     {
       "name": "SpaceCreated",
@@ -26479,19 +26492,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2037
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2038
@@ -27095,6 +27095,19 @@
       "rank": 2084
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2085
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -27105,7 +27118,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2085
+      "rank": 2086
     },
     {
       "name": "Bennni",
@@ -27118,7 +27131,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2086
+      "rank": 2087
     },
     {
       "name": "SpaceCreated",
@@ -27129,19 +27142,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2087
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2088
@@ -27745,6 +27745,19 @@
       "rank": 2134
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2135
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -27755,7 +27768,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2135
+      "rank": 2136
     },
     {
       "name": "Bennni",
@@ -27768,7 +27781,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2136
+      "rank": 2137
     },
     {
       "name": "SpaceCreated",
@@ -27779,19 +27792,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2137
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2138
@@ -28395,6 +28395,19 @@
       "rank": 2184
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2185
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -28405,7 +28418,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2185
+      "rank": 2186
     },
     {
       "name": "Bennni",
@@ -28418,7 +28431,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2186
+      "rank": 2187
     },
     {
       "name": "SpaceCreated",
@@ -28429,19 +28442,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2187
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2188
@@ -29045,6 +29045,19 @@
       "rank": 2234
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2235
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -29055,7 +29068,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2235
+      "rank": 2236
     },
     {
       "name": "Bennni",
@@ -29068,7 +29081,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2236
+      "rank": 2237
     },
     {
       "name": "SpaceCreated",
@@ -29079,19 +29092,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2237
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2238
@@ -29695,6 +29695,19 @@
       "rank": 2284
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2285
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -29705,7 +29718,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2285
+      "rank": 2286
     },
     {
       "name": "Bennni",
@@ -29718,7 +29731,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2286
+      "rank": 2287
     },
     {
       "name": "SpaceCreated",
@@ -29729,19 +29742,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2287
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2288
@@ -30345,6 +30345,19 @@
       "rank": 2334
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2335
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -30355,7 +30368,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2335
+      "rank": 2336
     },
     {
       "name": "Bennni",
@@ -30368,7 +30381,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2336
+      "rank": 2337
     },
     {
       "name": "SpaceCreated",
@@ -30379,19 +30392,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2337
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2338
@@ -30995,6 +30995,19 @@
       "rank": 2384
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2385
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -31005,7 +31018,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2385
+      "rank": 2386
     },
     {
       "name": "Bennni",
@@ -31018,7 +31031,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2386
+      "rank": 2387
     },
     {
       "name": "SpaceCreated",
@@ -31029,19 +31042,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2387
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2388
@@ -31645,6 +31645,19 @@
       "rank": 2434
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2435
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -31655,7 +31668,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2435
+      "rank": 2436
     },
     {
       "name": "Bennni",
@@ -31668,7 +31681,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2436
+      "rank": 2437
     },
     {
       "name": "SpaceCreated",
@@ -31679,19 +31692,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2437
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2438
@@ -32295,6 +32295,19 @@
       "rank": 2484
     },
     {
+      "name": "INFlNlTY",
+      "dps": 474,
+      "burst": 380,
+      "ehp": 12894,
+      "score": 1009.44,
+      "tank": "B-",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "S",
+      "cls": "warrior",
+      "rank": 2485
+    },
+    {
       "name": "GoodTankyBoi",
       "dps": 520,
       "burst": 381,
@@ -32305,7 +32318,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2485
+      "rank": 2486
     },
     {
       "name": "Bennni",
@@ -32318,7 +32331,7 @@
       "dpst": "S",
       "overall": "S",
       "cls": "warrior",
-      "rank": 2486
+      "rank": 2487
     },
     {
       "name": "SpaceCreated",
@@ -32329,19 +32342,6 @@
       "tank": "B+",
       "hybrid": "S",
       "dpst": "SS",
-      "overall": "S",
-      "cls": "warrior",
-      "rank": 2487
-    },
-    {
-      "name": "INFlNlTY",
-      "dps": 485,
-      "burst": 389,
-      "ehp": 12108,
-      "score": 1009,
-      "tank": "B-",
-      "hybrid": "SS",
-      "dpst": "S",
       "overall": "S",
       "cls": "warrior",
       "rank": 2488
