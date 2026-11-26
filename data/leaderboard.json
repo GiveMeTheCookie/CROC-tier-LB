@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "fetchedAt": "2026-11-26T08:00:01.299Z",
+  "fetchedAt": "2026-11-26T21:20:32.800Z",
   "rows": [
     {
       "name": "KnightOfFaith",
@@ -65276,6 +65276,19 @@
       "rank": 21
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 22
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -65283,19 +65296,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 22
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -65926,6 +65926,19 @@
       "rank": 71
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 72
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -65933,19 +65946,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 72
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -66576,6 +66576,19 @@
       "rank": 121
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 122
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -66583,19 +66596,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 122
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67226,6 +67226,19 @@
       "rank": 171
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 172
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -67233,19 +67246,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 172
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -67876,6 +67876,19 @@
       "rank": 221
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 222
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -67883,19 +67896,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 222
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -68526,6 +68526,19 @@
       "rank": 271
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 272
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -68533,19 +68546,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 272
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69176,6 +69176,19 @@
       "rank": 321
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 322
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -69183,19 +69196,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 322
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -69826,6 +69826,19 @@
       "rank": 371
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 372
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -69833,19 +69846,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 372
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -70476,6 +70476,19 @@
       "rank": 421
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 422
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -70483,19 +70496,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 422
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71126,6 +71126,19 @@
       "rank": 471
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 472
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -71133,19 +71146,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 472
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -71776,6 +71776,19 @@
       "rank": 521
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 522
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -71783,19 +71796,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 522
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -72426,6 +72426,19 @@
       "rank": 571
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 572
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -72433,19 +72446,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 572
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73076,6 +73076,19 @@
       "rank": 621
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 622
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -73083,19 +73096,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 622
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -73726,6 +73726,19 @@
       "rank": 671
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 672
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -73733,19 +73746,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 672
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -74376,6 +74376,19 @@
       "rank": 721
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 722
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -74383,19 +74396,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 722
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75026,6 +75026,19 @@
       "rank": 771
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 772
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -75033,19 +75046,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 772
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -75676,6 +75676,19 @@
       "rank": 821
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 822
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -75683,19 +75696,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 822
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -76326,6 +76326,19 @@
       "rank": 871
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 872
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -76333,19 +76346,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 872
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -76976,6 +76976,19 @@
       "rank": 921
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 922
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -76983,19 +76996,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 922
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -77626,6 +77626,19 @@
       "rank": 971
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 972
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -77633,19 +77646,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 972
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78276,6 +78276,19 @@
       "rank": 1021
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1022
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -78283,19 +78296,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1022
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -78926,6 +78926,19 @@
       "rank": 1071
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1072
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -78933,19 +78946,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1072
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -79576,6 +79576,19 @@
       "rank": 1121
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1122
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -79583,19 +79596,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1122
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80226,6 +80226,19 @@
       "rank": 1171
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1172
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -80233,19 +80246,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1172
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -80876,6 +80876,19 @@
       "rank": 1221
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1222
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -80883,19 +80896,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1222
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -81526,6 +81526,19 @@
       "rank": 1271
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1272
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -81533,19 +81546,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1272
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82176,6 +82176,19 @@
       "rank": 1321
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1322
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -82183,19 +82196,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1322
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -82826,6 +82826,19 @@
       "rank": 1371
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1372
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -82833,19 +82846,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1372
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -83476,6 +83476,19 @@
       "rank": 1421
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1422
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -83483,19 +83496,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1422
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84126,6 +84126,19 @@
       "rank": 1471
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1472
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -84133,19 +84146,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1472
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -84776,6 +84776,19 @@
       "rank": 1521
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1522
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -84783,19 +84796,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1522
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -85426,6 +85426,19 @@
       "rank": 1571
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1572
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -85433,19 +85446,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1572
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86076,6 +86076,19 @@
       "rank": 1621
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1622
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -86083,19 +86096,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1622
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -86726,6 +86726,19 @@
       "rank": 1671
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1672
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -86733,19 +86746,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1672
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -87376,6 +87376,19 @@
       "rank": 1721
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1722
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -87383,19 +87396,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1722
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88026,6 +88026,19 @@
       "rank": 1771
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1772
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -88033,19 +88046,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1772
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -88676,6 +88676,19 @@
       "rank": 1821
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1822
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -88683,19 +88696,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1822
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -89326,6 +89326,19 @@
       "rank": 1871
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1872
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -89333,19 +89346,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1872
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -89976,6 +89976,19 @@
       "rank": 1921
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1922
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -89983,19 +89996,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1922
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -90626,6 +90626,19 @@
       "rank": 1971
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 1972
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -90633,19 +90646,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 1972
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91276,6 +91276,19 @@
       "rank": 2021
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2022
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -91283,19 +91296,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2022
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -91926,6 +91926,19 @@
       "rank": 2071
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2072
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -91933,19 +91946,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2072
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -92576,6 +92576,19 @@
       "rank": 2121
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2122
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -92583,19 +92596,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2122
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93226,6 +93226,19 @@
       "rank": 2171
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2172
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -93233,19 +93246,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2172
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -93876,6 +93876,19 @@
       "rank": 2221
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2222
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -93883,19 +93896,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2222
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -94526,6 +94526,19 @@
       "rank": 2271
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2272
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -94533,19 +94546,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2272
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95176,6 +95176,19 @@
       "rank": 2321
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2322
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -95183,19 +95196,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2322
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -95826,6 +95826,19 @@
       "rank": 2371
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2372
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -95833,19 +95846,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2372
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -96476,6 +96476,19 @@
       "rank": 2421
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2422
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -96483,19 +96496,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2422
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
@@ -97126,6 +97126,19 @@
       "rank": 2471
     },
     {
+      "name": "SoughtOut",
+      "dps": 592,
+      "burst": 493,
+      "ehp": 9457,
+      "score": 1010.36,
+      "tank": "SS",
+      "hybrid": "SS",
+      "dpst": "SS",
+      "overall": "SS",
+      "cls": "archer",
+      "rank": 2472
+    },
+    {
       "name": "epexs",
       "dps": 611,
       "burst": 508,
@@ -97133,19 +97146,6 @@
       "score": 1010.01,
       "tank": "S",
       "hybrid": "SSS",
-      "dpst": "SS",
-      "overall": "SS",
-      "cls": "archer",
-      "rank": 2472
-    },
-    {
-      "name": "SoughtOut",
-      "dps": 590,
-      "burst": 491,
-      "ehp": 9430,
-      "score": 1009.83,
-      "tank": "SS",
-      "hybrid": "SS",
       "dpst": "SS",
       "overall": "SS",
       "cls": "archer",
